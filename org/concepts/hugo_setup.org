@@ -1,0 +1,2 @@
+#+hugo_base_dir: ../..
+#+hugo_auto_set_lastmod: t

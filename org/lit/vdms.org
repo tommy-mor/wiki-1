@@ -1,0 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: vdms
+#+title: vdms
+
+asdfasdf
