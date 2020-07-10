@@ -8,6 +8,7 @@ draft = false
 
 ## Hi! {#hi}
 Welcome to my wiki.
-Here, I keep track of all my thoughts and notes.
+
+Here, I track all of my thoughts and notes.
 
 [Feel free to take a look](/posts/).
