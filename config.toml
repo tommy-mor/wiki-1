@@ -1,11 +1,11 @@
 baseURL = "https://wiki.chvatal.com/"
 languageCode = "en-us"
-title = "Jake's Wiki"
+title = "Jacob Chvatal's Wiki"
 theme = "cortex"
 
 [params]
 email = "jakechvatal@gmail.com"
-footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo."
+footer = ""
 
 [markup]
   [markup.goldmark]
