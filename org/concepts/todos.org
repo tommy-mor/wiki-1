@@ -1,9 +1,0 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: todos
-#+title: TODOs
-- tags :: [[file:../lit/vdms.org][vdms ]]
-Org TODOs are interesting.
-They provide us with a way of
-filler filler filler
-test
-i am updating this file

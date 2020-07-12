@@ -1,7 +1,7 @@
 +++
 title = "resume"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-12T19:23:06-04:00
+lastmod = 2020-07-12T19:24:14-04:00
 slug = "resume"
 draft = false
 +++
