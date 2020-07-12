@@ -9,6 +9,7 @@
 You can see how common recruitment tools parse your resume.
 An optimally parsed resume will ease autofilled applications at the least,
 and at best will get your resume to more recruiters at a company.
+
 To do so, you can do the following in any browser with dev tools:
 1. Find a job posting that makes use of [[https://jobs.lever.co][lever]]'s recruiting software (e.g. Coursera).
 2. Progress to the initial lever page.

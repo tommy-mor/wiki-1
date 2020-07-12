@@ -1,7 +1,7 @@
 +++
 title = "resume"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-12T19:24:14-04:00
+lastmod = 2020-07-12T19:28:48-04:00
 slug = "resume"
 draft = false
 +++
@@ -18,6 +18,7 @@ tags
 You can see how common recruitment tools parse your resume.
 An optimally parsed resume will ease autofilled applications at the least,
 and at best will get your resume to more recruiters at a company.
+
 To do so, you can do the following in any browser with dev tools:
 
 1.  Find a job posting that makes use of [lever](https://jobs.lever.co)'s recruiting software (e.g. Coursera).
