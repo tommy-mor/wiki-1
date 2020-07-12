@@ -2,14 +2,16 @@
 #+hugo_slug: resume
 #+title: resume
 
+- tags :: [[file:employment.org][employment]]
+
 * Optimizing Resume
 ** Parsing
 You can see how common recruitment tools parse your resume.
 An optimally parsed resume will ease autofilled applications at the least,
 and at best will get your resume to more recruiters at a company.
 To do so, you can do the following in any browser with dev tools:
-1. Find a job posting that makes use of [[lever.co][lever]]'s recruiting software (e.g. Coursera).
-2. Progress to the initial lever.co page.
+1. Find a job posting that makes use of [[https://jobs.lever.co][lever]]'s recruiting software (e.g. Coursera).
+2. Progress to the initial lever page.
    This page should have a 'jobs.lever.co' domain and fields for basic personal information,
    including resume submission.
 3. Open the developer console and switch to the 'Network' tab.
