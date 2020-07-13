@@ -20,4 +20,4 @@ The repository for [[https://github.com/jakechv/cortex][the template]] contains 
 If you've found an issue with the wiki or would otherwise like to contribute,
 feel free to open a pull request!
 
-That said, these are my personal notes, so don't be offended if I reject the contribution.
+That said, these are my personal notes, so understand if I reject the contribution.
