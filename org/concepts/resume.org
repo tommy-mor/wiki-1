@@ -6,6 +6,9 @@
 
 * Optimizing Resume
 ** Parsing
+:PROPERTIES:
+:ID:       78c664ef-a030-48be-9318-cb2f04540711
+:END:
 You can see how common recruitment tools parse your resume.
 An optimally parsed resume will ease autofilled applications at the least,
 and at best will get your resume to more recruiters at a company.
