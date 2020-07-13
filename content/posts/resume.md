@@ -1,8 +1,8 @@
 +++
-title = "resume"
+title = "Resume"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-12T19:28:48-04:00
-slug = "resume"
+lastmod = 2020-07-12T22:22:56-04:00
+slug = "Resume"
 draft = false
 +++
 
