@@ -1,0 +1,23 @@
+#+TITLE: Wiki
+
+This is my personal wiki, served at [[https://wiki.chvatal.com]].
+I record my thoughts in the /org directory.
+
+This website has been inspired by the following:
+- [[https://wiki.xxiivv.com/site/home.html][Devine Lu Linvega's Blog]]
+- [[https://notes.andymatuschak.org/About_these_notes][Andy Matuschak's Notes]]
+- [[https://tomcritchlow.com/][Tom Critchlow's Site]]
+- [[https://wiki.nikitavoloboev.xyz/][Nikita Voloboev's Gitbook]]
+- [[http://okmij.org/ftp/][Oleg's Notes]]
+- [[https://bphenriques.github.io/knowledge-base/][Bruno Henriquez' Knowledge Base]]
+- [[https://braindump.jethro.dev][Jethro's Braindump]]
+and is in a state of continuous improvement.
+
+The structure of this repository is no different from other sites served with [[gohugo.io][Hugo]].
+The repository for [[https://github.com/jakechv/cortex][the template]] contains all of the presentation logic.
+
+* Contributing
+If you've found an issue with the wiki or would otherwise like to contribute,
+feel free to open a pull request!
+
+That said, these are my personal notes, so don't be offended if I reject the contribution.
