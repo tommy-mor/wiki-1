@@ -1,7 +1,7 @@
 +++
 title = "Web Design"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T03:49:37-04:00
+lastmod = 2020-07-14T03:59:23-04:00
 slug = "web_design"
 draft = false
 +++
@@ -39,10 +39,11 @@ Focus on boiling it down to its essentials.
 
 -   [Mikhail Khoury's website](http://mikhailkhoury.com/), one I stumbled upon only because he shares
     a last name with Northeastern's Computer Science college, has
-    an astoundingly minimal yet well-designed site.
-
-    It's easy to navigate and has few if any distractions from the
-    site's objective.
+    an astoundingly minimal yet well-designed site. It's easy to navigate
+    and has no distractions from the site's objective.
+-   [100 Rabbits](https://100r.co) are a creative duo of Rekka Bellum and [Devine Lu Linvega](https://xxiivv.com/);
+    they've inspired me to move towards using minimal, accessible tooling,
+    and have a fantastic design language present throughout all of their work.
 
 
 ## Resources {#resources}

@@ -35,10 +35,11 @@ Focus on boiling it down to its essentials.
 * Inspiration
 - [[http://mikhailkhoury.com/][Mikhail Khoury's website]], one I stumbled upon only because he shares
   a last name with Northeastern's Computer Science college, has
-  an astoundingly minimal yet well-designed site.
-
-  It's easy to navigate and has few if any distractions from the
-  site's objective.
+  an astoundingly minimal yet well-designed site. It's easy to navigate
+  and has no distractions from the site's objective.
+- [[https://100r.co][100 Rabbits]] are a creative duo of Rekka Bellum and [[https://xxiivv.com/][Devine Lu Linvega]];
+  they've inspired me to move towards using minimal, accessible tooling,
+  and have a fantastic design language present throughout all of their work.
 
 * Resources
 - [[http://clrs.cc/][clrs.cc]] :: communicative colors for browser prototyping.
