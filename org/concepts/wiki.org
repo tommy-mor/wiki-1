@@ -41,4 +41,4 @@ but I plan to keep this template around.
 I've taken inspiration from several others who maintain wikis.
 - [[https://github.com/tommy-mor][Tommy Morriss]] first introduced me to the idea with his personal (private) wiki.
 - [[https://jethro.dev][Jethro]] has easily accessible articles and templates that I've made use of to put this together.
--[[file:../people/100_rabbits.org][ 100 Rabbits]] publish all of their notes and information in a custom wiki framework.
+- [file:../people/100_rabbits.org][100 Rabbits]] publish all of their notes and information in a custom wiki framework.
