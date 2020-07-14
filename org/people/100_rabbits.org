@@ -1,0 +1,6 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: 100_rabbits
+#+title: 100 Rabbits
+
+100 Rabbits is a creative technologist duo
+living on a sailboat.

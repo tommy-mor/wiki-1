@@ -33,6 +33,9 @@ The web doesn't have to be so hostile or expensive to run.
 Focus on boiling it down to its essentials.
 
 * Inspiration
+:PROPERTIES:
+:ID:       3f7f93ab-9bc7-4322-9f3e-15d8efa5b949
+:END:
 - [[http://mikhailkhoury.com/][Mikhail Khoury's website]], one I stumbled upon only because he shares
   a last name with Northeastern's Computer Science college, has
   an astoundingly minimal yet well-designed site. It's easy to navigate
@@ -41,7 +44,10 @@ Focus on boiling it down to its essentials.
 - [[https://100r.co][100 Rabbits]] are a creative duo comprised of Rekka Bellum and
   [[https://xxiivv.com/][Devine Lu Linvega]]; they've inspired me to move towards using
   minimal, accessible tooling, and have a fantastic design language
-  present throughout all of their work.
+  present throughout all of their work. [[file:../people/100_rabbits.org][100 Rabbits]]
 
 * Resources
+:PROPERTIES:
+:ID:       919f9e4b-ec6f-404a-9f5c-ee51aa3605d3
+:END:
 - [[http://clrs.cc/][clrs.cc]] :: communicative colors for browser prototyping.

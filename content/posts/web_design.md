@@ -1,7 +1,7 @@
 +++
 title = "Web Design"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T04:11:32-04:00
+lastmod = 2020-07-14T04:46:18-04:00
 slug = "web_design"
 draft = false
 +++
@@ -49,7 +49,7 @@ Focus on boiling it down to its essentials.
 -   [100 Rabbits](https://100r.co) are a creative duo comprised of Rekka Bellum and
     [Devine Lu Linvega](https://xxiivv.com/); they've inspired me to move towards using
     minimal, accessible tooling, and have a fantastic design language
-    present throughout all of their work.
+    present throughout all of their work. [100 Rabbits]({{< relref "100_rabbits" >}})
 
 
 ## Resources {#resources}
