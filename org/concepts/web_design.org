@@ -1,7 +1,7 @@
 #+setupfile:./hugo_setup.org
 #+hugo_slug: web_design
 #+title: Web Design
-
+- tags ::[[file:design.org][Design.]],[[file:fonts.org][ Fonts]]
 * Philosophy
 :PROPERTIES:
 :ID:       84fdf4e2-8050-40e8-bd93-502d6e260dfa
@@ -38,9 +38,10 @@ Focus on boiling it down to its essentials.
   an astoundingly minimal yet well-designed site. It's easy to navigate
   and has no distractions from the site's objective.
 
-- [[https://100r.co][100 Rabbits]] are a creative duo of Rekka Bellum and [[https://xxiivv.com/][Devine Lu Linvega]];
-  they've inspired me to move towards using minimal, accessible tooling,
-  and have a fantastic design language present throughout all of their work.
+- [[https://100r.co][100 Rabbits]] are a creative duo comprised of Rekka Bellum and
+  [[https://xxiivv.com/][Devine Lu Linvega]]; they've inspired me to move towards using
+  minimal, accessible tooling, and have a fantastic design language
+  present throughout all of their work.
 
 * Resources
 - [[http://clrs.cc/][clrs.cc]] :: communicative colors for browser prototyping.

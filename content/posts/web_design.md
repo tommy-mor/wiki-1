@@ -1,10 +1,13 @@
 +++
 title = "Web Design"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T04:00:32-04:00
+lastmod = 2020-07-14T04:04:19-04:00
 slug = "web_design"
 draft = false
 +++
+
+-   tags ::[Design.]({{< relref "design" >}}),[ Fonts]({{< relref "fonts" >}})
+
 
 ## Philosophy {#philosophy}
 
@@ -42,9 +45,10 @@ Focus on boiling it down to its essentials.
     an astoundingly minimal yet well-designed site. It's easy to navigate
     and has no distractions from the site's objective.
 
--   [100 Rabbits](https://100r.co) are a creative duo of Rekka Bellum and [Devine Lu Linvega](https://xxiivv.com/);
-    they've inspired me to move towards using minimal, accessible tooling,
-    and have a fantastic design language present throughout all of their work.
+-   [100 Rabbits](https://100r.co) are a creative duo comprised of Rekka Bellum and
+    [Devine Lu Linvega](https://xxiivv.com/); they've inspired me to move towards using
+    minimal, accessible tooling, and have a fantastic design language
+    present throughout all of their work.
 
 
 ## Resources {#resources}

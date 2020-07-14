@@ -1,0 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: design
+#+title: Design.
+
+Notes on medium-agnostic design-principles.
