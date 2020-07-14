@@ -1,7 +1,7 @@
 +++
-title = "Design."
+title = "Design"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T04:07:26-04:00
+lastmod = 2020-07-14T04:08:32-04:00
 slug = "design"
 draft = false
 +++
