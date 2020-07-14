@@ -57,3 +57,5 @@ print("Sometimes...")
 | Native      | Support!     |
 
 It has a single standard, and isn't a 'flavor' of markdown or rst!
+
+[[https://karl-voit.at/2017/09/23/orgmode-as-markup-only/][This post]] and [[https://orgmode.org/][the emacs docs]] are incredibly helpful for documentation.

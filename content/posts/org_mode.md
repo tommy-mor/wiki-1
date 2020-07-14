@@ -1,7 +1,7 @@
 +++
 title = "Org Mode"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T00:38:45-04:00
+lastmod = 2020-07-14T00:40:16-04:00
 slug = "org_mode"
 draft = false
 +++
@@ -66,3 +66,5 @@ print("Sometimes...")
 | Native      | Support!     |
 
 It has a single standard, and isn't a 'flavor' of markdown or rst!
+
+[This post](https://karl-voit.at/2017/09/23/orgmode-as-markup-only/) and [the emacs docs](https://orgmode.org/) are incredibly helpful for documentation.
