@@ -3,6 +3,9 @@
 #+title: Web Design
 
 * Philosophy
+:PROPERTIES:
+:ID:       84fdf4e2-8050-40e8-bd93-502d6e260dfa
+:END:
 Websites should be minimal.
 There is no reason to download five megabytes of Javascript to communicate
 my hiring credentials. I shouldn't have to wade through frameworks and dark
