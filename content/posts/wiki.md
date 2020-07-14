@@ -1,7 +1,7 @@
 +++
 title = "Wiki"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T05:38:32-04:00
+lastmod = 2020-07-14T05:38:59-04:00
 slug = "wiki"
 draft = false
 +++
@@ -64,4 +64,4 @@ I've taken inspiration from several others who maintain wikis.
 
 -   [Tommy Morriss](https://github.com/tommy-mor) first introduced me to the idea with his personal (private) wiki.
 -   [Jethro](https://jethro.dev) has easily accessible articles and templates that I've made use of to put this together.
--   [[{{< relref "100_rabbits" >}}]({{< relref "100_rabbits" >}})][100 Rabbits]] publish all of their notes and information in a custom wiki framework.
+-   [100 Rabbits]({{< relref "100_rabbits" >}}) publish all of their notes and information in a custom wiki framework.
