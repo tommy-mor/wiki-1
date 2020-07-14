@@ -32,6 +32,7 @@ Lists can be
     1. support enumeration
     2. as needed
 - have definitions :: true.
++ works as well
 - [ ] can be unfinished
 - [X] or complete
 

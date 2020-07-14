@@ -1,7 +1,7 @@
 +++
 title = "Org Mode"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T00:44:45-04:00
+lastmod = 2020-07-14T17:38:01-04:00
 slug = "org_mode"
 draft = false
 +++
@@ -41,6 +41,7 @@ Lists can be
     1. support enumeration
     2. as needed
 - have definitions :: true.
++ works as well
 - [ ] can be unfinished
 - [X] or complete
 
