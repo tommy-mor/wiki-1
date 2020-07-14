@@ -2,4 +2,4 @@
 #+hugo_slug: design
 #+title: Design.
 
-Notes on medium-agnostic design-principles.
+Notes on medium-agnostic design principles.
