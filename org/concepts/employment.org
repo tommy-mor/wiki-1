@@ -1,5 +1,5 @@
 #+setupfile:./hugo_setup.org
-#+hugo_slug: employment
-#+title: employment
+#+hugo_slug: Employment
+#+title: Employment
 
 Advice for finding employment.

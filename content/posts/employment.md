@@ -1,13 +1,13 @@
 +++
-title = "employment"
+title = "Employment"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-12T19:21:01-04:00
-slug = "employment"
+lastmod = 2020-07-12T22:31:54-04:00
+slug = "Employment"
 draft = false
 +++
 
 ## Backlinks {#backlinks}
 
--   [resume]({{< relref "resume" >}})
+-   [Resume]({{< relref "resume" >}})
 
 Advice for finding employment.

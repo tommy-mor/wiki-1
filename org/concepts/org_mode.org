@@ -1,0 +1,59 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: org_mode
+#+title: Org Mode
+Org Mode is a markup language and a part of the Emacs ecosystem.
+It's a favorite of developers, writers, and researchers alike,
+and is often used for literate programming.
+
+This wiki, along with all of my other notes, is drafted entirely
+in org-mode and rendered through a static site generator.
+
+* Basic Formatting
+The structure of an org-mode file is intuitive.
+#+begin_src org
+: * Heading 1
+: ** Heading 2
+: *** Heading 3
+: *** And so forth...
+#+end_src
+
+It supports several flavors of text:
+#+begin_src org
+,*bold*, /italic/, _underlined_, +strikethrough+, =monospace=.
+
+Links are rendered [[https://jacob.chvatal.com][with description]]
+or without: https://karl-voit.at/2017/09/23/orgmode-as-markup-only/
+
+Lists can be
+- ordered
+  - have sub-headings
+    1. support enumeration
+    2. as needed
+- have definitions :: true.
+- [ ] can be unfinished
+- [X] or complete
+
+: or rendered as preformatted text.
+#+end_src
+
+#+begin_src python
+def logical():
+    return f'Org mode can also'
+           f'render code from many languages!'
+#+end_src
+
+#+begin_src sh
+echo "it supports any language that is supported by Emacs"
+#+end_src
+
+#+begin_src python :exports both
+return "and can even display the result of evaluated code!"
+print("Sometimes...")
+#+end_src
+
+| It Contains | Great Tables |
+|-------------+--------------|
+| 42          | With         |
+| Native      | Support!     |
+
+It has a single standard, and isn't a 'flavor' of markdown or rst!
