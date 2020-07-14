@@ -1,0 +1,44 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: wiki
+#+title: Wiki
+
+Wikis are tree-based tools for representing
+hierarchies of information.
+
+This personal wiki is the one I maintain.
+Others refer to personal wikis as /Digital Gardens/,
+/Brain Dumps/, or /Personal Libraries/.
+
+The source of this wiki can be found at [[https://github.com/jakechv/wiki]].
+
+* Motivation
+** Organization
+I needed a way to better organize my ideas.
+Administering structure to my data was a good way
+to do this, and org-mode provides a good facility for this.
+Further, the constraints administered by the website motivate
+me to better organize my notes as they're visible to the public;
+without this structure the notes won't even render properly.
+** Accessibility
+I'd like my notes to be easily visible to anyone.
+It allows me to easily share my thoughts and perspectives with
+friends or colleagues.
+** Publicity
+This portal also enables recruiters or future collaborators to
+learn more about me, my skills and my interests. Perhaps I can
+build a following, inspire someone, or find an interesting job
+opportunity if someone stumbles upon this wiki.
+* Design
+- tags :: [[file:web_design.org][Web Design]],[[file:design.org][Design]]
+The design of this wiki takes after the principles of simple and minimal as discussed.
+I introduce additional logic for the multi-pane browsing as I feel that it's more conducive
+to consuming information than the typical browser structure and it adds a unique feel to the site.
+[[https://github.com/jakchv/cortex][Here]] is the template I use to publish this wiki.
+I may consider other templates or alternative views in the future,
+and will continue iterating on this design,
+but I plan to keep this template around.
+* References
+I've taken inspiration from several others who maintain wikis.
+- [[https://github.com/tommy-mor][Tommy Morriss]] first introduced me to the idea with his personal (private) wiki.
+- [[https://jethro.dev][Jethro]] has easily accessible articles and templates that I've made use of to put this together.
+-[[file:../people/100_rabbits.org][ 100 Rabbits]] publish all of their notes and information in a custom wiki framework.
