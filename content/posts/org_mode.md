@@ -1,7 +1,7 @@
 +++
 title = "Org Mode"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T00:40:16-04:00
+lastmod = 2020-07-14T00:44:45-04:00
 slug = "org_mode"
 draft = false
 +++
@@ -12,6 +12,8 @@ and is often used for literate programming.
 
 This wiki, along with all of my other notes, is drafted entirely
 in org-mode and rendered through a static site generator.
+
+[This post](https://karl-voit.at/2017/09/23/orgmode-as-markup-only/) and [the emacs docs](https://orgmode.org/) are incredibly helpful for documentation.
 
 
 ## Basic Formatting {#basic-formatting}
@@ -67,4 +69,12 @@ print("Sometimes...")
 
 It has a single standard, and isn't a 'flavor' of markdown or rst!
 
-[This post](https://karl-voit.at/2017/09/23/orgmode-as-markup-only/) and [the emacs docs](https://orgmode.org/) are incredibly helpful for documentation.
+
+## Plugins {#plugins}
+
+The best part about org mode isn't its simplicity and flexibility --
+its that it has become an integral component of the Emacs ecosystem.
+
+With this, the format has seen support for many tools -- from calendar
+to todo lists and READMEs to DevOps, it's flexible enough to be used
+anywhere -- and thrives in the right ecosystem.
