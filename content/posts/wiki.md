@@ -1,7 +1,7 @@
 +++
 title = "Wiki"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T05:38:59-04:00
+lastmod = 2020-07-14T17:38:45-04:00
 slug = "wiki"
 draft = false
 +++
