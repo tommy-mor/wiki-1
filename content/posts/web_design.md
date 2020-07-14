@@ -1,12 +1,13 @@
 +++
 title = "Web Design"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T04:04:19-04:00
+lastmod = 2020-07-14T04:11:32-04:00
 slug = "web_design"
 draft = false
 +++
 
--   tags ::[Design.]({{< relref "design" >}}),[ Fonts]({{< relref "fonts" >}})
+tags
+: [Design]({{< relref "design" >}}),[ Fonts]({{< relref "fonts" >}})
 
 
 ## Philosophy {#philosophy}
