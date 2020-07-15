@@ -2,8 +2,8 @@
 #+hugo_slug: fonts
 #+title: Fonts
 
-- tags :: [[file:typesetting.org][Typesetting]], [[file:language.org][Language]]
- 
+[[file:typesetting.org][Typesetting]]
+
 Notes on fonts and font design.
 
 * Cool Fonts
