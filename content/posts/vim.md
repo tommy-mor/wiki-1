@@ -1,7 +1,7 @@
 +++
 title = "Vim"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-15T14:50:40-04:00
+lastmod = 2020-07-15T14:51:38-04:00
 slug = "vim"
 draft = false
 +++
@@ -10,7 +10,7 @@ draft = false
 
 -   [Tmux]({{< relref "tmux" >}})
 
-Vim is a text editor with an easily configurable extension langauge.
+Vim is a text editor with an easily configurable extension language.
 It's most frequently used as a [Terminal UI]({{< relref "terminal_ui" >}}) program,
 but also has a graphical application distribution (Gvim).
 

@@ -2,7 +2,7 @@
 #+hugo_slug: vim
 #+title: Vim
 
-Vim is a text editor with an easily configurable extension langauge.
+Vim is a text editor with an easily configurable extension language.
 It's most frequently used as a [[file:../concepts/terminal_ui.org][Terminal UI]] program,
 but also has a graphical application distribution (Gvim).
 
