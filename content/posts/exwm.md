@@ -1,12 +1,16 @@
 +++
 title = "EXWM"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T00:53:14-04:00
+lastmod = 2020-07-15T14:58:15-04:00
 slug = "exwm"
 draft = false
 +++
 
-[EXWM](https://github.com/ch11ng/exwm) is an Emacs window manager.
+## Backlinks {#backlinks}
+
+-   [Emacs]({{< relref "emacs" >}})
+
+[EXWM](https://github.com/ch11ng/exwm) is an[ Emacs]({{< relref "emacs" >}}) window manager.
 
 It's a simple wrapper for X11 functions that allows for
 the user to interface primarily with Emacs.
