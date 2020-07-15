@@ -1,7 +1,7 @@
 +++
 title = "Fonts"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T17:53:53-04:00
+lastmod = 2020-07-15T19:40:35-04:00
 slug = "fonts"
 draft = false
 +++
@@ -10,8 +10,7 @@ draft = false
 
 -   [Web Design]({{< relref "web_design" >}})
 
-tags
-: [Typesetting]({{< relref "typesetting" >}}), [Language]({{< relref "language" >}})
+[Typesetting]({{< relref "typesetting" >}}),[Language]({{< relref "language" >}})
 
 Notes on fonts and font design.
 
@@ -33,18 +32,30 @@ Trajan
 Bembo
 : Revival of monotype. Graceful, stable and elegant! More subtle than a Didot.
 
-
 [DejaVu Fonts](https://dejavu-fonts.github.io/)
 : used for configuration a bit
 
-Futura - a classic
-Didot : elegant, 'aspirational', feels luxurious
-garamond : both a legal font and an exceptionally legible one!
-Caslon : organic, beautiful style -- check this one out!
-freight sans : fun and cartoonish font feel!
-open sans : the new sans font with neutral, flat design
-gill snas ; warm british, a bit tall, crisp lines
-gotham : new york signage lettering style
+Futura
+: A classic futuristic font. Can be seen in places like [Ableton's website](https://ableton.com).
+
+Garamond
+: Both a legal font and an exceptionally legible one.
+
+Caslon
+: Organic, beautiful style -- check this one out!
+
+Freight Sans
+: fun and cartoonish font feel.
+
+Open Sans
+: The new sans font with a neutral, flat design.
+
+Gill Snas
+: warm british, a bit tall, crisp lines
+
+Gotham
+: New York signage lettering style.
+
 <https://www.indesignskills.com/inspiration/best-fonts-graphic-designers/>
 bodoni : luxe, aspirational look font. more compressed and exaggerated
 univers : 'the ultimate modernist font' - incredibly legible, clean, and functiona
@@ -99,71 +110,70 @@ source code pro with emacs hasklig mode
 ### Design {#design}
 
 motion design
-: text in motion to make things readable in videos and similar. this is text that is not vi    sible all the time; instead, its in movement and flashes past during a video or something
+: Text in motion carefully chose to make text readable in videos and other animations.
+    This text isn't visible all the time; rather, it's moving quickly and likely flashes past during a video.
 
 variable fonts
-: one or more axes that provide variation between different extremes of typeface design.     allow for finer control over the design as it changes across the design space!
-
-ie a font can be installed as regular, bold or both, and extended designs are exprecced nicely
-specification that allwos for multiple fonts to be packaged in a single file
+: One or more axes that provide variation between different extremes of typeface design.
+    These fonts allow for finer control over the design as it changes across the design space!
+    A font can often be installed as regular, bold or both, and extended designs are expressed nicely.
+    Formally, this is a specification that allows for multiple fonts to be packaged in a single file.
 
 typeface
-: particular design of type. a single group of fonts; a set of fonts
-
-in the same style, or 'font family'
+: A particular design of type. A single group of fonts; a set of fonts in the same style, or 'font family'.
 
 font
-: instance of typeface; a single weight of style within a typeface family
+: An instance of a typeface; a single weight of style within a typeface family.
 
 
 ### Type {#type}
 
-type vocab :
-
 baseline
-: line on which type sits
+: The line on which type sits.
 
 height
-: distance from baseline ot the top of the lowercase letters - disregard h and similar
+: THe distance from baseline to the top of the lowercase letters, disregarding tall letters such as h.
 
 cap height
-: distance between top of capital letter and baseline
+: The distance between a capital letter and baseline.
 
 ascenders
-: stem above lowercase letters that extend above the x height
+: The stem above lowercase letters that extends above the alloted height.
 
 descenders
-: extend below the baseline
+: Letters that extend below the baseline.
 
 stem
-: main stroke of the letter (usually vertical)
+: The main stroke of the letter (usually vertical).
 
 tail
-: descending, decorative stroke on letters such as y and q
+: Descending, decorative stroke on letters such as y and q.
 
 serif
-: flair extending off of the edge of letters. defines a 'font family' (serif vs sans serif)
+: The flair extending off of the edge of letters.
+    Defines a 'font family' (serif vs sans serif).
 
 counter
-: enclosed space within letters like o and g
+: The enclosed space within letters like o and g.
 
 ear
-: small extension on lower half of the letter g
+: The small extension on lower half of the letter g.
 
 terminal
-: the end of a stroke without a serif
+: The end of a stroke without a serif.
 
 aperture
-: partially closed negative space in cahracters like c, s, and n. this is always rounded
+: Partially closed negative space in characters like c, s, and n. This is always rounded.
 
 bowl
-: curved part of the character enclosing the circular or curved parts of letters with counters such     as o, d and b
+: The curved part of the character enclosing the circular or curved parts of letters.
+    This occurs in letters like o, d and b.
 
 kerning
-: adjusting the space between individual characters
+: Adjusting the space between individual characters.
 
 tracking
-: the spacing of a group of characters
+: The spacing of a group of characters.
 
 alignment
 : text should probably be left aligned
@@ -338,5 +348,5 @@ font tutorial
 <https://airbnb.design/introducing-airbnb-cereal/> -- airbnb neat font
 
 <https://fontsinuse.com/uses/2291/ableton-website> -- ableton fonts!
-<https://www.creativebloq.com/features/5-ways-type-can-define-brands>
+[reading on type defining a brand](https://www.creativebloq.com/features/5-ways-type-can-define-brands)
 <https://glyphsapp.com/> good tool

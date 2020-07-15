@@ -2,7 +2,7 @@
 #+hugo_slug: fonts
 #+title: Fonts
 
-[[file:typesetting.org][Typesetting]]
+[[file:typesetting.org][Typesetting]],[[file:language.org][Language]]
 
 Notes on fonts and font design.
 
@@ -13,7 +13,7 @@ Notes on fonts and font design.
 - Trajan :: based on roman typography!
 - Bembo :: Revival of monotype. Graceful, stable and elegant! More subtle than a Didot.
 - [[https://dejavu-fonts.github.io/][DejaVu Fonts]] :: used for configuration a bit
-- Futura :: A classic futuristic font. Can be seen in places like [[ableton.com][Ableton's website]].
+- Futura :: A classic futuristic font. Can be seen in places like [[https://ableton.com][Ableton's website]].
 - Garamond :: Both a legal font and an exceptionally legible one.
 - Caslon :: Organic, beautiful style -- check this one out!
 - Freight Sans :: fun and cartoonish font feel.
@@ -206,5 +206,5 @@ https://blog.golang.org/go-fonts -- fonts at Go!
 https://airbnb.design/introducing-airbnb-cereal/ -- airbnb neat font
 
 https://fontsinuse.com/uses/2291/ableton-website -- ableton fonts!
-https://www.creativebloq.com/features/5-ways-type-can-define-brands
+[[https://www.creativebloq.com/features/5-ways-type-can-define-brands][reading on type defining a brand]]
 https://glyphsapp.com/ good tool
