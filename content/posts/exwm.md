@@ -1,7 +1,7 @@
 +++
 title = "EXWM"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-15T14:58:15-04:00
+lastmod = 2020-07-16T01:43:50-04:00
 slug = "exwm"
 draft = false
 +++
