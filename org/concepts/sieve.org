@@ -1,5 +1,5 @@
 #+setupfile:./hugo_setup.org
-#+hugo_slug: design
+#+hugo_slug: sieve
 #+title: Sieve
 
 Sieve is a multimedia inspiration engine.
