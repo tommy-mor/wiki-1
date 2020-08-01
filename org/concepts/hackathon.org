@@ -48,3 +48,25 @@ When clicking on one of these subreddit bubbles, you open a secondary bubble vie
 A UI is provided to make new posts in the subreddit from this page.
 
 Clicking on an individual posts opens the fleshed out idea above, providing an alternative navigational experience for all of reddit.
+
+* Version Control for Music
+Live coding is a good idea, but it's meant to be 'played';
+current solutions for persisting livecoding information require
+recording, which compresses all of the structural information associated with the music, or meticulously copying and pasting code then saving it all.
+
+We can do better!
+
+A 'recording' mode for a live coding environment could be implemented.
+
+To start the recording mode, a new branch is created.
+Every time the file is updated and re-run, it's recorded as a git commit in a project's commit history.
+The commit message has notation demonstrating how long a certain commit was played (time from start of recording to first commit or from the last commit to the current one).
+
+When done recording, you can switch back to the main branch. The new branches are identified by a particular notation in the branch name to demonstrate that they were automatically created.
+
+These recordings can be:
+- Played back. A menu is exposed to 'play' each of the created branches.
+  When a branch is played, its first commit is run through the music interpreter for a specified amount of time, then the new commit is checked out and re-run; this is identical to a user manually editing the file and updating the played music, and tracks will only update if the code has been changed for them.
+- Exported: this can be done in the same way tracks are played back.
+- Converted to linear tracks. You can 'export' a branch to a linear arrangement to make it easier to edit and turn into a complete song without having to record it! This process generates the appropriate pauses in between the different parts of the music and loops to ensure that the different segments of the track are run at the right time and in the right order.
+  This allows artists to take live coding projects that have been performed. convert them into full-fledged tracks, and export them without having to perform them.
