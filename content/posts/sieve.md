@@ -1,7 +1,7 @@
 +++
 title = "Sieve"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T13:09:42-07:00
+lastmod = 2020-08-01T14:35:50-07:00
 slug = "sieve"
 draft = false
 +++
@@ -9,6 +9,23 @@ draft = false
 Sieve is a multimedia inspiration engine.
 
 <https://github.com/jakechv/sieve>
+
+
+## Inspiration {#inspiration}
+
+To give others a brief summary of the idea and its goals, Sieve is similar to existing social media and content aggregation services (I see it as being most similar to Tumblr) but it:
+
+-   Supports only open standards (RSS!)
+-   Prioritizes content, has few or no social features whatsoever
+-   Views are content-specific, because the best view for images is not the best for video, audio, or articles
+-   The recommendation engine doesn't track users or collect any user data; it functions only by examining content you've saved.
+
+
+## Value Proposition {#value-proposition}
+
+-   Aggregates content from the user's other social media and content feeds with little or no effort.
+-   Filters incoming content and sorts it according to media type.
+-   Views are media-first and are designed to prioritize focusing on content rather than social interaction.
 
 
 ## Framework {#framework}
@@ -34,7 +51,7 @@ though the focus of this project is to provide a variety of different ways to
 customize and display content.
 
 
-## Tech {#tech}
+## UX {#ux}
 
 Operationally, Sieve is an RSS feed reader -- but one that puts multimedia content first.
 It can be provided feeds and can crawl the internet for topics similar to those already
@@ -117,6 +134,16 @@ Advanced features for the article view include saving individual passages as opp
 entire articles.
 
 
+### Categories {#categories}
+
+In addition to sorting based on type of media, users should be able to identify categories that they're interested in. These categories are used by the recommendation algorithm under the hood and content is tagged with one or more of these categories when it enters Sieve.
+
+
+### Viewing Saved Content {#viewing-saved-content}
+
+This operates identically to the inspiration views, but it only shows content you've already saved.
+
+
 ## Future Considerations {#future-considerations}
 
 I have several adjacent ideas that, while outside the scope of this project,
@@ -128,3 +155,19 @@ could be added in the future.
     including a bookmarking system that automatically determines the
     type of content that was bookmarks and places it in the appropriate
     place on the user's feed.
+
+
+## Productization {#productization}
+
+I believe this project to be a viable product.
+
+The open-source version will be provided entirely for free,
+and will provide the Sieve engine. No user accounts, following, liking, etc. will be involved with this draft (federation might be cool in the far future but it's by no means necessary). However, people will be able to try out and use the service on an individual basis by hosting it themselves.
+
+The commercial features:
+
+-   Views should be plugins. They can be associated with
+    a specific type of content and will display that content in a manner best fit for it.
+-   Users should be able to make their own accounts and start their own inspiration engines for a fee or with advertisements interspersing their content.
+-   Users should be able to follow other users. Following other users adds posts those users have saved to their own feeds; these posts then show that they came through those users. This is as far as the social interaction on this platform will go.
+-   External platforms should be added and supported; i.e. Instagram RSS feeds through Bibliogram. The aggregation of external platforms is huge for external users to hop on and start focusing on this platform.
