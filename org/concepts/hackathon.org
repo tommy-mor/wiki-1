@@ -6,6 +6,8 @@ Small ideas for hackathons or small periods of time.
 
 These will each be eventually updated with their own posts as the ideas expand and they're given names.
 
+The name is the most important part of a project. Without a good name the project will fail.
+
 * Reddit Tree Navigation
 Remember Prezi? You could click on different bubbles
 to navigate through a presentation nonlinearly, or could

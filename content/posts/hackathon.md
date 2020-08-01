@@ -1,7 +1,7 @@
 +++
 title = "Hackathon"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T13:29:48-07:00
+lastmod = 2020-08-01T13:30:30-07:00
 slug = "hackathon"
 draft = false
 +++
@@ -9,6 +9,8 @@ draft = false
 Small ideas for hackathons or small periods of time.
 
 These will each be eventually updated with their own posts as the ideas expand and they're given names.
+
+The name is the most important part of a project. Without a good name the project will fail.
 
 
 ## Reddit Tree Navigation {#reddit-tree-navigation}
