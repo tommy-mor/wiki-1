@@ -1,7 +1,7 @@
 +++
 title = "Tmux"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-15T14:48:12-04:00
+lastmod = 2020-07-19T05:51:47+00:00
 slug = "tmux"
 draft = false
 +++

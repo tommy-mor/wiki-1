@@ -1,10 +1,16 @@
 +++
 title = "Emacs"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-15T14:33:44-04:00
+lastmod = 2020-07-19T05:53:29+00:00
 slug = "emacs"
 draft = false
 +++
+
+## Backlinks {#backlinks}
+
+-   [acl2]({{< relref "acl2" >}})
+-   [Vim]({{< relref "vim" >}})
+-   [EXWM]({{< relref "exwm" >}})
 
 Emacs is a fully-featured programming environment.
 

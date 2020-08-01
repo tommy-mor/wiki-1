@@ -1,7 +1,7 @@
 +++
 title = "Vim"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-15T14:51:38-04:00
+lastmod = 2020-07-19T05:53:45+00:00
 slug = "vim"
 draft = false
 +++

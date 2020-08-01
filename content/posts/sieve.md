@@ -1,0 +1,130 @@
++++
+title = "Sieve"
+author = ["Jacob Chvatal"]
+lastmod = 2020-08-01T11:27:29-07:00
+slug = "design"
+draft = false
++++
+
+Sieve is a multimedia inspiration engine.
+
+<https://github.com/jakechv/sieve>
+
+
+## Framework {#framework}
+
+Sieve aspires to serve as a feed for content aggregation and exploration,
+removing unnecessary distractions from other platforms while collecting
+and displaying their content.
+
+It allows for the viewing of other social media and content platforms in one place
+from a variety of mediums -- video, audio, pictoral, and written.
+
+It provides multiple views conducive to each type of content to enhance the
+exploratory experience, and allows for saving types of content for later
+as well as publishing such content to your own
+
+At first, this engine that will be self-hosted,
+and the self-hosted instance will independently generate content best for you
+provided links to follow.
+
+To improve usability, this may extend to a service in which users
+can create their own workspaces and subscribe to the feeds of others ('meta-feeds'),
+though the focus of this project is to provide a variety of different ways to
+customize and display content.
+
+
+## Tech {#tech}
+
+Operationally, Sieve is an RSS feed reader -- but one that puts multimedia content first.
+It can be provided feeds and can crawl the internet for topics similar to those already
+in feeds via a web crawler and content aggregation system.
+
+The innovation here is the multiple views of content it provides -- while attribution is
+important, other aspects of social content publication can be distracting or addicting.
+Sieve doesn't have 'likes', 'follows', or 'comments' -- it seeks only to provide
+different ways of viewing the content we already interact with on other platforms.
+
+On the back end, Sieve scans each of the feeds a user follows to find a cohesive
+'theme' or 'style' from the content it displays, and prioritizes displaying more
+of the content a user saves. It does not track you or learn from you in any other way.
+
+
+## Design {#design}
+
+Sieve is minimal first. No clutter.
+It puts the content first and hides all excess information,
+allowing for 'focused' inspiration without potential distractions.
+
+Previous efforts with seamless, content-first design include Archillect.
+This project seeks to avoid creating a new Tumblr, Instagram or Facebook --
+those platforms have become too bloated and interaction-driven.
+
+This platform seeks to minimize interaction with other users
+and instead prioritize interaction with their content.
+
+These distractions are deliberately obfuscated,
+hidden behind menus and obscured by a minimal interface -- the content itself.
+There are no notifications, no numbers, no flashing visual cues
+to indicate additional information, as these are flaws that all make social
+media content more addictive. It's as simple as visiting a page and viewing
+content catered to the user.
+
+
+### Image View {#image-view}
+
+The image view presents itself as a multipanel scrolling feed of image-based content.
+This scrolling can be infinite or paginated. I'll likely implement the latter first.
+Images can be clicked to open a larger view of the image and to view attribution if available.
+
+
+### Video View {#video-view}
+
+This is probably the trickiest to get right; it may end up being
+an image view with GIFs instead of just images,
+but that would disparage any audio content that the videos may contain.
+
+The information density of audio in videos is much worse than audio in isolation,
+so playing audio may not be relevant to the content, but providing a distraction
+free way to consume this content feels necessary.
+
+
+### Sound View {#sound-view}
+
+This view will be similar to the 'theatre mode' that many services already provide,
+showing an oversized album cover while playing a specific song.
+
+It'll focus on playing previews of songs rather than their entire contents
+so that the media can be set aside and continue to be consumed on another platform.
+
+
+### Article View {#article-view}
+
+RSS is overwhelming and often doesn't present the information you're interested in --
+even good writers are bad at summarizing their own content and prioritizing the information
+that readers want, and often blogs address a variety of topics rather than focusing on
+a subset of articles that a specific reader may be interested in reading.
+
+As such, the article view aims to do a few things that other services currently do not accomplish:
+
+-   Generate a summary of the content provided on the page
+-   Prioritize articles based on content of previously saved content
+-   Always use user-customizable feeds for such content
+
+These articles will be viewable through a 'reader view' that the article view provides.
+
+Advanced features for the article view include saving individual passages as opposed to
+entire articles.
+
+
+## Future Considerations {#future-considerations}
+
+I have several adjacent ideas that, while outside the scope of this project,
+could be added in the future.
+
+-   A service for viewing your own, internal content in the same way
+    that users of Sieve consume external content.
+-   A way to 'sieve' through integration with content on other platforms,
+    including a bookmarking system that automatically determines the
+    type of content that was bookmarks and places it in the appropriate
+    place on the user's feed.
