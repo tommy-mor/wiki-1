@@ -1,0 +1,16 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: homelab
+#+TITLE: Homelab
+
+Information about self-hosting.
+
+* Links
+https://electro.pizza/2020/05/selfhosting-cloudshell2/ NAS self host with
+documentation
+[[https://homelabos.com/][self hosting at home.]]
+[[https://osmc.tv/][media center]]
+
+[[https://swiso.org/][switching from google]]
+
+https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md
+great self hsoted resources

@@ -1,0 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: game-dev
+#+TITLE: Game Dev
+
+[[https://benwiser.com/blog/Making-game-engines-is-a-waste-of-time---I-probably-won%E2%80%99t-stop-making-them.html][on making game engines]]

@@ -1,0 +1,7 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: ipc
+#+TITLE: Inter-Process Communication
+
+Tools for IPC.
+
+https://developers.google.com/protocol-buffers/

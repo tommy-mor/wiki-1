@@ -1,0 +1,10 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: latex
+#+TITLE: LaTeX
+
+LaTeX is a document typesetting language that compiles to other useful document formats like PDFs.
+
+* Utilities
+https://github.com/tecosaur/BMC multipurpose class for latex use
+https://github.com/kjhealy/pandoc-templates latex pandoc templates
+https://github.com/odashi/latexify_py create latex math formulas from python functions
