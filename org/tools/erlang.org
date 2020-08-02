@@ -1,4 +1,6 @@
-
+#+setupfile:./hugo_setup.org
+#+hugo_slug: erlang
+#+title: Erlang
 [[https://www.erlang.org/news/140][plz try erlang one of these days]]
 [[https://news.ycombinator.com/item?id=23166554][heres another one on erlang]]
 
