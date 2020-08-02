@@ -1,3 +1,6 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: wm
+#+TITLE: Programming Languages
 #+TITLE: Window Management
 
 Window managers are programs that allow a user to interface with their computer.
