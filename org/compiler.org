@@ -1,0 +1,5 @@
+[[https://news.ycombinator.com/item?id=23175280][explore compiler ir]]
+[[https://www.reddit.com/r/Compilers/comments/bg1g2w/interesting_topics_for_study_at_university/][cool topics to study]]
+- alternative ir structures
+- gradual typing
+- different type systems! (tapl)

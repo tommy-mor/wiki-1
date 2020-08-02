@@ -1,0 +1,456 @@
+#+TITLE: Ricing
+
+Scattered notes on ricing.
+
+* ETC
+
+    try to get those cool conky visualizations running tho
+    [[https://voidlinux.org/atom.xml][anime smth]]
+    [[https://voidlinux.org/atom.xml][easy setup, decent workflow]]
+    [[https://voidlinux.org/atom.xml][fun prog env]]
+    [[https://voidlinux.org/atom.xml][clear linxu!]]
+    [[https://voidlinux.org/atom.xml][cool bsp config]]
+    [[https://voidlinux.org/atom.xml][nighthawks with cool bar]]
+    [[http://paulgraham.com/hijack.html][yikes!!]]
+    [
+    [[https://www.techmeme.com/][good articles]]
+    [[https://www.slowernews.com/][slower news.]]
+    [[https://littr.me/about][new social link aggregator.]]
+    [[https://quill.news/home][american international]]
+    [[https://skimfeed.com/][whats hot]]
+    [[https://lobste.rs/][community]]
+    [[https://www.reddit.com/r/haskell/comments/gtq3yk/making_music_with_haskell_from_scratch/][making music in haskell!]]
+    [[https://blog.samaltman.com/][sam altman blog.]]
+    [[https://mmm.s-ol.nu/][whoah.]]]
+    [[http://akkartik.name/about][global structure of programs]]
+    [[https://news.ycombinator.com/item?id=23325319][guerrilla public service]]
+    [[https://news.ycombinator.com/item?id=23351396][linxu security]]
+    [[https://news.ycombinator.com/item?id=23351007][??]]
+    [[https://news.ycombinator.com/item?id=23351942][wow]]
+    [[https://news.ycombinator.com/item?id=23350223][ouch]]
+    [[https://news.ycombinator.com/item?id=23351145][wow]]
+    [[https://news.ycombinator.com/item?id=23371530][neat]]
+    [[https://news.ycombinator.com/item?id=23341179][good article]]
+    [[https://dabeaz-course.github.io/practical-python/][practical python.]]
+    [[https://wiki.xxiivv.com/site/norns.html}[cool tools.]]
+    [[https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/][stop taking notes]]
+    [[https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/
+
+    https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html
+
+    https://martinheinz.dev/blog/24
+
+    https://github.com/srid/slownews
+    Ahttps://apparebit.com/
+    https://ramsdenj.com/2017/06/19/switching-to-nixos-from-arch-linux.html
+    https://docplayer.net/611766-Using-nixos-for-declarative-deployment-and-testing.html
+    https://gautamcgoel.github.io/
+    https://ilya-sher.org/2017/07/07/why-next-generation-shell/
+    https://www.oilshell.org/blog/2018/01/28.html#introduction
+    https://rswernofsky.com/lists/coming-soon-lists.html
+
+    https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1
+    https://www.youtube.com/watch?v=V7NkS6j-XWg&app=desktop
+
+    https://github.com/noahfrederick/dots
+    https://github.com/yousufinternet/config-files
+    https://github.com/notthebee/dotfiles
+    https://vlukash.com/2018/03/29/two-years-with-vim/#more-474
+
+
+    #+TITLE: wm and desktop configuration
+    * BSPWM
+    http://thedarnedestthing.com/bspwm%20not%20bar
+    http://thedarnedestthing.com/bspwm%20gym
+    http://thedarnedestthing.com/bspwm%20framed
+    wiki for configuration ! https://github.com/windelicato/dotfiles/wiki/bspwm-for-dummies
+    worth noting: this does not
+    - a window manager with a lot of features and functionality
+    - no 'default config'; must implement everything yourself,
+    though comes with a nice default settings thing
+    https://www.reddit.com/r/unixporn/comments/1m0ea1/arch_bspwm_why_bspwm_watch_this_screencast_and/
+    -- this seems to be why everyone
+    likes bspwm, but i can't quite see the gif... let's hang out to see what happens
+    ideas : changing the classname by identification in the bspwm tree!
+    ' sticky' scratchpad : will switch monitors only if the desktop is swapped with the other monitor.
+    personal policy - 'scratchbad when opened occupies the biggest window'
+    sticky normal terminal window (with tmux, via byobu) to the scratchpad is much more useful and allows for a single terminal window to be kept open rather than having to use many
+
+    ui workflow : window actions focus and place the window in the main window on
+    the target desktop
+
+    https://www.reddit.com/r/unixporn/comments/1jubyi/arch_bspwm_never_going_back_to_xmonad/
+    read on this!
+
+    http://thedarnedestthing.com/bspwm
+    idea : have window actions focus and place the window on the main window of the
+    target desktop.
+
+    a swap monitor action is very cool; may want to either retain or swap monitor
+    focus independent of this! depending on the direction of the hotkey relative to
+    the monitor which has focus.if key action points to opposite monitor, swap the
+    desktop moving the focus with the desktop; else, retain focus on the current
+    monitor while cycling the desktop
+
+    toggling the dock! this is much more distraction free (through conky) as opposed
+    to a continuously updating status line at the top or bottom of the screen. conky
+    is super beautiful and configuring it would besuper useful. run conky above the
+    desktop windows via xdotool as per sdothum's articles
+
+    https://www.reddit.com/r/unixporn/comments/1jubyi/arch_bspwm_never_going_back_to_xmonad/
+
+    this seems like hte most useful and powerful way to go in terms of a system
+    configuration. make sure to use this one in the future.
+
+    * i3 (currently using)
+    - simple
+    - intuitive, easy to configure, no recompilation required
+    - however, it is difficult to configure some things and aothers get very complicated
+
+    * herbstluftwm
+    http://thedarnedestthing.com/herbstluftwm
+    things it can do: (see sdothum here: http://thedarnedestthing.com/herbstluftwm%20workflow)
+    - dynamic window placement to balance frames
+    - dynamic window focus to avoid empty frame focus on application close
+    - distraction free monocle layout proportions (versus fullscreen mode)
+    - automatic desktop layout restore on focus and monitor swap*
+    - quick monitor and frame swapping with focus directions
+    - hide/unhide windows per desktop
+    - pulsating borders to indicate overlapped windows
+    - virtual monitors to show/hide the conky system information panel
+    - single status bar to follow monitor focus and hint monitor geometry width
+    - blur background if a window is present on the desktop
+    note that monitor geometries are global when set.
+    honestly his explanation is pretty complicated: there are a lot of things that can be done without this complex configuration
+    can have a status bar that follows the monitor focus! killing the status bar isn't super effective, but using xdotool to manage the visibility of the panels seems muh more palatable
+
+    check out his dotfiles for more information on this
+    http://thedarnedestthing.com/herbstluftwm%20juggling
+
+    * XMonad
+    cool because it is written in and configured with haskell
+    from my rough understanding, this is another manual tiling window manager (not automatic like bspwm)
+
+    idea : rather than manually moving the window in between panels, shifting all of the workspaces 'one to the right' or 'one to the left' to refocus the panel u want at the center seems super valuable! this means that u dont have to reconfigure all of the stuff displayed at any given time)
+    not sure if this is worthwhile as opposed to other things : bspwm doesn't do
+    anythign other than window management, unlike other programs that may not
+    integrate very well into the existing shell.
+
+    benefits:
+    - extensive multimonitor support
+    - stable and feature rich
+    - easy to configure and extend
+
+    drawbacks:
+    - huge
+    - fractured into many different libraries
+    - terrible floating layer that cannot always be avoided
+    - using haskell (though this is also a pro!!)
+    * dmenu
+    rofi or dmenu ? i think that dmenu is worth trying - i like that it does not
+    block anything on the screen and appears at the top instead
+    http://thedarnedestthing.com/dmenu
+    http://thedarnedestthing.com/dmenu2
+    byobu ?? https://www.byobu.org/
+    * diversifying systems
+    you should probably install and set up multiple operating systems - one
+    'experimental' one, with other 'stable' partitions in case the unstable one
+    really messes up
+    https://www.reddit.com/r/unixporn/comments/ff0o8d/refind_which_kernel_are_you_feeling_like_today/
+    https://www.reddit.com/r/unixporn/comments/ff1xru/oc_freebsd_ricing_guide/ --
+    helpful if i install bsd
+    - void linux? bedrock linux?
+    - macos -- make sure to have working configuration here
+    - win10 -- how do i get a win10 configuration working well?
+    - freebsd / openbsd ? i think the former is supposed to be cooler
+    - nix / nixos (the dev ops os!111!11) -- guix is another os with a similar model
+    refind configuration: https://github.com/ibhagwan/dots/blob/master/refind/refind.conf
+    https://parabola.nu -- arch with all free software
+    * configuration!
+    [[https://www.reddit.com/r/unixporn/comments/gglodg/oc_archiso_second_version_of_my_custom_arch_linux/][incredible arch configuration]]
+    * keybindings
+    [[https://github.com/baskerville/sxhkd][keyboard hotkey demon]]
+    may be worthwhile looking into some window manager independent way of
+    configuring these hotkeys
+    * windows (ugh)
+    https://www.reddit.com/r/i3wm/comments/3b7a1j/closest_thing_to_i3_for_windows/cskcmjz/
+
+    * etc
+    look into configuring an rss feed reader for linux to subscribe to only more
+    useful information.
+
+    [[https://github.com/xero/dotfiles][cool dotfiles to look at]]
+
+    * things to integrate
+    - whatever side manager that sdothum uses in lieu of the header interface
+    - ncmcpp for music
+    - an rss reader
+    - a terminal email client
+    - better notification daemon
+    - unifying chat app ? (slack/signal/discord/irc(????) frontend somehow)
+    - twitter ? (may not want to browse twitter at all ...)
+        mail :: try mutt, neomutt, smth
+    stream video over terminal or smth
+    configure .desktop files properly for configuration
+    * os to try
+    - nixOS / nix package management
+    - openBSD or freeBSD
+    - macOS installation
+
+    * configuration
+    - terraform
+    - nixos
+    - windows
+    - script to set up dev environment on:
+        - windows
+        - macOS
+        - ubuntu
+        - arch
+        - some other system ??
+
+    [[https://kkovacs.eu/cool-but-obscure-unix-tools/][terminal utils to look at]]
+
+    below website is really good !!
+    [[https://xn--gckvb8fzb.com/the-absurdity-of-modern-tools/][modern tools]]
+    https://xn--gckvb8fzb.com/a-nomads-computer/
+
+    [[https://github.com/achiurizo/consular][automate dev workflow setup ??]]
+
+    * try this
+    [[https://tudorr.ro/software/windowchef/][i like this website layout, not sure if super relevant]]
+* waste
+
+[[https://voidlinux.org/atom.xml][anime smth]]
+[[https://voidlinux.org/atom.xml][easy setup, decent workflow]]
+[[https://voidlinux.org/atom.xml][fun prog env]]
+[[https://voidlinux.org/atom.xml][clear linxu!]]
+[[https://voidlinux.org/atom.xml][cool bsp config]]
+[[https://voidlinux.org/atom.xml][nighthawks with cool bar]]
+[[http://paulgraham.com/hijack.html][yikes!!]]
+[
+[[https://www.techmeme.com/][good articles]]
+[[https://www.slowernews.com/][slower news.]]
+[[https://littr.me/about][new social link aggregator.]]
+[[https://quill.news/home][american international]]
+[[https://skimfeed.com/][whats hot]]
+[[https://lobste.rs/][community]]
+[[https://www.reddit.com/r/haskell/comments/gtq3yk/making_music_with_haskell_from_scratch/][making music in haskell!]]
+[[https://blog.samaltman.com/][sam altman blog.]]
+[[https://mmm.s-ol.nu/][whoah.]]]
+[[http://akkartik.name/about][global structure of programs]]
+[[https://news.ycombinator.com/item?id=23325319][guerrilla public service]]
+[[https://news.ycombinator.com/item?id=23351396][linxu security]]
+[[https://news.ycombinator.com/item?id=23351007][??]]
+[[https://news.ycombinator.com/item?id=23351942][wow]]
+[[https://news.ycombinator.com/item?id=23350223][ouch]]
+[[https://news.ycombinator.com/item?id=23351145][wow]]
+[[https://news.ycombinator.com/item?id=23371530][neat]]
+[[https://news.ycombinator.com/item?id=23341179][good article]]
+[[https://dabeaz-course.github.io/practical-python/][practical python.]]
+[[https://wiki.xxiivv.com/site/norns.html}[cool tools.]]
+[[https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/][stop taking notes]]
+[[https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/
+
+https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html
+
+https://martinheinz.dev/blog/24
+
+https://github.com/srid/slownews
+Ahttps://apparebit.com/
+https://ramsdenj.com/2017/06/19/switching-to-nixos-from-arch-linux.html
+https://docplayer.net/611766-Using-nixos-for-declarative-deployment-and-testing.html
+https://gautamcgoel.github.io/
+https://ilya-sher.org/2017/07/07/why-next-generation-shell/
+https://www.oilshell.org/blog/2018/01/28.html#introduction
+https://rswernofsky.com/lists/coming-soon-lists.html
+
+https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1
+https://www.youtube.com/watch?v=V7NkS6j-XWg&app=desktop
+
+https://github.com/noahfrederick/dots
+https://github.com/yousufinternet/config-files
+https://github.com/notthebee/dotfiles
+https://vlukash.com/2018/03/29/two-years-with-vim/#more-474
+
+
+#+TITLE: wm and desktop configuration
+
+* BSPWM
+
+http://thedarnedestthing.com/bspwm%20not%20bar
+http://thedarnedestthing.com/bspwm%20gym
+http://thedarnedestthing.com/bspwm%20framed
+wiki for configuration ! https://github.com/windelicato/dotfiles/wiki/bspwm-for-dummies
+worth noting: this does not
+- a window manager with a lot of features and functionality
+- no 'default config'; must implement everything yourself,
+  though comes with a nice default settings thing
+https://www.reddit.com/r/unixporn/comments/1m0ea1/arch_bspwm_why_bspwm_watch_this_screencast_and/
+-- this seems to be why everyone
+likes bspwm, but i can't quite see the gif... let's hang out to see what happens
+ideas : changing the classname by identification in the bspwm tree!
+' sticky' scratchpad : will switch monitors only if the desktop is swapped with the other monitor.
+personal policy - 'scratchbad when opened occupies the biggest window'
+sticky normal terminal window (with tmux, via byobu) to the scratchpad is much more useful and allows for a single terminal window to be kept open rather than having to use many
+
+ui workflow : window actions focus and place the window in the main window on
+the target desktop
+
+https://www.reddit.com/r/unixporn/comments/1jubyi/arch_bspwm_never_going_back_to_xmonad/
+read on this!
+
+http://thedarnedestthing.com/bspwm
+idea : have window actions focus and place the window on the main window of the
+target desktop.
+
+a swap monitor action is very cool; may want to either retain or swap monitor
+focus independent of this! depending on the direction of the hotkey relative to
+the monitor which has focus.if key action points to opposite monitor, swap the
+desktop moving the focus with the desktop; else, retain focus on the current
+monitor while cycling the desktop
+
+toggling the dock! this is much more distraction free (through conky) as opposed
+to a continuously updating status line at the top or bottom of the screen. conky
+is super beautiful and configuring it would besuper useful. run conky above the
+desktop windows via xdotool as per sdothum's articles
+
+https://www.reddit.com/r/unixporn/comments/1jubyi/arch_bspwm_never_going_back_to_xmonad/
+
+this seems like hte most useful and powerful way to go in terms of a system
+configuration. make sure to use this one in the future.
+
+* i3 (currently using)
+
+- simple
+- intuitive, easy to configure, no recompilation required
+- however, it is difficult to configure some things and aothers get very complicated
+
+* herbstluftwm
+
+http://thedarnedestthing.com/herbstluftwm
+things it can do: (see sdothum here: http://thedarnedestthing.com/herbstluftwm%20workflow)
+- dynamic window placement to balance frames
+- dynamic window focus to avoid empty frame focus on application close
+- distraction free monocle layout proportions (versus fullscreen mode)
+- automatic desktop layout restore on focus and monitor swap*
+- quick monitor and frame swapping with focus directions
+- hide/unhide windows per desktop
+- pulsating borders to indicate overlapped windows
+- virtual monitors to show/hide the conky system information panel
+- single status bar to follow monitor focus and hint monitor geometry width
+- blur background if a window is present on the desktop
+note that monitor geometries are global when set.
+honestly his explanation is pretty complicated: there are a lot of things that can be done without this complex configuration
+can have a status bar that follows the monitor focus! killing the status bar isn't super effective, but using xdotool to manage the visibility of the panels seems muh more palatable
+
+check out his dotfiles for more information on this
+http://thedarnedestthing.com/herbstluftwm%20juggling
+
+* XMonad
+
+cool because it is written in and configured with haskell
+from my rough understanding, this is another manual tiling window manager (not automatic like bspwm)
+
+idea : rather than manually moving the window in between panels, shifting all of the workspaces 'one to the right' or 'one to the left' to refocus the panel u want at the center seems super valuable! this means that u dont have to reconfigure all of the stuff displayed at any given time)
+not sure if this is worthwhile as opposed to other things : bspwm doesn't do
+anythign other than window management, unlike other programs that may not
+integrate very well into the existing shell.
+
+benefits:
+- extensive multimonitor support
+- stable and feature rich
+- easy to configure and extend
+
+drawbacks:
+- huge
+- fractured into many different libraries
+- terrible floating layer that cannot always be avoided
+- using haskell (though this is also a pro!!)
+
+* dmenu
+
+rofi or dmenu ? i think that dmenu is worth trying - i like that it does not
+block anything on the screen and appears at the top instead
+http://thedarnedestthing.com/dmenu
+http://thedarnedestthing.com/dmenu2
+byobu ?? https://www.byobu.org/
+
+* diversifying systems
+
+you should probably install and set up multiple operating systems - one
+'experimental' one, with other 'stable' partitions in case the unstable one
+really messes up
+https://www.reddit.com/r/unixporn/comments/ff0o8d/refind_which_kernel_are_you_feeling_like_today/
+https://www.reddit.com/r/unixporn/comments/ff1xru/oc_freebsd_ricing_guide/ --
+helpful if i install bsd
+- void linux? bedrock linux?
+- macos -- make sure to have working configuration here
+- win10 -- how do i get a win10 configuration working well?
+- freebsd / openbsd ? i think the former is supposed to be cooler
+- nix / nixos (the dev ops os!111!11) -- guix is another os with a similar model
+refind configuration: https://github.com/ibhagwan/dots/blob/master/refind/refind.conf
+https://parabola.nu -- arch with all free software
+
+* configuration!
+
+[[https://www.reddit.com/r/unixporn/comments/gglodg/oc_archiso_second_version_of_my_custom_arch_linux/][incredible arch configuration]]
+
+* keybindings
+
+[[https://github.com/baskerville/sxhkd][keyboard hotkey demon]]
+may be worthwhile looking into some window manager independent way of
+configuring these hotkeys
+
+* windows (ugh)
+
+https://www.reddit.com/r/i3wm/comments/3b7a1j/closest_thing_to_i3_for_windows/cskcmjz/
+
+* etc
+
+look into configuring an rss feed reader for linux to subscribe to only more
+useful information.
+
+[[https://github.com/xero/dotfiles][cool dotfiles to look at]]
+
+* things to integrate
+
+  - whatever side manager that sdothum uses in lieu of the header interface
+  - ncmcpp for music
+  - an rss reader
+  - a terminal email client
+  - better notification daemon
+  - unifying chat app ? (slack/signal/discord/irc(????) frontend somehow)
+- twitter ? (may not want to browse twitter at all ...)
+    mail :: try mutt, neomutt, smth
+stream video over terminal or smth
+configure .desktop files properly for configuration
+
+* os to try
+
+  - nixOS / nix package management
+  - openBSD or freeBSD
+  - macOS installation
+
+* configuration
+
+  - terraform
+  - nixos
+  - windows
+  - script to set up dev environment on:
+    - windows
+    - macOS
+    - ubuntu
+    - arch
+    - some other system ??
+
+[[https://kkovacs.eu/cool-but-obscure-unix-tools/][terminal utils to look at]]
+
+below website is really good !!
+[[https://xn--gckvb8fzb.com/the-absurdity-of-modern-tools/][modern tools]]
+https://xn--gckvb8fzb.com/a-nomads-computer/
+
+[[https://github.com/achiurizo/consular][automate dev workflow setup ??]]
+
+* try this
+
+[[https://tudorr.ro/software/windowchef/][i like this website layout, not sure if super relevant]]

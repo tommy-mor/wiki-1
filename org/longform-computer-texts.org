@@ -1,0 +1,486 @@
+#+TITLE: Longform Computer Texts
+
+Feed: Pascal's Scribbles
+Title: Long-form Texts on Interesting Details of Computers
+Date: Wed, 15 Apr 2020 18:00:00 -0400
+Link: https://deterministic.space/several-months-of-reading-material.html
+
+It seems especially recently I’ve come across more and more long-form texts
+(think: hour-long blog posts; free books; series of posts). I especially like
+the ones that go into the very fine details of some niche topic and maybe also
+ramble a bit about completely unrelated but highly entertaining asides. And
+while I will probably never have enough time to read them all, I decided to at
+least collect some of them here for future reference. I’ll do my best to add
+summaries, and to update this list semi-regularly.
+
+Contents
+
+  * “Learn Rust With Entirely Too Many Linked Lists” by Alexis Beingessner[1]
+  * “Programming Algorithms” by Vsevolod Domkin[2]
+  * “Aspects of Rust” by multiple people[3]
+  * “Reading files the hard way” by Amos Wenger[4]
+  * “Making our own ping” by Amos Wenger[5]
+  * “Making our own executable packer” by Amos Wenger[6]
+  * “Parsing” by Aleksey Kladov[7]
+  * “JavaScript Allongé” by Reg “raganwald” Braithwaite[8]
+  * “Crafting Interpreters” by Robert Nystrom[9]
+  * “A relatively simple Datalog engine in Rust” by Frank McSherry[10]
+  * “Non-lexical lifetimes” by Niko Matsakis[11]
+  * “Shifgrethor” by Without Boats[12]
+  * “Rayon/Parallel Iterators” by Niko Matsakis[13]
+  * “How Rust optimizes async/await” by Tyler Mandry[14]
+  * “Writing an OS in Rust” by Philipp Oppermann[15]
+  * “Learning Parser Combinators With Rust” by Bodil Stokke[16]
+  * “Manish vs. ASCII” by Manish Goregaokar[17]
+  * “The Wayland Protocol” by Drew DeVault[18]
+
+“Learn Rust With Entirely Too Many Linked Lists[19]” by Alexis Beingessner
+
+(~180 pages; archived[20])
+
+The premise of this book is that writing a linked list is a beginner’s exercise
+in C but quite difficult to get right in Rust. So it takes that as an
+opportunity to do just what the title says: It teaches you Rust by implementing
+a linked list type in Rust, in five (as of April 2020) different ways.
+
+Niches: data structures; linked lists; rust; smart pointers
+
+Last update I saw: 2019-03-21
+
+“Programming Algorithms[21]” by Vsevolod Domkin
+
+(~300 pages; archived[22])
+
+Book covering a lot of different data structures and algorithms. “Its aim is to
+systematically explain how to write efficient programs and, also, the approaches
+and tools for determining why the program isn’t efficient enough.”
+
+Niches: data structures; algorithms; lisp
+
+Last update I saw: 2020-04-16
+
+“Aspects of Rust” by multiple people
+
+Several stand-alone posts by various people whose only connection is that they
+cover nice aspects of Rust.
+
+Niches: rust
+
+ 1.
+
+    A half-hour to learn Rust[23] (archived[24])
+
+    Whirlwind tour through Rust as a language by Amos Wenger.
+ 2.
+
+    Typed Key Pattern[25] (archived[26])
+
+    By Aleksey Kladov.
+ 3.
+
+    The Secret Life of Cows[27] (archived[28])
+
+    The Clone-on-Write smart pointer explained by yours truly.
+ 4.
+
+    Newtype Index Pattern[29] (archived[30])
+
+    By Aleksey Kladov.
+ 5.
+
+    How to implement a trait for &str and &[&str][31] (archived[32])
+
+    Some musing on traits and borrows by yours truly.
+ 6.
+
+    Declarative memory management[33] (archived[34])
+
+    By Amos Wenger. Introducing the complexities of memory management and the
+    ways Rust tries to represent them in a nice roundabout way.
+ 7.
+
+    Return-type based dispatch[31] (archived[32])
+
+    By yours. By specifying at some later point in the code which type you want
+    your function to return, the compiler can go back and fill in the blanks.
+ 8.
+
+    Working with strings in Rust[35] (archived[36])
+
+    By Amos Wenger. Following the memory management post, this looks at how
+    strings are actually pretty complicated and what Rust does about them.
+
+“Reading files the hard way” by Amos Wenger
+
+Writing files seems like a solved problem. But that doesn’t mean we can’t solve
+it again from scratch.
+
+Niches: POSIX; file systems; syscalls
+
+ 1. Part 1 (node.js, C, rust, strace)[37] (archived[38])
+ 2. Part 2 (x86 asm, linux kernel)[39] (archived[40])
+ 3. Part 3 (ftrace, disk layouts, ext4)[41] (archived[42])
+
+“Making our own ping” by Amos Wenger
+
+ 1. A short (and mostly wrong) history of computer networking[43] (archived[44])
+ 2. Windows dynamic libraries, calling conventions, and transmute[45]
+ (archived[46])
+ 3. FFI-safe types in Rust, newtypes and MaybeUninit[47] (archived[48])
+ 4. Designing and implementing a safer API on top of LoadLibrary[49]
+ (archived[50])
+ 5. A simple ping library, parsing strings into IPv4 address[51] (archived[52])
+ 6. The builder pattern, and a macro that keeps FFI code DRY[53] (archived[54])
+ 7. Finding the default network interface through WMI[55] (archived[56])
+ 8. Binding C APIs with variable-length structs and UTF-16[57] (archived[58])
+ 9. Consuming Ethernet frames with the nom crate[59] (archived[60])
+10. Improving error handling - panics vs. proper errors[61] (archived[62])
+11. Parsing IPv4 packets, including numbers smaller than bytes[63]
+(archived[64])
+12. Parsing and serializing ICMP packets with cookie-factory.[65] (archived[66])
+13. Crafting ARP packets to find a remote host’s MAC address[67] (archived[68])
+14. Crafting ICMP-bearing IPv4 packets with the help of bitvec[69]
+(archived[70])
+
+“Making our own executable packer” by Amos Wenger
+
+ 1. What’s in a Linux executable?[71] (archived[72])
+ 2. Running an executable without exec[73] (archived[74])
+ 3. Position-independent code[75] (archived[76])
+ 4. ELF relocations[77] (archived[78])
+ 5. The simplest shared library[79] (archived[80])
+ 6. Loading multiple ELF objects[81] (archived[82])
+ 7. Dynamic symbol resolution[83] (archived[84])
+ 8. Dynamic linker speed and correctness[85] (archived[86])
+ 9. GDB scripting and Indirect functions[87] (archived[88])
+10. Safer memory-mapped structures[89] (archived[90])
+11. More ELF relocations[91] (archived[92])
+12. A no_std Rust binary[93] (archived[94])
+13. Thread-local storage[95] (archived[96])
+
+“Parsing” by Aleksey Kladov
+
+Not a real series of articles but a collection of posts by someone whose Github
+bio reads “Stuck writing parsers”.
+
+Niches: parsers
+
+ 1. Modern Parser Generator[97] (archived[98])
+ 2. Simple but Powerful Pratt Parsing[99] (archived[100])
+ 3. From Pratt to Dijkstra[101] (archived[102])
+
+“JavaScript Allongé[103]” by Reg “raganwald” Braithwaite
+
+(~530 pages; archived[104])
+
+Niches: functional programming; obscure JavaScript
+
+Last update I saw: 2019-04-26
+
+“Crafting Interpreters[105]” by Robert Nystrom
+
+(~800 pages; archived[106])
+
+Last update I saw: 2020-04-05
+
+“A relatively simple Datalog engine in Rust[107]” by Frank McSherry
+
+(~20 pages; archived[108])
+
+Building a datalog engine in Rust.
+
+Niches: datalog
+
+“Non-lexical lifetimes” by Niko Matsakis
+
+One of the main features of the Rust language is the concept of ownership and
+lifetimes. This series of posts by Niko Matsakis, one of the designers of the
+Rust language, is about the theory and practical implementation of a revamped
+and more complete way of this in the Rust compiler. It starts in early 2016 and
+goes all the way to after they feature landed (end of 2018).
+
+ 1. Introduction[109] (archived[110])
+ 2. Non-lexical lifetimes based on liveness[111] (archived[112])
+ 3. Adding the outlives relation[113] (archived[114])
+ 4. Using liveness and location[115] (archived[116])
+ 5. Nested method calls via two-phase borrowing[117] (archived[118])
+ 6. Draft RFC and prototype available[119] (archived[120])
+ 7. An alias-based formulation of the borrow checker[121] (archived[122])
+ 8. MIR-based borrow check (NLL) status update[123] (archived[124])
+ 9. MIR-based borrowck is almost here[125] (archived[126])
+10. Interprocedural conflicts[127] (archived[128])
+11. Polonius and region errors[129] (archived[130])
+12. Polonius and the case of the hereditary harrop predicate[131]
+(archived[132])
+
+“Shifgrethor” by Without Boats
+
+A proposed API for a GC in Rust.
+
+ 1. Garbage collection as a Rust library[133] (archived[134])
+ 2. Notes on tracing garbage collectors[135] (archived[136])
+ 3. Rooting[137] (archived[138])
+ 4. Tracing[139] (archived[140])
+
+“Rayon/Parallel Iterators” by Niko Matsakis
+
+Niches: concurrency
+
+ 1. Rayon: Data parallelism in Rust[141] (archived[142])
+ 2. Parallel Iterators Part 1: Foundations[143] (archived[144])
+ 3. Parallel Iterators Part 2: Producers[145] (archived[146])
+ 4. Parallel Iterators, part 3: Consumers[147] (archived[148])
+
+“How Rust optimizes async/await” by Tyler Mandry
+
+Niches: compilers; memory layout
+
+ 1. Part I[149] (archived[150])
+ 2. Part II: Program analysis[151] (archived[152])
+
+“Writing an OS in Rust” by Philipp Oppermann
+
+Niches: operating systems, assembler
+
+ 1. A Freestanding Rust Binary[153] (archived[154])
+ 2. A Minimal Rust Kernel[155] (archived[156])
+ 3. VGA Text Mode[157] (archived[158])
+ 4. Testing[159] (archived[160])
+ 5. CPU Exceptions[161] (archived[162])
+ 6. Double Faults[163] (archived[164])
+ 7. Hardware Interrupts[165] (archived[166])
+ 8. Introduction to Paging[167] (archived[168])
+ 9. Paging Implementation[169] (archived[170])
+10. Heap Allocation[171] (archived[172])
+11. Allocator Designs[173] (archived[174])
+12. Async/Await[175] (archived[176])
+
+“Learning Parser Combinators With Rust[177]” by Bodil Stokke
+
+(~60 pages; archived[178])
+
+Assuming you know Rust, this teaches you the fundamentals of parser combinators
+in a very hands-on way.
+
+Niches: parsers
+
+“Manish vs. ASCII” by Manish Goregaokar
+
+Several posts on why assuming text is ASCII is unhelpful.
+
+Niches: unicode
+
+ 1.
+
+    Let’s Stop Ascribing Meaning to Code Points[179] (archived[180])
+
+    tl;dr you should not index into a Unicode text, like, ever.
+ 2.
+
+    Breaking Our Latin-1 Assumptions[181] (archived[182])
+
+    Examples for scripts/languages that really don’t work if you assume you have
+    ASCII text.
+ 3.
+
+    Picking Apart the Crashing iOS String[183] (archived[184])
+
+    Fun analysis of a Unicode rendering bug that crashed iOS devices.
+
+“The Wayland Protocol[185]” by Drew DeVault
+
+(~156 pages; archived[186])
+
+“Wayland is the next-generation display server for Unix-like systems[…] This
+book will help you establish a firm understanding of the concepts, design, and
+implementation of [it]”.
+
+Niches: wayland; graphics; protocols; unix
+
+Links:
+[1]: https://deterministic.space/feed.xml#learn-rust-with-entirely-too-many-linked-lists-by-alexis-beingessner (link)
+[2]: https://deterministic.space/feed.xml#programming-algorithms-by-vsevolod-domkin (link)
+[3]: https://deterministic.space/feed.xml#aspects-of-rust-by-multiple-people (link)
+[4]: https://deterministic.space/feed.xml#reading-files-the-hard-way-by-amos-wenger (link)
+[5]: https://deterministic.space/feed.xml#making-our-own-ping-by-amos-wenger (link)
+[6]: https://deterministic.space/feed.xml#making-our-own-executable-packer-by-amos-wenger (link)
+[7]: https://deterministic.space/feed.xml#parsing-by-aleksey-kladov (link)
+[8]: https://deterministic.space/feed.xml#javascript-allong%C3%A9-by-reg-raganwald-braithwaite (link)
+[9]: https://deterministic.space/feed.xml#crafting-interpreters-by-robert-nystrom (link)
+[10]: https://deterministic.space/feed.xml#a-relatively-simple-datalog-engine-in-rust-by-frank-mcsherry (link)
+[11]: https://deterministic.space/feed.xml#non-lexical-lifetimes-by-niko-matsakis (link)
+[12]: https://deterministic.space/feed.xml#shifgrethor-by-without-boats (link)
+[13]: https://deterministic.space/feed.xml#rayonparallel-iterators-by-niko-matsakis (link)
+[14]: https://deterministic.space/feed.xml#how-rust-optimizes-asyncawait-by-tyler-mandry (link)
+[15]: https://deterministic.space/feed.xml#writing-an-os-in-rust-by-philipp-oppermann (link)
+[16]: https://deterministic.space/feed.xml#learning-parser-combinators-with-rust-by-bodil-stokke (link)
+[17]: https://deterministic.space/feed.xml#manish-vs-ascii-by-manish-goregaokar (link)
+[18]: https://deterministic.space/feed.xml#the-wayland-protocol-by-drew-devault (link)
+[19]: https://rust-unofficial.github.io/too-many-lists/index.html (link)
+[20]: https://web.archive.org/web/20200416132847/https://rust-unofficial.github.io/too-many-lists/index.html (link)
+[21]: https://leanpub.com/progalgs/read (link)
+[22]: https://web.archive.org/web/20200416131734/https://leanpub.com/progalgs/read (link)
+[23]: https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/ (link)
+[24]: https://web.archive.org/web/20200416203813/https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/ (link)
+[25]: https://matklad.github.io/2018/05/24/typed-key-pattern.html (link)
+[26]: https://web.archive.org/web/20200426170858/https://matklad.github.io/2018/05/24/typed-key-pattern.html (link)
+[27]: https://deterministic.space/secret-life-of-cows.html (link)
+[28]: https://web.archive.org/web/20200426171212/https://deterministic.space/secret-life-of-cows.html (link)
+[29]: https://matklad.github.io/2018/06/04/newtype-index-pattern.html (link)
+[30]: https://web.archive.org/web/20200426170901/https://matklad.github.io/2018/06/04/newtype-index-pattern.html (link)
+[31]: https://deterministic.space/return-type-based-dispatch.html (link)
+[32]: https://web.archive.org/web/20200426171311/https://deterministic.space/return-type-based-dispatch.html (link)
+[33]: https://fasterthanli.me/blog/2019/declarative-memory-management/ (link)
+[34]: https://web.archive.org/web/20200416202910/https://fasterthanli.me/blog/2019/declarative-memory-management/ (link)
+[35]: https://fasterthanli.me/blog/2020/working-with-strings-in-rust/ (link)
+[36]: https://web.archive.org/web/20200416203533/https://fasterthanli.me/blog/2020/working-with-strings-in-rust/ (link)
+[37]: https://fasterthanli.me/blog/2019/reading-files-the-hard-way/ (link)
+[38]: https://web.archive.org/web/20200416203146/https://fasterthanli.me/blog/2019/reading-files-the-hard-way/ (link)
+[39]: https://fasterthanli.me/blog/2019/reading-files-the-hard-way-2/ (link)
+[40]: https://web.archive.org/web/20200416203148/https://fasterthanli.me/blog/2019/reading-files-the-hard-way-2/ (link)
+[41]: https://fasterthanli.me/blog/2019/reading-files-the-hard-way-3/ (link)
+[42]: https://web.archive.org/web/20200416203157/https://fasterthanli.me/blog/2019/reading-files-the-hard-way-3/ (link)
+[43]: https://fasterthanli.me/blog/2019/making-our-own-ping/ (link)
+[44]: https://web.archive.org/web/20200416134726/https://fasterthanli.me/blog/2019/making-our-own-ping/ (link)
+[45]: https://fasterthanli.me/blog/2019/making-our-own-ping-2/ (link)
+[46]: https://web.archive.org/web/20200416145917/https://fasterthanli.me/blog/2019/making-our-own-ping-2/ (link)
+[47]: https://fasterthanli.me/blog/2019/making-our-own-ping-3/ (link)
+[48]: https://web.archive.org/web/20200416145936/https://fasterthanli.me/blog/2019/making-our-own-ping-3/ (link)
+[49]: https://fasterthanli.me/blog/2019/making-our-own-ping-4/ (link)
+[50]: https://web.archive.org/web/20200416145936/https://fasterthanli.me/blog/2019/making-our-own-ping-4/ (link)
+[51]: https://fasterthanli.me/blog/2019/making-our-own-ping-5/ (link)
+[52]: https://web.archive.org/web/20200416145942/https://fasterthanli.me/blog/2019/making-our-own-ping-5/ (link)
+[53]: https://fasterthanli.me/blog/2019/making-our-own-ping-6/ (link)
+[54]: https://web.archive.org/web/20200416145943/https://fasterthanli.me/blog/2019/making-our-own-ping-6/ (link)
+[55]: https://fasterthanli.me/blog/2019/making-our-own-ping-7/ (link)
+[56]: https://web.archive.org/web/20200416145943/https://fasterthanli.me/blog/2019/making-our-own-ping-7/ (link)
+[57]: https://fasterthanli.me/blog/2019/making-our-own-ping-8/ (link)
+[58]: https://web.archive.org/web/20200416150009/https://fasterthanli.me/blog/2019/making-our-own-ping-8/ (link)
+[59]: https://fasterthanli.me/blog/2019/making-our-own-ping-9/ (link)
+[60]: https://web.archive.org/web/20200416150006/https://fasterthanli.me/blog/2019/making-our-own-ping-9/ (link)
+[61]: https://fasterthanli.me/blog/2019/making-our-own-ping-10/ (link)
+[62]: https://web.archive.org/web/20200416150009/https://fasterthanli.me/blog/2019/making-our-own-ping-10/ (link)
+[63]: https://fasterthanli.me/blog/2019/making-our-own-ping-11/ (link)
+[64]: https://web.archive.org/web/20200416150021/https://fasterthanli.me/blog/2019/making-our-own-ping-11/ (link)
+[65]: https://fasterthanli.me/blog/2019/making-our-own-ping-12/ (link)
+[66]: https://web.archive.org/web/20200416150207/https://fasterthanli.me/blog/2019/making-our-own-ping-12/ (link)
+[67]: https://fasterthanli.me/blog/2019/making-our-own-ping-13/ (link)
+[68]: https://web.archive.org/web/20200416150054/https://fasterthanli.me/blog/2019/making-our-own-ping-13/ (link)
+[69]: https://fasterthanli.me/blog/2019/making-our-own-ping-14/ (link)
+[70]: https://web.archive.org/web/20200416150207/https://fasterthanli.me/blog/2019/making-our-own-ping-14/ (link)
+[71]: https://fasterthanli.me/blog/2020/whats-in-a-linux-executable/ (link)
+[72]: https://web.archive.org/web/20200416203931/https://fasterthanli.me/blog/2020/whats-in-a-linux-executable/ (link)
+[73]: https://fasterthanli.me/blog/2020/running-an-executable-without-exec/ (link)
+[74]: https://web.archive.org/web/20200416203942/https://fasterthanli.me/blog/2020/running-an-executable-without-exec/ (link)
+[75]: https://fasterthanli.me/blog/2020/position-independent-code/ (link)
+[76]: https://web.archive.org/web/20200416203931/https://fasterthanli.me/blog/2020/position-independent-code/ (link)
+[77]: https://fasterthanli.me/blog/2020/elf-relocations/ (link)
+[78]: https://web.archive.org/web/20200416203942/https://fasterthanli.me/blog/2020/elf-relocations/ (link)
+[79]: https://fasterthanli.me/blog/2020/the-simplest-shared-library/ (link)
+[80]: https://web.archive.org/web/20200416203942/https://fasterthanli.me/blog/2020/the-simplest-shared-library/ (link)
+[81]: https://fasterthanli.me/blog/2020/loading-multiple-elf-objects/ (link)
+[82]: https://web.archive.org/web/20200416203946/https://fasterthanli.me/blog/2020/loading-multiple-elf-objects/ (link)
+[83]: https://fasterthanli.me/blog/2020/dynamic-symbol-resolution/ (link)
+[84]: https://web.archive.org/web/20200416203951/https://fasterthanli.me/blog/2020/dynamic-symbol-resolution/ (link)
+[85]: https://fasterthanli.me/blog/2020/dynamic-linker-speed-and-correctness/ (link)
+[86]: https://web.archive.org/web/20200416203951/https://fasterthanli.me/blog/2020/dynamic-linker-speed-and-correctness/ (link)
+[87]: https://fasterthanli.me/blog/2020/gdb-scripting-and-indirect-functions/ (link)
+[88]: https://web.archive.org/web/20200416203954/https://fasterthanli.me/blog/2020/gdb-scripting-and-indirect-functions/ (link)
+[89]: https://fasterthanli.me/blog/2020/safer-memory-mapped-structures/ (link)
+[90]: https://web.archive.org/web/20200416204004/https://fasterthanli.me/blog/2020/safer-memory-mapped-structures/ (link)
+[91]: https://fasterthanli.me/blog/2020/more-elf-relocations/ (link)
+[92]: https://web.archive.org/web/20200416204015/https://fasterthanli.me/blog/2020/more-elf-relocations/ (link)
+[93]: https://fasterthanli.me/blog/2020/a-no-std-rust-binary/ (link)
+[94]: https://web.archive.org/web/20200426170253/https://fasterthanli.me/blog/2020/a-no-std-rust-binary/ (link)
+[95]: https://fasterthanli.me/blog/2020/thread-local-storage/ (link)
+[96]: https://web.archive.org/web/20200504104021/https://fasterthanli.me/blog/2020/thread-local-storage/ (link)
+[97]: https://matklad.github.io/2018/06/06/modern-parser-generator.html (link)
+[98]: https://web.archive.org/web/20200426170539/https://matklad.github.io/2018/06/06/modern-parser-generator.html (link)
+[99]: https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html (link)
+[100]: https://web.archive.org/web/20200416155208/https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html (link)
+[101]: https://matklad.github.io/2020/04/15/from-pratt-to-dijkstra.html (link)
+[102]: https://web.archive.org/web/20200416155220/https://matklad.github.io/2020/04/15/from-pratt-to-dijkstra.html (link)
+[103]: https://leanpub.com/javascriptallongesix/read (link)
+[104]: https://web.archive.org/web/20200416145246/https://leanpub.com/javascriptallongesix/read (link)
+[105]: http://craftinginterpreters.com/contents.html (link)
+[106]: https://web.archive.org/web/20200411062649/http://craftinginterpreters.com/contents.html (link)
+[107]: https://github.com/frankmcsherry/blog/blob/81e9555bbee110954f2c3d35caf86ea7e7612fa6/posts/2018-05-19.md (link)
+[108]: https://web.archive.org/web/20200423163205/https://github.com/frankmcsherry/blog/blob/81e9555bbee110954f2c3d35caf86ea7e7612fa6/posts/2018-05-19.md (link)
+[109]: https://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/ (link)
+[110]: https://web.archive.org/web/20200416170054/https://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/ (link)
+[111]: http://smallcultfollowing.com/babysteps/blog/2016/05/04/non-lexical-lifetimes-based-on-liveness/ (link)
+[112]: https://web.archive.org/web/20190917065228/http://smallcultfollowing.com/babysteps/blog/2016/05/04/non-lexical-lifetimes-based-on-liveness/ (link)
+[113]: https://smallcultfollowing.com/babysteps/blog/2016/05/09/non-lexical-lifetimes-adding-the-outlives-relation/ (link)
+[114]: https://web.archive.org/web/20200416170116/https://smallcultfollowing.com/babysteps/blog/2016/05/09/non-lexical-lifetimes-adding-the-outlives-relation/ (link)
+[115]: https://smallcultfollowing.com/babysteps/blog/2017/02/21/non-lexical-lifetimes-using-liveness-and-location/ (link)
+[116]: https://web.archive.org/web/20200416170119/https://smallcultfollowing.com/babysteps/blog/2017/02/21/non-lexical-lifetimes-using-liveness-and-location/ (link)
+[117]: https://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/ (link)
+[118]: https://web.archive.org/web/20200416170122/https://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/ (link)
+[119]: https://smallcultfollowing.com/babysteps/blog/2017/07/11/non-lexical-lifetimes-draft-rfc-and-prototype-available/ (link)
+[120]: https://web.archive.org/web/20200416170125/https://smallcultfollowing.com/babysteps/blog/2017/07/11/non-lexical-lifetimes-draft-rfc-and-prototype-available/ (link)
+[121]: https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/ (link)
+[122]: https://web.archive.org/web/20200416170128/https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/ (link)
+[123]: https://smallcultfollowing.com/babysteps/blog/2018/06/15/mir-based-borrow-check-nll-status-update/ (link)
+[124]: https://web.archive.org/web/20200416170132/https://smallcultfollowing.com/babysteps/blog/2018/06/15/mir-based-borrow-check-nll-status-update/ (link)
+[125]: https://smallcultfollowing.com/babysteps/blog/2018/10/31/mir-based-borrowck-is-almost-here/ (link)
+[126]: https://web.archive.org/web/20200416170139/https://smallcultfollowing.com/babysteps/blog/2018/10/31/mir-based-borrowck-is-almost-here/ (link)
+[127]: https://smallcultfollowing.com/babysteps/blog/2018/11/01/after-nll-interprocedural-conflicts/ (link)
+[128]: https://web.archive.org/web/20200416170144/https://smallcultfollowing.com/babysteps/blog/2018/11/01/after-nll-interprocedural-conflicts/ (link)
+[129]: https://smallcultfollowing.com/babysteps/blog/2019/01/17/polonius-and-region-errors/ (link)
+[130]: https://web.archive.org/web/20200416170147/https://smallcultfollowing.com/babysteps/blog/2019/01/17/polonius-and-region-errors/ (link)
+[131]: https://smallcultfollowing.com/babysteps/blog/2019/01/21/hereditary-harrop-region-constraints/ (link)
+[132]: https://web.archive.org/web/20200416170150/https://smallcultfollowing.com/babysteps/blog/2019/01/21/hereditary-harrop-region-constraints/ (link)
+[133]: https://boats.gitlab.io/blog/post/shifgrethor-i/ (link)
+[134]: https://web.archive.org/web/20200416172628/https://boats.gitlab.io/blog/post/shifgrethor-i/ (link)
+[135]: https://boats.gitlab.io/blog/post/shifgrethor-ii/ (link)
+[136]: https://web.archive.org/web/20200416172630/https://boats.gitlab.io/blog/post/shifgrethor-ii/ (link)
+[137]: https://boats.gitlab.io/blog/post/shifgrethor-iii/ (link)
+[138]: https://web.archive.org/web/20200416172636/https://boats.gitlab.io/blog/post/shifgrethor-iii/ (link)
+[139]: https://boats.gitlab.io/blog/post/shifgrethor-iv/ (link)
+[140]: https://web.archive.org/web/20200416172639/https://boats.gitlab.io/blog/post/shifgrethor-iv/ (link)
+[141]: https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/ (link)
+[142]: https://web.archive.org/web/20200423162646/https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/ (link)
+[143]: https://smallcultfollowing.com/babysteps/blog/2016/02/19/parallel-iterators-part-1-foundations/ (link)
+[144]: https://web.archive.org/web/20200423162647/https://smallcultfollowing.com/babysteps/blog/2016/02/19/parallel-iterators-part-1-foundations/ (link)
+[145]: https://smallcultfollowing.com/babysteps/blog/2016/02/25/parallel-iterators-part-2-producers/ (link)
+[146]: https://web.archive.org/web/20200423162653/https://smallcultfollowing.com/babysteps/blog/2016/02/25/parallel-iterators-part-2-producers/ (link)
+[147]: https://smallcultfollowing.com/babysteps/blog/2016/11/14/parallel-iterators-part-3-consumers/ (link)
+[148]: https://web.archive.org/web/20200423162650/https://smallcultfollowing.com/babysteps/blog/2016/11/14/parallel-iterators-part-3-consumers/ (link)
+[149]: https://tmandry.gitlab.io/blog/posts/optimizing-await-1/ (link)
+[150]: https://web.archive.org/web/20200417142143/https://tmandry.gitlab.io/blog/posts/optimizing-await-1/ (link)
+[151]: https://tmandry.gitlab.io/blog/posts/optimizing-await-2/ (link)
+[152]: https://web.archive.org/web/20200417142149/https://tmandry.gitlab.io/blog/posts/optimizing-await-2/ (link)
+[153]: https://os.phil-opp.com/freestanding-rust-binary/ (link)
+[154]: https://web.archive.org/web/20200419114640/https://os.phil-opp.com/freestanding-rust-binary/ (link)
+[155]: https://os.phil-opp.com/minimal-rust-kernel/ (link)
+[156]: https://web.archive.org/web/20200419114644/https://os.phil-opp.com/minimal-rust-kernel/ (link)
+[157]: https://os.phil-opp.com/vga-text-mode/ (link)
+[158]: https://web.archive.org/web/20200419114648/https://os.phil-opp.com/vga-text-mode/ (link)
+[159]: https://os.phil-opp.com/testing/ (link)
+[160]: https://web.archive.org/web/20200419114651/https://os.phil-opp.com/testing/ (link)
+[161]: https://os.phil-opp.com/cpu-exceptions/ (link)
+[162]: https://web.archive.org/web/20200419114838/https://os.phil-opp.com/cpu-exceptions/ (link)
+[163]: https://os.phil-opp.com/double-fault-exceptions/ (link)
+[164]: https://web.archive.org/web/20200419114841/https://os.phil-opp.com/double-fault-exceptions/ (link)
+[165]: https://os.phil-opp.com/hardware-interrupts/ (link)
+[166]: https://web.archive.org/web/20200419114844/https://os.phil-opp.com/hardware-interrupts/ (link)
+[167]: https://os.phil-opp.com/paging-introduction/ (link)
+[168]: https://web.archive.org/web/20200419115000/https://os.phil-opp.com/paging-introduction/ (link)
+[169]: https://os.phil-opp.com/paging-implementation/ (link)
+[170]: https://web.archive.org/web/20200419115003/https://os.phil-opp.com/paging-implementation/ (link)
+[171]: https://os.phil-opp.com/heap-allocation/ (link)
+[172]: https://web.archive.org/web/20200419115006/https://os.phil-opp.com/heap-allocation/ (link)
+[173]: https://os.phil-opp.com/allocator-designs/ (link)
+[174]: https://web.archive.org/web/20200419115009/https://os.phil-opp.com/allocator-designs/ (link)
+[175]: https://os.phil-opp.com/async-await/ (link)
+[176]: https://web.archive.org/web/20200419115012/https://os.phil-opp.com/async-await/ (link)
+[177]: https://bodil.lol/parser-combinators/ (link)
+[178]: https://web.archive.org/web/20200423162949/https://bodil.lol/parser-combinators/ (link)
+[179]: https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/ (link)
+[180]: https://web.archive.org/web/20200430223156/https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/ (link)
+[181]: https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/ (link)
+[182]: https://web.archive.org/web//https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/ (link)
+[183]: https://manishearth.github.io/blog/2018/02/15/picking-apart-the-crashing-ios-string/ (link)
+[184]: https://web.archive.org/web/20200430223226/https://manishearth.github.io/blog/2018/02/15/picking-apart-the-crashing-ios-string/ (link)
+[185]: https://wayland-book.com/ (link)
+[186]: https://web.archive.org/web/20200505182132/https://wayland-book.com/ (link)

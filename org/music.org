@@ -1,0 +1,133 @@
+#+TITLE: Music
+
+Programming and music.
+
+* Tools
+- MPD
+  https://github.com/drewt/scmus
+
+* Notes
+ncmpcpp is an mpt client, the frontend for mpd
+
+** Installation
+can configure thing !
+
+install: ncmpcpp, mopidy, mopidy-mpd, mopidy-spotify
+
+configuration:
+the mopidy service by default reads its configuration from
+/etc/mopidy/mopidy.conf, not from ~/.config;
+
+trying a symlink
+symlink didn't work out
+just going to start it in userspace
+
+*** mopidy-spotify
+
+goto https://mopidy.com/ext/spotify/#authentication and authenticate
+its unclear how i can even search with this interface!!
+
+** idea: dishwasher with auto soap dispenser. duh
+
+[[Displaying art with
+ncmcpp][https://github.com/ngynLk/dotfiles/tree/master/.ncmpcpp]]
+
+[[https://wiki.znc.in/ZNC][configure irc bouncer so that irc clients can stay in session]]
+
+* setting up mutt for gmail
+
+[[https://news.ycombinator.com/item?id=14567074][on using mutt]]
+make sure to generate an additional password for two factor auth
+other than that everything is fine
+mutt is not a fun user experience ....
+
+* other configuration (TODO)
+
+set up server
+host music on this server
+
+goal configuration::
+- music streaming from custom server to local system
+- single client for all messaging platforms (matrix,irc,slack,discord.....) (matrix??)
+- rss feed from a single server (tt-rss, newsboat)
+- better autosync solution than dropbox
+- controlling things in house, different places etc
+- reproducible system configuration
+[[https://www.reddit.com/r/selfhosted/][selfhosted community]]
+
+- a place to view social media easily and centralized:
+- twitter/mastodon/instagram (??)
+
+[[https://hobo.house/2017/07/17/using-offlineimap-with-the-gmail-imap-api/][offlineimap]]
+[[https://bedrocklinux.org/][bedrock linux: mix and match components from different linux distributions]]
+
+https://metasyn.github.io/learn-orca/#percussion
+
+https://timput.com/posts/mailserver.html self hosting email with nixos and
+vultr !
+https://thedorkweb.substack.com/p/tales-from-the-dork-web-10 making a cool
+thing
+
+https://www-cs-faculty.stanford.edu/~knuth/taocp.html classic. may be a good
+read, sounds like a waste of time right now . probably a cool gift or
+something to purchase though !
+
+https://geekflare.com/multiple-domains-on-one-server-with-apache-nginx/
+pertinent for the server configuration
+
+https://beta.openai.com/ openai analysis through an api!
+
+https://github.com/musikinformatik/Steno music for live coding .
+https://supercollider.github.io/ the classic live coding librar
+https://github.com/toplap/awesome-livecoding/blob/master/README.md great
+livecoding resources
+* resources
+[[https://www.spitfireaudio.com/labs/][free software instruments]]
+
+[[https://supercollider.github.io/][music engine]]
+[[https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html][reinventing the wheel with pytorch]]
+[[https://metasyn.github.io/learn-orca/#percussion][percussion machine]]
+[[https://audiomass.co/][neat audio file editor]]
+
+https://www.youtube.com/watch?v=x0BpPa72qCE&app=desktop
+http://www.pd-tutorial.com/english/index.html
+https://vcvrack.com/
+https://forum.bela.io/d/1277-c-real-time-audio-programming-with-bela-a-free-online-course
+https://www.syntorial.com/
+https://ccrma.stanford.edu/~jos/
+
+https://www.purrdata.net/
+https://teddykoker.com/2020/05/deep-learning-for-guitar-effect-emulation/
+https://arxiv.org/html/1202.4212
+https://git.sr.ht/~rabbits/orca
+https://sonic-pi.net/
+https://www.simple.com/blog/behind-the-budget-how-to-build-your-own-synthesizer-with-simples-kelly-d
+https://syntherjack.net/how-to-start-synth-diy/
+
+https://www.gwern.net/GPT-2-music#generating-midi-with-10k30k-context-windows
+-- generating music automatically!!
+https://bjooks.com/ -- music book website
+https://www.soundonsound.com/reviews/push-turn-move -- highly recommended; a
+book written about how we interact with electronic instruments. for synth
+enthusiasts and music industrial designers!
+http://everynoise.com/engenremap-vaporsoul.html
+http://everynoise.com/engenremap-indiepoptimism.html
+http://everynoise.com/engenremap-indiepoptimism.html
+http://everynoise.com/retromatic.html
+http://everynoise.com/engenremap-vaportrap.html
+http://everynoise.com/engenremap-escaperoom.html
+** making music
+https://learningsynths.ableton.com/
+https://learningmusic.ableton.com/
+https://www.ableton.com/en/blog/ideas-offers-making-music-home/
+https://musiclab.chromeexperiments.com/
+** making the making of music
+https://tonejs.github.io/
+https://www.youtube.com/watch?v=JZ5yPdoPooU
+https://www.youtube.com/watch?v=x-1_TEETVOA
+https://www.reddit.com/r/synthesizers/comments/fxhogj/im_a_bassist_and_producer_and_i_love_synths_i/
+
+
+* music
+[[https://www.youtube.com/watch?v=ONloOhDLrFU&app=desktop][inspiration: turning ideas into tracks]]
+[[https://www.bitwig.com/en/bitwig-studio.html][bitwig: linux daw]]

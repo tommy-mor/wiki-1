@@ -1,7 +1,7 @@
 +++
 title = "Hackathon"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T15:52:02-07:00
+lastmod = 2020-08-01T19:21:02-07:00
 slug = "hackathon"
 draft = false
 +++
@@ -95,3 +95,21 @@ These recordings can be:
 -   Exported: this can be done in the same way tracks are played back.
 -   Converted to linear tracks. You can 'export' a branch to a linear arrangement to make it easier to edit and turn into a complete song without having to record it! This process generates the appropriate pauses in between the different parts of the music and loops to ensure that the different segments of the track are run at the right time and in the right order.
     This allows artists to take live coding projects that have been performed. convert them into full-fledged tracks, and export them without having to perform them.
+
+
+## Spell Check Hook {#spell-check-hook}
+
+I hate improper spelling or formatting.
+A linter that checks for proper spelling in a project with git hooks!
+You won't be able to commit to your projecct until you fix those spelling errors.
+
+
+## GitHub README Information Generators {#github-readme-information-generators}
+
+These are tools dynamically queried by README files that show information about specific projects.
+They're lightweight and easily hosted.
+<https://github.com/anuraghazra/github-readme-stats> is a good place to start for learning how to make one such banner.
+
+Look into dynamically configuring and formatting text via a specific web query. Perhaps a server can be made to accept arbitrary html/css and output an image with this information?
+
+I'll also need a tool for converting such a file into a URL-compatible version, see <https://stackoverflow.com/questions/1547899/which-characters-make-a-url-invalid#1547940>.

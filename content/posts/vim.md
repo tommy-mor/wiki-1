@@ -1,7 +1,7 @@
 +++
 title = "Vim"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T17:32:59-07:00
+lastmod = 2020-08-01T19:34:22-07:00
 slug = "vim"
 draft = false
 +++
@@ -35,3 +35,4 @@ programming environments.
 ## Tools {#tools}
 
 <https://github.com/glacambre/firenvim> neovim in the browser
+<https://github.com/puremourning/vimspector> debugging system for vim

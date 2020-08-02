@@ -25,3 +25,4 @@ programming environments.
 
 * Tools
 https://github.com/glacambre/firenvim neovim in the browser
+https://github.com/puremourning/vimspector debugging system for vim

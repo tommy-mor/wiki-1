@@ -1,0 +1,10 @@
+[[http://gigamonkeys.com/book/][practical common lisp]]
+[[https://www.dreamsongs.com/WIB.html][winning big with lisp]]
+
+[[http://lisperator.net/blog/queen-chess-fast-lisp/][queens]]
+[[http://lisperator.net/blog/a-little-javascript-problem/][js problem]]
+[[http://lisperator.net/blog/pull-request-based-development-sucks/][pr based dev]]
+[[http://lisperator.net/blog/gazing-at-the-numbers-the-collatz-sequence/][collatz seq]]
+[[http://lisperator.net/blog/the-left-pad-case/][leftpad]]
+[[http://lisperator.net/blog/minesweeper-and-interviewing/][minesweeper and interviewing]]
+https://www.datprotocol.com/ hypermedia protocol!

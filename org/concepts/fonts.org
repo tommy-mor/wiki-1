@@ -208,3 +208,22 @@ https://airbnb.design/introducing-airbnb-cereal/ -- airbnb neat font
 https://fontsinuse.com/uses/2291/ableton-website -- ableton fonts!
 [[https://www.creativebloq.com/features/5-ways-type-can-define-brands][reading on type defining a brand]]
 https://glyphsapp.com/ good tool
+
+* good terminal fonts
+source code pro
+jet brains mono
+iosveka
+ibm plex
+fira code
+pragmata pro
+dank mono
+victor mono
+menlo
+consolas
+roboto mono
+adore64
+hermit light
+opendyslexic mono
+cascadia code pl
+source code pro with emacs hasklig mode
+https://github.com/huytd/haskplex-font put this on the AUR!

@@ -1,0 +1,13 @@
+#+TITLE: Algorithms
+
+* To Investigate
+https://shachaf.net/w/b-trees
+https://en.m.wikipedia.org/wiki/Assignment_problem
+https://github.com/benchaplin/hungarian-algorithm
+https://news.ycombinator.com/item?id=21577659 -- space invaders genetic
+algorithm
+https://dynamic-programming.debkbanerji.com/select-problem visualization of
+dp problems
+https://www.youtube.com/watch?v=xP5-iIeKXE8&utm_source=Hackaday.com&utm_campaign=ec4864ced1-EMAIL_CAMPAIG
+-- figure out how this works!
+https://dynamic-programming.debkbanerji.com/select-problem -- dp visualization

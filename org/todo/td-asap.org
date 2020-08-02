@@ -1,0 +1,364 @@
+https://imgur.com/a/fQJqc
+https://gerrit.googlesource.com/git-repo/+/refs/heads/master/README.md
+https://mitadmissions.org/blogs/entry/the-last-all-nighter/#disqus_thread
+https://mitadmissions.org/blogs/entry/techfair/
+https://mitadmissions.org/blogs/entry/for-the-love-of-6470-montresor/
+http://varenhor.st/2009/07/idoor-iphone-controlled-hydraulic-door/
+https://people.csail.mit.edu/karger/
+https://en.wikipedia.org/wiki/David_Karger
+https://www.stephanboyer.com/post/17/my-electric-unicycle
+https://www.stephanboyer.com/
+
+* check out live coding with oculus and racket
+[[https://www.youtube.com/watch?v=ydyztGZnbNs&app=desktop][carmack live]]
+[[https://merveilles.town/@rek][figure out what this is]]
+
+[[https://news.ycombinator.com/item?id=23211184][learning strategy]]
+[[https://www.youtube.com/watch?v=kEB11PQ9Eo8&app=desktop][non euc engine]]
+[[https://www.kernel.org/doc/html/latest/driver-api/fpga/index.html][linux fpga subsystem]]
+[[https://www.devontechnologies.com/apps/devonagent][research assistant search]]
+[[https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/][learning from podcasts!!]]
+[[https://news.ycombinator.com/item?id=23180572][p2p filesystem]]
+[[https://news.ycombinator.com/item?id=23191493][modern web]]
+[[https://observablehq.com/@jakechvatal][observable:what is this?]]
+[[https://digitalmars.com/articles/b90.html][on writing a pl]]
+[[https://www.realworldtech.com/][real world tech]]
+[[https://thume.ca/resume/][i like layout of resume and pers proj]]
+[[https://github.com/eggcaker/jekyll-org/blob/master/README.org][jekyll org]]
+[[http://www.brendangregg.com/][coolguy]]
+[[https://marian42.itch.io/wfc][proced gen for linux]]
+[[https://github.com/kylesferrazza/ansible][what is ansible]]
+
+[[https://wiki.archlinux.org/index.php/Realtime_kernel_patchset][realtime kernel patch for 0 latency]] 
+[[https://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part1.html][loom]]:loom
+is all about doing threads right!
+[[https://github.com/rmccullagh/letsbuildacompiler][lets build a compiler book]]
+[[https://github.com/itsrainingmani/gitexplore][check this out!]]
+[[https://utcc.utoronto.ca/~cks/space/blog/web/HTTPSNoOldServers][good blog]]
+[[https://news.ycombinator.com/item?id=23174421][crypto msging]]
+[[https://en.wikipedia.org/wiki/List_of_cognitive_biases][for ui design]]
+[[https://sites.google.com/site/steveyegge2/blog-rants][steve on amazon]]
+[[https://synthese.wordpress.com/2010/08/21/prologs-death/][death of prolog]]
+[[http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html][bpf:packet filter and kernel execution engine. what]]
+[[https://blog.mainframe.dev/?m=1][this man rly do be making a mainframe tho]]
+[[https://urbit.org/understanding-urbit/urbit-os/][urbitOS!!]]
+[[https://ipj.dreamhosters.com/][internet protocol journal]]
+[[https://dlang.org/blog/2020/05/14/lomutos-comeback/][dlang adn algo]]
+[[https://www.hillelwayne.com/post/alloydocs/][alloy: the neat formal method]]
+[[http://alloytools.org/][alloy - os lang and analyzer for software modeling]]
+[[https://www.hillelwayne.com/post/influential-dead-languages/][on influential dead languages]]
+
+configure mpd !
+mpv video player or somethign
+tox client for secure messaging?
+qutebrowser will have to wait
+[[https://rclone.org/drive/#making-your-own-client-id][rclone or smth]]
+
+* cool topics to study
+[[http://matt.might.net/articles/what-cs-majors-should-know/][what every cs major should know]]
+[[https://thebreadbook.org/][the bread book :: a free society for everyone!]]
+[[http://www.ccs.neu.edu/home/pete/courses/Computer-Aided-Reasoning/2018-Fall/][computer aided reasoning: cool topic]]
+[[https://www.cs.cornell.edu/people/egs/beehive/codons.php][cocodns: new name service to replace dns for the internet!]]
+
+[[https://verifcomp.dbp.io/][verifcomp]]
+[[https://en.wikipedia.org/wiki/The_Dragon_Prince][made by the avatar ppl]]
+[[https://en.wikipedia.org/wiki/Public_Opinion_(book)][public opinion]]
+[[https://github.com/rickellis/ArchMatic][arch setup scripts]]
+[[https://quasarbright.github.io/MachineLearning/README][gan work]]
+[[https://www.everything2.com/index.pl?node_id=892542][the polyphasic sleep cycle]]
+
+* Working Effectively
+[[https://www.stevestreeting.com/2010/09/04/work-2-0/][article]]
+- Problem: staying 'in the zone' is just not healthy or effective for a
+  programmer! However, long periods of concentration are vital for a
+  programmer to better understand their code and succeed. This crazy
+  dedication helps develop unhealthy habits and can prevent you from
+  properly focusing.
+
+- Concentration periods are the most important part of programming. Losing
+  concentration means losing all context, and losing all context means that
+  you'll spend lots of time reorienting yourself and entering a stronger
+  period of focus.
+
+- It's difficult to adjust, and this leads to substantially decreased
+  productivity.
+
+To improve:
+1. Embrace interruptions. Learn to accept interruptions and avoid giving up
+through them.
+2. Maintain context outside of your head at all times. Always explicitly
+comment and track what you're doing, teh decisions you're making. etc.
+Externalizing thoughts can help you clarify them! Every so often, make sure
+to record these (the author does this at 30 minute intervals).
+3. Ignore tangental issues. Focus on the singular current task and don't
+worry about things that could get you sidetracked! Write those down with a
+ticket system that's fast, lightweight and agnostic to the amount of detail
+put into these thoughts. The most important thing to do is to put this idea
+away until it can be summoned in a future context.
+4. Always know of the one thing you will do next.
+5. Prioritize negatively :: assume baseline that you will not do any of the
+tasks, then assess the negative outcomes of not doing each one. Perform the
+task that will have the most negative outcome first.
+6. Recognize the benefits of breaks. Breaks have great benefits, encourage
+better health, and can offer a new context from which the problem can be
+tackled!
+
+* around the internet
+[[https://wiki.xxiivv.com/site/devine_lu_linvega.html][the generalist.]]
+[[https://wiki.xxiivv.com/site/about.html][digital playground]]
+[[https://www.jjude.com/sdl/][learning to learn]]
+[[https://medium.com/endless-filament/make-your-filament-at-home-for-cheap-6c908bb09922][make 3d printing filament]]
+[[https://www.flipmine.com/][flipping!]]
+[[https://www.35mmc.com/25/06/2017/hasselblad-xpan-ii-review/][3d print xpan]]
+[[https://supercollider.github.io/][algorithmic composition through code]]
+[[https://lemire.me/blog/2020/05/22/programming-inside-a-container/][programming inside a container]]
+[[generalproblem.net][noah zentzis - i talked to him!]]
+[[https://parachute.live/blog/forensic-investigation-the-shocking-state-of-privacy-in-safety-apps][shocking state of privacy in safety apps]]
+[[https://en.m.wikipedia.org/wiki/Masters_of_Doom][on ID software]]
+[[https://feltrac.co/control/2020/01/12/simple-control-systems.html][machine control systems]]
+[[https://www.35mmc.com/24/12/2018/panomicron-oxygen-review/#Discovering_and_buying_my_Panomicron_Oxygen][3d
+printing a camera]]
+[[https://billdemirkapi.me/How-to-use-Trend-Micro-Rootkit-Remover-to-Install-a-Rootkit/][rootkit with rootkit remover!!]]
+[[https://www.nytimes.com/2019/12/05/opinion/digital-technology-brain.html][powerful article about avoiding distraction]]
+[[http://pinboard.in/][pinboard:: bookmarking!]]
+[[https://fabiensanglard.net/gebbwolf3d/][game engine black book]]
+[[https://news.ycombinator.com/item?id=23222424][impostor syndrome in programming]]
+[[https://dragonquest64.blogspot.com/2020/05/python-generated-sequence-diagrams.html?m=1][python sequence diagrams]]
+[[https://news.ycombinator.com/item?id=23281542][tem commandments of c programmers]]
+[[https://news.ycombinator.com/item?id=23282278][brand yourself as a freelancer]]
+[[https://news.ycombinator.com/item?id=23281568][writing a programming book]]
+[[https://vimeo.com/36579366][inventing on principle]]
+[[https://google.github.io/eng-practices/review/reviewer/][code review standards]]
+[[https://github.com/deezer/spleeter][pioneering source separation ]]
+[[https://arxiv.org/abs/2005.09535][open source attacks]]
+[[https://arxiv.org/abs/2005.09535][dark depths of youtube]]
+[[https://pinshape.com/items/7919-3d-printed-35mm-film-on-120-spool][film on spool]]
+[[https://www.35mmc.com/24/12/2018/panomicron-oxygen-review/#Discovering_and_buying_my_Panomicron_Oxygen][3d printed camera]]
+[[https://news.ycombinator.com/item?id=20124018][truths of jr dev]]
+[[https://news.ycombinator.com/item?id=20323246][choose boring tech.]]
+[[https://wiki.js.org/][open source wiki]]
+[[http://www.simonweckert.com/googlemapshacks.html][google map hack performance art]]
+[[https://news.ycombinator.com/item?id=23170881][side proj!]]
+[[https://news.ycombinator.com/item?id=23172959][new proj!]]
+[[https://sites.google.com/site/steveyegge2/blog-rants][amazrant]]
+[[https://gist.github.com/bricker/cb811b3b86d767124801][amazrant2]]
+[[https://synthese.wordpress.com/2010/08/21/prologs-death/][rip prolog]]
+[[https://jozefg.github.io/][chaddd]]
+[[https://machinelearning.apple.com/][ml at apple]]
+[[https://rauchg.com/][blog]]
+[[http://seenaburns.com/][blog]]
+[[https://100r.co/site/home.html][the best]]
+[[https://joearms.github.io/oldindex.html][functional web]]
+[[https://jxnblk.com/blog/][chad]]
+[[http://mrmrs.cc/writing/][great site]]
+[[https://github.com/frankmcsherry/blog][the blog.]]
+[[https://github.com/learn-anything/blogs#readme][wowowewow]]
+[[https://lobste.rs/s/hrxdoq/what_s_url_your_technical_blog][techblog]]
+[[https://bradfrost.com/blog/post/write-on-your-own-website/][write on your own website]]
+[[https://blog.andrewbran.ch/overengineering-a-blog/][overengineering]]
+[[https://github.com/mathieudutour/medium-to-own-blog][dont use medium]]
+[[https://git.sr.ht/~sircmpwn/openring][webbing neat]]
+[[http://matt.might.net/articles/how-to-blog-as-an-academic/][matt adv]]
+[[https://joelhooks.com/digital-garden][whoat didigtal garden]]
+[[https://news.ycombinator.com/item?id=21928170][niceh blogs]]
+[[https://www.fast.ai/2020/01/16/fast_template/][make blog.]]
+[[https://github.com/jkup/awesome-personal-blogs#readme][tech blogs]]
+[[https://news.ycombinator.com/item?id=22273224][dev bugs]]
+[[https://github.com/kilimchoi/engineering-blogs#readme][ng blog]]
+[[https://danluu.com/corp-eng-blogs/][writing good engineering blog]]
+[[https://news.ycombinator.com/item?id=22800136][findinh your blog]]
+[[https://github.com/hankchizljaw/hylia][blog starter kit]]
+[[https://lobste.rs/s/5ysabq/share_your_blog][share ur blog]]
+[[https://jonkuperman.com/best-blog-designs-2020/][blog]]
+[[https://sanderknape.com/2020/04/why-great-write-blog-posts/][why you should blog]]
+[[https://www.35mmc.com/24/12/2018/panomicron-oxygen-review/#Discovering_and_buying_my_Panomicron_Oxygen][secret spots]]
+[[https://twitter.com/monicalent/status/1258750975021588483][learning from blogging]]
+[[https://ferrucc.io/posts/starting-a-blog/][why do i blog?]]
+[[https://news.ycombinator.com/item?id=23095273][comments on static site]]
+[[https://news.ycombinator.com/item?id=23206259][hard tech]]
+[[https://news.ycombinator.com/item?id=23205588][blog hack to bring back]]
+[[https://vanschneider.com/a-love-letter-to-personal-websites][love letter to the internet]]
+[[https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689][good reader]]
+[[https://news.ycombinator.com/item?id=21332072][successful online businesses]]
+[[https://news.ycombinator.com/item?id=21332072][abandoned paper mill near me]]
+[[https://news.ycombinator.com/item?id=23250379][openai langauge model used for code generation]]
+[[https://news.ycombinator.com/item?id=23246908][why i hate rust]]
+[[https://news.ycombinator.com/item?id=23243330][why giving money good]]
+[[https://apps.ankiweb.net/][ANKIII]]
+** music
+[[https://news.ycombinator.com/item?id=23232268][how distortion works in music]]
+[[http://labs.phaser.io/][phaser games]]
+[[https://arcade.makecode.com/][games in the browser!]]
+[[https://teenage.engineering/][v cool]]
+** thinking
+[[https://github.com/deezer/spleeter][the most valuable thing you can learn in an hour.]]
+[[https://capitalandgrowth.org/answers/Article/3217401/Become-Abnormal][become abnormal.]]
+[[https://fabiensanglard.net/gebbwolf3d/][mental models for intelligent decisions]]
+[[https://sloanreview.mit.edu/article/learning-for-a-living/][learn for a living.]]
+[[https://news.ycombinator.com/item?id=22105229][to survive]]
+[[https://news.ycombinator.com/item?id=23262763][a programmer's perspective.]]
+** hustling people
+[[https://www.linkedin.com/in/gefenskolnick/][chad]]
+[[https://en.m.wikipedia.org/wiki/Alexis_Ohanian][reddit guy and vc]]
+[[https://www.cs.princeton.edu/~ckorkut/][cs guy working on certicoq]]
+[[https://joon.be/][wild independent game designer]]
+[[https://dbp.io/essays/2012-10-24-programming-literature.html][programming as literature.]]
+** snowden
+[[https://www.theatlantic.com/magazine/archive/2020/06/edward-snowden-operation-firstfruits/610573/][paranoia]]
+[[https://news.ycombinator.com/item?id=23221517][the surveillance story]]
+* nix
+[[https://cachix.org/][cache nix packages]]
+[[https://engineering.shopify.com/blogs/engineering/what-is-nix][what is nix?]]
+[[https://news.ycombinator.com/item?id=23251754][what is nix article]]
+* pl
+[[http://www.zifyoip.com/wysiscript/sigbovik.html][programming with syntax highlighting]]
+* webdev
+[[https://news.ycombinator.com/item?id=17910069][which functional language for web development??]]
+[[https://news.ycombinator.com/item?id=23231361][usefulness of declarative programming]]
+[[https://github.com/Rolstenhouse/unofficial-apis][unofficial apis]]
+[[https://tinyprojects.dev/posts/tiny_websites_are_great][build tiny websites.]]
+[[https://news.ycombinator.com/item?id=23283675][elixir]]
+[[https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1][elm by example]]
+[[https://work.margo.com/posts/why-elixir/][why elixir]]
+[[https://newcss.net/][use only html.]]
+[[https://codepen.io/lynnandtonic/pen/NWGLMMO][3d cube]]
+[[https://lemire.me/blog/2020/05/22/programming-inside-a-container/][one word domains]]
+[[https://blog.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app][elm with js web app]]
+[[https://mmhaskell.com/blog/2018/10/29/purescript-iii-web-pages-with-react][making wbepage with purescript and react]]
+[[https://mmhaskell.com/blog/2018/11/19/elm-series-purescript-coming-up][on elm and purescript]]
+[[https://latex.now.sh/][latex in css!]]
+[[https://every-layout.dev/][relearn css layout]]
+[[https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb][serverless architecture]]
+[[https://tachyons.io/][responsive css framework]]
+[[https://www.netlify.com/blog/2020/05/08/improve-your-seo-and-social-sharing-cards-with-next.js/?utm_source=twitter&utm_medium=next-seo-cs&utm_campaign=devex][improving seo]]
+[[https://defn.io/2019/04/07/web-continuations/][continuations for web dev]]
+[[https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/][free time series db on postgres - relevant for work?]]
+** hugo blog inspo
+[[https://themes.gohugo.io/origin-hugo-theme/][hugo]]
+[[https://themes.gohugo.io/amperage/][seo opt]]
+[[https://themes.gohugo.io/hugo-theme-terminal/][terminal theme]]
+[[https://themes.gohugo.io/][all themes]]
+[[https://themes.gohugo.io/][origin theme]]
+[[https://themes.gohugo.io/ezhil/][personal portfolio theme]]
+[[https://themes.gohugo.io/archie/][minimal ui]]
+[[https://themes.gohugo.io/hugo-book/][plain doc book]]
+[[https://themes.gohugo.io/erblog/][simple blog]]
+[[https://themes.gohugo.io/archie/][md ui]]
+[[https://themes.gohugo.io/hugo.386/][bootstra??]]
+[[https://themes.gohugo.io/erblog/][erblog theme]]
+[[https://themes.gohugo.io/hugo-changelog-theme/][changelog]]
+[[https://themes.gohugo.io/academic/][academic]]
+[[https://themes.gohugo.io/hugo-theme-hello-friend-ng/][simple theme]]
+[[https://portal.mozz.us/gemini/gemini.circumlunar.space/software/][gemini software!!]]
+** fun css
+[[https://codepen.io/chrisgannon/pen/oNjqpLy][slider]]
+[[https://codepen.io/chrisgannon/pen/oNjqpLy][inherit!]]
+[[https://codepen.io/chrisgannon/pen/oNjqpLy][wow animation!]]
+[[https://github.com/scallywag/org-board/blob/master/README][emacs archive system]]
+[[https://github.com/lionheart/pinboard.py][pinboard]]
+* small, sharp tools.
+[[https://brandur.org/small-sharp-tools][article]]
+Rule of modularity: write simple parts connected by clean interfaces.
+Rule of composition: design programs to be connected to other programs.
+Rule of Parsimony: write a big program only when it is clear by
+demonstration that nothing else will do.
+Build as simple as possible, but no simple. Do not allow the composition of
+these parts to assemble a tightly integrated system.
+
+* abandoned places
+[[https://portal.mozz.us/gemini/gemini.circumlunar.space/software/][northwest]]
+[[https://portal.mozz.us/gemini/gemini.circumlunar.space/software/][secret locs]]
+[[https://arxiv.org/abs/1808.02923][math]]
+[[https://github.com/michaelbjames][probprog]]
+[[https://news.ycombinator.com/item?id=23211184][learning!]]
+[[https://www.numworks.com/simulator/][coo lcalculator]]
+[[http://whydontyoulove.me/][designer and dev in teh valley]]
+[[https://blogs.nvidia.com/blog/2020/05/22/gamegan-research-pacman-anniversary/][gaemgan]]
+[[https://www.iep.utm.edu/epis-per/][percentpion]]
+[[https://people.cs.umass.edu/~arjun/main/home/][guha]]
+[[https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/README.md][chad]]
+[[https://medium.com/@victormours/better-linting-in-vim-with-ale-1e4b1d5789af][linting in ale]]
+[[https://taskwarrior.org/][taskwarrior]]
+[[http://jelv.is/][neat blog]]
+[[https://www.aquicarattino.com/blog/how-write-programming-book/][why to write abt programming]]
+[[https://gist.github.com/cellularmitosis/1f55f9679f064bcff02905acb44ca510#tutorials][gui programming]]
+[[https://news.ycombinator.com/item?id=23245724][bug bad]]
+[[https://news.ycombinator.com/item?id=23252448][visual programming]]
+[[https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/][sleep on cognition]]
+[[https://www.ramblingcode.dev/posts/lovely_week_with_elixir/}[elixir]]
+[[https://en.m.wikipedia.org/wiki/The_Electric_Kool-Aid_Acid_Test][cool book]]
+[[https://news.ycombinator.com/item?id=23246170][port scanning]]
+[[https://news.ycombinator.com/item?id=20883169][blind dev]]
+[[https://www.cambridge.org/core/journals/journal-of-child-language/article/early-vocabulary-development-in-danish-and-other-languages-a-cdibased-comparison/D12A283664A8BA4A695D0DDF3378555A][early vocab]]
+[[https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon][amazon bad]]
+[[https://overreacted.io/goodbye-clean-code/][goodbye clean code]]
+[[https://boingboing.net/2019/07/03/nobus-r-us.html]['ban hack]]
+[[https://jeffhuang.com/productivity_text_file/][prouctivitty]]
+[[https://jeffhuang.com/designed_to_last/][make it last]]
+[[https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/][jr dev]]
+[[https://pomb.us/build-your-own-react/][build react from scratch]]
+[[https://blog.samaltman.com/][aahh]]
+[[https://news.ycombinator.com/item?id=23271624][pacman gan]]
+[[https://news.ycombinator.com/item?id=23276456][cool tech]]
+[[https://copetti.org/projects/consoles/nintendo-64/][nintendo arch]]
+[[https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e][deezer]]
+[[https://marc.info/?l=openbsd-tech&m=158965652915344&w=2][what is this lol]]
+[[https://en.m.wikipedia.org/wiki/John_Carmack][chad]]
+[[https://deezer.io/][tech blog]]
+[[https://news.ycombinator.com/item?id=20916749][ask company during interview]]
+[[https://news.ycombinator.com/item?id=22124489][managing emotions]]
+[[https://en.wikipedia.org/wiki/Webring][webring]]
+
+[[https://audiomass.co/][sonic smth]]
+[[https://news.ycombinator.com/item?id=23340031][reading online content]]
+[[https://ertdfgcvb.xyz/][wow]]
+[[https://webring.xxiivv.com/#rss][rss!]]
+[[https://github.com/LeD3F/dots][good dotfiles for a lot of wms]]
+[[https://roamresearch.com/#/app/selentelechia/page/cdp0rUo9S][hell yea]]
+[[http://akkartik.name/about][on building mechanisms for good code]]
+[[https://controls.ee/links/][beats and sound]]
+
+[[https://www.mattblaze.org/blog/p25][johnny can't encrypt!]]
+[[https://zulipchat.com/][chat for distributed teams]]
+[[https://cancel.fm/ripcord/][desktop chat clinet]]
+
+* good dotfiles
+[[https://github.com/adi1090x/CustomArch/tree/version-2.0][custom arch iso]]
+[[https://github.com/akshat46/FlyingFox][great firefox config]]
+[[https://github.com/akshat46/FlyingFox][using wmutils]]
+[[https://github.com/LeD3F/dots][great dotfiles; exp polybar and dunst confiugrations]]
+** wm to check out !!
+- 2bwm
+- dwm
+- frankenwm
+- herbstluftwm
+
+* emacs
+[[https://github.com/sulami/dotfiles/blob/master/emacs/.emacs/README.org][great,
+literate custom emacs config]] -- come back to this if/when you decide to use
+emacs again!
+
+* other links
+[[https://whitequark.org/][whitequark]]
+[[https://lab.whitequark.org/][whitequark blog]]
+[[https://lyngvaer.no/][log:: good blog]]
+[[https://www.criterion.com/][the criterion collection: classic movies]]
+[[http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/][today's js]]
+make sure to check out qutebrowser. it does not seem quite there yet, but
+navigating via only keyboard seems very good.
+[[https://ideatrash.net/2013/03/scripts-and-utilities-to-make.html][scripting for newsbeuter to make it better than google reader]]
+[[https://ideatrash.net/2013/03/scripts-and-utilities-to-make.html][tui everything]]
+
+[[https://taskwarrior.org/docs/taskserver/setup.html][setting up taskwarrior server]]
+
+idea! vim plugin to reduce plugin usage. removes random lines from vimrc on
+load, and continues to remove them every time vim starts up until you
+manually override
+
+* becoming an influencer
+put the camera down
+pick something you want to learn about
+spend the next 10 years mastering your craft
+pick the camera back up
+tell people what you have learned
+kill it 

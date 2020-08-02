@@ -1,7 +1,7 @@
 +++
 title = "Emacs"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T17:58:02-07:00
+lastmod = 2020-08-01T22:09:32-07:00
 slug = "emacs"
 draft = false
 +++
@@ -46,6 +46,7 @@ user interfaces.
 <https://github.com/howardabrams/dot-files>
 <https://github.com/jethrokuan/dots>
 <https://github.com/codygman/hci> human programming interface in emacs
+<https://github.com/Ambrevar/dotfiles>
 
 
 ## Community {#community}
@@ -61,6 +62,7 @@ Doom Emacs
 
 ## Packages {#packages}
 
+<https://github.com/kaushalmodi/ox-hugo> org export for hugo
 <https://github.com/mtekman/org-tanglesync.el> sync org mode files with dotfiles external to them
 <https://github.com/alphapapa/matrix-client.el> emacs matrix client
 <https://github.com/casouri/OrgMark> add drawings to org mode from your ipad
@@ -70,3 +72,28 @@ Doom Emacs
 <https://github.com/legalnonsense/elgantt> gantt chart (??) in org
 <https://github.com/progfolio/doct> declarative format for org capture templates
 <https://github.com/jeremy-compostella/org-msg> minor mode for replying to outlook in nice outlook html
+
+
+## Links {#links}
+
+<https://www.youtube.com/watch?v=KdcXu%5FRdKI0&feature=youtu.be> -- getting more out
+of org-capture
+<https://www.reddit.com/r/emacs/comments/9iu6la/unemployed%5Fand%5Flearning%5Femacs/> --
+somehow integrating images into org mode ?
+<https://www.emacswiki.org/emacs/KeyChord> -- key chord: binding commands to
+combinations of keystrokes
+<https://github.com/NatTuck/doom-config/blob/master/config.el#L12> -- nat tuck's
+configuration
+<https://www.wisdomandwonder.com/article/10805/emacsorg-mode-choosing-the-best-writing-and-publishing-software>
+-- org mode with latex - how to make things work well!
+
+write your own emacs config for better speed
+<https://blog.aaronbieber.com/2015/07/05/a-gentle-introduction-to-emacs-configuration.html>
+<http://aaronbedra.com/emacs.d/>
+<https://anuragpeshne.github.io/essays/emacsSpeed.html>
+<https://www.emacswiki.org/emacs/ExampleConfigurations>
+<https://github.com/munen/emacs.d>
+<https://github.com/jhamrick/emacs>
+
+<https://www.reddit.com/r/vim/comments/h8pgor/til%5Fconceal%5Fin%5Fvim/> --
+concealing plaintext symbols with glyphs

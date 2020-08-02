@@ -1,0 +1,1465 @@
+#+TITLE: Refile
+
+links to refile
+https://github.com/tycrek/degoogle/blob/master/README.md
+http://subjectguides.lib.neu.edu/awd
+https://ai.googleblog.com/2018/07/improving-connectomics-by-order-of.html?m=1
+https://systems-research.slack.com/join/shared_invite/enQtNjAyNTU2MTYwMTEyLWVjYTdiMjJlZTEwMzY0ZGQ0YzM4M2I0ODA3NWVjYjE2OGZiZTM1YTQwNTM3ZTdiZThkNTY4ZDY5NDY2N2QyMTQ
+https://minimaxir.com/2020/01/twitter-gpt2-bot/
+https://mirror.dernuntius.de/projects/wii-linux/ -- linux on the wii ???
+https://github.com/kylesferrazza/slack-racketbot?files=1
+https://github.com/danambrogio/cardfetch
+https://redex.racket-lang.org/
+https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/?fbclid=IwAR29wNYuXh_R64gXgw7CTN6mVZlFNjrwMdd4YQkYv3lEWZUFZQMvqFq66x0
+https://en.m.wikipedia.org/wiki/Control_flow_analysis
+https://github.com/brokenthumbs/_boostertutor/blob/master/scryfall.py
+https://blog.plover.com/book/free-hop.html
+https://philip.greenspun.com/blog/
+
+sourcehut :: a new way to use git
+[[https://github.com/ESWAT/john-carmack-plan-archive][john carmack's archive]]
+[[http://dmitrysoshnikov.com/courses/essentials-of-garbage-collectors/][essentials of gc]]
+[[https://dickrnn.github.io/][dick rnn]]
+[[https://github.com/kylesferrazza/windows/blob/master/install.ps1][setup windows install script]]
+[[https://leimao.github.io/blog/Group-Lasso/][lasso reg]]
+[[https://www.youtube.com/watch?v=smlQbh6jQvg&app=desktop][amenity detection]]
+[[https://news.ycombinator.com/item?id=23165157][containers in linux]]
+[[https://www.thisworddoesnotexist.com/][this word not exist]]
+[[http://agdr.org/blog/][blog i like the look of]]
+[[http://agdr.org/blog/][look into jekyll ?? check out template above]]
+[[https://www.hillelwayne.com/post/ahk/?utm_source=hillelwayne&utm_medium=email][figuring out how to use autohotkey for better windows config]]
+
+[[http://math.ucr.edu/home/baez/twf.html][this week's finds ! cool content!]]
+[[https://johncarlosbaez.wordpress.com/][wp blog for above]]
+
+[[https://urbit.org/understanding-urbit/urbit-os/][urbit os]]
+[[https://www.hillelwayne.com/post/influential-dead-languages/][history of dead langauges pl]]
+[[https://archillect.com/about][figure out archillect]]
+
+https://codepen.io/toshiya-marukubo/pen/oNbgPRX neat orbit thing
+https://codepen.io/oliviale/pen/BaoXOOP fake newspaper !
+https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/ mad
+magazine folding simulation!
+
+https://www.simplified.guide/ssh/disable-timeout ssh timeout :: good
+reference.
+
+https://shibumi.dev/posts/ good blog, some useful information and things to
+learn here
+
+https://www.tessera.li/ math visualizations in js
+
+https://avanier.now.sh/ i love this website
+
+https://avanier.now.sh/w/bucket.html make a bucket list !
+https://avanier.now.sh/w/glossary.html words i like
+https://avanier.now.sh/w/links.html curated links and resources
+
+compile my own repositories :: tips and tricks i use frequently, GA
+
+https://avanier.now.sh/w/orion.html programming on android?
+https://avanier.now.sh/w/navire.html
+use all of these technologies -- check them out!
+https://avanier.now.sh/w/natalie.html very cool; look into bringing this to
+class instead of a laptop for taking notes!
+https://avanier.now.sh/w/navire.html please do use this style for a website.
+
+http://evenunto.net/ yooo
+
+https://hraew.autophagy.io/ project and personal information repostiory. very
+cool interface
+https://hraew.autophagy.io/antimber/ very cool; a uniform switch for theming
+and system configuration that integrates with a set of personal preferences
+
+https://kaemura.com/ incredible website and experiments
+https://avanier.now.sh/w/work.html incredible interface
+https://avanier.now.sh/w/holly.html computer console; used as a portable
+ocmputer at school? very cool!
+
+https://avanier.now.sh/w/rabbit.html great idea
+https://avanier.now.sh/w/josh.html i love this
+
+https://avanier.now.sh/w/malin.html firefox theme?
+
+https://anxl.faith/ nut my pants
+
+https://heracl.es/ cool projects found below; navigation of films, diy kit
+for router, etc
+
+https://shards.lectronice.com/ yo what the fukc this is the coolest shit ive
+ever seen.
+
+https://ellugar.co/ mexican game developer!
+
+* Programming Languages
+
+useful resources: https://github.com/wilbowma/pl-thesaurus -- too advanced for me
+
+** Adjunction
+
+Whnen categories are Posets, adjunction is a Galois connection
+
+** Strong Monad
+** Monad
+
+Kleisli trible, s4 possibility mdality
+when category is defined as poset, monad is a closure operator
+
+** Reflection
+
+when categories are posets, this is a galois surjection
+
+** Right Adjoint
+
+In order theory, right adjoint of Galois connection is upper adjoint
+in abstract interpretation, this is Concretization function
+
+** Left Adjoint
+
+in order theory: left adjoint of galois connection is lower adjoint
+in abstract interpretation, this is abstract function
+
+** Galois Connection
+* Machine Learning
+** Maximum A Posteriori
+** EM Algorithm
+** Maximum Likelihood
+
+### Enable Echo/Noise-Cancellation -> put in /etc/pulse/default.pa
+load-module module-echo-cancel use_master_format=1 aec_method=webrtc aec_args="analog_gain_control=0\ digital_gain_control=1" source_name=echoCancel_source sink_name=echoCancel_sink
+set-default-source echoCancel_source
+set-default-sink echoCancel_sink
+
+#+TITLE: project-ideas
+ideas for cool things i could make in the future
+
+https://starthouse.xyz/?ref=hn -- startup pitch decks for these ideas
+
+* full integration food application
+full integration food application
+- save recipes
+- scheduler puts these on schedule
+- compares estimated cook time with calendar to see when people have time to do
+  things
+- potentially :: google calendar clone? just for me?
+- also auto schedules shopping trips for me based on google clendar (or my own
+  calendar)
+- this should also tell me 'x days left to make this recipe' based on
+  conservative estimates for how long things will last in the fridge,
+  sitting out etc
+
+is this really a good idea? has it been done before?
+* spell checker
+git hook that tries to spell check your work when you try to commit
+keeps u from committing and tells u where the spelling errors are, potentially
+providing suggestions for fixing these errors
+https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
+npm spellchecker will make this a lot easier
+* arith
+implement my own arbitrary precision arithmetic calculator
+https://www.computerhope.com/unix/udc.htm
+* point of truth
+coronavirus reveals disjoint lack of communication between governments, individuals
+no reliable way to determine what is accurate
+news sites attempt to radicalize information
+one government solution will be agnostic to other news
+good as central repository for the business platform
+would be nice to have a more transparent form of communication and way to track progress yes?
+* ide plugin
+idea: ide that determines whether comments are malformed, outdated etc. based on
+static analysis
+only compatible with javadoc /doxygen style for consistency
+could also work with purpose statements / single line comments
+'all comments are always outdated, all the time'
+interesting problem! nlp + static analysis
+* product purchase consulting
+idea for product purchase consulting to help people make more informed decisions
+i feel like this is just a bad review website but i digress
+* car-cdr
+arbitrary car, cdr in function call: special syntax
+this could be bad: c(a*d*)*r special casing, only if it has not been redefined???
+reduce bits for true, false when stored? writing bits seems slow (but maybe
+accessing non byte offsets is much worse given cpu construction)
+
+what can our compiler do if the program would run out of memory? do we just
+allow this? --> using disk space
+this is really stupid idea : requires rewriting os, redefining mmap, allowing
+disk space to be writeable via virtual memory, etc. then os has to have notion
+of all disk space in virtual memory (ew)
+
+how do we know beforehand that we will have this oem error ?
+* stupid?
+function that tags and generates infinite functions of different names,
+appending to string, then evaluates with 'eval'
+when this function is called, it should accept itself as an argument, append
+instructions to argument, then call this argument
+wait this is just the y combinator
+how does 'eval' work in compiled language? runs an interpreter at compile time?
+
+* autocorrect
+Npm git commit hook that identifies typos in strings and doesn't allow commits with them
+Corresponding bot that crawls github and makes prs
+
+* other proj ideas
+
+https://clementmihailescu.github.io/Sorting-Visualizer/
+https://repl.it/@cmihai/Oak-Programming-Language
+https://clementmihailescu.github.io/Pathfinding-Visualizer/
+https://github.com/werner-duvaud/muzero-general
+
+#+TITLE: things to learn
+links of things i should learn about, but plan to do so another day! this is
+where i put things that have not yet been organized, or do not have a place...
+
+* signal processing/compression
+
+https://github.com/PyWavelets/pywt
+
+* term rewriting
+
+https://www21.in.tum.de/~nipkow/TRaAT/ -- book benjamin had, it's a description
+of term rewriting problems, universal algebra, unification theory
+https://en.wikipedia.org/wiki/Rewriting
+
+* pl
+
+https://www.reddit.com/r/ProgrammingLanguages/comments/fzu00x/naming_functional_and_destructive_operations/
+https://www.reddit.com/r/haskell/comments/60r9hu/proposal_suggest_explicit_type_application_for/
+https://www.amazon.com/gp/product/1555580416?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1555580416
+https://felleisen.org/matthias/4400-s20/lecture27.html
+https://www.cambridge.org/core/journals/journal-of-functional-programming/article/effect-handlers-via-generalised-continuations/DF590482FEE2F6888CD68B4B446E31D5
+https://www.reddit.com/r/ProgrammingLanguages/comments/f75y79/what_is_modal_logic_and_what_is_it_good_for_flash/
+https://projectfluent.org/
+https://arxiv.org/abs/1605.06640
+https://brianmckenna.org/blog/
+https://arxiv.org/abs/1905.09381
+https://www.reddit.com/r/ProgrammingLanguages/comments/fp7sko/10_mostly_dead_influential_programming_languages/
+https://www.reddit.com/r/ProgrammingLanguages/comments/fvx72d/i_analyzed_wikipedia_documents_of_programming/
+https://www.reddit.com/r/ProgrammingLanguages/comments/fc274s/whats_your_favorite_programming_language_why/
+http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/
+http://dot.planet.ee/yeti/intro.html#structures
+https://www.quantamagazine.org/formal-verification-creates-hacker-proof-code-20160920/
+https://www.reddit.com/r/ProgrammingLanguages/comments/8ud5am/what_are_the_poison_pills_to_avoid_when_designing/
+https://www.reddit.com/r/ProgrammingLanguages/comments/8vcrzb/what_are_some_interesting_language_features_that/
+https://www.reddit.com/r/ProgrammingLanguages/comments/cuwy29/plam_now_supports_lists_with_list_library_check/
+https://www.reddit.com/r/ProgrammingLanguages/comments/cx4hea/so_i_developed_an_interpreted_language_in_c/
+https://www.reddit.com/r/ProgrammingLanguages/comments/dpnmzl/the_next_7000_programming_languages/
+https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml --
+overview of great works in pl to know before diving in!
+https://softwarefoundations.cis.upenn.edu/ -- software foundations
+https://plfa.github.io/ -- foundations in agda! for free!
+see [[matthias]]
+https://blog.janestreet.com/whats-in-a-name/ -- excellent essay on the
+importance of naming
+https://arxiv.org/abs/1809.10756 -- intro to probabilistic prgrammign !
+https://www.defmacro.org/ramblings/lisp-in-haskell.html -- writing a quick lisp
+interpreter in haskell
+http://dev.stephendiehl.com/fun/ -- building modern functional compiler from
+first principles
+parsing
+https://golem.ph.utexas.edu/category/2020/05/in_further_praise_of_dependent.html
+https://stackoverflow.com/questions/232682/how-would-you-go-about-implementing-off-side-rule
+--basically indenting and dedenting with lexer just like any other parens
+https://en.wikipedia.org/wiki/Earley_parser -- context-free parsing of strings
+algorithm
+https://mitpress.mit.edu/books/little-prover -- introduction to writing proofs
+about computer programs
+https://en.wikipedia.org/wiki/Idris_(programming_language) -- haskell-inspired
+purely functional programming language with dependent types
+https://en.wikipedia.org/wiki/Brzozowski_derivative -- derivatives of language
+constructs - whoah!
+https://github.com/adjoint-io/bulletproofs -- proofs that require no trusted
+setup
+https://en.wikipedia.org/wiki/Titchmarsh_convolution_theorem
+designing a simple racket dsl
+https://course.ccs.neu.edu/cs2500accelf17/lab12.html
+https://felleisen.org/matthias/4620-s18/index.html -- hack your own language /
+building extensible systems : learn more about it! please!
+https://craftinginterpreters.com/ -- the book on crafting interpreters
+https://groups.google.com/forum/#!msg/racket-users/vN_1uUJZnXo/5bXiMEBvCgAJ --
+arguments aboutsurface syntax of racket
+https://blog.racket-lang.org/2020/02/racket-on-chez-status.htmlhttps://blog.racket-lang.org/2020/02/racket-on-chez-status.html
+-- racket on chez scheme for performance optimizations!
+https://blog.acolyer.org/2020/01/17/synthesizing-data-structure-transformations/
+synthesizing programs from input and output!! wow!! program synthesis looks like
+such a cool thing
+https://www.reddit.com/r/ProgrammingLanguages/comments/ev0zzv/growing_a_language_by_guy_steele/
+https://www.youtube.com/watch?v=agw-wlHGi0E&app=desktop
+https://www.reddit.com/r/ProgrammingLanguages/comments/b2a61l/what_are_some_niche_features_youd_like_to_see_in/
+https://thosakwe.com/blog/aot-compilation-and-other-dart-hackery/
+https://www.reddit.com/r/ProgrammingLanguages/comments/dwt8xu/what_is_your_favourite_academic_paper_on/
+http://craftinginterpreters.com/closures.html
+https://jadon.io/blog/row-polymorphism
+
+** fun languages
+
+http://bloom-lang.net/
+https://www.reddit.com/r/ProgrammingLanguages/comments/g2hhq0/statically_typed_language_with_a_flexible_macro/
+
+https://www.reddit.com/r/ProgrammingLanguages/comments/ehqlay/announcing_the_frost_programming_language/
+https://www.reddit.com/r/ProgrammingLanguages/comments/exl0h5/free_a_programming_language_with_an_unusual/
+https://www.reddit.com/r/ProgrammingLanguages/comments/g0k14m/is_copyonmodify_semantics_for_variables_used_in/
+https://quorumlanguage.com/evidence.html
+https://www.reddit.com/r/ProgrammingLanguages/comments/g0n2bd/from_scala_monadic_effects_to_unison_algebraic/https://www.reddit.com/r/ProgrammingLanguages/comments/g0n2bd/from_scala_monadic_effects_to_unison_algebraic/
+https://v8.dev/
+http://logitext.mit.edu/main
+http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+https://www.sifive.com/
+https://www.wolframphysics.org/
+https://daniel.haxx.se/
+http://matt.might.net/articles/
+http://matt.might.net/articles/best-tools-for-using-and-learning-linux-and-unix/#wmshttps://fnordig.de/2020/05/02/rust-in-an-instant/
+https://dlang.org/
+https://web.obarun.org/
+https://en.m.wikipedia.org/wiki/Malbolge
+https://eta-lang.org/
+https://www.scala-lang.org/
+https://www.amazon.com/gp/product/1555580416?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1555580416
+https://www.reddit.com/r/ProgrammingLanguages/comments/f30wxi/github_marcpaqb1fipl_a_bestiary_of_singlefile/
+https://www.reddit.com/r/ProgrammingLanguages/comments/elbt5u/introducing_the_beef_programming_language/
+https://www.reddit.com/r/ProgrammingLanguages/comments/e8a42b/new_programming_language_concurnas/
+https://www.reddit.com/r/ProgrammingLanguages/comments/ba9l0k/nomsu_a_dynamic_language_with_naturallanguagelike/
+https://www.reddit.com/r/ProgrammingLanguages/comments/bcmhkn/ldpl_300_and_why_you_should_work_on_silly_things/
+https://www.reddit.com/r/ProgrammingLanguages/comments/ez9k1g/zz_is_a_modern_formally_provable_dialect_of_c/
+http://www.philipzucker.com/computational-category-theory-in-python-3-monoids-groups-and-preorders/
+https://dl.acm.org/doi/10.1145/75277.75283
+https://www.reddit.com/r/ProgrammingLanguages/comments/ftied4/idris_2_version_010_released/
+
+https://www.reddit.com/r/ProgrammingLanguages/comments/avvma5/atto_an_insanely_tiny_selfhosted_functional/
+https://www.reddit.com/r/haskell/comments/fz7heq/accidentally_exponential_in_a_compiler/
+https://blog.josephmorag.com/posts/mcc2/
+https://dl.acm.org/doi/abs/10.1145/301618.301637
+https://github.com/mcoblenz/Obsidian
+https://adamant-lang.org/
+http://www.mlton.org/
+http://matt.might.net/articles/best-programming-languages/
+https://chrisseaton.com/truffleruby/
+https://futhark-lang.org/blog/2020-04-13-statically-linking-the-futhark-compiler.html
+https://www.reddit.com/r/ProgrammingLanguages/comments/awr3th/i_made_a_programming_language_based_on_cobol/
+https://github.com/seanbaxter/circle
+http://blog.hydromatic.net/2020/02/25/morel-a-functional-language-for-data.html
+https://www.reddit.com/r/ProgrammingLanguages/comments/ecc1fo/design_flaws_in_futhark/
+https://github.com/Storyyeller/IntercalScript
+https://vanemden.wordpress.com/2014/06/18/how-recursion-got-into-programming-a-comedy-of-errors-3/
+
+*** haxe!
+
+https://www.reddit.com/r/programming/comments/do220a/haxe_4_has_been_released/
+cross platform language toolkit!
+https://www.reddit.com/r/ProgrammingLanguages/comments/eh1sfy/carpentry_compiler/
+https://fnordig.de/2020/05/02/rust-in-an-instant/
+https://blog.darknedgy.net/technology/2020/05/02/0/
+
+https://en.m.wikipedia.org/wiki/RenderMan_Interface_Specification
+https://en.m.wikipedia.org/wiki/RenderMan_Interface_Specification
+https://www.reddit.com/r/ProgrammingLanguages/comments/9esm8t/multiple_return_values_from_functions/
+bytecode interpreter
+comments
+https://www.reddit.com/r/ProgrammingLanguages/comments/g2ae36/crafting_interpreters_vs_build_your_own_lisp_the/
+https://www.reddit.com/r/algorithms/comments/fjock1/which_is_the_best_sat_solver/https://www.reddit.com/r/learnmath/comments/fo5itb/riemanns_functional_equation_new_solution_found/
+https://www.reddit.com/r/learnmath/comments/fo5itb/riemanns_functional_equation_new_solution_found/
+https://www.reddit.com/r/ProgrammingLanguages/comments/fxrmho/the_best_ways_to_compile_functional_programming/
+https://www.reddit.com/r/ProgrammingLanguages/comments/g0j1um/simple_but_powerful_pratt_parsing/
+https://www.reddit.com/r/ProgrammingLanguages/comments/g0j1um/simple_but_powerful_pratt_parsing/
+https://www.reddit.com/r/ProgrammingLanguages/comments/fxrp6e/languages_with_structural_typing/
+https://www.reddit.com/r/ProgrammingLanguages/comments/g0po6x/types_over_strings_extensible_architectures_in/
+https://www.reddit.com/r/dartlang/comments/f4d07x/poll_should_the_angel_framework_be_merged_into_a/
+
+** verification
+
+https://www.cs.princeton.edu/~appel/certicoq/
+https://vst.cs.princeton.edu/ building verified software
+
+** parsing
+
+https://www.reddit.com/r/ProgrammingLanguages/comments/dszj7b/parse_dont_validate/
+https://nothings.org/computer/lexing.html -- lexing
+https://softwareengineering.stackexchange.com/questions/338665/when-to-use-a-parser-combinator-when-to-use-a-parser-generator
+https://www.reddit.com/r/perl6/comments/73tjdo/an_outline_of_federico_tomassettis_a_guide_to/
+shunting yard algorithm : used to parse expressions in infix notation !
+in parser generator: .mly file uses infix things with Shunting Yard Algorithm under the hood !!
+
+** type systems
+
+https://www.typescriptlang.org/docs/handbook/advanced-types.html#index-types-and-index-signatures
+http://reasonableapproximation.net/2019/05/05/hindley-milner.html
+http://prl.ccs.neu.edu/gtp
+https://ncatlab.org/nlab/show/pure+type+system
+https://blog.sigplan.org/2019/10/17/what-type-soundness-theorem-do-you-really-want-to-prove/
+great writeup about pa paper
+
+** redex
+
+https://www.youtube.com/watch?v=BuCRToctmw0 -- run your research - talk on redex
+https://redex.racket-lang.org/
+a dsl for specifying and debugging operational semantics
+
+** compilers
+
+http://www.keystone-engine.org/
+https://jamespackard.me/
+https://ollef.github.io/blog/posts/speeding-up-sixty.html
+https://whalesalad.com/blog/doing-python-configuration-right
+https://www.christianfscott.com/making-rust-as-fast-as-go/
+https://en.m.wikipedia.org/wiki/Multi-pass_compiler
+https://en.m.wikipedia.org/wiki/Data-flow_analysis
+https://www.reddit.com/r/ProgrammingLanguages/comments/a60i0m/unlike_ordinary_jit_compilers_for_other_languages/
+https://stackoverflow.com/questions/6264249/how-does-the-compilation-linking-process-work#6264256
+https://www.cprogramming.com/compilingandlinking.html
+
+https://www.youtube.com/watch?v=Os7FE3J-U5Q&app=desktop writing a nanopass
+compiler
+https://en.m.wikipedia.org/wiki/Intermediate_representation good reading
+https://en.m.wikipedia.org/wiki/Three-address_code
+https://en.m.wikipedia.org/wiki/Static_single_assignment_form
+https://catalog.princeton.edu/catalog/SCSB-8534958 -- benjamin's favorite
+compilers book
+see [[olin shivers]]
+http://www.ocamlpro.com/2020/03/23/ocaml-new-best-fit-garbage-collector/
+http://www.aosabook.org/en/llvm.html -- on llvm
+https://en.wikipedia.org/wiki/Alan_Perlis -- pl research, won turing award or something
+type preserving compilation for large scale optimizing object oriented compilers
+how efficient can objects be?
+https://v8.dev/blog/pointer-compression -- pointer compression in v8
+https://en.wikipedia.org/wiki/Optimizing_compiler
+https://dl.acm.org/doi/10.1145/1375581.1375604
+https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html
+https://www.cs.cornell.edu/courses/cs4410/2014fa/
+https://www.reddit.com/r/ProgrammingLanguages/comments/fqt0fo/the_strange_case_of_dr_function_and_mr_type/fm0vurc/?context=1
+http://prl.ccs.neu.edu/blog/2020/01/15/the-typed-racket-optimizer-vs-transient/
+https://docs.racket-lang.org/ts-guide/index.html
+https://www.reddit.com/r/ProgrammingLanguages/comments/f3ekao/i_built_a_2d_gridbased_esoteric_language_with_a/
+https://matklad.github.io/2020/04/15/from-pratt-to-dijkstra.html
+https://www.reddit.com/r/ProgrammingLanguages/comments/e1vv55/c3_a_clike_language_now_has_a_domain/
+https://www.reddit.com/r/ProgrammingLanguages/comments/a0yyfc/plam_for_anyone_exploring_%CE%BBcalculus/
+
+*** pattern matching
+
+https://www.reddit.com/r/ProgrammingLanguages/comments/g1vno3/beginner_resources_for_compiling_pattern_matching/
+https://www.reddit.com/r/ProgrammingLanguages/comments/f4gfum/pattern_matching_in_your_language/
+http://cone.jondgoodwin.com/coneref/refmatch.html
+
+** static analysis
+
+https://www.reddit.com/r/Coq/comments/tzpb9/webbased_proofbypointing_frontend_to_coq/
+
+https://hal.inria.fr/hal-01093327
+https://hal.inria.fr/tel-01102401
+https://sed-bso.gitlabpages.inria.fr/sonarqube/
+https://hal.inria.fr/hal-01588422 -- verificaiton!
+https://en.wikipedia.org/wiki/Loop-invariant_code_motion
+
+* organization
+
+https://todaytakeseverything.wordpress.com/2016/09/29/the-bullet-journal-bulletproof/
+doing things once a day and putting them in a bullet journal or something
+https://www.reddit.com/r/books/comments/7jzi9z/randomly_picked_up_meditations_by_marcus_aurelius/
+-- philosophies from roman emperor
+https://www.reddit.com/r/philosophy/comments/1vn6uk/thoughts_on_the_meditations_by_marcus_aurelius/
+
+* ml
+
+http://blog.ezyang.com/2013/01/nlp-the-missing-framework/
+https://minimaxir.com/2019/09/howto-gpt2/ -- fun gpt 2 training time
+https://ezyang.github.io/convolution-visualizer/index.html
+https://www.reddit.com/r/MachineLearning/comments/gc834u/d_programming_language_choices_in_ai_nlp_and
+https://www.reddit.com/r/compsci/comments/g1eivp/from_cvpr_2020_turn_any_picture_to_a_3d_photo/
+https://github.com/tokee/juxta
+https://www.reddit.com/r/compsci/comments/g8circ/a_repository_of_graph_classification_research/
+https://arxiv.org/abs/2004.14545
+https://arxiv.org/abs/2004.10934/
+
+[[https://software.intel.com/content/www/us/en/develop/training/course-machine-learning.html][intels introductory ml course]]
+[[https://www.youtube.com/watch?v=d8ZDjuqo0R8&app=desktop][simple ml mindsweeper]]
+[[https://github.com/intel/dlafs][stream accel framework]]
+https://en.wikipedia.org/wiki/Discrete_cosine_transform signal processing:
+the discrete cosine transformation
+https://en.wikipedia.org/wiki/Discrete_cosine_transform data compression with
+fourier methods
+https://julialang.org/blog/2017/12/ml-pl/#
+https://www.youtube.com/watch?v=hx7kvTZLHYI
+https://www.youtube.com/watch?v=HgDdaMy8KNE whaaaat
+https://minimaxir.com/2019/09/howto-gpt2/ -- make text with gpt2!
+[[https://stackoverflow.com/questions/2268885/machine-learning-in-ocaml-or-haskell#2308361][ml with cool functional languages]]
+https://www.youtube.com/watch?v=Jr9sptoLvJU&app=desktop
+
+** natural language processing
+
+https://www.reddit.com/r/compsci/comments/g1y5af/cmu_deepmind_googles_xtreme_benchmarks/
+http://brainstormingbox.org/what-do-you-think-about-natural-language-processing/
+
+* algorithms
+
+https://shachaf.net/w/b-trees
+https://en.m.wikipedia.org/wiki/Assignment_problem
+https://github.com/benchaplin/hungarian-algorithm
+https://news.ycombinator.com/item?id=21577659 -- space invaders genetic
+algorithm
+https://dynamic-programming.debkbanerji.com/select-problem visualization of
+dp problems
+https://www.youtube.com/watch?v=xP5-iIeKXE8&utm_source=Hackaday.com&utm_campaign=ec4864ced1-EMAIL_CAMPAIG
+-- figure out how this works!
+https://dynamic-programming.debkbanerji.com/select-problem -- dp visualization
+
+* game dev
+
+[[https://www.amazon.com/dp/1099819776?tag=duckduckgo-fpas-20&linkCode=osi&th=1&psc=1][book on how doom was developed, looks cool too!]]
+
+* people
+
+https://en.m.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r
+http://www1.ece.neu.edu/~eyeh/
+http://www.ccs.neu.edu/home/hlnguyen/
+http://www.ccs.neu.edu/home/rancohen/
+https://christine.website/contact
+https://jswrenn.comhttp://www.ccs.neu.edu/home/hlnguyen/
+http://www.ccs.neu.edu/home/rancohen/
+https://christine.website/contact
+https://jswrenn.com//
+http://people.cs.uchicago.edu/~jhr/
+https://www.ccs.neu.edu/home/ryanc/
+http://users.umiacs.umd.edu/~hal/cv.html
+https://users.cs.northwestern.edu/~jesse/
+http://worrydream.com/#!/Bio -- this guy has done a lot and has a lot of
+interests
+http://cs.brown.edu/research/plt/ -- self explanatory
+https://lexi-lambda.github.io/resume.html -- alexis king -- brilliant racket and
+haskell programmer
+https://www.reddit.com/r/haskell/comments/fyyia7/which_major_code_bases_should_i_study_to_better/
+http://blog.ezyang.com/about/ -- edward yang, a stanford phd student who works
+with ml and functional languages
+https://ryanjung.dev/ -- in fundies, has great personal website -- work on mine!
+http://justinpombrio.net/ -- pl guy, phd student from brown
+https://www.antonok.com/ -- good work in rust, have talked to him, cool guy
+https://shreyaskapur.com/ -- mit undergrad, really on top of it
+https://nicholas-miklaucic.github.io/ -- northeastern guy, great blog
+https://guillaumelegoy.github.io/ -- Boring Data Science blog with lots of cool
+trinkets
+http://seinfeld.co/library/
+http://herpolhode.com/rob/ -- archer, unix guy who writes about things!
+https://web.stanford.edu/~ouster/cgi-bin/home.php -- behind raft; cool dude
+http://aviral.io/ -- prl phd student who does a lot of cool work
+https://en.wikipedia.org/wiki/Greg_Marinovich -- photographer who has worked at
+a lot of different places, very well known, he works in BU
+http://willghatch.net/blog/ -- good writing on a bunch of people doing things
+with operating systems
+https://jborichevskiy.com/ideas/ -- this person has a lot of cool ideas r work
+https://www-cs-faculty.stanford.edu/~knuth/retd.html -- of course, knuth
+http://lav.io/ lots of gool 3d and visual art work
+http://madebyevan.com/ -- 3d stuff !
+https://en.wikipedia.org/wiki/Daniel_S._Weld
+http://mumble.net/~jar/ -- this guy works on cool open source things
+https://miles.land/#portfolio -- very cool and entreprenurial !
+https://winston.me/ -- winston seems cool
+https://www.karenx.com/ -- high profile filmmaker and designer
+https://www.theguardian.com/culture/2020/apr/29/nats-what-i-reckon-the-sweary-ranty-youtuber-whos-become-an-isolation-cooking-sensation
+-- good cook!!
+http://homes.sice.indiana.edu/samth/ -- sam tobin something, student of matthias
+[[http://number-none.com/blow/][jon blow, game dev and compiler guy]]
+
+** matthias
+
+https://felleisen.org/matthias/Thoughts/Referential_Transparency.html
+https://felleisen.org/matthias/Thoughts/Why_How_do_I_get_a_PhD.html -- on grad
+school
+https://link.springer.com/article/10.1007/BF00277387
+https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-20.html#%_idx_2990
+sicp, somehow
+https://www.cis.upenn.edu/~halleyy/ phd student working on generative models
+https://mitpress.mit.edu/sites/default/files/sicp/index.html
+http://ccs.neu.edu/home/types/extras/extras.html -- been greenman, cool guy!
+https://felleisen.org/matthias/4620-s18/index.html
+https://felleisen.org/matthias/7480-s17/lectures.html -- talks from a lot of PL
+people
+
+** mike shah
+
+http://www.mshah.io/pizza/artofpizza.html pizza
+http://www.mshah.io/conf/18/cppcon/index.html debugging with the gui
+cpp, llvm and all that.
+https://docs.google.com/presentation/d/1jps3KpD2zbsBwwApDnsU9LsgpXX-8ttmwtwEKoNKHt8/mobilepresent#slide=id.g358c9a0181_0_7
+https://docs.google.com/presentation/d/1gkVFtXpXcySlu7qiPaaACIMAXBT0Cfn_p_yBn1NFrOs/mobilepresent#slide=id.g17dd02dfa8_4_16
+
+** olin shivers
+
+http://www.ccs.neu.edu/home/shivers/autoweapons.html
+his thesis is incredible
+https://news.ycombinator.com/item?id=2382531
+stuff about olin
+comedy:
+http://www.ccs.neu.edu/home/shivers/autoweapons.html
+https://www.wanderings.net/notebook/Main/BitterAcknowledgmentsOfOlinShivers
+http://www.ccs.neu.edu/home/shivers/newstyle.html
+http://www.ccs.neu.edu/home/shivers/scribblings.html
+
+** knuth
+
+https://www-cs-faculty.stanford.edu/~knuth/boss.html
+https://www-cs-faculty.stanford.edu/~knuth/news08.html
+https://www-cs-faculty.stanford.edu/~knuth/taocp.html
+https://www-cs-faculty.stanford.edu/~knuth/retd.html
+https://www-cs-faculty.stanford.edu/~knuth/vita.html
+https://www-cs-faculty.stanford.edu/~knuth/cp.html
+
+** sam stites : prob programming, ml
+
+https://stites.io/ -- great writing on neural networks
+
+** jake kinsella
+
+peer of mine, several cool personal projects
+https://github.com/TheLocust3/hierarchy -- trello clone with trees and graphs
+https://github.com/TheLocust3/full-stack-vm -- virtual machine!
+https://jakekinsella.com/projects/intel8080/ -- emulator for intel 8080
+processor - emulation could be cool
+
+* sus links
+
+https://web.archive.org/web/20130507230947/http://www.heise.de/tp/artikel/2/2898/1.html
+https://web.archive.org/web/20130507230947/http://www.heise.de/tp/artikel/2/2898/1.html
+https://meet.jit.si/ -- free meetings and stuff
+http://www.catb.org/hacker-emblem/?utm_source=Hackaday.com&utm_campaign=ec4864ced1-EMAIL_CAMPAIGN_2020_02
+http://www.jsfuck.com/
+
+* haskell
+
+https://blog.sumtypeofway.com/posts/fast-iteration-with-haskell.html
+https://blog.josephmorag.com/posts/mcc1/
+http://oleg.fi/gists/posts/2020-04-27-overloaded-local-do.html
+https://gilmi.me/blog/post/2020/04/28/consider-haskell
+https://tech.fpcomplete.com/blog/2016/11/covariance-contravariance
+https://tech.fpcomplete.com/haskell/syllabus
+https://www.reddit.com/r/haskell/comments/g1ajqe/towards_faster_iteration_in_industrial_haskell/
+https://www.reddit.com/r/ProgrammingLanguages/comments/fum1pw/haskell_cheat_sheet/
+https://www.reddit.com/r/haskell/comments/x7fyt/smartcheck_a_better_quickcheck_for_testing/
+http://www.philipzucker.com/computational-category-theory-in-python-ii-numpy-for-finvect/
+https://downloads.haskell.org/~ghc/7.0.1/docs/html/users_guide/rewrite-rules.html
+https://www.youtube.com/watch?v=idU7GdlfP9Q&app=desktop software dev in
+haskell 'painlessly'
+https://github.com/graninas/software-design-in-haskell software developmetn
+in haskell
+http://hackage.haskell.org/package/gloss -- 2d graphics library
+http://hackage.haskell.org/package/mwc-random-accelerate -- pseudorandom
+numbers, accelerate arrays ??
+https://mmhaskell.com/machine-learning
+http://hackage.haskell.org/package/nvvm -- no idea, looks cool
+https://bartoszmilewski.com/2017/01/02/comonads/ -- monads in reverse;
+co-categories
+http://book.realworldhaskell.org/ -- learning haskell from the perspective of a
+software developer
+https://en.wikibooks.org/wiki/Haskell/Monad_transformers -- transformers ::
+operating over monads
+https://hackage.haskell.org/package/haskeline-0.8.0.0/docs/System-Console-Haskeline.html
+-- ui for interacting with the terminal in haskell
+https://www.youtube.com/watch?v=uxv62QQajx8 -- implementing linear haskell
+https://www.youtube.com/watch?v=SjxP1NpoP2c -- hasktorch !
+https://www.youtube.com/watch?v=qWpD8t_Aodk&t=945s -- how they made hasktorch
+https://www.reddit.com/r/haskell/comments/gwdd8/io_evaluates_the_haskell_heap/
+https://www.reddit.com/r/programming/comments/gwyq2/implementing_the_haskell_heap_in_python_hint_it/
+https://www.reddit.com/r/haskell/comments/fz0ve/the_type_technology_tree_mapping_type_extensions/
+https://www.reddit.com/r/haskell/comments/h40qr/unraveling_the_mystery_of_the_io_monad/
+https://www.reddit.com/r/haskell/comments/k5okh/lets_play_a_game_how_to_implement_functions_from/
+https://www.reddit.com/r/haskell/comments/i29kd/a_pattern_for_avoiding_allocation_inside_t5/
+https://www.reddit.com/r/haskell/comments/hlsmv/an_insufficiently_lazy_map_the_dangers_of/
+https://www.reddit.com/r/haskell/comments/hcjmm/space_leak_zoo_a_catalog_of_common_space_leaks_in/
+https://www.reddit.com/r/haskell/comments/tzp7f/a_gamified_tutorial_on_the_sequent_calculus/
+https://www.reddit.com/r/haskell/comments/12irlj/hpd3js_an_interactive_heap_profile_viewer/
+https://www.reddit.com/r/haskell/comments/571i8r/galois_is_hiring/
+https://www.reddit.com/r/haskell/comments/2b7odl/this_just_in_from_my_local_ghccabal_checkout_re/
+https://www.reddit.com/r/haskell/comments/5bkhth/request_for_comment_specifying_versions_soname/
+https://www.reddit.com/r/haskell/comments/5erk9u/levity_polymorphism_new_paper_from_richard_and/
+https://www.reddit.com/r/haskell/comments/5erk9u/levity_polymorphism_new_paper_from_richard_and/
+https://www.reddit.com/r/haskell/comments/5yxbh7/what_bcbreaking_changes_would_you_make_to/
+https://www.reddit.com/r/adventofcode/comments/ek4652/2019_day_all_haskell_my_first_journey_through/
+https://www.reddit.com/r/compsci/comments/g1rtjo/xpost_rhaskell_i_wrote_an_introduction_to_lambda/
+https://www.simplehaskell.org/
+https://alpacaaa.net/thoughts-on-haskell-2020/
+https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
+https://www.tweag.io/posts/2019-02-13-types-got-you.html
+https://hackage.haskell.org/package/base-4.12.0.0/docs/GHC-Generics.html
+https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto
+https://tech.fpcomplete.com/blog/2017/01/quickcheck
+https://www.parsonsmatt.org/2019/12/26/write_junior_code.html
+https://talks.diogocastro.com/the-haskell-epidemic/#0
+http://www.cse.chalmers.se/%7Erjmh/QuickCheck/
+https://www.reddit.com/r/haskell/comments/fz19kg/where_can_i_find_examples_of_haskells_features/
+https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html
+https://www.reddit.com/r/haskell/comments/g2y4m1/im_streaming_myself_working_on_ghc_today_if_you/
+https://ucsd-progsys.github.io/liquidhaskell-blog/2020/04/12/polymorphic-perplexion.lhs/
+https://m.youtube.com/watch?feature=youtu.be&v=kIwd1D9m1gE
+https://gist.github.com/erebe/a8b0ffd1a27133bcf3b640b64e35f2fb
+https://www.reddit.com/r/haskell/comments/g0w8g5/can_someone_explain_this_kmett_magic/
+
+** setting up stack
+
+wget https://get.haskellstack.org/stable/linux-x86_64-static.tar.gz
+rm -rf linux-x86_64-static.tar.gz
+export PATH=$PATH:./s
+
+creating project:
+stack new Other simple
+stack setup
+getting ncurses5-compat-libs:
+
+** category theory
+
+https://en.wikibooks.org/wiki/Haskell/Category_theory -- haskell and categories!
+https://en.wikipedia.org/wiki/Monad_(category_theory)#Algebras_for_a_monad
+https://en.wikipedia.org/wiki/Kleisli_category -- category for monads
+Does every monad arise from an adjunction?
+http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html
+https://en.wikipedia.org/wiki/Monad_(category_theory)#Algebras_for_a_monad
+https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem
+http://comonad.com/reader/
+https://ncatlab.org/nlab/show/comonad#definition
+ http://comonad.com/reader/ -- curry howard lambek currespondence guides researchers into computation. rea    ding a logic like type theory is a definitional trick as it is just reinterpretation of syntax. syntactic     categories are difficult to connect to categorical semantics
+
+* music
+
+https://www.youtube.com/watch?v=x0BpPa72qCE&app=desktop
+
+http://www.pd-tutorial.com/english/index.html
+https://vcvrack.com/
+https://forum.bela.io/d/1277-c-real-time-audio-programming-with-bela-a-free-online-course
+https://www.syntorial.com/
+https://ccrma.stanford.edu/~jos/
+
+https://www.purrdata.net/
+https://teddykoker.com/2020/05/deep-learning-for-guitar-effect-emulation/
+https://arxiv.org/html/1202.4212
+https://git.sr.ht/~rabbits/orca
+https://sonic-pi.net/
+https://www.simple.com/blog/behind-the-budget-how-to-build-your-own-synthesizer-with-simples-kelly-d
+https://syntherjack.net/how-to-start-synth-diy/
+
+https://www.gwern.net/GPT-2-music#generating-midi-with-10k30k-context-windows
+-- generating music automatically!!
+https://bjooks.com/ -- music book website
+https://www.soundonsound.com/reviews/push-turn-move -- highly recommended; a
+book written about how we interact with electronic instruments. for synth
+enthusiasts and music industrial designers!
+http://everynoise.com/engenremap-vaporsoul.html
+http://everynoise.com/engenremap-indiepoptimism.html
+http://everynoise.com/engenremap-indiepoptimism.html
+http://everynoise.com/retromatic.html
+http://everynoise.com/engenremap-vaportrap.html
+http://everynoise.com/engenremap-escaperoom.html
+
+** making music
+
+https://learningsynths.ableton.com/
+https://learningmusic.ableton.com/
+https://www.ableton.com/en/blog/ideas-offers-making-music-home/
+https://musiclab.chromeexperiments.com/
+
+** making the making of music
+
+https://tonejs.github.io/
+https://www.youtube.com/watch?v=JZ5yPdoPooU
+https://www.youtube.com/watch?v=x-1_TEETVOA
+https://www.reddit.com/r/synthesizers/comments/fxhogj/im_a_bassist_and_producer_and_i_love_synths_i/
+
+* systems
+
+http://people.cs.pitt.edu/~jacklange/teaching/cs2510-f17/
+
+https://github.com/NatTuck/pancake -- this looks kinda wild, figure out what
+it's doing!
+
+* design
+
+https://nipponcolors.com/#aikobicha -- color picker that has some neat
+configurations by default!
+http://fatihhardal.com/ -- cool design inspo
+https://www.motherdesign.com/work/aiga/
+
+** web design
+
+https://www.cssmatic.com/noise-texture cool idea, exporting the link that will
+query the right thing without saving it
+https://www.webdesignerdepot.com/2014/12/3-tricks-for-adding-texture-to-your-text-with-css-and-svg/
+https://www.webdesignerdepot.com/2015/02/3-cool-css3-image-hover-effects/
+https://www.smashingmagazine.com/2020/04/skeleton-screens-react/
+
+* books
+
+https://en.wikipedia.org/wiki/Adventures_in_the_Screen_Trade
+https://en.wikipedia.org/wiki/No_Logo
+realm of racket ????
+https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
+
+* movies
+
+ten years
+full metal jacket
+cowboy bebop
+samurai champloo
+
+* tech to try out
+
+https://reasonml.github.io/
+
+* physical
+
+https://github.com/xingyif/raft
+https://www.youtube.com/watch?v=hUzri2ybm_Y
+
+** bio
+
+neurobiology
+in vivo / ex vivo
+in vitro
+beta tau optimization
+radio tracers : technological or approval barrier? a combination of the both,
+really, technology not developed for this. none o these are good enough to
+definitively say they can be implemented
+learn about brains and chemistry stuff!! work in lab!
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2633703/
+https://www.nature.com/articles/nchem.2889
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4289634/
+http://worrydream.com/#!/LearnableProgramming designing a programming system for
+understanding programs
+How should a programming language for an introductory computer science class be
+chosen? Should it be designed or should the course be based on another
+industry language? How does the design of a programming language used in an
+introductory computer science course impact the impressions of freshman computer
+science students -- both those new to computer science and who have been
+programming for a long time? How can we use the programming language to
+teach proper software development opportunities in the classroom?
+
+* quotes
+
+what's the greater risk - letting go of what people think or letting go of how i
+feel, what i believe and who I am?
+
+brene brown
+https://www.maa.org/news/interview-tony-derose  -- from computer graphics pioneer
+
+https://catalog.princeton.edu/catalog/SCSB-8534958 -- b
+https://kk.org/thetechnium/68-bits-of-unsolicited-advice/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter
+
+* math
+
+https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/
+
+* lang tech
+** elm
+
+https://elm-lang.org/examples
+
+** rust
+
+https://rust-analyzer.github.io/blog/2020/04/20/first-release.html
+https://www.reddit.com/r/gorillaz/comments/g980ui/rock_the_house_animation_by_%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8F%E3%83%A0%E3%83%8F%E3%83%A0/
+-- how do i do animations like this?
+
+https://www.linkedin.com/mwlite/in/christopher-choquette-choo who is this dude?
+https://copetti.org/projects/ -- does writing on console architecture
+https://pydanny.blogspot.com/2011/08/github-is-my-resume.html?m=1 -- making a
+resume for github
+http://mjb.io/ -- wild!
+
+* music
+
+[[https://www.youtube.com/watch?v=ONloOhDLrFU&app=desktop][inspiration: turning ideas into tracks]]
+[[https://www.bitwig.com/en/bitwig-studio.html][bitwig: linux daw]]
+
+* talks
+
+https://www.reddit.com/r/ProgrammingLanguages/comments/fxc504/do_you_know_any_interesting_talks_about_pl/
+https://www.youtube.com/watch?v=yy8jQgmhbAU&app=desktop
+https://www.realtimerendering.com/raytracinggems/
+https://www.benawad.com/scraping-recipe-websites/
+https://www.youtube.com/watch?v=P1ww1IXRfTA&t=&app=desktop
+[[https://www.youtube.com/watch?v=5CYeZ2kEiOI&app=desktop][from rails to elm and haskell: functional web programming]]
+[[https://www.hillelwayne.com/talks/software-history/?utm_source=hillelwayne&utm_medium=email][what we can learn from software history]]
+[[https://www.hillelwayne.com/10x/][good programmers can be bad for industry]]
+[[https://www.hillelwayne.com/hate-your-tools/][hate your tools]]
+[[http://bangbangcon.com/livestream][fun, 10 min fast talks!]]
+
+* web dev
+
+https://felixgerschau.com/react-rerender-components
+https://tonsky.me/
+https://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html?m=1
+https://wwwwwwwww.jodi.org/
+https://raphlinus.github.io/graphics/2020/04/21/blurred-rounded-rects.html
+https://www.youtube.com/watch?v=f2mMOiCSj5c&feature=youtu.be&app=desktop
+https://benchmarks.slaylines.io/
+https://webkid.io/blog/react-flow-node-based-graph-library/
+https://jamesmonger.com/2019/09/10/super-robust-api-with-isomorphic-typescript.html
+[[Retro fonts][https://vistaserv.net/blog/90s-fonts-modern-browsers]]
+https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/ why not elm
+https://www.reddit.com/r/haskell/comments/fy848b/why_im_leaving_elm/
+https://einaregilsson.com/serverless-15-percent-slower-and-eight-times-more-expensive/
+https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/
+https://bitsofco.de/what-i-wish-i-knew-about-react/
+https://denvaar.github.io/articles/csrf_tokens_with_phoenix.html
+https://www.reddit.com/r/purescript/comments/fud1za/purescriptflame_cool_well_documented_alternative/
+https://www.purescript.org/
+
+** graphql
+
+[[https://morpheusgraphql.com/]]
+[[https://graphql.org/learn/best-practices/]]
+[[https://gist.github.com/spicydonuts/0c09596c1f27d517e9fe][purescript and elm]]
+[[https://github.com/hendrikniemann/purescript-graphql][typesafe graphql in purescript!]]
+[[https://konkle.us/purescript-for-front-end-developers/][purescript on the frontend]]
+
+* innovation in rust
+
+https://github.com/nikomatsakis/rust-belt-rust-2019
+https://github.com/rust-lang/polonius
+https://news.ycombinator.com/item?id=23113661
+https://en.m.wikipedia.org/wiki/Slab_allocation
+
+* books
+
+https://news.ycombinator.com/item?id=23151144
+https://www.reddit.com/r/compsci/comments/g37h4c/what_are_your_favorite_computer_science_books/
+https://www.cis.upenn.edu/%7Ebcpierce/tapl/
+http://pages.cs.wisc.edu/%7Eremzi/OSTEP/ classic os book
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+https://www.info.ucl.ac.be/%7Epvr/book.html
+https://www.oreilly.com/library/view/applying-uml-and/0131489062/
+https://www.goodreads.com/book/show/2333956.The_Annotated_Turing?ac=1&from_search=true&qid=6DmPQiMHk9&rank=1
+https://www.goodreads.com/book/show/166195.Modern_Operating_Systems?ac=1&from_search=true&qid=95BaFJ8hmZ&rank=1
+https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X
+https://eloquentjavascript.net/ writing javascript good
+
+* funny
+
+https://aphyr.com/posts/342-typing-the-technical-interview excellent article
+on navigating the technical interview
+
+https://github.com/lampepfl/dotty/issues/7598 -- on the equality operator
+http://matt.might.net/articles/electric-meat/ -- his whole blog is incredible
+
+* designing code
+
+http://gamesfromwithin.com/data-oriented-design
+https://overreacted.io/goodbye-clean-code/
+https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/
+https://brianmckenna.org/blog/softwerewolves
+
+* being a developer
+
+https://www.youtube.com/watch?v=M1t0egTZY44&app=desktop
+https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html
+https://kk.org/thetechnium/68-bits-of-unsolicited-advice/
+https://billwadge.wordpress.com/2020/04/25/the-secret-of-software-success/
+https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it
+https://www.reddit.com/r/MachineLearning/comments/6l2esd/d_why_cant_you_guys_comment_your_fucking_code/
+
+* tools
+
+https://smallstep.com/blog/ssh-tricks-and-tips/
+http://matt.might.net/articles/ssh-hacks/
+https://news.ycombinator.com/item?id=22994984 finding bet email manager
+
+https://apps.ankiweb.net/
+https://github.com/ashlinchak/mdanki
+https://www.gwern.net/Spaced-repetition
+https://wiki.osdev.org/Expanded_Main_Page
+
+* cybersec
+
+https://www.malwaretech.com/2015/12/kelihos-analysis-part-1.html
+https://www.wired.com/story/eternalblue-leaked-nsa-spy-tool-hacked-world/
+https://krebsonsecurity.com/2016/10/source-code-for-iot-botnet-mirai-released/
+https://www.arbazsiddiqui.me/a-complete-guide-to-man-in-the-middle-attacks/
+https://www.netmeister.org/resume.html
+https://www.malwaretech.com/2014/12/phase-bot-exploiting-c-pane.html
+https://www.malwaretech.com/2016/02/necursp2p-hybrid-peer-to-peer-necurs.html
+https://wojciechregula.blog/post/stealing-your-sms-messages-with-ios-0day/
+https://www.reddit.com/r/Bitcoin/comments/wvm2w/secure_multiparty_bitcoin_anonymization/
+https://www.reddit.com/r/Bitcoin/comments/wvm2w/secure_multiparty_bitcoin_anonymization/
+https://cointelegraph.com/news/defi-can-now-choose-to-run-trustless-zero-knowledge-proofs/amp
+https://donotpay.com/
+https://toc.cryptobook.us/
+https://caml.inria.fr/pub/docs/manual-ocaml/afl-fuzz.html
+https://wiki.osdev.org/Expanded_Main_Page
+https://raft.github.io/
+https://jackdoerner.net/research/
+
+* etc
+
+https://outline.com/gdqBaR
+https://h313.info/ i like this site
+https://andres.systems/
+https://github.com/h313
+http://dontfragment.com/using-python-yaml-and-jinja2-to-generate-config-files/
+http://nathancorbyn.com/
+https://www.perell.com/blog/peter-thiel
+https://an-vu.com/What-I-m-Reading
+https://www.goodreads.com/book/show/2333956.The_Annotated_Turing?ac=1&from_search=true&qid=6DmPQiMHk9&rank=1
+https://pluralistic.net/
+https://craphound.com/
+https://erik.itland.no/
+https://vsupalov.com/docker-arg-env-variable-guide/
+https://varkor.github.io/blog/2018/11/10/monadic-do-notation-in-rust-part-i.html
+https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
+https://www.philosophicalhacker.com/post/data-point-for-job-seeking-devs/
+https://benwiser.com/blog/My-blog-is-now-generated-by-Google-Docs.html
+https://www.philosophicalhacker.com/post/data-point-for-job-seeking-devs/
+https://macwright.org/2020/05/10/spa-fatigue.html
+https://www.quantamagazine.org/how-to-design-a-perpetual-energy-machine-20200401/
+https://www.reddit.com/r/ProgrammingLanguages/comments/g1wd0v/but_what_if_we_put_modifiers_after_the_keyword/
+http://www.catb.org/esr/structure-packing/
+https://www.karenx.com/blog/how-to-become-a-designer-without-going-to-design-school
+https://andrewkelley.me/post/not-a-js-developer.html
+https://andrewkelley.me/post/intro-to-zig.html
+https://en.m.wikipedia.org/wiki/Bonini%27s_paradox
+https://linkurio.us/
+https://m.youtube.com/watch?v=HyzD8pNlpwI
+https://m.youtube.com/watch?v=b2AjRklfWQo
+https://m.youtube.com/watch?v=dS6rCaDSwW8
+https://m.youtube.com/watch?v=DpXy041BIlA&feature=youtu.be
+https://m.youtube.com/watch?v=X3l0fPHZja8
+https://joshtriplett.org/
+https://m.youtube.com/watch?v=oYk8CKH7OhE
+https://m.youtube.com/watch?v=XpDsk374LDE
+https://mobile.twitter.com/sylefeb/status/1258808333265514497
+https://m.youtube.com/watch?v=rq1DRuB9p7w
+https://m.youtube.com/watch?v=TH9VCN6UkyQ
+https://m.youtube.com/watch?v=4t1K66dMhWk
+https://varkor.github.io/blog/2018/11/10/monadic-do-notation-in-rust-part-i.html
+https://gcc.gnu.org/onlinedocs/gcc/Static-Analyzer-Options.html
+https://marctenbosch.com/news/2020/05/siggraph-2020-technical-paper-n-dimensional-rigid-body-dynamics/
+https://nikic.github.io/2020/05/10/Make-LLVM-fast-again.html
+https://m.youtube.com/watch?feature=youtu.be&v=oTMuzM_-_0M
+https://arxiv.org/abs/1805.09501
+
+https://ban.ai/multics/
+https://www.multicians.org/simulator.html
+https://cs-syd.eu/posts/2020-04-28-genvalidity-improvements
+
+https://metacademy.org/
+https://news.ycombinator.com/item?id=23032243
+https://medium.com/@thezedwards/the-2020-url-querystring-data-leaks-millions-of-user-emails-leaking-from-popular-websites-to-39a09d2303d2
+https://sourcehut.org/blog/2020-04-30-the-sourcehut-hub-is-live/
+http://www.sizecoding.org/wiki/Game_of_Life_32b
+https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/
+https://thedesignsquiggle.com/
+https://machinelearningmastery.com/learn-add-numbers-seq2seq-recurrent-neural-networks/
+http://www.julianzucker.com/
+https://hasura.io/
+https://www.planetminecraft.com/project/harry-potter-adventure-map-3347878
+https://caseymuratori.com/blog_0038
+https://rachelbythebay.com/w/2020/04/30/dev/
+https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/
+https://www.gnu.org/fun/jokes/eternal-flame.html
+https://nesslabs.com/science-of-curiosity
+
+https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug.html
+
+https://johnkerl.org/doc/ortho/ortho.html writing math well
+https://medium.com/@anilkoonath/my-son-was-locked-in-his-body-for-27-years-then-he-found-his-voice-f9a4bedb1d0e
+powerful
+https://mobile.twitter.com/naval/status/1002103360646823936 how to get rich
+or smth
+https://www.newyorker.com/magazine/2017/06/05/the-work-you-do-the-person-you-are
+https://blog.plover.com/misc/half-baked.html tired answers to half baked
+questions !! both article on category theory but commentary on stack exchange
+https://www.the-tls.co.uk/articles/feynman-making-the-extraordinary-look-easy/
+incredible work on feynman
+https://nesslabs.com/too-busy-to-enjoy-life
+https://en.m.wikipedia.org/wiki/Onfim
+https://ciechanow.ski/gears/ incredibly well done article on gears -- learn
+the topic, but more importantly learn how to develop such good articles
+https://qnkxsovc.gitlab.io/prob-vis/ another incredible writeup
+https://macwright.org/
+https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/
+http://norvig.com/21-days.html
+https://github.com/mist64
+https://www.instupendo.com/about
+https://github.com/puffnfresh
+https://blog.theboringtech.io/2020/04/16/time_is_the_real_currency.html
+https://en.m.wikipedia.org/wiki/Wikipedia_Seigenthaler_biography_incident
+https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window
+https://acoup.blog/2020/04/24/fireside-friday-april-24-2020/
+
+* employment/work/practical
+
+https://erikbern.com/2019/02/21/headcount-targets-feature-factories-and-when-to-hire-those-mythical-10x-people.html
+https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html
+https://erikbern.com/2020/03/10/never-attribute-to-stupidity-that-which-is-adequately-explained-by-opportunity-cost.html
+https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon -- hating
+amazon
+https://erikbern.com/2018/08/16/business-secrets-from-terrible-people.html
+https://www.newgrad.tech/
+https://www.cs.princeton.edu/~bwk/advice.html being productive by yourself in
+cs
+https://binarysearch.io/
+https://mtlynch.io/solo-developer-year-2/ working solo
+https://news.ycombinator.com/item?id=22050802 getting job through hn!
+https://www.reddit.com/r/cscareerquestions/comments/9ujawa/programming_language_theory_jobs/
+jobs in pl!
+https://news.ycombinator.com/item?id=22990872 -- inspirational thread about
+joirneys
+https://www.reddit.com/r/ProgrammingLanguages/comments/9ffiky/how_to_get_a_job_in_programming_languages/
+https://www.reddit.com/r/ProgrammingLanguages/comments/9bft4d/do_you_know_of_compilerish_job_opportunities_for/
+https://en.m.wikipedia.org/wiki/Horn_clause
+https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49
+https://github.com/aftertheflood/sparks
+https://nullprogram.com/blog/2020/04/30/
+https://en.m.wikipedia.org/wiki/OODA_loop
+https://esphome.io/
+https://afnan.io/posts/lambda-calculus/
+
+* living
+
+https://www.gwern.net/In-Defense-Of-Inclusionism
+https://hiepph.github.io/post/2017-11-24-emacs-org-syncthing/
+https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49
+https://rachelbythebay.com/w/2020/05/07/serv/
+machiavelli what we got wrong
+https://aeon.co/ideas/hypocognition-is-a-censorship-tool-that-mutes-what-we-can-feel
+http://www.aaronsw.com/weblog/hatethenews
+https://fs.blog/2012/04/feynman-technique/
+https://surfingcomplexity.blog/2020/05/05/the-hard-parts-about-making-it-look-easy/
+https://news.ycombinator.com/item?id=23092657
+https://www.lifehack.org/articles/productivity/how-stop-procrastinating-and-stick-good-habits-using-the-2-minute-rule.html
+https://psyarxiv.com/29ryz
+https://www.robinsloan.com/notes/home-cooked-app/
+https://mobile.twitter.com/david_perell/status/1257484391204352002
+https://en.m.wikipedia.org/wiki/StartUp_(podcast)
+https://en.m.wikipedia.org/wiki/How_To_Fail_at_Almost_Everything_and_Still_Win_Big
+http://matt.might.net/articles/what-cs-majors-should-know/
+http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2019-11.html coveting
+an online prescence
+https://www.svese.de/impact-vs-backlog-frame-in-software-development
+https://news.ycombinator.com/item?id=23091136
+https://news.ycombinator.com/item?id=23088219
+https://www.newyorker.com/magazine/2007/02/12/two-heads
+https://www.indexventures.com/perspectives/rebirth-robotics-how-covariant-unlocks-power-deep-learning-robots/
+https://thomask.sdf.org/blog/2019/11/09/take-care-editing-bash-scripts.html
+http://www.call-with-current-continuation.org/
+https://news.ycombinator.com/item?id=23057411
+https://www.palabra.io/index.html
+https://emacs.stackexchange.com/questions/5359/how-can-i-troubleshoot-a-very-slow-emacs
+https://www.gwern.net/In-Defense-Of-Inclusionism
+https://sarahguo.com/
+https://blogs.scientificamerican.com/guest-blog/john-conway-reminiscences-about-dr-matrix-and-bourbaki/
+https://en.m.wikipedia.org/wiki/Real_projective_plane
+https://alexanderlim.io/
+https://restyled.io/
+http://wiki.c2.com/?GreenspunsTenthRuleOfProgramming
+https://www.youtube.com/watch?v=OyfBQmvr2Hc&feature=youtu.be&app=desktop
+https://www.youtube.com/watch?v=I5UjfaDRFq0&app=desktop
+https://www.youtube.com/watch?v=WBWRkUuyuE0&app=desktop
+http://shell.cs.pomona.edu/shtepper
+http://www.ccs.neu.edu/home/hlnguyen/cs7805/spring20/index.html
+https://arxiv.org/abs/1605.06640
+https://www.youtube.com/watch?v=jG7dSXcfVqE&app=desktop
+https://www.freecodecamp.org/news/free-courses-top-cs-universities/
+https://www.goodreads.com/review/list/22328243-alex?shelf=currently-reading
+https://mondaynote.com/old-square-discovers-psychedelic-valley-e38d1ef5bc0f
+https://blog.metaobject.com/2020/04/maybe-visual-programming-is-answer.html?m=1
+https://towardsdatascience.com/the-unreasonable-ineffectiveness-of-deep-learning-on-tabular-data-fd784ea29c33
+https://nitros12.github.io/writing-a-discord-library-using-polysemy/
+https://nesslabs.com/science-of-curiosity
+http://beza1e1.tuxen.de/lore/tubes.html
+http://bling.github.io/blog/2016/01/18/why-are-you-changing-gc-cons-threshold/
+https://people.kernel.org/metan/how-to-trigger-races-reliably
+https://news.ycombinator.com/item?id=23098090
+https://heartbeat.fritz.ai/how-lidar-detection-works-8db24556a8d9
+https://news.ycombinator.com/item?id=23095190
+https://pywavelets.readthedocs.io/en/latest/
+https://en.m.wikipedia.org/wiki/OODA_loop
+https://www.youtube.com/watch?v=yy8jQgmhbAU&app=desktop
+https://www.principles.com/the-changing-world-order/#introduction
+https://www.tomshardware.com/news/amd-radeon-gpu-steal-data-radio-transmission-cybersecurity
+http://c9x.me/articles/gthreads/intro.html
+https://markan.me/the-delight-of-development/
+https://rmsol.de/2020/04/25/v4l2/
+https://divinations.substack.com/p/inside-the-clubhouse
+https://www.youtube.com/watch?v=Sb0-I8FkUWU&app=desktop
+https://www.youtube.com/watch?v=Sb0-I8FkUWU&app=desktop
+http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/
+https://airtable.com/shrzJxrXCaJwwJO2T/tblMZ48gq36WojgtE
+https://airtable.com/shrzJxrXCaJwwJO2T/tblMZ48gq36WojgtE
+https://en.m.wikipedia.org/wiki/Monster_group
+http://www.delorie.com/djgpp/doc/rbinter/it/06/0.html -- windows scan codes
+https://remarkable.com/store/remarkable-2?utm_source=facebook-ads-network&utm_medium=paid-social&utm_campaign=2001+-+RT+-+Introducing+reMarkable+2+-+0-7+days&utm_content=Image+-+USD&utm_term=0-7+days+US
+https://cutebouncingbunnies.wordpress.com/
+https://www.netmeister.org
+https://www.netmeister.org/blog/industry-vs-academia.html/
+https://www.netmeister.org/blog/cs-falsehoods.html
+https://www.partow.net/programming/hashfunctions/idx.html
+https://en.m.wikipedia.org/wiki/Conway%27s_law
+http://rmculpepper.github.io/gamble/
+https://www.metalevel.at/sgp/
+https://weiweihuanghuang.github.io/
+https://www.3blue1brown.com/about
+http://janvitek.org/whoowns.html
+https://www.reddit.com/r/compsci/comments/69h3vb/rank_polymorphism_for_array_languages/
+https://gitlab.com/antonok/enum_dispatch#technical-details
+http://karolis.koncevicius.lt/posts/ascetic_bullet_journal/
+http://mikhailkhoury.com/
+https://zapier.com/blog/how-to-build-chat-bot/#how
+https://byorgey.wordpress.com/2020/02/23/what-would-dijkstra-do-proving-the-associativity-of-min/
+https://rhelmer.org/blog/
+https://www.youtube.com/watch?v=M1t0egTZY44&app=desktop
+https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html
+https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm
+
+* scala
+* computer engineering
+
+https://en.m.wikipedia.org/wiki/Berkeley_RISC
+
+* tutorials
+
+https://alex-hhh.github.io/2020/03/a-game-of-tetris.html
+
+* emulator
+
+http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU
+https://stackoverflow.com/questions/448673/how-do-emulators-work-and-how-are-they-written#448689
+https://github.com/vascofazza/8bit-cpu
+https://copetti.org/projects/consoles/nintendo-64/
+https://www.youtube.com/watch?v=OjaAToVkoTw&app=desktop
+https://www.reddit.com/r/ProgrammingLanguages/comments/deuqx3/write_your_own_virtual_machine/
+https://andrewkelley.me/post/jamulator.html
+https://stackoverflow.com/questions/11215689/why-does-emulation-have-to-be-done-in-real-time
+https://www.internalpointers.com/post/introduction-virtual-memory
+https://gist.github.com/hellerbarde/2843375
+
+* nix
+
+https://www.youtube.com/playlist?list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs&app=desktop
+https://grahamc.com/blog/erase-your-darlings
+http://www.marktarver.com/bipolar.html
+https://www.reddit.com/r/NixOS/comments/g1rmby/building_a_web_app_with_functional_programming/
+https://www.paritybit.ca/blog/my-beginnings-with-gentoo
+https://www.reddit.com/r/artificial/comments/gxrnhq/d_paper_explained_synthetic_petri_dish_a_novel/
+https://github.com/happi/theBeamBook on erlang
+https://github.com/stassa/Gleemin/blob/master/README the mtg project i was
+thinking about
+https://wespiser.com/writings/wyas/home.html write you a scheme
+http://www.brattlebookshop.com/ the bookstore!
+https://en.m.wikipedia.org/wiki/Frank_Frazetta incredible artist, some mdg
+https://sivers.org/ cool entreprenuer
+https://secondbreakfast.co/patio11-s-law
+
+http://pkotrcka.inlisp.org/
+https://github.com/dbp/website/blob/master/reading.markdown notes about
+things reading
+https://github.com/restic/restic good backup system
+
+https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md
+great self hsoted resources
+https://github.com/schollz/cowyo neat, encrypted wiki!
+
+https://github.com/pitr/icfp2011 fun lambda the gathering language
+https://tinysubversions.com/
+https://jae.moe/
+https://www.paritybit.ca/
+https://www.ragan.com/how-to-create-internal-rss-feeds/ creating internal rss
+feeds for the intranet
+https://github.com/lkiesow/python-feedgen autogen rss feeds with python
+
+https://hackaday.com/2016/05/03/volkswagen-beetle-the-most-hackable-car/ the
+hackable car!
+
+https://github.com/lkiesow/python-feedgen/blob/master/readme.rst feedgen for
+rss feeds!
+
+#+TITLE: definitions
+my notes on a looot of different things!
+
+* TODO: von Neumann architecture
+any computer that stores program instructions in electronic memory
+todo: investigate architecture approaches
+
+* Operational Semantics
+category of formal programming language semantics
+properties of a program (correctness, safety, security) are verified by
+constructing proofs from logical statements about execution and procedures
+
+example: using lambda calculus to define the semantics of lisp
+
+** Small-Step Semantics
+defining a behavior of a program in terms of the behavior of its individual
+components:
+
+while(e) c --> while . e . c
+provides inductive view of semantics
+
+better control of detail and order of evaluation than large step semantics, but
+require a lot more work
+
+TODO: proving type soundness of a system *against* an operational semantics?
+
+*** Structural Operational Semantics
+**** SOS Specification
+Defines the behavior of a program as a series of transition relations - some
+thing specified transitioning from one state to another
+
+a form of inference rules. these define valid transitions of a piece of syntax
+in terms of the transitions of their components.
+
+for example: if e in state s reduces to value v, then the program L := E will
+update the state s with the assignment L = V
+**** Sequencing semantics
+sequencing semantics: if some program in state s finishes in s', then c1;c2 will
+reduce to c2 in s'
+
+if c1 in state s can reduce to c1' with state s', then c1;c2 will reduce to
+c1';c2 in state s'
+(c1 can be transformed and reduced to sustain the same behavior)
+
+**** while loop stuff
+if we have boolean expressions, our rules are as follows:
+if B in state s produces true, while B do C with context s can be reduced to C ;
+while B do C , s'
+
+if B in state s produces false, while B do C with context s produces s', the s
+coming out of C
+
+*** reduction semantics
+proposed by felleisen lmao
+allows for formalizing equational theory for control and state.
+
+
+** Big-Step Semantics
+the evaluation of an entire function, or program, with context
+demonstrates how final evaluation results of a language can be obtained by
+combining evaluation results of counterparts, like sub expressions
+(bottom up)
+
+this is much simpler and directly corresponds to efficient language interpreter
+however, diverging computations do not construct an inference tree -- this means
+it is impossible to prove things about diverging programs
+* Denotational Semantics
+an approach to formalization that constructs objects -- *denotations* --
+describing the meanings of expressions from the languages.
+the evaluation seeks to find domains that represent programs.
+
+this view holds sort of a top down view -- that the denotation of a program
+should be built out of the denotation of such a program's subphrases
+
+* evaluation
+** call by value
+argument expression is evaluated, then the resulting value is bound as an
+argument to the function, which is then referenced by the function body. here,
+it's not possible to mess up the value you're given, as you're working with a
+copy of the value, but you can still dereference, etc.
+
+when calling by value when the value is a reference (e.g. )
+** call by reference
+function receives a reference (pointer, etc) to a variable used as an argument
+rather than a copy of the value -- allowing the callee to directly change the values
+
+* TODO universal functions, utm theorem, computability
+https://en.wikipedia.org/wiki/UTM_theorem
+self interpretation, self hosting, homoiconicity
+
+https://en.wikipedia.org/wiki/Homoiconicity
+this 'programming paradigms' sidebar is relllly good
+* TODO compilers and shit
+https://en.wikipedia.org/wiki/Dynamic_compilation
+self hosting
+dynamic compilation
+* TODO optimizations
+
+interpreter optimizations
+multipass things
+register allocation
+* TODO virtualization
+how does it work? it is somehow entwined with interpretation?
+* TODO networking
+not sure how this ties into things
+probably requires many, many days of research and learning to get right
+need deeper understanding of protocols etc; i don't even have basic networking
+knowledge besides async
+the most important resource is time
+you cannot get more of it
+cannot replace it, it cannot be engineered, created, fashioned or earned
+the one thing to optimize for in life is time - spend time on things in life
+that are actually worthwhile     to spend time on!
+(we are researching life extension shit i guess
+https://www.nia.nih.gov/about/advances-aging-research) ht
+tps://www.biorxiv.org/content/10.1101/703801v4
+https://genetics.med.harvard.edu/sinclair/research.php not    e that time is the
+only resource that is not replenishable so make the most of it!
+  do everything that makes you uncomfortable - these are when ou grow and learn
+the most
+dive deep into what we know as little as possible to grow fastest, learning to
+face discomfort little by     little
+take notes always - increase mental capacity by recording everything you need to
+do. improves context swi    tching because these things do not need to stay
+queued
+  sum of the people you surround yourself with, find people who inspire and
+interest you
+gery vee tim ferriss ??
+self awareness is the most important skill to have - know your position and
+yourunderstanding
+always question where we are doing and where this will lead in the future
+spend time learning from those who are better thna you! make sure to build each
+other up and mutually benefit
+smile very often to build connections!
+give without expecting!
+instagram dms ?? message others?
+dm everyone. do a lot of things time is most important so always be content!
+minimize possible regret
+once we get going it is more and more difficult to stop where we are going
+work on somethning for a few minutes a day and make constant progress on this
+thing
+look into all the weird shit!
+stoic philosophy
+interview everyone ! coffee chats ! get ot know the poeple who wil give you the
+most benefit
+smile all of the time- all the time - and people will rememember you! you will
+be happy and will become more creative!
+if it failed, wrok towards a goal and move forwards
+if youare not busy find ways to build yourself
+  wake up early
+tim ferriss ??
+why can't you achieve your 10 year goals in the next 6 months?
+zero to one : peter thiel
+  critical effective mass : 80% of the work is accomplished with 20% of the
+effort
+last 20% will cost you 80% of the effort, consequentially
+\nobody knows what they're doing (who is sam altman) some get the space to
+achieve and dream. the difference is 'just starting' and taking that step to
+take action in the world to do what you want to devery project : will success
+turn the rest of your life into a footnote compared to this new project? wil
+l this project make a significant impact in your life?idea: keep track of
+important things you know about peoplthis allows us to remember important things
+about people without having to keep them in memory
+* second sock syndrome
+https://sheepamongwolves.net/2018/09/second-sock-syndrome-what-it-is-and-how-to-fight-it/
+'the inability to complete pairs of socks'
+knitting the first sock goes quickly, ut the second seems to drag on or never
+becomes completed!
+
+this is due to a lack of motivation and interest - the project no longer
+interests us once it becomes menial labor rather than an important exercise that
+has novel actions, etc.
+
+how do I fight it?
+- i love socks - picture the final product and focus on how you can get there.
+- start on the second one as soon as the first one is finished - don't take a
+  break! the break will just delay - or postpone indefinitely - the process of
+  completing the assignment.
+- do not cast anything new until the pair is finished. do not maky any other
+  decisions before the project is done, no matter what!
+- don't put it away
+  if it's left out in the open,you're more likely to want to pick it up again!
+  the signt of it will nag you, it's close when convenient, etc; if it's put
+  away, it's easy to continue to put it off
+- choose something interesting
+  if you have not chosen something interesting, you may have trouble persevering
+- choose a design where the second mirrors the first
+  the two will not be exactly the same, but they are different enough for you to
+  have to focus on the second part of the task
+- do it all at the same time! knit the two socks toegether at the same time.
+- find accountability partner -- they will make sure you get your socks done
+- reward yourself for finishing a pair of socks!
+- knit many singles before finishing the pair
+- switch the style of the knitting -- if you aren't happy, change hte way you're
+  doing things!

@@ -1,7 +1,7 @@
 +++
 title = "Fonts"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-15T19:40:35-04:00
+lastmod = 2020-08-01T22:12:50-07:00
 slug = "fonts"
 draft = false
 +++
@@ -350,3 +350,24 @@ font tutorial
 <https://fontsinuse.com/uses/2291/ableton-website> -- ableton fonts!
 [reading on type defining a brand](https://www.creativebloq.com/features/5-ways-type-can-define-brands)
 <https://glyphsapp.com/> good tool
+
+
+## good terminal fonts {#good-terminal-fonts}
+
+source code pro
+jet brains mono
+iosveka
+ibm plex
+fira code
+pragmata pro
+dank mono
+victor mono
+menlo
+consolas
+roboto mono
+adore64
+hermit light
+opendyslexic mono
+cascadia code pl
+source code pro with emacs hasklig mode
+<https://github.com/huytd/haskplex-font> put this on the AUR!

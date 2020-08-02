@@ -1,0 +1,5 @@
+#+TITLE: Inter-Process Communication
+
+Tools for IPC.
+
+https://developers.google.com/protocol-buffers/

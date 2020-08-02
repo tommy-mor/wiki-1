@@ -1,0 +1,18 @@
+#+TITLE: Mail
+
+Checking and interacting with mail.
+
+* UI
+https://github.com/icyphox/mael mail client in bash and python
+* Etc
+
+https://dbp.io/essays/2013-06-29-hackers-replacement-for-gmail.html
+https://www.reddit.com/r/selfhosted/comments/ha1ikl/best_vps_for_email_server/
+https://dbp.io/essays/2018-01-01-home-backups.html backing up is important!
+
+email ideas:
+- generate arb. email name with the same domain per website, using email
+  similar to web name
+- fwd these emails to central repo
+- know exactly what service these emails came from
+- quick frontend to generate these email addresses/inboxes for subscriptions

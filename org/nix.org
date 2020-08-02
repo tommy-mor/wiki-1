@@ -11,3 +11,104 @@ https://github.com/luke-clifton/nix-config has cool config
 https://github.com/hlissner/dotfiles, doom emacs developer, has nice config. It's not terribly complicated though
 https://github.com/bjornfor/nixos-config
 https://github.com/fooblahblah/nixos
+
+* ETC
+[[http://fluffynukeit.com/installing-nixos/][installing nixos]]
+[[https://nixos.org/nixos/manual/index.html#sec-installation-installing][official wiki on it]]
+[[https://hydra.nixos.org/build/115931128/download/1/manual/manual.html#idm140737322673584][building nix]]
+[[https://github.com/boxdot/nixos-server][example server config]]
+[[https://medium.com/@zw3rk/provisioning-a-nixos-server-from-macos-d36055afc4ad][provisioning nix server from macos]]
+[[https://hydra.nixos.org/build/115931128/download/1/manual/manual.html#chap-introduction][nixops user guide]]
+[[http://fluffynukeit.com/installing-nixos/][installing nixos in vm]]
+[[https://myme.no/posts/2020-01-26-nixos-for-development.html][nixos for developers]]
+
+[[http://blog.shealevy.com/][politics and nix]]
+[[https://www.quora.com/What-is-it-like-to-use-NixOS-Linux-on-production?share=1#][using nixos in prod]]
+[[https://medium.com/@jethroksy/a-year-with-nixos-113b534f446b][a year with nixos]]
+[[https://www.codedbearder.com/posts/nixos-terramaster-f2-221/][nixos on a NAS]]
+
+[[https://nixos.org/nixos/manual/index.html#sec-changing-config][changing nixos configuration]]
+[[https://nixos.org/nixos/manual/index.html#sec-changing-config][managing nix config]]
+[[https://www.natrius.eu/dokuwiki/doku.php?id=digital:server:matrixsynapse][installing matrix on ubuntu]]
+[[https://nixos.org/nixos/manual/index.html#sec-user-management][managing common programs on nixos]]
+[[https://github.com/matrix-org/synapse#synapse-installation][connecting to synapse from a client]]
+[[https://github.com/kylesferrazza/nix][good organization for config]]
+[[https://christine.website/blog/i-was-wrong-about-nix-2020-02-10][here is why nix is good .]]
+[[https://nixos.org/nixos/nix-pills/pr01.html][a good intro to nixos]]
+[[https://github.com/justinwoo/nix-shorts][short, readable notes on nix]]
+[[https://myme.no/posts/2020-01-26-nixos-for-development.html][nixos for developers]]
+
+[[https://nixos.org/nixos/manual/index.html#module-services-matrix][module services for nix]]
+
+* initial installation
+download disk
+load onto live usb
+
+worth noting that what i found the most confusing was:
+- user configuration
+- vps specific, ensuring that i could remove the virtual disk (not delete it)
+and log in as an unprivileged user without booting to the installation disk
+
+* partition
+partition for space for nixos
+
+sudo fdisk /dev/sda
+new
+partition
+sector1
+no selection for start of partition
+no selection for last sector
+w to write to disk
+
+sudo mkfs.ext4 -j -L nixos /dev/sda1
+
+* nixos configuration
+nixos-generate-config --root /mnt
+
+edit /mnt/etc/nixos/configuration.nix
+
+uncomment:
+- localization for us
+- terminal font and keymap
+- timezone = America/NewYork (??)
+
+UEFI systems:
+You must set the option boot.loader.systemd-boot.enable to true. nixos-generate-config should do this automatically for new configurations when booted in UEFI mode.
+look at options with boot.loader.efi and boot.loader.systemd as well.
+
+boot.loader.grub.useOSProber can be set to true to add other OS to the grub
+menu
+
+* enabling wifi
+must enable wifi for the configuration generated:
+plug in live usb
+start
+
+entering nixos comes with manual thing
+sudo systemctl start sshd to start ssh daemon
+[[https://www.linode.com/docs/tools-reference/custom-kernels-distros/install-nixos-on-linode/][installing and configuring nixos on linode]]
+[[https://www.youtube.com/watch?v=uYZrbb78YzA&app=desktop][using nixos for declarative deployment and testing]]
+[[https://github.com/kalbasit/shabka][nixos example]]
+[[https://www.youtube.com/watch?v=0tsfQskVW18&app=desktop][nixos router for the homelab]] -- useful for learning to set everything up
+
+[[https://opensource.builders/][oepn source alternatives for everything]]
+[[http://thedarnedestthing.com/current%20configuration][cool selfhosting specs]]
+
+[[ Slashdot.org][what is your nix?]]
+[[https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/][self hosting email with vultr, nixos]]
+[[https://www.reddit.com/r/NixOS/comments/44attf/nixos_on_digital_ocean/][nix as config mgr]]
+[[https://www.reddit.com/r/NixOS/comments/44attf/nixos_on_digital_ocean/czoyjng/][ooh]]
+
+** nix
+https://christine.website/blog/i-was-wrong-about-nix-2020-02-10
+https://nixos.org/nixos/about.html
+https://ebzzry.io/en/nix/
+https://opencollective.com/nix-errors-enhancement
+http://fluffynukeit.com/installing-nixos/
+https://www.reddit.com/r/NixOS/comments/g1rmby/building_a_web_app_with_functional_programming/
+
+[[https://builtwithnix.org/][nix!]]
+[[https://discourse.nixos.org/t/is-there-much-difference-between-using-nix-shell-and-docker-for-local-development/807][nix vs docker]]
+[[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][configuring infra in nix]]
+[[https://github.com/kylesferrazza/nix/blob/master/README.md][nix!]]
+[[https://github.com/kylesferrazza/nix-gce][looks good]]
