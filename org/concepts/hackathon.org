@@ -82,3 +82,158 @@ https://github.com/anuraghazra/github-readme-stats is a good place to start for 
 Look into dynamically configuring and formatting text via a specific web query. Perhaps a server can be made to accept arbitrary html/css and output an image with this information?
 
 I'll also need a tool for converting such a file into a URL-compatible version, see https://stackoverflow.com/questions/1547899/which-characters-make-a-url-invalid#1547940.
+
+* ETC
+
+configure keybindings for multiple programs at once
+'compile' to assign comprehensive keybindings to all utilities
+single point of control
+friendly, easy to use configuration
+langauge that can 'target' differnet things
+
+web search from terminal
+web search from rofi or something that just comes up that i can type into
+
+for projectional editing: provide clear auditory indications of different program behaviors to alarm us
+eg wiring up jenkins to unsuccessful deployments on different pipelines, different sounds for different themes
+
+pluggable sound system with insertable sound effects; able to hear two events occuring at identical intervals but it is difficult to see this in terms of time stamps!
+
+* working on linux
+xournal for annotating pdf
+obs sdutio for webcam video
+audacity for autio editing
+video editing with openshot?
+pdfsandwich and tesseract ocr for searching pdfs
+qemo/kvm for virtual machines with almost native performance
+gnucash for accounting
+gimp for photo editing
+inkscape for vector graphics
+
+* org mode flow
+org mode
+org board for offline archiving
+org capture for getting links from browser
+git repo for tracking histroy
+org-mind-map can be useful to visualize connections
+grep etc are useful for traversing everything!
+
+* working on os
+richard stallman: live cheaply
+eric raymond: be independently wealthy
+large, talented people: identify and support important or promising open source projects.
+focus on how to improve the livelihoods of funding open source software and interfacing with it
+
+* learning from casual friends
+- find the person at the office who knows things and buy them a beer!
+become friends with amazing programmers. care about them and listen to their frustrations
+we have lots of 'tribal knowledge' that comes out but that we do not fully understand or internalize
+
+making sense of all of the information :: mandate making content. to make this content, you have to first learn -- really understand -- the content. to take an online class, you work towards some certification or end goal with which yuo can demonstrate the work. always do something to add to github at least. if you produce more, you will always learn more
+
+do not need to be good at all of the things; find a balance between being average in many topics and good in a few topics. getting a job means you know enough about enough! bounce around and learn more about more until you find something that really sticks.
+
+one of the best ways to learn a tool is by using it at work -- you're mandated to use it.get a job to learn the thing you want to learn! it's not possible to do *everything* in your spare time, after all
+solve problems around you without asking permission
+
+
+** three steps
+[[https://www.jjude.com/sdl/][sdl]]
+consume, produce and engage.
+first, lookfor the best articles, books videos on the topic and devour them
+then produce something -- blog post, slides, illustration to contextualize the learning
+finally, share with others get feedback and perfect the opinion. can now make closet to a complete picture
+
+keep a running google doc; append anything interesting to it. go back to it every once and awhile to reinforce the ideas!
+
+blog :: keep *logs* of different categories and ideas. expand them as needed.
+by always working on the most interesting problem available, you have endless motivation. with this motivation you will not have incentive to quit! find the passion.
+thomas huxkey -- a good liberal education is to know something about everything and everything about something. go deep on what you want to work in but become broad in skills with everything else.
+
+* couchsurfing
+stay at strangers place entirely for free
+anything you ant it t be -- fill out profile with detail and you can pick out whoever you want to host
+get ot meet incredible people and bring incredible people into ur home as both a host and proprietor!
+try this when u move off campus to see who u can meet . if its still around
+
+crossing the red line :: going from a basic feeling to a constant frustration, beyond such a frustration to this feeling that you can do much more than you thought you could do. the mind accepts even as the body tires, and that the mind has no use -- you are now mind over matter, and can keep going if you need to because you've triumphed!
+
+* webrtc signal strategies
+websockets
+xhr and complete options
+sip over websockets
+xmpp/jungle
+webrtc data channel
+
+
+sitting alone ate the crack of dawn makes me feel like my day has purpose
+leaders must own everything in their world. there is no one else to blame
+
+* finding time wfh
+find alone time while off work
+go for a drive at least once a day
+make sure to have a sit down meal with family
+set boundaries, make sure people know when you are working
+give other free time as well! get away from work and clear your mind
+the most important thing to do is to avoid thinking about work when you are not doing it
+
+think of someone you love but do not see often. how many more times will you be able to see that person? how important is each of those meetings?
+
+how lucky i am to have something that makes goddbye so hard
+they say nothing is impossible, but i do nothing every day
+
+git rebase --interactive
+
+80 pounds in 6mo:
+stopped eating junk and sugar, working out.
+eating more protein and whole foods
+eating at a calorie deficit
+countingg calories and macros
+lift 6 days a week, get 10k steps a day
+
+optimizing resumes
+add relevant words to electronic resumes in white letters on whitee background
+add quotes from company websites or job postings in white letters on white space
+get resume actually seen by everyone!
+
+fastcompany avoid tracking
+analyze daily movementa nd anchor points as well as doramnt periods
+leave cell phone behind during dormant periods and purchase prepaid no contract cell
+store burner phone in faraday bag and activate with clean computer on public wifi network
+encrypt number using otp and rename image file with code. use tor to post image to anon twitter account, signalling communications request with a partner
+leave cell behind, avoid anchor points, and receive phone call at prearranged time, then destroy handset
+
+computers are useless.they only give you answers. pablo picasso
+i refuse to do anything that computers can do - olin shivers
+
+think of meat as a side dish, not as a meal
+
+* naval adv
+no skill called business
+study micro, game theory, psych, persuasion, ethics, math and computers
+reading is faster than listening, doing is faster than watching
+too busy to do coffee but uncluttered calendar
+enforce aspirational hourly rate, outsource if it makes sense
+work as hard as you can. even though who you work with and what you work on are more important
+become the best at what you do. keep redefining what you do until this is true.
+there are no grq schemes
+apply specific knowledge with leverage and eventually you will get what you deserve
+;once upon a time mtg
+
+take a couple of notes -- write a couple of sentences -- about the small things every day. money exchanged? what happened?
+
+hacking signs :: access panel protected by small lock. keyboard attached by curly cord with keyboard. programming is scrolling to instant text, then typing what  you want to display and clicking run without save or adding pages to it. hacket tips :: DOTS is the default password. if password changed, hold control and shift, and enter DIPY while holding, then resets the password to DOTS
+
+teaching a child
+- writing
+- reading
+- basic maths
+-critical analysis
+- building your own idea
+- defend verbal, mental, physical
+- expressing yourself
+- choosing ingredients and prep food
+- life hygiene
+- society, media, pol system
+- learning second language
+programming comes later. lessons, then foster them.
