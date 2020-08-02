@@ -1,5 +1,5 @@
 #+setupfile:./hugo_setup.org
-#+hugo_slug: acl2
+#+hugo_slug: os
 #+TITLE: Operating Systems
 
 Operating systems run your computer!

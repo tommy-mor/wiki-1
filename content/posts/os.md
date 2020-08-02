@@ -1,8 +1,8 @@
 +++
 title = "Operating Systems"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:19:00-07:00
-slug = "acl2"
+lastmod = 2020-08-01T23:19:35-07:00
+slug = "os"
 draft = false
 +++
 
