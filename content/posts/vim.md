@@ -1,12 +1,12 @@
 +++
 title = "Vim"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-19T05:53:45+00:00
+lastmod = 2020-08-01T17:32:59-07:00
 slug = "vim"
 draft = false
 +++
 
-## Backlinks {#backlinks}
+### Backlinks {#backlinks}
 
 -   [Tmux]({{< relref "tmux" >}})
 
@@ -30,3 +30,8 @@ Vim is often preinstalled on Unix systems. If it's unavailable,
 such systems will likely still have vi (or busybox vi), so taking the time
 to learn vim keybindings is worthwhile for their flexibility throuhgout
 programming environments.
+
+
+## Tools {#tools}
+
+<https://github.com/glacambre/firenvim> neovim in the browser

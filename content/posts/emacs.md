@@ -1,16 +1,16 @@
 +++
 title = "Emacs"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-19T05:53:29+00:00
+lastmod = 2020-08-01T17:58:02-07:00
 slug = "emacs"
 draft = false
 +++
 
-## Backlinks {#backlinks}
+### Backlinks {#backlinks}
 
 -   [acl2]({{< relref "acl2" >}})
--   [Vim]({{< relref "vim" >}})
 -   [EXWM]({{< relref "exwm" >}})
+-   [Vim]({{< relref "vim" >}})
 
 Emacs is a fully-featured programming environment.
 
@@ -34,3 +34,39 @@ and allows time tracking, task tracking and information management
 within Emacs. This tight integration allows me to take notes and track
 time without having to switch contexts to other programs with other
 user interfaces.
+
+
+## Tools {#tools}
+
+[cloudmacs](https://github.com/karlicoss/cloudmacs) allows you to self-host your emacs configuration and access it in the browser.
+
+
+## Configurations {#configurations}
+
+<https://github.com/howardabrams/dot-files>
+<https://github.com/jethrokuan/dots>
+<https://github.com/codygman/hci> human programming interface in emacs
+
+
+## Community {#community}
+
+<https://github.com/howardabrams/pdx-emacs-hackers>
+
+
+## Frameworks {#frameworks}
+
+Doom Emacs
+<https://github.com/jkitchin/scimax> science emacs framework
+
+
+## Packages {#packages}
+
+<https://github.com/mtekman/org-tanglesync.el> sync org mode files with dotfiles external to them
+<https://github.com/alphapapa/matrix-client.el> emacs matrix client
+<https://github.com/casouri/OrgMark> add drawings to org mode from your ipad
+<https://github.com/yati-sagade/orch> add drawings to org mode from your android
+<https://github.com/alraban/org-recoll> emacs binding for recoll text search engine
+<https://github.com/cpitclaudel/quick-peek> peek at a window inline!
+<https://github.com/legalnonsense/elgantt> gantt chart (??) in org
+<https://github.com/progfolio/doct> declarative format for org capture templates
+<https://github.com/jeremy-compostella/org-msg> minor mode for replying to outlook in nice outlook html

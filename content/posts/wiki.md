@@ -1,7 +1,7 @@
 +++
 title = "Wiki"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T17:38:45-04:00
+lastmod = 2020-08-01T17:32:27-07:00
 slug = "wiki"
 draft = false
 +++
@@ -65,3 +65,17 @@ I've taken inspiration from several others who maintain wikis.
 -   [Tommy Morriss](https://github.com/tommy-mor) first introduced me to the idea with his personal (private) wiki.
 -   [Jethro](https://jethro.dev) has easily accessible articles and templates that I've made use of to put this together.
 -   [100 Rabbits]({{< relref "100_rabbits" >}}) publish all of their notes and information in a custom wiki framework.
+
+
+## Further Inspiration {#further-inspiration}
+
+[Frank McSherry's blog](https://github.com/frankmcsherry/blog) is maintained entirely by .md files in a journal with a simple markdown index. Git **is** the UI.
+<https://github.com/jackmcdade/secret-public-journal>
+<https://github.com/HermanMartinus/bearblog>
+<https://github.com/bphenriques/knowledge-base> elisp wiki
+<https://github.com/nikitavoloboev/knowledge>
+
+
+## Frameworks {#frameworks}
+
+[txtxt is a CLI microblogging service for 'hackers'](https://github.com/buckket/twtxt)

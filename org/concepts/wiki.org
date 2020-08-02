@@ -42,3 +42,11 @@ I've taken inspiration from several others who maintain wikis.
 - [[https://github.com/tommy-mor][Tommy Morriss]] first introduced me to the idea with his personal (private) wiki.
 - [[https://jethro.dev][Jethro]] has easily accessible articles and templates that I've made use of to put this together.
 - [[file:../people/100_rabbits.org][100 Rabbits]] publish all of their notes and information in a custom wiki framework.
+* Further Inspiration
+[[https://github.com/frankmcsherry/blog][Frank McSherry's blog]] is maintained entirely by .md files in a journal with a simple markdown index. Git *is* the UI.
+https://github.com/jackmcdade/secret-public-journal
+https://github.com/HermanMartinus/bearblog
+https://github.com/bphenriques/knowledge-base elisp wiki
+https://github.com/nikitavoloboev/knowledge
+* Frameworks
+[[https://github.com/buckket/twtxt][txtxt is a CLI microblogging service for 'hackers']]

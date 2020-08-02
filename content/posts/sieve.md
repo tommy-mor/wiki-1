@@ -1,7 +1,7 @@
 +++
 title = "Sieve"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T14:35:50-07:00
+lastmod = 2020-08-01T17:51:39-07:00
 slug = "sieve"
 draft = false
 +++
@@ -19,6 +19,12 @@ To give others a brief summary of the idea and its goals, Sieve is similar to ex
 -   Prioritizes content, has few or no social features whatsoever
 -   Views are content-specific, because the best view for images is not the best for video, audio, or articles
 -   The recommendation engine doesn't track users or collect any user data; it functions only by examining content you've saved.
+
+
+### Prior Work {#prior-work}
+
+[Tumblr](https://tumblr.com)
+[Isolate image browser](https://github.com/seenaburns/isolate)
 
 
 ## Value Proposition {#value-proposition}
@@ -171,3 +177,11 @@ The commercial features:
 -   Users should be able to make their own accounts and start their own inspiration engines for a fee or with advertisements interspersing their content.
 -   Users should be able to follow other users. Following other users adds posts those users have saved to their own feeds; these posts then show that they came through those users. This is as far as the social interaction on this platform will go.
 -   External platforms should be added and supported; i.e. Instagram RSS feeds through Bibliogram. The aggregation of external platforms is huge for external users to hop on and start focusing on this platform.
+
+
+## Tools {#tools}
+
+<https://github.com/RSS-Bridge/rss-bridge>
+bibliogram for subscribing to instagram
+invidio for youtube
+<https://github.com/avencera/fast%5Frss> for parsing rss from elixir backend

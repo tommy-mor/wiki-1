@@ -11,3 +11,10 @@ systems without a GUI in conjunction with programs like [[file:vim.org][Vim]].
 
 Unfortunately, the tmux configuration language is very limited,
 but it provides the right facilities for keymapping and managing windows.
+
+* Tmux Tools
+https://github.com/tmux-plugins/tmux-pain-control
+A tmux plugin that offers pane control and standard pane navigation bindings.
+
+* Other Work
+byobu claims to be a more fully-featured window manager built on top of tmux that might be more viable as a day to day interface without an X session

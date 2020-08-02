@@ -22,3 +22,6 @@ Vim is often preinstalled on Unix systems. If it's unavailable,
 such systems will likely still have vi (or busybox vi), so taking the time
 to learn vim keybindings is worthwhile for their flexibility throuhgout
 programming environments.
+
+* Tools
+https://github.com/glacambre/firenvim neovim in the browser
