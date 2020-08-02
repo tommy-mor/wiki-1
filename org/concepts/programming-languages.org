@@ -1,3 +1,119 @@
+#+TITLE: Programming Languages
+
+* Work
+https://github.com/adam-mcdaniel/oakc
+https://github.com/google/evcxr
+https://github.com/LuxLang/lux
+whitespace
+brainfuck
+https://github.com/jfecher/ante
+https://github.com/hengestone/lua-languages programming languages targeting lua
+https://github.com/bakpakin/Fennel lua lisp
+https://github.com/facebook/hhvm hack vm
+https://github.com/einaregilsson/While-Language while programming language
+https://github.com/topshell-language/topshell functional reactive scripting langauge
+https://github.com/jfecher/ante the compile time language
+https://github.com/kwanghoon/polyrpc 'multi tier' functional programming language
+https://github.com/MosheWagner/PyChefInterpreter chef language
+
+* Research
+https://github.com/jdublu10/icfp2020-papers ICFP 2020 conf
+https://github.com/HoTT/book homotopy type theory book
+https://github.com/EgbertRijke/HoTT-Intro intro hott course (agda)
+
+* Lean
+This'll be factored out when I learn more about Lean.
+https://github.com/uwdb/Cosette automated sql solver
+https://github.com/ImperialCollegeLondon/group-theory-game group theory in lean
+
+* PL Notes
+* blurring the curry howard line
+
+https://www.youtube.com/watch?v=jrVPB-Ad5Gc&t=1870s&app=desktop
+works on autonomous vehicles, fun stuff
+
+typically using languages iwth proof assistants. however, actuation systems
+in carshave real time constraints, so lazy evaluation or nondeterministic
+memory management is not valid. this is typically done in c or cpp.
+pulling a c program from a coq proof ?
+
+programs :: foramlized syntactically, but modeled semantically.
+denotational semantics
+map number to some set :: ie some u8 integer fits within one set. map
+syntactic objects to universal mathematics with such denotational semantics
+
+typing rules:
+tau - a : A, f:A -> B
+---------------
+tau |- a
+
+cannot capture everything with type theory?
+dependent types end up capturing everything. can provide complete
+specification of a program's behavior in the dependent type theory.
+
+curry-howard correspondance :: a correspondence between program and proof!
+we know we can reason about our programs from a dependent type theory, but
+what is this gap called?
+specifying program in the types: can make assertions about the correctness of
+this code.
+
+/why dependent types matter/ paper.
+rust provides subset for representing dependent typed behavior in our
+programs.
+type level definition of the natural numbers, for example!
+
+these programs can be fully represented in state machines! the entire system
+and communication protocols can be captured with such a state machine, and
+this state machine can be represented in a rust type system
+
+state :: sum type. type family adjacency; types that are members of the type
+family are adjacent to each of these states.
+
+can use demotational semantics to convert rust semantics to agda :: and as
+agda has full dependent types. using agda allows us to mechanize semantic
+function !
+agda has a notion of proofs and may soon have a notion of tactics. proving
+things foundationally in agda could be doable once we have the specification
+of the program in its own domain
+
+state machines :: behold the program counter as everything is tracked at
+compile time. not easy in this representation to track a state machine in
+terms of program handlers.
+
+church numerals :: general way of using a function to produce numbers
+program that extracts information from a rust program and stick the semantics
+in agda
+
+* being human by being animal
+
+https://www.youtube.com/watch?v=oG058g3f8Ik&app=desktop
+removing animals of nay dignified cuteness; bojack horseman is pretty close
+to this uncanny valley of creepy absurdism. the desire is not to make the
+animals cute so much as lifelike and uncomfortable.
+
+bojack as a horse ::  horse, long face, depression, juxtaposition of a
+majestic animal as an alcoholic, etc. horse bredfor transportation but the
+role no longer fulfulls the animal; could come from some broader interest in
+horses
+the main characters are drawn from domestic animals !
+four legs good . two legs better . the control we have over domestic animals
+is associated with the characters chosen for the show .
+
+pushing the potential of animation to allow emotional states to hae an impact
+on the world through cartoon absurdism ! the animalism enables them to reveal
+the primal instincts of humans
+
+blind recreation to create images that are readable.
+diane. sometimes, life is a bitch; then, you keep living.
+
+* IDEA: configuration has two types of keymappings.
+
+one is relative to the
+location on the keyboard, while another is relative to the letter.  i like
+mixing both of these. there should be some system for allowing me to easily
+do the former?
+
+
 TODO: break this down into more specific topics!
 * blurring the curry howard line
 https://www.youtube.com/watch?v=jrVPB-Ad5Gc&t=1870s&app=desktop
@@ -13,7 +129,7 @@ denotational semantics
 map number to some set :: ie some u8 integer fits within one set. map
 syntactic objects to universal mathematics with such denotational semantics
 
-typing rules: 
+typing rules:
 tau - a : A, f:A -> B
 ---------------
 tau |- a
