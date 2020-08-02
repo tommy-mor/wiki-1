@@ -1,3 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: programming-languages
 #+TITLE: Programming Languages
 
 * Work
@@ -242,7 +244,6 @@ https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml --
 overview of great works in pl to know before diving in!
 https://softwarefoundations.cis.upenn.edu/ -- software foundations
 https://plfa.github.io/ -- foundations in agda! for free!
-see [[matthias]]
 https://blog.janestreet.com/whats-in-a-name/ -- excellent essay on the
 importance of naming
 https://arxiv.org/abs/1809.10756 -- intro to probabilistic prgrammign !
@@ -407,7 +408,6 @@ https://en.m.wikipedia.org/wiki/Three-address_code
 https://en.m.wikipedia.org/wiki/Static_single_assignment_form
 https://catalog.princeton.edu/catalog/SCSB-8534958 -- benjamin's favorite
 compilers book
-see [[olin shivers]]
 http://www.ocamlpro.com/2020/03/23/ocaml-new-best-fit-garbage-collector/
 http://www.aosabook.org/en/llvm.html -- on llvm
 https://en.wikipedia.org/wiki/Alan_Perlis -- pl research, won turing award or something

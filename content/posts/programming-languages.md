@@ -1,7 +1,7 @@
 +++
 title = "Programming Languages"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:22:01-07:00
+lastmod = 2020-08-01T23:33:34-07:00
 slug = "programming-languages"
 draft = false
 +++
@@ -394,29 +394,28 @@ such a cool thing
 <https://github.com/Storyyeller/IntercalScript>
 <https://vanemden.wordpress.com/2014/06/18/how-recursion-got-into-programming-a-comedy-of-errors-3/>
 
-<!--list-separator-->
 
--  haxe!
+#### haxe! {#haxe}
 
-    <https://www.reddit.com/r/programming/comments/do220a/haxe%5F4%5Fhas%5Fbeen%5Freleased/>
-    cross platform language toolkit!
-    <https://www.reddit.com/r/ProgrammingLanguages/comments/eh1sfy/carpentry%5Fcompiler/>
-    <https://blog.darknedgy.net/technology/2020/05/02/0/>
+<https://www.reddit.com/r/programming/comments/do220a/haxe%5F4%5Fhas%5Fbeen%5Freleased/>
+cross platform language toolkit!
+<https://www.reddit.com/r/ProgrammingLanguages/comments/eh1sfy/carpentry%5Fcompiler/>
+<https://blog.darknedgy.net/technology/2020/05/02/0/>
 
-    <https://en.m.wikipedia.org/wiki/RenderMan%5FInterface%5FSpecification>
-    <https://en.m.wikipedia.org/wiki/RenderMan%5FInterface%5FSpecification>
-    <https://www.reddit.com/r/ProgrammingLanguages/comments/9esm8t/multiple%5Freturn%5Fvalues%5Ffrom%5Ffunctions/>
-    bytecode interpreter
-    comments
-    <https://www.reddit.com/r/ProgrammingLanguages/comments/g2ae36/crafting%5Finterpreters%5Fvs%5Fbuild%5Fyour%5Fown%5Flisp%5Fthe/>
-    <https://www.reddit.com/r/algorithms/comments/fjock1/which%5Fis%5Fthe%5Fbest%5Fsat%5Fsolver/https://www.reddit.com/r/learnmath/comments/fo5itb/riemanns%5Ffunctional%5Fequation%5Fnew%5Fsolution%5Ffound/>
-    <https://www.reddit.com/r/learnmath/comments/fo5itb/riemanns%5Ffunctional%5Fequation%5Fnew%5Fsolution%5Ffound/>
-    <https://www.reddit.com/r/ProgrammingLanguages/comments/fxrmho/the%5Fbest%5Fways%5Fto%5Fcompile%5Ffunctional%5Fprogramming/>
-    <https://www.reddit.com/r/ProgrammingLanguages/comments/g0j1um/simple%5Fbut%5Fpowerful%5Fpratt%5Fparsing/>
-    <https://www.reddit.com/r/ProgrammingLanguages/comments/g0j1um/simple%5Fbut%5Fpowerful%5Fpratt%5Fparsing/>
-    <https://www.reddit.com/r/ProgrammingLanguages/comments/fxrp6e/languages%5Fwith%5Fstructural%5Ftyping/>
-    <https://www.reddit.com/r/ProgrammingLanguages/comments/g0po6x/types%5Fover%5Fstrings%5Fextensible%5Farchitectures%5Fin/>
-    <https://www.reddit.com/r/dartlang/comments/f4d07x/poll%5Fshould%5Fthe%5Fangel%5Fframework%5Fbe%5Fmerged%5Finto%5Fa/>
+<https://en.m.wikipedia.org/wiki/RenderMan%5FInterface%5FSpecification>
+<https://en.m.wikipedia.org/wiki/RenderMan%5FInterface%5FSpecification>
+<https://www.reddit.com/r/ProgrammingLanguages/comments/9esm8t/multiple%5Freturn%5Fvalues%5Ffrom%5Ffunctions/>
+bytecode interpreter
+comments
+<https://www.reddit.com/r/ProgrammingLanguages/comments/g2ae36/crafting%5Finterpreters%5Fvs%5Fbuild%5Fyour%5Fown%5Flisp%5Fthe/>
+<https://www.reddit.com/r/algorithms/comments/fjock1/which%5Fis%5Fthe%5Fbest%5Fsat%5Fsolver/https://www.reddit.com/r/learnmath/comments/fo5itb/riemanns%5Ffunctional%5Fequation%5Fnew%5Fsolution%5Ffound/>
+<https://www.reddit.com/r/learnmath/comments/fo5itb/riemanns%5Ffunctional%5Fequation%5Fnew%5Fsolution%5Ffound/>
+<https://www.reddit.com/r/ProgrammingLanguages/comments/fxrmho/the%5Fbest%5Fways%5Fto%5Fcompile%5Ffunctional%5Fprogramming/>
+<https://www.reddit.com/r/ProgrammingLanguages/comments/g0j1um/simple%5Fbut%5Fpowerful%5Fpratt%5Fparsing/>
+<https://www.reddit.com/r/ProgrammingLanguages/comments/g0j1um/simple%5Fbut%5Fpowerful%5Fpratt%5Fparsing/>
+<https://www.reddit.com/r/ProgrammingLanguages/comments/fxrp6e/languages%5Fwith%5Fstructural%5Ftyping/>
+<https://www.reddit.com/r/ProgrammingLanguages/comments/g0po6x/types%5Fover%5Fstrings%5Fextensible%5Farchitectures%5Fin/>
+<https://www.reddit.com/r/dartlang/comments/f4d07x/poll%5Fshould%5Fthe%5Fangel%5Fframework%5Fbe%5Fmerged%5Finto%5Fa/>
 
 
 ### verification {#verification}
@@ -501,13 +500,12 @@ how efficient can objects be?
 <https://www.reddit.com/r/ProgrammingLanguages/comments/e1vv55/c3%5Fa%5Fclike%5Flanguage%5Fnow%5Fhas%5Fa%5Fdomain/>
 <https://www.reddit.com/r/ProgrammingLanguages/comments/a0yyfc/plam%5Ffor%5Fanyone%5Fexploring%5F%CE%BBcalculus/>
 
-<!--list-separator-->
 
--  pattern matching
+#### pattern matching {#pattern-matching}
 
-    <https://www.reddit.com/r/ProgrammingLanguages/comments/g1vno3/beginner%5Fresources%5Ffor%5Fcompiling%5Fpattern%5Fmatching/>
-    <https://www.reddit.com/r/ProgrammingLanguages/comments/f4gfum/pattern%5Fmatching%5Fin%5Fyour%5Flanguage/>
-    <http://cone.jondgoodwin.com/coneref/refmatch.html>
+<https://www.reddit.com/r/ProgrammingLanguages/comments/g1vno3/beginner%5Fresources%5Ffor%5Fcompiling%5Fpattern%5Fmatching/>
+<https://www.reddit.com/r/ProgrammingLanguages/comments/f4gfum/pattern%5Fmatching%5Fin%5Fyour%5Flanguage/>
+<http://cone.jondgoodwin.com/coneref/refmatch.html>
 
 
 ### static analysis {#static-analysis}
