@@ -1,0 +1,8 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: idris
+#+TITLE: Idris
+
+Idris is a fully-featured programming language inspired by Haskell that has full support for dependent types.
+
+* Resources
+https://github.com/jdublu10/pacman a proof that idris is pacman complete, the most important part of a programming language
