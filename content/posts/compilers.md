@@ -1,8 +1,8 @@
 +++
 title = "Compilers"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:24:13-07:00
-slug = "programming-languages"
+lastmod = 2020-08-01T23:24:31-07:00
+slug = "algorithms"
 draft = false
 +++
 

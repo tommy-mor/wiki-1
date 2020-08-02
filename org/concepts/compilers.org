@@ -1,5 +1,5 @@
 #+setupfile:./hugo_setup.org
-#+hugo_slug: programming-languages
+#+hugo_slug: algorithms
 #+title: Compilers
 
 [[https://news.ycombinator.com/item?id=23175280][explore compiler ir]]
