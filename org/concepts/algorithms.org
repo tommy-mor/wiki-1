@@ -1,3 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: algorithms
 #+TITLE: Algorithms
 
 * To Investigate
