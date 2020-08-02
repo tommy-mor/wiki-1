@@ -1,3 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: zsh
 #+TITLE: Zsh
 
 Zsh, z-shell is a more flexible and configurable shell.
