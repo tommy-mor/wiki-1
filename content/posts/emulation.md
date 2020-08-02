@@ -1,8 +1,8 @@
 +++
 title = "Emulation"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:06:23-07:00
-slug = "bspwm"
+lastmod = 2020-08-01T23:10:54-07:00
+slug = "emulation"
 draft = false
 +++
 

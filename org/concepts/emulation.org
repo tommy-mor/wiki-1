@@ -1,5 +1,5 @@
 #+setupfile:./hugo_setup.org
-#+hugo_slug: bspwm
+#+hugo_slug: emulation
 #+TITLE: Emulation
 
 Links and notes relevant to emulation.
