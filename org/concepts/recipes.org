@@ -1,0 +1,182 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: recipes
+#+TITLE: Recipes
+
+* Recipes
+** NEXT Sloppy Joes
+SCHEDULED: <2020-01-05 Sun>
+
+- 1 1/2 lbs lean ground beef
+- 1 yellow onion
+- 1 red bell pepper
+- Sea salt - to taste
+- black pepper - to taste
+- 1 cup Ketchup
+- 1/2 cup pureed sweet potatoes (you can buy canned and mash with fork or microwave a sweet potato and scoop out flesh to mash with fork) 
+- 3 TBS apple cider Vinegar
+- 3 TBS Worcestershire sauce
+- 1 TBS brown sugar
+- 3 TBS yellow mustard
+
+Brown the beef in a nonstick skillet over medium heat, 5-7 minutes, drain fat.  Add onion and bell pepper and season with salt and pepper.  Cook until vegetables are soft, about 7 minutes.  Add ketchup, sweet potatoes, vinegar, Worcestershire sauce, sugar and mustard.  Stir to combine.  Simmer until slightly thickened, about 10 minutes.  If too thick, add water by the tablespoon as needed. Spoon over hamburger buns. 
+
+** NEXT Baked salmon
+SCHEDULED: <2020-01-05 Sun>
+
+https://www.fifteenspatulas.com/baked-salmon/
+
+** NEXT Chicken Fajitas
+SCHEDULED: <2020-01-05 Sun>
+
+https://damndelicious.net/2019/07/24/sheet-pan-chicken-fajitas/
+
+Success!! Use extra lime and other spices and top with cilantro. Use more chicken than usual as well, the recipe is a bit light - 2 lbs is good
+
+** Chicken Casserole (Lynn)
+
+- 3-4 chicken breasts
+- 2-10 3/4 oz cans Cream of Chicken soup
+- 1 - 10 3/4 oz. can chicken broth
+- 8 oz bag Pepperidge Farm Stuffing
+- 1 stick butter
+- 1 - 10 3/4 oz can mulk
+
+1. Preheat to 375
+2. boil chicken until done, then cube it
+3. place chicken in large casserole dish
+4. mix soup and brock with chicken, spread evenly over dish
+5. moisten stuffing with butter, spread over chicken
+6. pour the milk over everything
+7. cook for 30 minutes covered, then 15 minutes uncovered
+
+** Layered Hamburger Bake (GB)
+
+- 3 cups medium noodles
+- 1 lb ground beef
+- 1 15oz can / 2 cups tomato sauce
+- 1 t sugar
+- 1/2 t salt
+- 1/4 t garlic salt
+- 1/8 t pepper
+- 1 8oz package cream cheese, softened
+- 3 T milk
+- 1/2 cup sour cream
+- 2 T finely chopped onion
+- 1 10oz pkx frozen, chopped spinach or broccoli
+- 1/2 C (2oz) natural shredded cheddar
+
+1. Cook noodles in large amount of boiling salted water until tender,
+   about 10 minutes, drain.
+2. Cook noodles in large amount of boiling salted water until tender, about 10
+   minutes, drain.
+3. Add tomato sauce, sugar, salt, garlic salt pepper and cooked noodles. Set
+   aside.
+4. Stir together cream cheese, sour cream, milk and onion.
+5. In 2QT. casserole, layer half of the ground beef-noodle mixture, half the
+   cream cheese mixture, all of the spinach and rest of the ground beef
+   mixture.
+6. Cover and bake in 350 degree oven for 40 minutes ot till bubbly.
+7. Uncover and spread remaining cream cheese mixture atop; sprinkle with cheddar
+   cheese.
+Note: As I said, I add a little more sour cream and milk to the cream cheese to
+make it spread further and more easily.
+
+** Baked Chicken Parmesean
+
+Sauce:
+1/4 cup extra virgin olive oil
+2 garlic cloves, peeled, finely chopped (about 2 teaspoons)
+1 can (28 oz) crushed tomatoes (we use Muir-Glen)
+1/2 teaspoon dried basil (or 1 Tbsp of chopped fresh basil)
+1/4 teaspoon dried oregano (or 1 teaspoon of chopped fresh oregano)
+1/4 teaspoon sugar
+Salt and ground black pepper to taste
+
+Chicken:
+3 Tbsp Dijon mustard
+1 Tbsp white-wine vinegar
+1/2 teaspoon salt
+1/2 teaspoon black pepper
+1 1/2 pounds chicken breast cutlets (or skinless boneless chicken breasts or
+thighs that have been pounded to a 1/4-inch thickness)
+1 cup of breadcrumbs (panko or homemade)
+1 cup finely grated Parmesan cheese
+3 Tbsp unsalted butter, melted
+
+1 Make the sauce: Heat the olive oil in a large saucepan on medium high heat.
+Add the garlic and cook until fragrant, about 30 seconds.
+
+Stir in the crushed tomatoes, basil, oregano, sugar, a pinch of salt and pepper. Bring to a simmer.
+
+Continue to simmer until sauce thickens a bit and flavors meld, about 10-12 minutes. Taste sauce, adjust seasoning if necessary, cover and keep warm.
+
+2 Preheat oven to 450°F. Line a baking sheet with foil, parchment, or Silpat. While the sauce is simmering, prepare the chicken in the next steps.
+
+3 Make the coating: In a large bowl whisk together the mustard, vinegar, salt, and 1/4 teaspoon of pepper.
+
+Add the chicken cutlets to the mixture and coat well on both sides.
+
+4 Dredge the chicken: In another bowl, mix together the breadcrumbs, grated Parmesan, and 1/4 teaspoon of black pepper. Mix well and stir in the melted butter. Transfer to a shallow plate.
+
+Dredge the chicken pieces in the breadcrumb mixture, gently pressing the breadcrumbs into the chicken cutlets. Place dredged chicken on the lined baking sheet.
+
+5 Bake: Bake at 450°F on the center rack of the oven until cooked and golden
+brown, about 15 minutes.
+
+6 Serve: Serve with a side of rice, noodles or pasta. Ladle sauce with the chicken.
+
+** https://tasty.co/recipe/one-pan-shrimp-and-green-bean-stir-fry
+** baguettes
+
+https://www.kingarthurflour.com/recipes/classic-baguettes-recipe
+
+** apple cinnamon oatmeal
+
+https://www.thereciperebel.com/apple-cinnamon-oatmeal/#wprm-recipe-container-12520
+
+** https://tasty.co/recipe/marinara-meatballs
+** HEDULED: <2020-01-12 Sun>
+** NEXT https://tasty.co/recipe/one-pan-roasted-chicken-and-sweet-potatoes
+** HEDULED: <2020-01-12 Sun>
+** NEXT https://sfist.com/2009/12/08/diy_starbucks_peppermint_mocha/
+** HEDULED: <2020-01-18 Sat>
+** NEXT https://takingtimeformommy.com/chocolate-mint-clif-bars-homemade-protein-bar-recipe/
+** HEDULED: <2020-01-18 Sat>
+** NEXT https://thebigmansworld.com/chewy-mint-chocolate-chip-protein-bars/
+** HEDULED: <2020-01-18 Sat>
+** NEXT https://www.thereciperebel.com/apple-cinnamon-oatmeal/#wprm-recipe-container-12520
+** HEDULED: <2020-03-07 Sat>
+** NEXT https://www.kingarthurflour.com/recipes/panini-bread-recipe
+** HEDULED: <2020-03-08 Sun>
+
+https://github.com/stamourv/recipes
+
+** pie crust
+
+https://www.jocooks.com/recipes/pie-crust-recipe/
+
+** panini bread
+
+https://www.kingarthurflour.com/recipes/panini-bread-recipe
+
+** baking without a loaf pan
+
+https://www.bakingkneads.com/baking-bread-without-a-loaf-pan/
+
+** apple dumplings
+
+https://www.jocooks.com/baking/pastries/apple-dumplings/
+
+** baguettes
+
+https://www.kingarthurflour.com/blog/2011/07/14/baguettes-do-try-this-at-home
+
+* NEXT Homemade Soft Pretzels Recipe | Alton Brown | Food Network
+SCHEDULED: <2020-05-10 Sun>
+
+Homemade Soft Pretzels Recipe | Alton Brown | Food Network
+https://www.foodnetwork.com/recipes/alton-brown/homemade-soft-pretzels-recipe-1948242
+
+
+* mmm
+https://www.allrecipes.com/recipe/17918/focaccia-bread/
