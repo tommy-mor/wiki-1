@@ -1,0 +1,16 @@
+#+TITLE: Operating Systems
+
+Operating systems run your computer!
+
+There are lots of innovative OS projects but only a few are really used.
+
+* Projects
+Aside from Linux, Windows, MacOS and derivatives...
+https://github.com/tomaka/redshirt
+https://gitlab.redox-os.org/redox-os/redox is a Rust operating system with a microkernel-based design.
+https://github.com/urbit/urbit is an operating system and framework that claims to be entirely functional
+https://github.com/toddsharpe/MetalOS all by one guy!
+https://github.com/mntmn/interim the interim os, written to accompany mntmn's custom hardware
+https://github.com/mchlmmc/CirnOS os to use arduino on raspi (lmao)
+https://github.com/demikernel/demikernel interesting approach to architecture
+https://github.com/cleverca22/not-os operating system generator based on nixos

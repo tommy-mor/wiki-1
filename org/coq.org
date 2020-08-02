@@ -1,0 +1,12 @@
+#+TITLE: Coq
+
+Coq is a theorem prover that uses principles from type theory to provide formalizations of programs.
+
+* Libraries
+https://github.com/DeepSpec/InteractionTrees a neat representation of recursive and impure Coq programs
+https://github.com/mattam82/Coq-Equations function definitions for Coq
+https://github.com/MetaCoq/metacoq metaprogramming
+* References
+https://github.com/atharvashukla/coq-tactics-index index of coq tactics and their meanings
+https://github.com/UniMath/UniMath coq and math?
+https://github.com/codyroux/name-the-biggest-number proving the biggest number in coq constructively

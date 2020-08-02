@@ -1,0 +1,28 @@
+#+TITLE: Haskell
+
+Haskell is a research programming language.
+
+* Tutorials
+[[https://github.com/sdiehl/write-you-a-haskell][Write you a Haskell]]: build a modern functional compiler from first principles.
+[[https://github.com/sdiehl/wiwinwlh][What I wish I knew when learning haskell]] from an expert.
+[[https://github.com/sdiehl/kaleidoscope][Kaleidoscope]], a tutorial for a Haskell LLVM JIT compiler.
+* Libraries
+[[https://github.com/DanBurton/tardis][Tardis]], a monad transformer that allows you to access information from the past or future.
+[[https://github.com/tomahawkins/atom][Atom]] is a Haskell DSL for embedded real time applications, allowing for highly concurrent and efficient programming without mutexes.
+[[https://github.com/srid/rib][rib]], a fun Haskell static site generator.
+[[https://github.com/dhall-lang/dhall-haskell][Haskell bindings for Dhall]]
+[[https://github.com/hasktorch/hasktorch][Hasktorch]] is a library for Neural networks in haskell
+[[https://github.com/stites/monad-bayes][prob prog in haskell]]
+[[https://github.com/xmonad/xmonad][xmonad]] is a haskell window manager
+[[https://github.com/ucsd-progsys/liquidhaskell][liquidhaskell]] provides 'liquid' types for haskell
+https://github.com/sleexyz/hylogen opengl shading language in haskell
+https://github.com/haskell-servant/servant a type level dsl for configuring websites
+
+https://github.com/bgamari/io-uring io-uring haskell bindings
+https://github.com/conal/concat haskell and categories
+https://github.com/snawaz/ray-tracers ray tracing in haskell
+
+https://github.com/digitallyinduced/ihp web framework in haskell and nix
+* Tools
+[[https://github.com/ucsd-progsys/liquid-types.el][liquidhaskell types for emacs]]
+https://github.com/commercialhaskell/stackage stable package index for hackage

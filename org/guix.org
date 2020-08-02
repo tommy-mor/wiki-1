@@ -1,0 +1,6 @@
+#+TITLE: Guix
+
+Guix is a project similar to NixOS that's built atop of the Guile Scheme programming langauge.
+
+* Tools
+https://github.com/alezost/guix.el emacs interface for guix package manager

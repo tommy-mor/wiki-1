@@ -1,0 +1,9 @@
+#+TITLE: Text Editors
+
+Text editors control the way you interface with written content. For programmers, this is the vast majority of the content they create, develop, and perhaps consume.
+
+
+* Work
+[[https://github.com/xi-editor/xi-editor][Xi]] is a flexible editor with a modular approach to construction; if you implement Xi's protocol, you can use any user interface that calls back to Xi on the backend.
+https://github.com/LightTable/LightTable
+https://github.com/hundredrabbits/Left a writing tool without the distractions

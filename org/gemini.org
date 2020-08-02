@@ -1,0 +1,8 @@
+#+TITLE: Gemini
+
+Gemini is a neat new minimal web framework.
+It's like Gopher but also serves websites with HTTPS.
+
+* Tools
+https://github.com/michael-lazar/gemini-diagnostics test gemini servers
+https://github.com/mbrubeck/agate a rust server for Gemini

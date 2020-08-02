@@ -1,0 +1,13 @@
+#+TITLE: Nix
+
+Nix is a functional package manager that isolates and sandboxes dependencies.
+
+* Tools
+https://github.com/elitak/nixos-infect install nixos over an existing os on digitalocean and other vps systems
+* Tutorials
+https://github.com/nh2/nixops-tutorial development with NixOps
+* Configs
+https://github.com/luke-clifton/nix-config has cool config
+https://github.com/hlissner/dotfiles, doom emacs developer, has nice config. It's not terribly complicated though
+https://github.com/bjornfor/nixos-config
+https://github.com/fooblahblah/nixos
