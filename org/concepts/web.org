@@ -1,9 +1,12 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: web
+#+title: Web
+Things about the web.
 
 [[https://www.youtube.com/watch?v=5CYeZ2kEiOI&app=desktop][from rails to elm and haskell: functional web programming]]
 
 * web dev
-https://felixgerschau.com/react-rerender-components
-https://tonsky.me/
+https://felixgerschau.com/react-rerender-components https://tonsky.me/
 https://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
 https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html?m=1
@@ -13,7 +16,7 @@ https://www.youtube.com/watch?v=f2mMOiCSj5c&feature=youtu.be&app=desktop
 https://benchmarks.slaylines.io/
 https://webkid.io/blog/react-flow-node-based-graph-library/
 https://jamesmonger.com/2019/09/10/super-robust-api-with-isomorphic-typescript.html
-[[Retro fonts][https://vistaserv.net/blog/90s-fonts-modern-browsers]]
+https://vistaserv.net/blog/90s-fonts-modern-browsers
 https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/ why not elm
 https://www.reddit.com/r/haskell/comments/fy848b/why_im_leaving_elm/
 https://einaregilsson.com/serverless-15-percent-slower-and-eight-times-more-expensive/
