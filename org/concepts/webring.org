@@ -1,3 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: webring
 #+TITLE: Webring
 
 A webring is a website designed to aggregate other websites with the same themes and ideas.
