@@ -1,4 +1,0 @@
-#+TITLE: Game Dev
-
-
-[[https://benwiser.com/blog/Making-game-engines-is-a-waste-of-time---I-probably-won%E2%80%99t-stop-making-them.html][on making game engines]]

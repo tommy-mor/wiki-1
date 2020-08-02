@@ -1,8 +1,0 @@
-#+TITLE: Firefox
-
-Firefox is one of two popular browsers, the other being Chrome.
-
-* Customization
-https://github.com/cadejscroggins/tilde browser startpage
-* Other Options
-https://github.com/midori-browser/core fast webkit browser
