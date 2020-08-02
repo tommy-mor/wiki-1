@@ -1,8 +1,9 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: personal-website
 #+TITLE: Personal Website
 
 Everyone should have a bit of a personal website with a little blurb about who they are and what they do.
-
-https://[[jacob.chvatal.com]]
+https://jacob.chvatal.com
 * Inspiration
 https://github.com/pacocoursey/paco
 https://github.com/azlen/azlen.me

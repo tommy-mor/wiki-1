@@ -1,8 +1,8 @@
 +++
 title = "Employment"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-12T22:31:54-04:00
-slug = "Employment"
+lastmod = 2020-08-01T23:36:27-07:00
+slug = "employment"
 draft = false
 +++
 
