@@ -1,0 +1,425 @@
++++
+title = "Advice"
+author = ["Jacob Chvatal"]
+lastmod = 2020-08-01T23:32:36-07:00
+slug = "advice"
+draft = false
++++
+
+## Entreprenuership {#entreprenuership}
+
+
+### Self-Starting {#self-starting}
+
+
+#### True Fans: Making Money from Internet Content {#true-fans-making-money-from-internet-content}
+
+[true fans: becoming popular on the internet](https://kk.org/thetechnium/1000-true-fans/)
+
+-   To be a successful creator, all you need are a few thousand true fans.
+-   These fans will buy anything you produce and will support you directly.
+-   Aiming for 1,000 customers is much easier than aiming for a million passive fans!
+-   The most obscure node on the internet is only one click away from the next
+    popular node; take advantage of this placement and make a living in
+    obscurity.
+-   Now, small towns have the internet: a way to satiate the interests of those
+    who would otherwise be isolated from their interests!
+-   Big corporations cannot deliver to these niche audiences and consumers! The
+    creator has this unique market of niche fans who are willing to do a lot to
+    enjoy their specific subculture.
+-   This path is another path to success: carve a niche, assemble a small
+    community of fans, and continue to profit from the fans who are very
+    passionate about your content and your niche as well.
+
+[true fans response: making something of yourself](https://a16z.com/2020/02/06/100-true-fans/)
+
+-   1,000 true fans are too many! Really, you only need 100 true fans, each
+    paying $1,000, rather than the 1,000 true fans as previously thought, as
+    this is asserting for a future of the [passion economy](https://a16z.com/2019/10/08/passion-economy/).
+-   Cultivating a large, free audience, then converting some of those users to
+    paying subscribers, and a subset of those to high-value purchases, will
+    successfully cultivate a living wage.
+-   We are driven by autonomy, mastery, and purpose. The 100 true fans model
+    feeds all of these for both consumers and producers -- by appeasing the
+    ability for consumers to choose who to support and what to enjoy, enabling
+    both consumers and producers to grow together, and giving both a niche
+    purpose in which they can feel that they matter.
+-   Earning $1,000 per fan takes premium content with no substitutes,
+    delivering tangible value, accountability, and status: progressing with
+    further money.
+-   This essay asserts that fewer, truer fans are the key to successfully
+    achieving financial stability.
+
+
+## Motivation {#motivation}
+
+[read this! on motivation!](https://en.wikipedia.org/wiki/Drive:%5FThe%5FSurprising%5FTruth%5FAbout%5FWhat%5FMotivates%5FUs)
+
+
+### Dealing with Motivation: Jon Blow {#dealing-with-motivation-jon-blow}
+
+[maanaging your own psychology, a potential barrier!](https://www.youtube.com/watch?v=i7kh8pNRWOo)
+
+A variety of techniques for dealing with motivational issues!
+We're likely unhappy for the majority of the time that we are unhappy in
+front of the computer.
+
+Be impervious as to whether ideas are true or false.
+
+
+#### You are not your thoughts: Physical States {#you-are-not-your-thoughts-physical-states}
+
+We think of our personalities as being composed of our thoughts.
+However, this is a very small part of what it is like to be me.
+Can be trapped in thoughts: these thoughts feel hard to get away from.
+Before this, stand apart from your thoughts; distance yourself from them.
+Focus on what you see.
+Have some simple, sentence-style thoughts. Think of things that are
+completely emotionally uncharged; thoughts that do not connect to strong
+ideas.
+Do not sink completely into the thought.
+Realize that your thoughts change as you take in different parts of your
+environment. Most of your experience is not comprised by this thought.
+
+Step back from the thoughts that are happening. Do not be so enraptured by
+them.
+
+Prod some of these thoughts: how long does it take for the thoughts to go by?
+How heavy is the thought?
+Can you stop that thought and let it go or is there something that happens
+when you try to do that?
+
+Focus your attention on a single thought. Close your eyes. What do you feel
+about it? Is this a solid object or ethereal? Is it well-defined or is it
+indistinct?
+
+By dropping your intention in, you are able to feel past your layer of
+intention and analyze what has not been processed.
+
+Do not have an agenda when inquiring about this sensation. Learn more about
+the sensation.
+
+The actual sensation is neutral; it is your interpretation of the situation
+that is making it negative. It's very important to realize this.
+
+Blow evaluates a particularly painful experience -- food poisoning -- and how
+he can separate his understanding of the pain and their reaction to it.
+
+We know this about pain! When we are cut, the nerve receives an impulse and
+this impulse is recieved by the brain, which assigns negative sentiment to
+these things.
+
+Look at the sensations that help you generate this negative state.
+
+There is probably some legitimage precedence for having developed a habit, or
+a response; at some point, though, we must acknowledge that these processes
+are not inherently necessary! We can then properly evaluate and control
+whether we make decisions based on this state.
+
+Always pinpoint the source of your emotions, whether positive or negative.
+You are not your thoughts. Your thoughts are very small.
+Step back.
+Sensations are neutral. Your mind amplifies the sensations.
+Try evaluating negative exercises as neutral experiences.
+
+
+## The Good Life {#the-good-life}
+
+
+### Finding Motivation {#finding-motivation}
+
+
+#### The Lesson TO Unlearn {#the-lesson-to-unlearn}
+
+[paul graham](http://paulgraham.com/lesson.html)
+The most damaging thing you learned in school was to get good grades.
+Do not mistake genuine interest for proficiency and measurement of learning.
+You should not have to prepare for a test; they should reflect your
+knowledge.
+
+Tests are hackable!
+
+It isn't that complicated! There is no complex game.
+Identify a need, make your product very good, and it'll be popular.
+
+Getting lots of users! People will recommend the product to their friends!
+
+The way to win is not to hack the test. Don't face an artificial test! Make
+people want to use your product!
+
+He avoided working for big companies because you win at these big companies
+for hacking bad tests.
+
+Tests that aren't imposed by authourities, after all, are unhackable! There
+is no trick or mindset behind taking advantage of them; they're moving
+targets with lo clear answers.
+
+You don't have to play the game! You can make it by **doing good work**.
+
+
+#### Do Things That Don't Scale {#do-things-that-don-t-scale}
+
+[article](http://paulgraham.com/ds.html)
+Startups don't take off by themselves -- the founders make them take off.
+
+By yourself:
+
+1.  Recruit users manually.
+    To grow your business naturally, you need to recruit! Aggresively!
+    Shyness and laziness prevent people from doing this; wanting to write code
+    and seeing the small numbers of users. Those initial users are necessary
+    for exponential growth!
+2.  Get used to fragility. It's hard to balance a successful business, and
+    squeezing the margins will make hte difference between success and failure.
+    All startups are fragile! New startups can't be judged by the standards of
+    successful ones.
+    It's okay to get things wrong. It's okay to fix things.
+    It's hard to see where you're coming from.
+3.  Delight. Don't just get users, make them happy! Make users know that
+    signing up with you is the best thing they could have done. Try too hard
+    to make your customers happy.
+4.  Experience. The user experience and quality of execution should be
+    incredible. The product doesn't have to be great, but the experience of
+    being a user does. Over-engage with initial users, listen to them
+    carefully and pay close attention to their opinions.
+5.  Fire. Focus on a deliberately narrow market at first, then widen your
+    breadth. Start with a subset of the market then quickly expand.
+6.  Consult. Pick a single, initial user and use them as a mold for a user to
+    please. Recruit initial lukewarm users by using your software on their behalf
+    and perfect the user experience and theri end.
+7.  Manual. You are your software. Do everything manually, then automate it
+    later! This enables a faster launch, and automating out of this loop becomes
+    trivial.
+8.  Big. Don't do the big launch! Nobody remembers it! Need something
+    unscalably laborious.
+
+
+#### Satisfaction in Work {#satisfaction-in-work}
+
+<!--list-separator-->
+
+-  Deep Work: Jon Blow
+
+    [talk](https://www.youtube.com/watch?v=4Ej%5F3NKA3pk&app=desktop)
+    Though all software feels different, at the root of it all this all feels the
+    same.
+    The ideas you initially have will not be that deep; as such, the exciting
+    things are at the surface level. First, understand the single exciting idea
+    and explore it.
+    Initial actions primarily focus on working with the surface-level code;
+    determine how to navigate the code, working with code at a top level. We need
+    to focus on learning how to communicate to the computer!
+
+    Experienced programmers do not think about text; text is the application of a
+    drawn-out idea and a developed solution. A problem is decomposed into
+    smaller, tractale problems, then these tractable problems can be translated
+    into code that has been approached before.
+
+    The shape doesn't start anywhere! After having an idea, yo also need to
+    locate this starting point; from this starting point, you must then locate a
+    way from which you can navigate through the idea from this point. Not finding
+    the starting point is bad, worse than choosing the wrong starting point!
+
+    Some moments of programming involve internalizing a task so far that it's
+    been practiced; after performing this task so many times, you become
+    accustomed to translating this task into code without thinking about it! This
+    experience is incredibly powerful!
+
+    This is more like an art than an engineering -- you are following an
+    intuition, and this intuition carries you somewhere good!
+
+    Often, we get trapped by our attention: if we are deeply focused on a single
+    way of thinking and operating at a level of abstraction, we are unable to
+    switch contexts to another layer of abstraction very easily! Often it's best
+    to back up and reevaluate the big picture.
+
+    Getting to the deep work comes from experience. You'll follow many misguided
+    paths and many ill-guided directions, but at the end of the day you will
+    reach a deeper understanding of the topic at hand.
+
+
+#### Philosophy in Life {#philosophy-in-life}
+
+[finding the good life](https://hoanhan101.github.io/2020/04/26/guide-to-the-good-life)
+According to stoicism, the good life is:
+
+<!--list-separator-->
+
+-  The Good Life
+
+    -   Virtuous: depending on how well one can perform the function for which they
+        are dedicated
+    -   Negative visualization: the fear that bad things will eventually happy
+        isn't healthy!
+        Forestall the adaptation process; stop taking things for granted and desire
+        what we already have, craving to make the most of our crrent system, our
+        current time and our current situation. It would be best to take advantage
+        of opportunities for moving forward, but before making these decisions it
+        is most important to establish contentedness.
+
+<!--list-separator-->
+
+-  Taking Control
+
+    -   We have control over our goals, but do not have complete or any control
+        over many events. We must learn to welcome what happens to us and trust
+        that this occurs for the best.
+    -   Willpower is like muscle power. The more we exercise our willpower, the
+        more self-control we have over ourselves; the more self-control we have,
+        the better we are able to direct our lives.
+    -   It's important to reflect on your process.
+        What are you spending time on?
+        How did we feel over the course of the day?
+        Did something disrupt our tranquility?
+        Did we experience adverse feelings?
+        Is there something I could avoid?
+        Is there some action I could take to become more productive?
+
+<!--list-separator-->
+
+-  Daily Living
+
+    -   We are rewarded for working and interacting with other people in ways that
+        are advantageous.
+    -   We must operate on teh assumption that annoying people are fated to behave
+        this way, and that this behavior is inevitable.
+    -   Insult:
+        The things themselves do not upset us, but rather our judgements about
+        these things.
+        -   When insulted, evaluate the insult rather than the individual and reserve
+            a judgement made about this thing.
+
+
+#### The Happiness Hypothesis {#the-happiness-hypothesis}
+
+[article](https://hoanhan101.github.io/2020/05/10/happiness-hypothesis)
+
+-   Happiness is a combination of biological initial happiness, life conditions
+    and voluntary activities. The challenge here is to understand your initial
+    happiness, pushing the life conditions and the voluntary activities to make
+    the most enjoyment of the happiness.
+-   To love well is to develop good relationships with others.
+-   Once basic needs are met, money cannot buy additional happiness.
+-   Luxuries adapt to what we require for ourselves; impure luxuries can enable
+    us to spend more time with family, reduce commute and take longer
+    vacations; these are the luxuries we should strive for.
+-   Things we choose to do should be things that fall to our strength.
+-   Progress principle: pleasure comes from making progress towards a goal
+    rather than achieving it.
+
+<!--list-separator-->
+
+-  Unlimited Memory
+
+    [article](https://hoanhan101.github.io/2020/04/14/unlimited-memory)
+    Concentrate. Do one thing at a time! Exceptional work is associated with
+    periods of deep concentration and focus.
+    Always have a clear purpose. Why does it matter? How is it applicabl to my
+    life? How can it help me achieve my goals?
+    Apply creativity to everything you learn! Make learning more fun, engage more
+    senses, and grant actions to images.
+    Long-term memory can trap short-term information:
+
+    -   Car method: use the car and store new information in parts of the car
+    -   Peg method: use rhyming words to store ordered information
+    -   Developing a storyline: create a relationship between the known and the
+        unknown, raising the memory capacity!
+
+    Continuous use. continue to review, have a clear purpose, and make this a
+    part of your daily routine!
+
+
+#### Learning to Think Better {#learning-to-think-better}
+
+[src](https://www.quora.com/How-do-I-learn-to-think-better/answer/Alan-Kay-11?share=1)
+We are most well set up for learning to fit into our cultures and navigate
+them socially.
+We are often not able to think well enough to see that we are not thinking
+well enough! This is the Dunning-Kruger effect.
+It's known that we can only deal with a small number of things at once; we
+must limit the input we receive and focus only on the core idea at hand.
+
+"You can't thinking about thinking without thinking about something." -
+Seymour Papert. It will help to have issues and ideas, things to learn about
+that require better procedures; then, navigating those procedures assist you
+in developing better thinking procedures!
+
+
+## being human by being animal {#being-human-by-being-animal}
+
+<https://www.youtube.com/watch?v=oG058g3f8Ik&app=desktop>
+removing animals of nay dignified cuteness; bojack horseman is pretty close
+to this uncanny valley of creepy absurdism. the desire is not to make the
+animals cute so much as lifelike and uncomfortable.
+
+bojack as a horse ::  horse, long face, depression, juxtaposition of a
+majestic animal as an alcoholic, etc. horse bredfor transportation but the
+role no longer fulfulls the animal; could come from some broader interest in
+horses
+the main characters are drawn from domestic animals !
+four legs good . two legs better . the control we have over domestic animals
+is associated with the characters chosen for the show .
+
+pushing the potential of animation to allow emotional states to hae an impact
+on the world through cartoon absurdism ! the animalism enables them to reveal
+the primal instincts of humans
+
+blind recreation to create images that are readable.
+diane. sometimes, life is a bitch; then, you keep living.
+
+
+## Do I need to go to university? {#do-i-need-to-go-to-university}
+
+[article](http://colah.github.io/posts/2020-05-University/)
+it's hard to know who should take nontraditional paths, and many people are
+looking for validation not to do so. realistically, this is the best option
+for most people, both socially and academically.
+Some questions:
+
+-   Do I have things that I deeply want to spend a year of my life exploring
+    and working on?
+-   Do I have a way to support myself that leaves me time and energy to grow?
+-   Can I really work self-directed for months at a time? Do I have examples of
+    me working hard on a personal project or learning without external
+    structure?
+-   Do I have or can I learn the skills I need to work on this project
+    independently?
+-   Do I have or can I learn the skills I need to work on this project
+
+independently?
+
+-   Do I have sources of community, peer support or mentorship for what I want
+    to do?
+
+Those who leave university may be disparaging their efforts to make friends.
+However, the ability to focus independently for an extended period of time
+before heading to college is ideal for many people to flourish.
+
+
+## future reading {#future-reading}
+
+<https://fs.blog/2019/02/compounding-knowledge/>
+<https://www.amazon.com/Turning-Flywheel-Monograph-Accompany-Great/dp/0062933795>
+<https://www.amazon.com/dp/B005MSO9Z2/ref=dp-kindle-redirect?%5Fencoding=UTF8&btkr=1>
+<https://news.ycombinator.com/item?id=23131966>
+<https://en.m.wikipedia.org/wiki/Learned%5Fhelplessness>
+<https://waitbutwhy.com/2015/12/the-tail-end.html>
+<https://www.lindyfeed.com/collection/515-life-changing-ideas>
+<https://blog.samaltman.com/how-to-be-successful>
+<https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/>
+<https://www.nateliason.com/notes/finite-infinite-games-james-carse>
+<http://paulgraham.com/love.html>
+<https://fs.blog/2014/05/hunter-s-thompson-to-hume-logan/>
+<https://fs.blog/2019/02/compounding-knowledge/>
+<https://fs.blog/2019/02/compounding-knowledge/>
+<https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html>
+<https://mobile.twitter.com/ormanclark/status/1256914031916482561?s=21>
+<https://www.collaborativefund.com/blog/tails-you-win/>
+<https://medium.com/@awilkinson/the-power-of-anti-goals-c38f5f46d23c>
+<http://www.paulgraham.com/makersschedule.html>
+<http://paulgraham.com/wealth.html>
+<https://m.startribune.com/why-i-tell-everyone-to-leave-minneapolis/366227631/>
+<https://en.m.wikipedia.org/wiki/Single%5Fsource%5Fof%5Ftruth>
+<http://paulgraham.com/lesson.html>
+<http://paulgraham.com/startupideas.html>
+<http://paulgraham.com/startupideas.html>

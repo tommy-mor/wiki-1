@@ -1,3 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: advice
 #+TITLE: Advice
 
 * Entreprenuership
@@ -6,8 +8,7 @@
 [[https://kk.org/thetechnium/1000-true-fans/][true fans: becoming popular on the internet]]
 - To be a successful creator, all you need are a few thousand true fans.
 - These fans will buy anything you produce and will support you directly.
-- Aiming for 1,000 customers is much easier than aiming for a million passive
-  fans!
+- Aiming for 1,000 customers is much easier than aiming for a million passive fans!
 - The most obscure node on the internet is only one click away from the next
   popular node; take advantage of this placement and make a living in
   obscurity.
@@ -206,7 +207,6 @@ reach a deeper understanding of the topic at hand.
 
 *** Philosophy in Life
 [[https://hoanhan101.github.io/2020/04/26/guide-to-the-good-life][finding the good life]]
-[[https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life][finding the good life]]
 According to stoicism, the good life is:
 **** The Good Life
 - Virtuous: depending on how well one can perform the function for which they
