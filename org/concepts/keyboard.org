@@ -1,3 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: keyboard
 #+TITLE: Keyboard
 
 Research on keyboards and keyboard configurations.
