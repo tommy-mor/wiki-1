@@ -1,6 +1,0 @@
-#+TITLE: Package Management
-
-Package managers are tools that manage the installation of sofware on your computer.
-
-* Work
-https://github.com/andrewchambers/hermes
