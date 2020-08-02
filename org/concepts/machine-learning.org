@@ -1,0 +1,50 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: machine-learning
+#+TITLE: Machine Learning
+
+Tools for learning machine learning.
+Obviously, this will expand into many files once I've developed more knowledge.
+
+* Papers
+https://github.com/NathanUA/U-2-Net salient object detection
+https://github.com/pliang279/awesome-multimodal-ml reading about multimodal ml
+* Tutorials
+https://github.com/fzenke/spytorch gradient learning for spiking neural networks
+* Utilities
+https://github.com/joseph-zhong/LipReading yes
+https://github.com/RasaHQ/rasa ml framework for automating text conversations
+
+* ETC
+[[https://link.springer.com/book/10.1007/978-1-4302-5990-9?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=BBKK_1_DL01_GL_twitterorganic&sf234521345=1][book by rahul khanna]]
+[[https://news.ycombinator.com/item?id=23345379][gpt 3]]
+
+http://blog.ezyang.com/2013/01/nlp-the-missing-framework/
+https://minimaxir.com/2019/09/howto-gpt2/ -- fun gpt 2 training time
+https://ezyang.github.io/convolution-visualizer/index.html
+https://www.reddit.com/r/MachineLearning/comments/gc834u/d_programming_language_choices_in_ai_nlp_and
+https://www.reddit.com/r/compsci/comments/g1eivp/from_cvpr_2020_turn_any_picture_to_a_3d_photo/
+https://github.com/tokee/juxta
+https://www.reddit.com/r/compsci/comments/g8circ/a_repository_of_graph_classification_research/
+https://arxiv.org/abs/2004.14545
+https://arxiv.org/abs/2004.10934/
+
+[[https://software.intel.com/content/www/us/en/develop/training/course-machine-learning.html][intels introductory ml course]]
+[[https://www.youtube.com/watch?v=d8ZDjuqo0R8&app=desktop][simple ml mindsweeper]]
+[[https://github.com/intel/dlafs][stream accel framework]]
+https://en.wikipedia.org/wiki/Discrete_cosine_transform signal processing:
+the discrete cosine transformation
+https://en.wikipedia.org/wiki/Discrete_cosine_transform data compression with
+fourier methods
+https://julialang.org/blog/2017/12/ml-pl/#
+https://www.youtube.com/watch?v=hx7kvTZLHYI
+https://www.youtube.com/watch?v=HgDdaMy8KNE whaaaat
+https://minimaxir.com/2019/09/howto-gpt2/ -- make text with gpt2!
+[[https://stackoverflow.com/questions/2268885/machine-learning-in-ocaml-or-haskell#2308361][ml with cool functional languages]]
+https://www.youtube.com/watch?v=Jr9sptoLvJU&app=desktop
+** natural language processing
+https://www.reddit.com/r/compsci/comments/g1y5af/cmu_deepmind_googles_xtreme_benchmarks/
+http://brainstormingbox.org/what-do-you-think-about-natural-language-processing/
+
+https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html
+discovering optimal rolling shape in pytorch!
+https://minimaxir.com/2020/01/twitter-gpt2-bot/
