@@ -1,0 +1,16 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: mtg
+#+TITLE: Magic The Gathering
+
+* Engines
+https://github.com/magefree/mage
+
+XMage
+(Informally) Cockatrice
+
+
+https://github.com/stassa/Gleemin/blob/master/README the mtg project i was
+thinking about
+https://github.com/pitr/icfp2011 fun lambda the gathering language
+
+https://github.com/brokenthumbs/_boostertutor/blob/master/scryfall.py
