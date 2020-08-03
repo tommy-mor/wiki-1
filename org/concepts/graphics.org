@@ -2,5 +2,8 @@
 #+hugo_slug: graphics
 #+TITLE: Graphics
 
+- Tags :: [[file:algorithms.org][Algorithms]]
+
+Information about computer graphics.
 * Ray Tracing
 https://github.com/RayTracing/raytracing.github.io ray tracing books
