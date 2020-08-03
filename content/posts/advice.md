@@ -1,7 +1,7 @@
 +++
 title = "Advice"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:32:36-07:00
+lastmod = 2020-08-02T19:14:14-07:00
 slug = "advice"
 draft = false
 +++
@@ -396,7 +396,7 @@ However, the ability to focus independently for an extended period of time
 before heading to college is ideal for many people to flourish.
 
 
-## future reading {#future-reading}
+## Future Reading {#future-reading}
 
 <https://fs.blog/2019/02/compounding-knowledge/>
 <https://www.amazon.com/Turning-Flywheel-Monograph-Accompany-Great/dp/0062933795>

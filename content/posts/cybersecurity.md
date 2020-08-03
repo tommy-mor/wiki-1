@@ -1,7 +1,7 @@
 +++
 title = "Cybersecurity"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T22:52:39-07:00
+lastmod = 2020-08-02T19:16:10-07:00
 slug = "cybersecurity"
 draft = false
 +++
@@ -9,7 +9,7 @@ draft = false
 Information about cybersecurity.
 
 
-## Links {#links}
+## To Learn {#to-learn}
 
 <https://www.malwaretech.com/2015/12/kelihos-analysis-part-1.html>
 <https://www.wired.com/story/eternalblue-leaked-nsa-spy-tool-hacked-world/>

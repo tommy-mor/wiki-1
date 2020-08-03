@@ -1,28 +1,26 @@
 +++
 title = "Gemini"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:47:46-07:00
+lastmod = 2020-08-02T19:37:43-07:00
 slug = "gemini"
 draft = false
 +++
 
-http is a bloated protocol.
-any visit to the website of a large company will tell you this. significant
-sizes of applications (often over 5 mb!), load times, and the constant
+Http is a bloated protocol.
+Any visit to the website of a large company will tell you this.
+Significant sizes of applications (often over 5 megabytes!), load times, and the constant
 reminder to consent to cookies are all emblematic of what our internet has
-become -- a service hostile to its users for the sake of profit. practically
-every website you visit tracks your information to collect both analytics and
+become -- a service hostile to its users for the sake of profit.
+Practically every website you visit tracks your information to collect both analytics and
 personal data, assembling a profile of you that can be sold to advertisers,
 government agencies and whoever else wants a cut of your data.
 
-enter gemini.
-this is a new protocol for browsing the internet founded by solderpunk.
+Gemini is a new protocol for browsing the internet founded by solderpunk.
 it's designed only to serve data, and intends to foster a friendlier internet
 -- one in which arbitrary information can't be passed from consumer to producer no
 matter what the motivation.
 
-Gemini is a neat new minimal web framework.
-It's like Gopher but also serves websites with HTTPS.
+Gemini can be thought of as the HTTPS equivalent of Gopher: all traffic is secured and encrypted.
 
 
 ## Tools {#tools}
@@ -35,7 +33,7 @@ It's like Gopher but also serves websites with HTTPS.
 ## ETC {#etc}
 
 
-## links: {#links}
+### links: {#links}
 
 [castor, gtk for small internet](https://sr.ht/~julienxx/Castor/)
 [gopher protocol](https://en.wikipedia.org/wiki/Gopher%5F%28protocol%29)
@@ -83,11 +81,6 @@ a proposal
 uploads and edits to gemini
 
 
-### Gopher {#gopher}
-
-older gemini
-
-
 ## internet communities {#internet-communities}
 
 [sdf.org, what is this?](https://sdf.org/)
@@ -97,8 +90,6 @@ portal!
 stunnel and xinetd for gemini. gemini is a great content oriented portable
 thing and community
 <https://portal.mozz.us/gemini/acidic.website/> this is very cool
-
-make a gemini website!
 
 why is gopher not commonly used as a protocol for corporate intranets? why
 have gopher, hypergopher, gopher+ been entirely abandoned? gopher does not

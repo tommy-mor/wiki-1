@@ -4,7 +4,7 @@
 
 Information about cybersecurity.
 
-* Links
+* To Learn
 https://www.malwaretech.com/2015/12/kelihos-analysis-part-1.html
 https://www.wired.com/story/eternalblue-leaked-nsa-spy-tool-hacked-world/
 https://krebsonsecurity.com/2016/10/source-code-for-iot-botnet-mirai-released/

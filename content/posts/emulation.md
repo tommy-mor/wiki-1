@@ -1,12 +1,17 @@
 +++
 title = "Emulation"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:10:54-07:00
+lastmod = 2020-08-02T19:17:31-07:00
 slug = "emulation"
 draft = false
 +++
 
-Links and notes relevant to emulation.
+Emulation is the process of simulating a computer with an interpreter that runs the bytecode of compiled programs for that machine.
+It's most commonly used to run operating systems inside of others or to play video games.
+
+
+## Future Reading {#future-reading}
+
 <http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU>
 <https://stackoverflow.com/questions/448673/how-do-emulators-work-and-how-are-they-written#448689>
 <https://github.com/vascofazza/8bit-cpu>

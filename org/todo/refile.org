@@ -1083,3 +1083,32 @@ https://moviebarcode.tumblr.com/ cool looks
 [[http://lisperator.net/blog/the-left-pad-case/][leftpad]]
 [[http://lisperator.net/blog/minesweeper-and-interviewing/][minesweeper and interviewing]]
 https://www.datprotocol.com/ hypermedia protocol!
+
+* Pi
+
+https://github.com/redkyn software for teaching programming
+[[https://wiki.xxiivv.com/site/raspberry.html][wow!]]
+[[https://notmuchmail.org/frontends/][notmuch clients]]
+[[http://willcrichton.net/notes/][type level programming]]
+[[https://wiki.xxiivv.com/site/discourse.html][on discourse.]]
+[[https://en.m.wikipedia.org/wiki/Ricci_calculus][rules and indices for tensor and tensor fields!]]
+[[https://homelabos.com/][self hosting at home.]]
+[[https://alot.readthedocs.io/en/latest/][alot tutorial]]
+[[https://www.youtube.com/watch?v=kgVz4-SEhbE&app=desktop][clustering with the raspi]]
+
+https://raspberrypi.stackexchange.com/questions/86/how-can-i-run-the-pi-on-solar-power
+pi on solar power
+https://100r.co/site/raspberry_pi.html
+https://www.lifehacker.com.au/2012/12/make-a-raspberry-pi-solar-powered-ftp-server/
+https://www.instructables.com/id/Solar-Powered-Raspberry-Pi/
+
+[[https://bartoszmilewski.com/2020/05/27/guitar-decomposed-5-mutating-the-third/][guitar in haskell]]
+[[https://git.sr.ht/~ft/9pro][tools for sourcehut!]]
+[[https://link.springer.com/book/10.1007/978-1-4302-5990-9?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=BBKK_1_DL01_GL_twitterorganic&sf234521345=1][book by rahul khanna]]
+[[https://obsidian.md/][obsidian md knowledge base]]
+
+https://electro.pizza/2020/05/selfhosting-cloudshell2/ NAS self host with
+documentation
+
+https://aperiodical.com/2020/06/review-immersive-linear-algebra/ review for
+linalg
