@@ -1,16 +1,13 @@
 +++
 title = "Fonts"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T22:12:50-07:00
+lastmod = 2020-08-02T19:35:26-07:00
 slug = "fonts"
 draft = false
 +++
 
-### Backlinks {#backlinks}
-
--   [Web Design]({{< relref "web_design" >}})
-
-[Typesetting]({{< relref "typesetting" >}}),[Language]({{< relref "language" >}})
+tags
+: [Typesetting]({{< relref "typesetting" >}}), [Language]({{< relref "language" >}}), [Web Design]({{< relref "web_design" >}})
 
 Notes on fonts and font design.
 
@@ -57,49 +54,98 @@ Gotham
 : New York signage lettering style.
 
 <https://www.indesignskills.com/inspiration/best-fonts-graphic-designers/>
-bodoni : luxe, aspirational look font. more compressed and exaggerated
-univers : 'the ultimate modernist font' - incredibly legible, clean, and functiona
-Lombok - very cool angular sans-serif font  <https://www.behance.net/gallery/17179851/Lombok-typeface>
-ailerons: inspired by airplane models (??) <https://www.behance.net/gallery/25541553/Ailerons-Typeface>
-one day : modern uppercase light font?  <https://www.behance.net/gallery/23792563/ONE-DAY-Free-Font>
-cooper hewitt : smithsonian design museum work! <https://www.canva.com/learn/modern-fonts/>
-koliko: larin and cyrillic characters  <https://www.behance.net/gallery/30571471/kolikoe-FREE-FONT>
-polya : cool lightweight, 3d mesh title font. <https://www.behance.net/gallery/20118341/POLYA-Free-Fon>
-radnika : multipurpose, workhorse typeface!  <https://www.behance.net/gallery/33818984/Radnika-Typeface>
-komoda: slimline, modern headline font <https://www.behance.net/gallery/11623957/KOMODA-Font>
-kolletif : low contrast, modern, 21st century typeface <https://www.behance.net/gallery/27386771/Kollektif>
-nagasaki : bold, condensed font for a large impact. looks very good in yellow, see poster
-hyperbola : very cool typography <https://www.behance.net/gallery/801635/Hyperbola>
-flavorful, columbia font; distrito <https://www.dafont.com/distrito-caps.font>
-maddac : headlining title font with some flair! <https://www.behance.net/gallery/19645737/Maddac-Free-Font>
-orkney : simple, sans-serif, readable font for web design.
-<https://www.behance.net/gallery/19645737/Madda>
-disclaimer : loud title font, very vertically oriented <https://www.behance.net/gallery/15024825/Disclaime>
-qontra : very space-oriented, friendly font <https://www.behance.net/gallery/26829249/FREE-QONTRA-Font>
-perfograma ; entirely dotted, perforated font. not sure how this is useful  <https://www.behance.net/galle>    ry/23576901/Perfograma-free-font
-arenq : bold, shaped font with double lines to highlight aspects. <https://www.dafont.com/arenq.font>
-intro ;: comfortable, curvy, smooth font <https://www.fontfabric.com/fonts/intro/>
-<https://about.easil.com/best-free-fonts/> -- these fonts are potentially cool as well!
+
+Bodoni
+: luxe, aspirational look font. more compressed and exaggerated
+
+Univers
+: 'the ultimate modernist font' - incredibly legible, clean, and functiona
+
+Lombok
+: very cool angular sans-serif font  <https://www.behance.net/gallery/17179851/Lombok-typeface>
+
+Ailerons
+: inspired by airplane models (??) <https://www.behance.net/gallery/25541553/Ailerons-Typeface>
+
+One Day
+: modern uppercase light font?  <https://www.behance.net/gallery/23792563/ONE-DAY-Free-Font>
+
+Cooper Hewitt
+: Smithsonian design museum work! <https://www.canva.com/learn/modern-fonts/>
+
+Koliko
+: A font with larin and cyrillic characters.  <https://www.behance.net/gallery/30571471/kolikoe-FREE-FONT>
+
+Polya
+: cool lightweight, 3d mesh title font. <https://www.behance.net/gallery/20118341/POLYA-Free-Fon>
+
+Radnika
+: multipurpose, workhorse typeface!  <https://www.behance.net/gallery/33818984/Radnika-Typeface>
+
+Komoda
+: slimline, modern headline font <https://www.behance.net/gallery/11623957/KOMODA-Font>
+
+Kolletif
+: low contrast, modern, 21st century typeface <https://www.behance.net/gallery/27386771/Kollektif>
+
+Nagasaki
+: bold, condensed font for a large impact. looks very good in yellow, see poster
+
+Hyperbola
+: very cool typography <https://www.behance.net/gallery/801635/Hyperbola>
+
+Distrito
+: A flavorful, columbia font. <https://www.dafont.com/distrito-caps.font>
+
+Maddac
+: A headlining title font with some flair! <https://www.behance.net/gallery/19645737/Maddac-Free-Font>
+
+Orkney
+: A simple, sans-serif, readable font for web design.
+
+Madda
+: <https://www.behance.net/gallery/19645737/Madda>
+
+Disclaimer
+: A loud title font, very vertically oriented. <https://www.behance.net/gallery/15024825/Disclaime>
+
+Qontra
+: A very space-oriented, friendly font. <https://www.behance.net/gallery/26829249/FREE-QONTRA-Font>
+
+Perfograma
+: entirely dotted, perforated font. not sure how this is useful  <https://www.behance.net/gallery/23576901/Perfograma-free-font>
+
+Arenq
+: bold, shaped font with double lines to highlight aspects. <https://www.dafont.com/arenq.font>
+
+Intro
+: comfortable, curvy, smooth font <https://www.fontfabric.com/fonts/intro/>
+
+
+### To Investigate {#to-investigate}
+
+-   <https://about.easil.com/best-free-fonts/> -- these fonts are potentially cool as well!
 
 
 ### Monospace {#monospace}
 
-source code pro
-jet brains mono
-iosveka
-ibm plex
-fira code
-pragmata pro
-dank mono
-victor mono
-menlo
-consolas
-roboto mono
-adore64
-hermit light
-opendyslexic mono
-cascadia code pl
-source code pro with emacs hasklig mode
+-   source code pro
+-   jet brains mono
+-   iosveka
+-   ibm plex
+-   fira code
+-   pragmata pro
+-   dank mono
+-   victor mono
+-   menlo
+-   consolas
+-   roboto mono
+-   adore64
+-   hermit light
+-   opendyslexic mono
+-   cascadia code pl
+-   source code pro with emacs hasklig mode
+
 <https://sourcefoundry.org/hack/> -- designed for source code!
 <https://github.com/huytd/haskplex-font> put this on the AUR!
 
@@ -109,11 +155,11 @@ source code pro with emacs hasklig mode
 
 ### Design {#design}
 
-motion design
+Motion Design
 : Text in motion carefully chose to make text readable in videos and other animations.
     This text isn't visible all the time; rather, it's moving quickly and likely flashes past during a video.
 
-variable fonts
+Variable Fonts
 : One or more axes that provide variation between different extremes of typeface design.
     These fonts allow for finer control over the design as it changes across the design space!
     A font can often be installed as regular, bold or both, and extended designs are expressed nicely.
@@ -184,36 +230,37 @@ justifying text
 measure
 : length of lines of text in a paragraph of column (column width)
 
-leading
-: vertical line spacing. generating sufficient space between lines to make it readable
+Leading
+: Vertical line spacing. generating sufficient space between lines to make it readable
 
-ligatures
-: fusing characters that are next to one another that look very similar - awkward together.
+Ligatures
+: Fusing characters that are next to one another that look very similar.
+    These characters may look awkward when next to one another if they aren't fused.
 
-hyphenation
-: used to prevent rag problems
+Hyphenation
+: Breaking a word across a line and separating it with a dash; a technique typically used to prevent rag problems.
 
 hyphen
 : short dash '-'. used to divide words that break at the end of the line or to connect parts of co    mpound words such as 'ill-fated'. these are used to represent relationships between individuals rather th    an separating them.En-dash : slightly longer hthan the hyphe. used to indicate a range of values, such as a span of time or     numerical quantities. sometimes the em-dash is used instead of the en-dash for aesthetic reasons, or a sm    all amount of space is added befoer or after the dash for artistic purposes.Em-dash : longer than that!the em-dash is typically used to indicate a break in thought, and is normally followed with and preceded     by space. It can be used to describe a thought within a sentence as well -- case in point!grid : guide by which graphic designers can organize, copy and add images in a flexible way while making     the concepts easy to absorb and understand.
 
-rag
-: the uneven vertical edge of a block of type -- most commonly the right-hand edge. if the rag is not     good, it can be very distracting on the eye; can be fixed by reworking the line breaks or by editing a c    opy
+Rag
+: The uneven vertical edge of a block of type -- most commonly the right-hand edge. if the rag is not clean, it can be very distracting to the eye; this can be fixed by reworking the line breaks or by editing a copy.
 
-widow
-: single word or short line is left at the end of a column - bad typography
+Widow
+: A single word or short line left at the end of a column. This is considered bad typography.
 
-orphan
-: exists at the top of the following column!
-
-can be fixe just liek the rag, reworking the line breaks or editing the copy to remove these typography ugly things
+Orphan
+: A line exists at the top of the following column!
+    This can be fixed just like the rag, by reworking the line breaks or editing the copy to remove these typography misdeeds.
 
 
 ## History {#history}
 
-printing press : based on blackletter, similar ot the font traditionally used
-with handwritten material. not good for printing.
-Roman type was created to solve this problem. First, Jenson, but the most
-recognizable roman font is Cambria.
+printing press
+: Used a font based on blackletter, similar ot the font traditionally used
+    with handwritten material. This wasn't good for printing.
+    Roman type was created to solve this problem. First, Jenson, but the most
+    recognizable roman font is Cambria.
 
 
 ### Italics {#italics}
@@ -238,23 +285,23 @@ Baskerville is one such font (which was created as an improvement to the caslon 
 
 very thin serifs with extreme contrast between strokes. created
 to reject traditional styles, annoyed with typefaces based on handwriting!
-Modern style initiated by Firmin Didot and Giambatista B    odoni ; Firmin Didot
+Modern style initiated by Firmin Didot and Giambatista Bodoni ; Firmin Didot
 created modern style classification type, Didot, followed by the Bodoni
 typefaces
 
 
-### William Caslon iv {#william-caslon-iv}
+### William Caslon IV {#william-caslon-iv}
 
 sans serif typefaces -- no projecting featues at the end of
 strokes! Helvetica : known as the favorite typeface, one of the most populat.
-variations on this include slab serifs and gemoetric     sans. slab : magazines,
+variations on this include slab serifs and gemoetric sans. slab : magazines,
 newspaper headers; geometric : based on simple geometric shapes.
 
 
 ### Susan Kare - great apple designer! She did Chicago, a neat pixel sans-serif {#susan-kare-great-apple-designer-she-did-chicago-a-neat-pixel-sans-serif}
 
-typeface -- this could be coo    l to use, as well as Monaco - (kind of boring)
-. geneva is the third typeface; it's inspired by helvetica     and is a
+typeface -- this could be cool to use, as well as Monaco - (kind of boring)
+. geneva is the third typeface; it's inspired by helvetica and is a
 neo-grotesque typeface, a realist typeface including basic ligatures, long s and
 r rotunda as o    ptionals. bitmap fonts are very cool and I should look into
 using them! realist ~=grotesquemore reading (TODO)::
@@ -275,27 +322,53 @@ have many uses - have fun with them
 
 ## Classifying Type {#classifying-type}
 
--   serif -- traditional typefaces, with feet or arms hanging off of the end of letter strokes, adding a th    ick or thin look to the letter. considered the easiest fonts to read
--   consider serif fonts as ''fancy' fonts -- fonts with embellishments. times new roman is the most used f    ont as the most common font found in newspapers
--   baskerville, clarendon, garamond, georgia, trajan
--   sans-serif -- fonts without serifs and having an overall more even stroke weight. clean, modern, minima    list
--   arial, futura, impact, myriad, tahoma
--   decorative -- used only for attention getting headlines; only one decorative font should be used, and n    ot as the body font!
--   script - used to mimic handwriting, so the letters often touch one another. should never be used in all    -caps
--   dingbats -- small pieces of art used to enhance the design of the page! usually packaged with a specifi    c font and mimic its style
+
+### Serif {#serif}
+
+Traditional typefaces with feet or arms hanging off of the end of letter strokes, adding a thick or thin look to the letter.
+These are considered the easiest fonts to read.
+Serif fonts are 'fancy' fonts -- they all have embellishments. Times New Roman, a serif font, is the most used font as the most common font found in newspapers.
+
+Examples
+: baskerville, clarendon, garamond, georgia, trajan
+
+
+### Sans-Serif {#sans-serif}
+
+Fonts without serifs and having an overall more even stroke weight. clean, modern, minima    list
+
+Examples
+: arial, futura, impact, myriad, tahoma
+
+
+### Decorative {#decorative}
+
+Fonts typically used only for attention-grabbing headlines.
+Only one decorative font should be used, and not as the body font!
+
+
+### Script {#script}
+
+Script fonts are intended to mimic handwriting, so the letters often touch one another.
+These fonts should never be used with all-caps.
+
+
+### Dingbats {#dingbats}
+
+These fonts contain characters that are small pieces of art, used to enhance the design of the page.
+Dingbats are usually packaged with a specific font and mimic its style.
 
 
 ## Best Practices {#best-practices}
 
 
-### font size {#font-size}
+### Font Size {#font-size}
 
--   computers:: 72 pt -> 1 inch
--   two different font sizes at same point may have different physical sizes
--   correct size depends on use! adjust this
+On computers, 72 pt. font corresponds to one inch on paper.
+Two different font sizes at the same point can correspond to different physical sizes, and correct size does depend on use.
 
 
-### spacing {#spacing}
+### Spacing {#spacing}
 
 -   character and word spacing, kerning, -- space between each character or letter, adjusted to create plea    sing look
 
@@ -350,24 +423,3 @@ font tutorial
 <https://fontsinuse.com/uses/2291/ableton-website> -- ableton fonts!
 [reading on type defining a brand](https://www.creativebloq.com/features/5-ways-type-can-define-brands)
 <https://glyphsapp.com/> good tool
-
-
-## good terminal fonts {#good-terminal-fonts}
-
-source code pro
-jet brains mono
-iosveka
-ibm plex
-fira code
-pragmata pro
-dank mono
-victor mono
-menlo
-consolas
-roboto mono
-adore64
-hermit light
-opendyslexic mono
-cascadia code pl
-source code pro with emacs hasklig mode
-<https://github.com/huytd/haskplex-font> put this on the AUR!
