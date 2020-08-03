@@ -4,13 +4,13 @@
 
 Information about self-hosting.
 
-* Links
-https://electro.pizza/2020/05/selfhosting-cloudshell2/ NAS self host with
-documentation
-[[https://homelabos.com/][self hosting at home.]]
-[[https://osmc.tv/][media center]]
+* Projects
+- [[https://homelabos.com/][Homelab OS]] :: A personal data center with easy hosting for a variety of projects.
+- [[https://sandstorm.io][Sandstorm]] :: By the creator of Protobuf and Cap'n Proto, this project provides a one-click interface for self-hosted web apps.
+- [[https://osmc.tv/][OSMC]] :: A FOSS media streaming platform.
+- [[https://swiso.org][Swiso]] :: Ethical alternatives to unethical software.
 
-[[https://swiso.org/][switching from google]]
-
-https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md
-great self hsoted resources
+* Tutorials
+- [[https://electro.pizza/2020/05/selfhosting-cloudshell2/][Selfhosting Cloudshell]] :: A NAS self host with documentation.
+* Resources
+- [[https://github.com/awesome-selfhosted/awesome-selfhosted][Awesome Self-Hosted Projects]]
