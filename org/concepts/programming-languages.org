@@ -2,29 +2,26 @@
 #+hugo_slug: programming-languages
 #+TITLE: Programming Languages
 
-https://www.jsoftware.com/#/ fun language for hp analysis
-https://getpocket.com/redirect?url=https%3A%2F%2Fchapel-lang.org%2F chapel lang, parallel progrfamming language
-
+* Languages
+- [[https://www.jsoftware.com/#/][J]] :: A high-performance language for data processing and parallel computing.
+- [[https://chapel-lang.org][Chapel]] :: A parallel programming language that claims to have some novel ideas.
+- [[https://github.com/CatalaLang/catala][Catala]] :: A DSL for representing laws by construction, designed to enable lawyers to certify laws. Interested in formal verification of legal documents, potentially.
+- [[https://raku.org][Raku]] :: A descendent of Perl, it features lots of additional features including fun grammar specifications.
+- [[https://github.com/jfecher/ante][Ante]] :: 'The compile-time language'. Made by a Northeastern undergraduate student.
+- [[https://github.com/adam-mcdaniel/oakc][Oak]] :: Designed as a simple replacement for C.
+- [[https://github.com/topshell-language/topshell][Topshell]] :: A functional, reactive scripting language.
+- [[https://github.com/MosheWagner/PyChefInterpreter][Chef]] :: An esoteric programming language designed to simultaneously represent recipes and programs.
+- [[https://github.com/bakpakin/Fennel][Fennel]] :: Lisp for Lua.
+- Whitespace :: A programming language designed with only whitespace characters, ignoring all others. Any program that disregards whitespace can express a whitespace program within it.
+- [[https://github.com/LuxLang/lux][Lux]] :: A statically typed Lisp-like language for the JVM.
+- [[https://github.com/einaregilsson/While-Language][While]] :: A language used in textbooks such as 'Principles of Program Analysis'.
+- [[https://github.com/kwanghoon/polyrpc][PolyRPC]] :: A 'multi-tier' functional programming language.
 * Work
-https://github.com/adam-mcdaniel/oakc
 https://github.com/google/evcxr
-https://github.com/LuxLang/lux
-whitespace
-brainfuck
-https://github.com/jfecher/ante
 https://github.com/hengestone/lua-languages programming languages targeting lua
-https://github.com/bakpakin/Fennel lua lisp
-https://github.com/facebook/hhvm hack vm
-https://github.com/einaregilsson/While-Language while programming language
-https://github.com/topshell-language/topshell functional reactive scripting langauge
-https://github.com/jfecher/ante the compile time language
-https://github.com/kwanghoon/polyrpc 'multi tier' functional programming language
-https://github.com/MosheWagner/PyChefInterpreter chef language
 
 * Research
 https://github.com/jdublu10/icfp2020-papers ICFP 2020 conf
-https://github.com/HoTT/book homotopy type theory book
-https://github.com/EgbertRijke/HoTT-Intro intro hott course (agda)
 
 * Lean
 This'll be factored out when I learn more about Lean.
