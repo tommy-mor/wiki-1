@@ -16,3 +16,8 @@ https://andrewkelley.me/post/jamulator.html
 https://stackoverflow.com/questions/11215689/why-does-emulation-have-to-be-done-in-real-time
 https://www.internalpointers.com/post/introduction-virtual-memory
 https://gist.github.com/hellerbarde/2843375
+
+* PCI Passthrough
+A technique for getting near-native performance in an emulator.
+https://www.reddit.com/r/VFIO/comments/hyerum/problem_with_pci_passthrough_in_kvmqemu/
+https://dominicm.com/gpu-passthrough-qemu-arch-linux/

@@ -17,4 +17,4 @@ https://github.com/tmux-plugins/tmux-pain-control
 A tmux plugin that offers pane control and standard pane navigation bindings.
 
 * Other Work
-byobu claims to be a more fully-featured window manager built on top of tmux that might be more viable as a day to day interface without an X session
+[[https://www.byobu.org/home][Byobu]] claims to be a more fully-featured window manager built on top of tmux that might be more viable as a day to day interface without an X session.

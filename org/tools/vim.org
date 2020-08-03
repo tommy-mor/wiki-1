@@ -26,3 +26,15 @@ programming environments.
 * Tools
 https://github.com/glacambre/firenvim neovim in the browser
 https://github.com/puremourning/vimspector debugging system for vim
+https://www.reddit.com/r/vim/comments/i0lffn/thought_id_share_some_recent_vimspector/
+* Resources
+https://www.reddit.com/r/vim/comments/i1tfux/i_have_fallen_to_vim/ learning more about vim mappings
+
+* Plugins
+https://www.reddit.com/r/vim/comments/i1p3s9/fernvim_a_modern_asynchronous_file_manager_for_vim/ async file manager, with lists of alternatives
+https://www.reddit.com/r/vim/comments/i0tciv/you_liked_so_much_the_first_version_that_i/ a vim plugin for highlighting infomration in different colors while parsing a document
+https://www.reddit.com/r/vim/comments/hvr09s/how_can_i_integrate_a_vim_text_editor_in_react/ adding vim text editor to react project
+https://www.reddit.com/r/vim/comments/hxn5ue/how_do_i_use_macros_when_i_have_variable_amount/ meta macros for variable amounts of data
+https://www.reddit.com/r/vim/comments/hwdehp/vim_osc_livecoding/ livecoding in vim
+https://www.reddit.com/r/vim/comments/hy3yma/what_is_the_best_leader_key/ finding the best leader key
+https://app.getpocket.com/read/3056881828 arbitrary variables in vimrcs

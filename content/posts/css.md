@@ -1,7 +1,7 @@
 +++
 title = "CSS cool things abt css"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:46:53-07:00
+lastmod = 2020-08-02T22:25:50-07:00
 slug = "css"
 draft = false
 +++
@@ -141,7 +141,9 @@ ocmputer at school? very cool!
 <https://heracl.es/> cool projects found below; navigation of films, diy kit
 for router, etc
 
-<https://shards.lectronice.com/> yo what the fukc this is the coolest shit ive
-ever seen.
+<https://shards.lectronice.com/> this is pcool.
 
 <https://ellugar.co/> mexican game developer!
+<https://shoelace.style/> a minimal css starter kit
+
+<https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Fhundredrabbits%2FThemes> 100 rabbits theme framework

@@ -83,7 +83,17 @@ stack setup
 getting ncurses5-compat-libs:
 
 
-[[https://medium.com/@saurabhnanda/why-building-web-apps-in-haskell-is-harder-than-it-ought-to-be-c9b13de0be4f][building web apps in hospital]]
+[[https://medium.com/@saurabhnanda/why-building-web-apps-in-haskell-is-harder-than-it-ought-to-be-c9b13de0be4f][building web apps in haskell]]
 [[https://stackoverflow.com/questions/22620294/minimal-warp-webserver-example][ez web server in haskell]]
 [[https://www.airpair.com/haskell-tutorial/intro-to-haskell-web-apps][client side apps in haskell]]
 [[https://wiki.haskell.org/Web/Frameworks][web frameworks for haskell]]
+https://github.com/raviksharma/bartosz-basics-of-haskell basics of haskell tutorial
+https://www.reddit.com/r/haskell/comments/hz4sec/the_golden_rule_of_software_quality/ haskell and software quality
+
+https://app.getpocket.com/read/3056979135 ghc with lorri
+https://getpocket.com/redirect?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fhaskell%2Fcomments%2Fhvt8h1%2Fjob_work_with_me_in_the_fully_remote_org_as_a%2F uses haskell!
+
+https://getpocket.com/redirect?url=https%3A%2F%2Fchris-martin.org%2F haskell dude
+https://getpocket.com/redirect?url=https%3A%2F%2Fchris-martin.org%2F2015%2Finstalling-nixos installing nixos
+
+https://app.getpocket.com/read/2558647524 learning nixos easily

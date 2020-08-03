@@ -1,7 +1,7 @@
 +++
 title = "inspirational websites"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:40:38-07:00
+lastmod = 2020-08-02T21:51:28-07:00
 slug = "inspirational-sites"
 draft = false
 +++
@@ -13,13 +13,11 @@ localized but distribued.](https://scuttlebutt.nz)
 
 ## setting up weechat as frontend for everything {#setting-up-weechat-as-frontend-for-everything}
 
-[signal weechat](https://github.com/thefinn93/signal-weechat/blob/master/README.md)
-[slack weechat](https://github.com/wee-slack/wee-slack)
 [cellular noise](https://cineshader.com/)
 [free video edition](https://www.olivevideoeditor.org/)
 also look into editing with blender
 tildegit :: git for the tildeverse!
-[seems like an organic place to spend time on the internet](https://dev.upvote.blog/)
+[upvote.blog](https://dev.upvote.blog/), a
 
 
 ## blogging for free {#blogging-for-free}

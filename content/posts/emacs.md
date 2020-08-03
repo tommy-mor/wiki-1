@@ -1,16 +1,10 @@
 +++
 title = "Emacs"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T22:09:32-07:00
+lastmod = 2020-08-02T22:29:19-07:00
 slug = "emacs"
 draft = false
 +++
-
-### Backlinks {#backlinks}
-
--   [acl2]({{< relref "acl2" >}})
--   [EXWM]({{< relref "exwm" >}})
--   [Vim]({{< relref "vim" >}})
 
 Emacs is a fully-featured programming environment.
 
@@ -97,3 +91,7 @@ write your own emacs config for better speed
 
 <https://www.reddit.com/r/vim/comments/h8pgor/til%5Fconceal%5Fin%5Fvim/> --
 concealing plaintext symbols with glyphs
+<https://www.reddit.com/r/emacs/comments/i09ncw/discussion%5Fusing%5Femacsorgmode%5Fto%5Fmanage%5Flife/> using org mode to manage your life
+<https://www.reddit.com/r/emacs/comments/hxu9dx/withemacs%5Fwhat%5Fyou%5Fneed%5Fto%5Fknow%5Fabout%5Fhooks/> emacs hooks
+
+<https://app.getpocket.com/read/2677474486> gantt calendar (??) from nixos

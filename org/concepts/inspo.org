@@ -6,13 +6,11 @@
 localized but distribued.]]
 
 * setting up weechat as frontend for everything
-[[https://github.com/thefinn93/signal-weechat/blob/master/README.md][signal weechat]]
-[[https://github.com/wee-slack/wee-slack][slack weechat]]
 [[https://cineshader.com/][cellular noise]]
 [[https://www.olivevideoeditor.org/][free video edition]]
 also look into editing with blender
 tildegit :: git for the tildeverse!
-[[https://dev.upvote.blog/][seems like an organic place to spend time on the internet]]
+[[https://dev.upvote.blog/][upvote.blog]], a
 
 * blogging for free
 [[https://bearblog.dev/][bear blog]]

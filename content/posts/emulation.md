@@ -1,7 +1,7 @@
 +++
 title = "Emulation"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T19:17:31-07:00
+lastmod = 2020-08-02T22:16:37-07:00
 slug = "emulation"
 draft = false
 +++
@@ -22,3 +22,10 @@ It's most commonly used to run operating systems inside of others or to play vid
 <https://stackoverflow.com/questions/11215689/why-does-emulation-have-to-be-done-in-real-time>
 <https://www.internalpointers.com/post/introduction-virtual-memory>
 <https://gist.github.com/hellerbarde/2843375>
+
+
+## PCI Passthrough {#pci-passthrough}
+
+A technique for getting near-native performance in an emulator.
+<https://www.reddit.com/r/VFIO/comments/hyerum/problem%5Fwith%5Fpci%5Fpassthrough%5Fin%5Fkvmqemu/>
+<https://dominicm.com/gpu-passthrough-qemu-arch-linux/>

@@ -1,7 +1,7 @@
 +++
 title = "Haskell"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T22:46:21-07:00
+lastmod = 2020-08-02T22:28:53-07:00
 slug = "haskell"
 draft = false
 +++
@@ -90,7 +90,17 @@ stack new Other simple
 stack setup
 getting ncurses5-compat-libs:
 
-[building web apps in hospital](https://medium.com/@saurabhnanda/why-building-web-apps-in-haskell-is-harder-than-it-ought-to-be-c9b13de0be4f)
+[building web apps in haskell](https://medium.com/@saurabhnanda/why-building-web-apps-in-haskell-is-harder-than-it-ought-to-be-c9b13de0be4f)
 [ez web server in haskell](https://stackoverflow.com/questions/22620294/minimal-warp-webserver-example)
 [client side apps in haskell](https://www.airpair.com/haskell-tutorial/intro-to-haskell-web-apps)
 [web frameworks for haskell](https://wiki.haskell.org/Web/Frameworks)
+<https://github.com/raviksharma/bartosz-basics-of-haskell> basics of haskell tutorial
+<https://www.reddit.com/r/haskell/comments/hz4sec/the%5Fgolden%5Frule%5Fof%5Fsoftware%5Fquality/> haskell and software quality
+
+<https://app.getpocket.com/read/3056979135> ghc with lorri
+<https://getpocket.com/redirect?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fhaskell%2Fcomments%2Fhvt8h1%2Fjob%5Fwork%5Fwith%5Fme%5Fin%5Fthe%5Ffully%5Fremote%5Forg%5Fas%5Fa%2F> uses haskell!
+
+<https://getpocket.com/redirect?url=https%3A%2F%2Fchris-martin.org%2F> haskell dude
+<https://getpocket.com/redirect?url=https%3A%2F%2Fchris-martin.org%2F2015%2Finstalling-nixos> installing nixos
+
+<https://app.getpocket.com/read/2558647524> learning nixos easily

@@ -17,7 +17,7 @@ https://github.com/RasaHQ/rasa ml framework for automating text conversations
 * ETC
 [[https://link.springer.com/book/10.1007/978-1-4302-5990-9?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=BBKK_1_DL01_GL_twitterorganic&sf234521345=1][book by rahul khanna]]
 [[https://news.ycombinator.com/item?id=23345379][gpt 3]]
-
+https://www.reddit.com/r/MachineLearning/comments/i1aafb/p_i_trained_a_gan_to_generate_photorealistic_fake/ fun with generating gans
 http://blog.ezyang.com/2013/01/nlp-the-missing-framework/
 https://minimaxir.com/2019/09/howto-gpt2/ -- fun gpt 2 training time
 https://ezyang.github.io/convolution-visualizer/index.html
@@ -48,3 +48,4 @@ http://brainstormingbox.org/what-do-you-think-about-natural-language-processing/
 https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html
 discovering optimal rolling shape in pytorch!
 https://minimaxir.com/2020/01/twitter-gpt2-bot/
+https://github.com/alimir1/ml/blob/master/index.md framework for learning machine learning and self studying

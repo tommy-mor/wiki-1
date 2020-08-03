@@ -1,10 +1,14 @@
 +++
 title = "Programming Languages"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:33:34-07:00
+lastmod = 2020-08-02T22:22:50-07:00
 slug = "programming-languages"
 draft = false
 +++
+
+<https://www.jsoftware.com/#/> fun language for hp analysis
+<https://getpocket.com/redirect?url=https%3A%2F%2Fchapel-lang.org%2F> chapel lang, parallel progrfamming language
+
 
 ## Work {#work}
 
@@ -345,6 +349,8 @@ such a cool thing
 
 ### fun languages {#fun-languages}
 
+<https://github.com/adam-mcdaniel/oakc> fun alternative to c langauge
+<https://github.com/psg-mit/smooth>
 <http://bloom-lang.net/>
 <https://www.reddit.com/r/ProgrammingLanguages/comments/g2hhq0/statically%5Ftyped%5Flanguage%5Fwith%5Fa%5Fflexible%5Fmacro/>
 
@@ -525,3 +531,5 @@ how efficient can objects be?
 <https://bellard.org/tcc/>
 <http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html> cool project for a
 tiny compiler in python!
+<https://blog.sigplan.org/2020/07/29/increasing-the-impact-of-pl-research/>
+a meta article on impactful pl research

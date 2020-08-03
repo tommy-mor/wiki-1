@@ -1,7 +1,7 @@
 +++
 title = "Operating Systems"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T19:51:57-07:00
+lastmod = 2020-08-02T22:02:54-07:00
 slug = "os"
 draft = false
 +++
@@ -53,6 +53,7 @@ Fuscia <https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-sys
 
 Gentoo
 : An operating system that prides itself on building everything from source.
+    <https://ocharles.org.uk/posts/2012-07-09-leaving-gentoo.html>
     <https://www.paritybit.ca/blog/my-beginnings-with-gentoo>
 
 [Qubes OS](https://www.qubes-os.org/intro/)

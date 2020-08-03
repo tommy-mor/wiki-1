@@ -9,3 +9,5 @@ Notes on game development.
 * Good Reads
 [[https://benwiser.com/blog/Making-game-engines-is-a-waste-of-time---I-probably-won%E2%80%99t-stop-making-them.html][on making game engines]]
 The Doom black book.
+https://www.reddit.com/r/madeinhaskell/comments/hzwg2b/mallrl_a_grocery_shopping_roguelike_created_in_7/ a grocery shopping roguelike!
+dwarf fortress

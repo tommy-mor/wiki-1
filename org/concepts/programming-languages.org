@@ -2,6 +2,9 @@
 #+hugo_slug: programming-languages
 #+TITLE: Programming Languages
 
+https://www.jsoftware.com/#/ fun language for hp analysis
+https://getpocket.com/redirect?url=https%3A%2F%2Fchapel-lang.org%2F chapel lang, parallel progrfamming language
+
 * Work
 https://github.com/adam-mcdaniel/oakc
 https://github.com/google/evcxr
@@ -287,6 +290,8 @@ http://craftinginterpreters.com/closures.html
 https://jadon.io/blog/row-polymorphism
 
 ** fun languages
+https://github.com/adam-mcdaniel/oakc fun alternative to c langauge
+https://github.com/psg-mit/smooth
 http://bloom-lang.net/
 https://www.reddit.com/r/ProgrammingLanguages/comments/g2hhq0/statically_typed_language_with_a_flexible_macro/
 
@@ -445,3 +450,5 @@ https://bellard.org/otcc/
 https://bellard.org/tcc/
 http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html cool project for a
 tiny compiler in python!
+https://blog.sigplan.org/2020/07/29/increasing-the-impact-of-pl-research/
+a meta article on impactful pl research

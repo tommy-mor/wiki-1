@@ -22,6 +22,7 @@ Aside from Linux, Windows, MacOS and derivatives...
 - TempleOS (racist)
 - Fuscia https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html
 - Gentoo :: An operating system that prides itself on building everything from source.
+  https://ocharles.org.uk/posts/2012-07-09-leaving-gentoo.html
   https://www.paritybit.ca/blog/my-beginnings-with-gentoo
 - [[https://www.qubes-os.org/intro/][Qubes OS]] :: An operating system that isolates every application and device on the computer, granting permission to each only when necessary. Many journalists and security professionals rely on this.
 - [[https://www.whonix.org/][WhoNix]] :: An operating system designed to completely sandbox your activity inside of a virtual machine.

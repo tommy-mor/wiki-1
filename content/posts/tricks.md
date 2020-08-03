@@ -1,7 +1,7 @@
 +++
 title = "tricks for linux system"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:50:43-07:00
+lastmod = 2020-08-02T22:00:48-07:00
 slug = "tricks"
 draft = false
 +++
@@ -25,3 +25,9 @@ docker rmi $(docker images -a -q)
 # stop all running containers
 docker stop $(docker ps -a -q)
 ```
+
+
+## Pranks {#pranks}
+
+<https://github.com/mathiasbynens/evil.sh>
+<https://github.com/zeroby0/pranks#7-change-editors>

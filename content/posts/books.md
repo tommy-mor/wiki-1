@@ -1,7 +1,7 @@
 +++
 title = "Books"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:12:33-07:00
+lastmod = 2020-08-02T22:08:40-07:00
 slug = "books"
 draft = false
 +++
@@ -77,6 +77,7 @@ programming in daily life.
 
 <https://moviebarcode.tumblr.com/> cool looks
 
+<https://github.com/alimir1/ali/blob/master/index.md> books this dude has enjoyed
 movies
 <https://m.imdb.com/title/tt0096256/>
 okja

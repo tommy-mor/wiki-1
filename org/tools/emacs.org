@@ -72,3 +72,7 @@ https://github.com/jhamrick/emacs
 
 https://www.reddit.com/r/vim/comments/h8pgor/til_conceal_in_vim/ --
 concealing plaintext symbols with glyphs
+https://www.reddit.com/r/emacs/comments/i09ncw/discussion_using_emacsorgmode_to_manage_life/ using org mode to manage your life
+https://www.reddit.com/r/emacs/comments/hxu9dx/withemacs_what_you_need_to_know_about_hooks/ emacs hooks
+
+https://app.getpocket.com/read/2677474486 gantt calendar (??) from nixos

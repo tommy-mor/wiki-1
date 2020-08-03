@@ -1,7 +1,7 @@
 +++
 title = "Machine Learning"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:04:04-07:00
+lastmod = 2020-08-02T22:07:54-07:00
 slug = "machine-learning"
 draft = false
 +++
@@ -31,7 +31,7 @@ Obviously, this will expand into many files once I've developed more knowledge.
 
 [book by rahul khanna](https://link.springer.com/book/10.1007/978-1-4302-5990-9?utm%5Fsource=twitter&utm%5Fmedium=social&utm%5Fcontent=organic&utm%5Fcampaign=BBKK%5F1%5FDL01%5FGL%5Ftwitterorganic&sf234521345=1)
 [gpt 3](https://news.ycombinator.com/item?id=23345379)
-
+<https://www.reddit.com/r/MachineLearning/comments/i1aafb/p%5Fi%5Ftrained%5Fa%5Fgan%5Fto%5Fgenerate%5Fphotorealistic%5Ffake/> fun with generating gans
 <http://blog.ezyang.com/2013/01/nlp-the-missing-framework/>
 <https://minimaxir.com/2019/09/howto-gpt2/> -- fun gpt 2 training time
 <https://ezyang.github.io/convolution-visualizer/index.html>
@@ -65,3 +65,4 @@ fourier methods
 <https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html>
 discovering optimal rolling shape in pytorch!
 <https://minimaxir.com/2020/01/twitter-gpt2-bot/>
+<https://github.com/alimir1/ml/blob/master/index.md> framework for learning machine learning and self studying

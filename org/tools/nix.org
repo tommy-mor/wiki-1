@@ -8,6 +8,7 @@ Nix is a functional package manager that isolates and sandboxes dependencies.
 https://github.com/elitak/nixos-infect install nixos over an existing os on digitalocean and other vps systems
 * Tutorials
 https://github.com/nh2/nixops-tutorial development with NixOps
+https://www.reddit.com/r/emacs/comments/hniz19/using_nix_to_manage_emacs_packages/ using nix to manage emacs packages
 * Configs
 https://github.com/luke-clifton/nix-config has cool config
 https://github.com/hlissner/dotfiles, doom emacs developer, has nice config. It's not terribly complicated though
@@ -114,3 +115,14 @@ https://www.reddit.com/r/NixOS/comments/g1rmby/building_a_web_app_with_functiona
 [[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][configuring infra in nix]]
 [[https://github.com/kylesferrazza/nix/blob/master/README.md][nix!]]
 [[https://github.com/kylesferrazza/nix-gce][looks good]]
+https://nix.dev/ resources for learning nix to get things done
+https://www.reddit.com/r/NixOS/comments/6j9zlj/how_to_set_up_themes_in_nixos/ working with themes in nixos
+https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Fryantm%2Fnixfiles%2Fblob%2Fmaster%2Fmachine-specific%2Fhome1.nix someones config files
+
+https://app.getpocket.com/read/2452794423 tutorial for encrypted zfs boot
+https://app.getpocket.com/read/1841792851 nixos on zfs
+https://app.getpocket.com/read/3056979074 building package from source tutorial
+https://app.getpocket.com/read/3056078810 nix and music ??
+https://app.getpocket.com/read/875290314 real time audio with nixos
+
+https://app.getpocket.com/read/2962491016 nixos desktop workflow

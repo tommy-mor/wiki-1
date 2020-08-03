@@ -17,3 +17,7 @@ docker rmi $(docker images -a -q)
 # stop all running containers
 docker stop $(docker ps -a -q)
 #+end_src
+
+* Pranks
+https://github.com/mathiasbynens/evil.sh
+https://github.com/zeroby0/pranks#7-change-editors

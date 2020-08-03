@@ -21,3 +21,4 @@ thinking about
 https://github.com/pitr/icfp2011 fun lambda the gathering language
 
 https://github.com/brokenthumbs/_boostertutor/blob/master/scryfall.py
+https://www.reddit.com/r/madeinhaskell/comments/hzuk08/magic_the_gathering_in_your_terminal/ play mtg in your terminal written in haskell! seems like a fun project to help out with.
