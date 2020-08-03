@@ -1,0 +1,11 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: hugo
+#+TITLE: Hugo
+
+Hugo is the static site generator I use to maintain my web spaces, including this site.
+
+
+* Themes
+
+* Tools
+[[https://themes.gohugo.io//theme/hugo-theme-codex/blog/math-typesetting/][Math Typesetting]]
