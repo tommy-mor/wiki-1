@@ -1112,3 +1112,112 @@ documentation
 
 https://aperiodical.com/2020/06/review-immersive-linear-algebra/ review for
 linalg
+
+* etc
+[[https://news.ycombinator.com/item?id=18120322][on automating out of work]]
+The best work is done when you do it for yourself.
+you sign your brains away when you go to work for a big company, and these
+people will likely be B players -- no matter how many great people they hire.
+most A players have more important things to do with their own time. without
+ownership, there is a high chance that you will not be at your best.
+
+non-technical business :: sometimes daily tasks do not end up driving
+revenue! the others are driving the revenue, you are maintaining thigns for
+them. their capacity to define tasks for you may not ever outpace your
+ability to deliver.
+
+automating yourself out of a job could be a goal, but this doesn't work:
+- system complexity means something can always break!
+- markets rapidly evolve and parts cease to work in the future!
+
+[[https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/?single_page=true][is self-automation ethical?]]
+- automation and the 15 hour work week from keynes
+- though automation continues, humans find ourselves working longer and
+  longer hours -- even though we enjoy benefits from those who use automation
+  and those who owned automated products.
+- Automation still has the power to reduce the amount of boring work we do.
+[[https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017][automating with nodejs]]
+
+* QAnon lol and starting cult
+[[https://conspiracypsychology.com/2018/04/15/internet-prophecy-cults-101-qanon-and-his-predecessors/][qanon]]
+QAnon
+- find an audience and tell them what they want to hear
+- everthing they believe in is right and everything they disagree with is
+  wrong
+- while things are bad now, a cleansing will come and the world will be ruled
+  by the people these people revere
+- Tell people that they will succeed if they believe you!
+- set a date for when {big event} will happen.
+
+* why lisp is good
+[[https://www.dreamsongs.com/WIB.html][the lisp song]]
+[[https://twobithistory.org/2018/10/14/lisp.html][more lisp song and history]]
+[[https://www.gnu.org/software/mit-scheme/][mit scheme]]
+[[http://marktarver.com/bipolar.html][the bipolar lisp programmer]] arrogant
+
+* etc
+[[https://kingjamesprogramming.tumblr.com/][sicp and king james generation]]
+from markov chain
+
+[[http://www.impredicative.com/ur/][ur programming languages - web dev w this!]]
+
+* small pl for your friends
+https://runyourown.social/
+you control the softare and you make the policies
+can have hyperspecific norms!
+can be the party host!
+can welcome people kindly to the server!
+
+https://runyourown.social/#places-where-we-need-better-tech -- need better
+tech:
+- form of centralization that allows people to migrate their accounts
+- let people choose to keep things in the community
+https://www.rhelmer.org/blog/ the browser monoculture. and why this is bad!
+https://lwn.net/Articles/741218/ on the small internet .
+
+https://en.m.wikipedia.org/wiki/Anonymous_remailer hosting mail!
+
+https://alexschroeder.ch/wiki/2020-06-04_Gemini_Upload the small internet and
+gemini uplaod
+https://alexschroeder.ch/wiki/2020-06-05_Gemini_Write
+https://alexschroeder.ch/wiki/Diary
+https://alexschroeder.ch/wiki/2019-06-21_Solderpunk's_Gemini_Protocol more on
+the gemini protocol :: and why it may not be liked
+https://github.com/pitr/gig/blob/master/README.md gemini dev framework
+
+https://git.carcosa.net/jmcbray/gemini.el gemini emacs mode
+
+https://portal.mozz.us/gemini/gem.limpet.net/agate/ agate server for static
+files over gemini
+https://news.ycombinator.com/item?id=16222478 decentralized social networking
+protocol!
+
+https://github.com/jakechv/twitterpub twitter activity gateway
+https://activitypub.rocks/ explanation of the activity pub prococol and how
+it can be used
+https://github.com/schollz/ingredients extract ingredients from any recipe on
+the internet
+https://github.com/schollz/extract_recipe
+https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#lets-destroy-c
+breaking c code
+
+https://write.as/matt/our-activitypub-projects neat ActivityPub projects
+https://spiegelmock.com/2020/05/28/decentralizing-social-media/ more on
+decentralization
+https://write.as/matt/our-activitypub-projects new activitypub projects
+https://git.sr.ht/~yotam/shavit configurable gemini server
+https://www.reddit.com/r/selfhosted/comments/h02wzr/how_to_adding_totp_to_sudo/
+??? seems useful for hosting.
+https://bitwarden.com/ bitwarden :; self hosted password management
+https://bitwarden.com/help/article/import-from-lastpass/ move from lastpass
+https://www.talkyard.io/ best way to share info?
+https://github.com/drichard/mindmaps mindmapping tech
+
+https://joplinapp.org/ open source notes with joplin
+
+https://blynk.io/ iot mobile platform
+
+https://github.com/semi-technologies/weaviate search graphql
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
+the history of http
+to bitwarden

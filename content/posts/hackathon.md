@@ -1,7 +1,7 @@
 +++
 title = "Hackathon"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:38:40-07:00
+lastmod = 2020-08-03T02:07:28-07:00
 slug = "hackathon"
 draft = false
 +++
@@ -254,39 +254,3 @@ computers are useless.they only give you answers. pablo picasso
 i refuse to do anything that computers can do - olin shivers
 
 think of meat as a side dish, not as a meal
-
-
-## naval adv {#naval-adv}
-
-no skill called business
-study micro, game theory, psych, persuasion, ethics, math and computers
-reading is faster than listening, doing is faster than watching
-too busy to do coffee but uncluttered calendar
-enforce aspirational hourly rate, outsource if it makes sense
-work as hard as you can. even though who you work with and what you work on are more important
-become the best at what you do. keep redefining what you do until this is true.
-there are no grq schemes
-apply specific knowledge with leverage and eventually you will get what you deserve
-;once upon a time mtg
-
-take a couple of notes -- write a couple of sentences -- about the small things every day. money exchanged? what happened?
-
-hacking signs :: access panel protected by small lock. keyboard attached by curly cord with keyboard. programming is scrolling to instant text, then typing what  you want to display and clicking run without save or adding pages to it. hacket tips :: DOTS is the default password. if password changed, hold control and shift, and enter DIPY while holding, then resets the password to DOTS
-
-teaching a child
-
--   writing
--   reading
--   basic maths
-
--critical analysis
-
--   building your own idea
--   defend verbal, mental, physical
--   expressing yourself
--   choosing ingredients and prep food
--   life hygiene
--   society, media, pol system
--   learning second language
-
-programming comes later. lessons, then foster them.

@@ -1,0 +1,15 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: gopher
+#+TITLE: Gopher
+
+Gopher is a former rival of HTTP.
+It's a simple, plaintext protocol for serving files.
+
+[[https://en.wikipedia.org/wiki/Gopher_%28protocol%29][A description of the protocol.]]
+
+visit gopher://bitreich.org/1/lawn
+
+why is gopher not commonly used as a protocol for corporate intranets? why
+have gopher, hypergopher, gopher+ been entirely abandoned? gopher does not
+have a mind share?
+https://ils.unc.edu/callee/gopherpaper.htm
