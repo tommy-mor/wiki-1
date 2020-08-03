@@ -1,0 +1,9 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: pants
+#+TITLE: Pants
+
+Pants I have and am interested in.
+
+https://enfinleve.com/collections/bottoms/products/ameztu-articulated-cargo-pants-black
+https://www.guerrilla-group.co/collections/new-releases/products/19s-es-ps01
+https://enfinleve.com/collections/bottoms/products/osagi-pants-with-detachable-leg-attachments
