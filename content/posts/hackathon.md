@@ -1,7 +1,7 @@
 +++
 title = "Hackathon"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-03T02:07:28-07:00
+lastmod = 2020-08-03T04:23:28-07:00
 slug = "hackathon"
 draft = false
 +++
@@ -254,3 +254,26 @@ computers are useless.they only give you answers. pablo picasso
 i refuse to do anything that computers can do - olin shivers
 
 think of meat as a side dish, not as a meal
+
+
+## Experiments {#experiments}
+
+A website, similar to a 'portfolio',
+that highlights a bunch of cool experiments I have going on
+with regards to web design.
+
+The main page, <https://experiments.chvatal.com>, provides an interface for easily browsing each of these without using any JavaScript (or minimizing its usage). It allows users to easily browse the different sample applications -- potentially as inner HTML frames, but they could be in amy form. Users should have access to a preview of the experiments in some way.
+
+Regardless of presentation, the website should contain a folder of git submodules -- each corresponding to one of the 'experiments'. These experiments are added to the final static site as links when the website is uploaded as part of a CI action or similar, though this can initially be done manually. Each submodule should display a website and should host itself in a subdirectory of 'experiments'.
+
+
+## Portfolio {#portfolio}
+
+I've been thinking that my single page introduction isn't quite enough for employers, and that it might be good to add a portfolio with writeups to document each of my projects.
+
+Maybe I could do this in a cool, nonlinear way, like SSENSE does or similar to how the minimal photography websites approach things.
+Think about how I can write about my projects and include them in a portfolio.
+
+Ideally I link the repositories and the description for the project is pulled from the README of each repository so I don't have to do any additional writing. These READMEs should already include appropriate screenshots, and whatever tool configures the portfolio website should be able to render these. (It could also take the GitHub summary line and make that the headline for the project!)
+
+Perhaps 'experiments' and 'portfolio' are one and the same; perhaps 'experiments' is completely abstract while 'portfolio' is concrete and professional. What's the best way to tackle this?
