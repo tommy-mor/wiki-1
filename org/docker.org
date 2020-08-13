@@ -1,0 +1,16 @@
+#+TITLE: Docker
+
+Docker is a system for managing containers on a system.
+Containers offer a consistent, reusable software configuration.
+
+By running your code in a virtual machine rather than on 'bare metal',
+you're preventing the code from interacting with the main machine's configuration
+or any other virtual machines that may be running applications.
+
+This prevents the tools from damaging any other configurations
+and allows tools with contradictory configurations to communicate.
+
+Containerization does away with virtualization by running off of the
+existing operating system rather than running virtual machines, instead
+installing compatible software suites in 'containers' that have access
+to some parts of the main machine but that don't conflict with it.

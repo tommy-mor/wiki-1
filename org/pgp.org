@@ -1,0 +1,5 @@
+#+TITLE: PGP
+
+https://rzetterberg.github.io/yubikey-gpg-nixos.html
+
+PGP, or Pretty Good Privacy, is a popular encryption protocol.
