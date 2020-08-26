@@ -1,7 +1,7 @@
 +++
 title = "inspirational websites"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T21:51:28-07:00
+lastmod = 2020-08-08T23:09:10-07:00
 slug = "inspirational-sites"
 draft = false
 +++
@@ -156,3 +156,13 @@ fun to do
 ## idea {#idea}
 
 [deriation graph of all of math physics!](https://derivationmap.net/)
+
+
+## Personal Websites {#personal-websites}
+
+<https://rezmason.net/>
+
+
+## Experience Websites {#experience-websites}
+
+<https://berghaintrainer.com/>

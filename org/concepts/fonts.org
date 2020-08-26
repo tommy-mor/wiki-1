@@ -50,7 +50,7 @@ https://www.indesignskills.com/inspiration/best-fonts-graphic-designers/
 ** Monospace
 - source code pro
 - jet brains mono
-- iosveka
+- [[https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Fbe5invis%2FIosevka][iosveka]]
 - ibm plex
 - fira code
 - pragmata pro

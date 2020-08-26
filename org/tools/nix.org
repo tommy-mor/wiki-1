@@ -14,6 +14,7 @@ https://github.com/luke-clifton/nix-config has cool config
 https://github.com/hlissner/dotfiles, doom emacs developer, has nice config. It's not terribly complicated though
 https://github.com/bjornfor/nixos-config
 https://github.com/fooblahblah/nixos
+https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Futdemir%2Fdotfiles
 
 * ETC
 [[http://fluffynukeit.com/installing-nixos/][installing nixos]]

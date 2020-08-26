@@ -1,10 +1,14 @@
 +++
 title = "Fonts"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T19:35:26-07:00
+lastmod = 2020-08-07T23:15:26-07:00
 slug = "fonts"
 draft = false
 +++
+
+### Backlinks {#backlinks}
+
+-   [Web Design]({{< relref "web_design" >}})
 
 tags
 : [Typesetting]({{< relref "typesetting" >}}), [Language]({{< relref "language" >}}), [Web Design]({{< relref "web_design" >}})
@@ -131,7 +135,7 @@ Intro
 
 -   source code pro
 -   jet brains mono
--   iosveka
+-   [iosveka](https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Fbe5invis%2FIosevka)
 -   ibm plex
 -   fira code
 -   pragmata pro
