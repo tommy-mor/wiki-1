@@ -1,0 +1,23 @@
+#+TITLE: Git
+
+Git is a popular version control system.
+
+* Tricks
+
+* Writing a Git Commit Message
+[[https://chris.beams.io/posts/git-commit/][Article Reference]]
+
+- Concise and consistent length and form
+- Communicate clear context about a change to fellow developers.
+  Ensure that other developers understand *why* a change was made.
+** Rules
+- Separate subject from body with a blank line
+  if the body is to be used.
+- Limit subject line to 50 characters
+- Capitalize subject line
+- Do not end with period
+- Use imperative mood; I 'do' this.
+  Rationale: If applied, the commit will change these aspects of the code.
+  Git's own built-in conventions use this form.
+- Wrap at 72 characters
+- Use the body to explain 'what' and 'why' as necessary
