@@ -1,7 +1,7 @@
 +++
 title = "Operating Systems"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T22:02:54-07:00
+lastmod = 2020-09-08T23:42:00+02:00
 slug = "os"
 draft = false
 +++
@@ -48,6 +48,9 @@ Aside from Linux, Windows, MacOS and derivatives...
 : A next-generation Lisp machine.
 
 TempleOS (racist)
+
+[CollapseOS](https://collapseos.org/)
+: An OS written entirely in the Forth programming language.
 
 Fuscia <https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html>
 

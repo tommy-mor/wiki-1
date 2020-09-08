@@ -1,7 +1,7 @@
 +++
 title = "CSS cool things abt css"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T22:25:50-07:00
+lastmod = 2020-09-08T23:34:22+02:00
 slug = "css"
 draft = false
 +++
@@ -147,3 +147,15 @@ for router, etc
 <https://shoelace.style/> a minimal css starter kit
 
 <https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Fhundredrabbits%2FThemes> 100 rabbits theme framework
+
+
+## Convention {#convention}
+
+
+### Don't use Margin {#don-t-use-margin}
+
+[Don't use Margin](https://www.amazon.com/dp/B0771V3SSP/?tag=wtpl-20)
+Margin breaks component encapsulation because components impact everything surrounding them and external to them.
+It also makes reusability difficult and impacts external components.
+The stack component, similar to other spacer components,
+is useful for adding arbitrary spaces internal to and external from different components. THese help define discrete units for space as well which can be standardized across the application.

@@ -20,6 +20,7 @@ Aside from Linux, Windows, MacOS and derivatives...
 - [[https://github.com/cleverca22/not-os][NotOS]] :: An operating system generator based on NixOS.
 - [[https://github.com/vygr/ChrysaLisp][CrysaLisp]] :: A next-generation Lisp machine.
 - TempleOS (racist)
+- [[https://collapseos.org/][CollapseOS]] :: An OS written entirely in the Forth programming language.
 - Fuscia https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html
 - Gentoo :: An operating system that prides itself on building everything from source.
   https://ocharles.org.uk/posts/2012-07-09-leaving-gentoo.html
