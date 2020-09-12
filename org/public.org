@@ -1,0 +1,78 @@
+#+TITLE: Public
+
+On working in the public.
+
+Problem: I want to work on ideas and collaborate with others.
+My data, however, is locked, as is the data of everyone else.
+
+We can't properly share information unless we learn in the public;
+we also have substantial issues learning about ourselves if we do not track what we learn.
+
+Iteration on ideas is just as important as the initial ideas!
+
+* Learn in Public
+Always create while working!
+https://www.swyx.io/writing/learn-in-public/
+- Don't judge results by feedback; talk to yourself from some time ago.
+- It doesn't matter how many people are reached with your content.
+  The best beneficiary of you helping your past self is future you.
+- Connect with others:
+  + Make PRs to libraries you use
+  + Make your own libraries
+  + Clone stuff to see how it works
+  + Summarize learning in the public
+- Build a persistent knowledge base (like this one!)
+- Always, always, always document what you did and the problems you solved.
+- If people doubt you, have them explain their perspective!
+- Focus on teaching yourself.
+* Provide feedback
+- Write everything publicly.
+- Ask and answer things on public forums.
+  Do not spend time helping others on private forums.
+* Do not end the week with nothing
+[[https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing][article, from patio11]]
+There is nothing wrong with day jobs! Some really enjoy them.
+If the job is right for you, that's wonderful.
+
+If the day job is not right for you, learn on your own.
+
+"It is in the employee's personal insterest to stop selling hours of labor
+and start renting access to his accumulated capital as soon as humanly possible."
+
+In other words, to become valuable, you must accumulate valuable experience,
+hard skills and trust, then leverage these to continue to be constructive.
+
+If you end the week with nothing, nothing about your life will change!
+No matter how hard you work you'll come back the next week having built another
+internal product or having worked with another internal system. This
+is not valuable to you, and as a student you should prefer pursuing things you benefit from.
+
+** Tips
+*** Work where people can see you.
+  This is not exactly the same as 'working in public'. Working in public is working
+  entirely on public projects, while working where people can see you is working in spaces
+  where your work will be seen, recommended and commended.
+  + Work on places and projects with above-average visibility.
+    You'll be most likely to be hired and more likely to be noticed.
+  + Don't necessarily optimize for 'sexy' projects; most engineering work isn't 'sexy'.
+    Optimize for *impact* and optimize for *visibility*.
+- If you cannot gain exposure at your day job, network actively to gain exposure outside of it.
+  Talk about things you create and show them to people!
+- [[http://unicornfree.com/stacking-the-bricks]['Stack the bricks'.]] The individual who has accumulated an impressive appearance is really
+  one day at a conference talk, one day writing a good library and another writing a blog post.
+  "Brick by brick, the wall gets higher."
+*** Work on things you can keep
+You rarely get to keep ours, bank them in the future, etc.
+Widespread employee ownership of the enterprice is an excellent improvement,
+but the work you produce concretely matters more than the shares and stakes you hold.
+
+Buying side projects with sweat equity may give you future financial benefits,
+and there are real benefits to having an object that is *yours* to curate.
+Make a standalone web prescence for open source libraries to give others a stake in them.
+
+*** Consumption can be valuable but creation moves you forward
+Reading is valuable, but actually shipping something is so much more valuable.
+"You'll learn so much more shipping a failure than you'll learn from reading about a thousand successes. And you stand an excellent chance of shipping a success -- people greatly overestimate how difficult it is.
+Just don't end the week with nothing."
+** Takeaways
+Continue to ask myself whether my contributions are valuable, whether they are noticed, and whether they could be touched by others.

@@ -1,0 +1,11 @@
+#+TITLE: Flow Based Programming
+
+FBP is a programming paradigm that defines applications as networks
+of black-box processes, exchanging data across predefiend connections by message passing.
+
+The connections are always specified external to these processes.
+This allows a product to be thought of as a holistic system just as much as it is a selection
+of separate services.
+
+The best source for this is probably [[https://groups.google.com/g/flow-based-programming/?utm_source=hillelwayne&utm_medium=email&pli=1][the google group]] where the founder of this idea discusses
+the paradigm.
