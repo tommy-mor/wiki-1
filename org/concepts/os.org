@@ -27,6 +27,7 @@ Aside from Linux, Windows, MacOS and derivatives...
   https://www.paritybit.ca/blog/my-beginnings-with-gentoo
 - [[https://www.qubes-os.org/intro/][Qubes OS]] :: An operating system that isolates every application and device on the computer, granting permission to each only when necessary. Many journalists and security professionals rely on this.
 - [[https://www.whonix.org/][WhoNix]] :: An operating system designed to completely sandbox your activity inside of a virtual machine.
+- Plan9 :: Defer to [[https://wiki.xxiivv.com/site/plan9.html][Devine's notes on the subject]].
 ** Mobile
 https://news.ycombinator.com/item?id=23100713
 - LineageOS ::

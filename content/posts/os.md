@@ -1,7 +1,7 @@
 +++
 title = "Operating Systems"
 author = ["Jacob Chvatal"]
-lastmod = 2020-09-08T23:42:00+02:00
+lastmod = 2020-09-12T16:07:33+02:00
 slug = "os"
 draft = false
 +++
@@ -64,6 +64,9 @@ Gentoo
 
 [WhoNix](https://www.whonix.org/)
 : An operating system designed to completely sandbox your activity inside of a virtual machine.
+
+Plan9
+: Defer to [Devine's notes on the subject](https://wiki.xxiivv.com/site/plan9.html).
 
 
 ### Mobile {#mobile}
