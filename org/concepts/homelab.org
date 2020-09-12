@@ -7,6 +7,7 @@ Information about self-hosting.
 * Projects
 - [[https://homelabos.com/][Homelab OS]] :: A personal data center with easy hosting for a variety of projects.
 - [[https://sandstorm.io][Sandstorm]] :: By the creator of Protobuf and Cap'n Proto, this project provides a one-click interface for self-hosted web apps.
+  An aside: [[http://erights.org/elib/distrib/captp/index.html][CapTP]] inspired these.
 - [[https://osmc.tv/][OSMC]] :: A FOSS media streaming platform.
 - [[https://swiso.org][Swiso]] :: Ethical alternatives to unethical software.
 

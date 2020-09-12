@@ -1,7 +1,7 @@
 +++
 title = "Homelab"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T21:48:29-07:00
+lastmod = 2020-09-12T15:16:38+02:00
 slug = "homelab"
 draft = false
 +++
@@ -16,6 +16,7 @@ Information about self-hosting.
 
 [Sandstorm](https://sandstorm.io)
 : By the creator of Protobuf and Cap'n Proto, this project provides a one-click interface for self-hosted web apps.
+    An aside: [CapTP](http://erights.org/elib/distrib/captp/index.html) inspired these.
 
 [OSMC](https://osmc.tv/)
 : A FOSS media streaming platform.
