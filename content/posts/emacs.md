@@ -1,10 +1,17 @@
 +++
 title = "Emacs"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T22:29:19-07:00
+lastmod = 2020-09-14T20:20:28+02:00
 slug = "emacs"
 draft = false
 +++
+
+### Backlinks {#backlinks}
+
+-   [acl2]({{< relref "acl2" >}})
+-   [EXWM]({{< relref "exwm" >}})
+-   [EXWM]({{< relref "exwm" >}})
+-   [Vim]({{< relref "vim" >}})
 
 Emacs is a fully-featured programming environment.
 
@@ -95,3 +102,4 @@ concealing plaintext symbols with glyphs
 <https://www.reddit.com/r/emacs/comments/hxu9dx/withemacs%5Fwhat%5Fyou%5Fneed%5Fto%5Fknow%5Fabout%5Fhooks/> emacs hooks
 
 <https://app.getpocket.com/read/2677474486> gantt calendar (??) from nixos
+<https://magit.vc/manual/forge/Token-Creation.html#Token-Creation> magit has a cool interface for making pull requests, but the documentation does not make clear how fully featured it is...

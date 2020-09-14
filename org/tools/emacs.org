@@ -76,3 +76,4 @@ https://www.reddit.com/r/emacs/comments/i09ncw/discussion_using_emacsorgmode_to_
 https://www.reddit.com/r/emacs/comments/hxu9dx/withemacs_what_you_need_to_know_about_hooks/ emacs hooks
 
 https://app.getpocket.com/read/2677474486 gantt calendar (??) from nixos
+https://magit.vc/manual/forge/Token-Creation.html#Token-Creation magit has a cool interface for making pull requests, but the documentation does not make clear how fully featured it is...
