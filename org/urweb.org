@@ -1,6 +1,6 @@
 #+TITLE: Urweb
 
-Ur/Web, or the Ur programming language and the Ur/Web domain-specific language standard and library, is an ecosystem designed to promote *very* safe web development. The system has some interesting ideas like validating requests, queries, HTML and SQL, and has an inbuilt ORM for expressing database interactions.
+Ur/Web, or the Ur programming language and the Ur/Web domain-specific language standard and library, is an ecosystem designed to promote *very* safe[[file:concepts/web.org][ Web]] development. The system has some interesting ideas like validating requests, queries, HTML and SQL, and has an inbuilt ORM for expressing database interactions.
 It's also super easy to install with Nix!
 
 Unfortunately, it's software developed on master without rigorous testing practices and the documentation can be lacking at times (though it is very good for a research effort). In my limited time using the framework, I found that I would frequently struggle with errors related to bad parses; if I used the wrong syntax at some point, I would receive an error that felt incredibly inconsistent with the code I was writing - I wish the system had more logging to inform the user of where the error occurs at the least!
