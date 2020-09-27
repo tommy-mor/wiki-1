@@ -1,0 +1,13 @@
+#+TITLE: React
+
+React is made by facebook or something.
+
+* My development practices
+Program as functionally as possible!
+- Always use functional components. Never classes.
+- Never use 'let' or 'var'; only 'const'.
+
+* Hook Tips
+- useMemo for expensive computations. It's magic
+- useHook is a replacement for most UX logic
+- useEffect is used to replace any rerendering in response to dependency changes; this is primarily useful for making requests when the user takes an action (thus changing props)
