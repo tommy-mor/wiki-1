@@ -1,7 +1,7 @@
 +++
 title = "Idris"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:00:25-07:00
+lastmod = 2020-10-13T00:56:49+02:00
 slug = "idris"
 draft = false
 +++
@@ -12,3 +12,5 @@ Idris is a fully-featured programming language inspired by Haskell that has full
 ## Resources {#resources}
 
 <https://github.com/jdublu10/pacman> a proof that idris is pacman complete, the most important part of a programming language
+<https://github.com/joaomilho/awesome-idris> :: Idris resources
+<https://idris.readthedocs.io/en/latest/tutorial/starting.html> :: Starting Idris

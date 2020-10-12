@@ -1,10 +1,15 @@
 +++
 title = "Web"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:44:08-07:00
+lastmod = 2020-09-27T21:15:39+02:00
 slug = "web"
 draft = false
 +++
+
+### Backlinks {#backlinks}
+
+-   [Ethical Web]({{< relref "ethical-web" >}})
+-   [Urweb]({{< relref "urweb" >}})
 
 Things about the web.
 
@@ -78,3 +83,10 @@ The modern web is being destroyed -- personalized content, growth hacking,
 social media activation, CMS and user experience. These websites are not
 built to appreciate the visitor -- they are constructed to make the user a
 customer. Cookies bad! Small blogging good!
+
+
+## fun sites {#fun-sites}
+
+-   <https://milk.com>
+    This individual is staking their claim over their corner of the internet and doing so strongly.
+    Mimu is a cool collection of programatically generated music demos as well.

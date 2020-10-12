@@ -64,3 +64,14 @@ The modern web is being destroyed -- personalized content, growth hacking,
 social media activation, CMS and user experience. These websites are not
 built to appreciate the visitor -- they are constructed to make the user a
 customer. Cookies bad! Small blogging good!
+
+* fun sites
+- [[https://milk.com]] :: This individual is staking their claim over their corner of the internet and doing so strongly. Mimu is a cool collection of programatically generated music demos as well.
+- [[radio.garden]] :: A map of the world with lots of radio stations. Listen in from anywhere!
+- [[https://www.ocearch.org/tracker/?list][osearch.org]] :: Track seals, whales, turtles and (mostly) sharks all over the world! There are pictures! They all have names!
+- [[campoallecomete.it/]] :: A wine website *and* an intimate 3D experience.
+- [[asoftmurmur.com]] :: Generate white noise of your choice to remove distractions.
+- [[https://atelier.net/virtual-economy/]] :: An incredible article about the virtual economy. I wish more articles offered such experiences.
+* Great ideas
+- [[branch.gg]] :: A two-dimensional office environment for employees to interact in just like a physical space.
+- [[http://endless.horse/][hoooooooooooooooooooooooooooooooooo]]
