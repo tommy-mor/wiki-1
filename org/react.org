@@ -11,3 +11,7 @@ Program as functionally as possible!
 - useMemo for expensive computations. It's magic
 - useHook is a replacement for most UX logic
 - useEffect is used to replace any rerendering in response to dependency changes; this is primarily useful for making requests when the user takes an action (thus changing props)
+* Tips
+[[https://m.youtube.com/watch?v=O8d_42Wc-po][sharing code between react and react native]]
+
+- Always use capital letters for React components, and always use React component syntax to call them. It's okay if this means declaring a constant with a capital letter; that's expected and idiomatic in this case, even if it feels inconsistent.

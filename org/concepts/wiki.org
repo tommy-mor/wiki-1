@@ -61,6 +61,7 @@ https://blog.griffin.sh/2020/06/05/how-we-write/ improving language for blogging
 https://jlelse.blog/posts/wiki-approach/ cool wiki approach :: find the best method for me ! I think writing a blog post is the best way to help me organize my thoughts, i should get that infrastructure up. nextcloud notes is also a good option, but i do have to set up a nextcloud server to handle that
 https://dpitt.me/blog/2020/03/zettelkasten/
 [[https://obsidian.md/][obsidian md knowledge base]]
+[[https://www.thebrain.com/][The Brain]] is a digital memory solution written and maintained by the brother of Acronym's founder, Errolson,for many years. It's not well known in the technology space, but it's popular with creatives and researchers who often don't intersect with the field.
 
 * git
 github organization:

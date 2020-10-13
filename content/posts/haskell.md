@@ -1,7 +1,7 @@
 +++
 title = "Haskell"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T22:28:53-07:00
+lastmod = 2020-10-13T22:30:04+02:00
 slug = "haskell"
 draft = false
 +++
@@ -104,3 +104,17 @@ getting ncurses5-compat-libs:
 <https://getpocket.com/redirect?url=https%3A%2F%2Fchris-martin.org%2F2015%2Finstalling-nixos> installing nixos
 
 <https://app.getpocket.com/read/2558647524> learning nixos easily
+
+
+## proofs {#proofs}
+
+<https://blog.madsbuch.com/proving-stuff-in-haskell/> proving things in haskell
+<https://wiki.haskell.org/Dependent%5Ftype> dependent types in context of haskell (limited support)
+<https://jeltsch.wordpress.com/2012/04/30/dependently-typed-programming-and-theorem-proving-in-haskell/>
+
+
+## things to remake in haskell (and maybe racket!) {#things-to-remake-in-haskell--and-maybe-racket}
+
+-   forth
+-   <https://github.com/jasonhemann/dependently-typed-lang>
+-   <https://m.youtube.com/watch?v=Or%5FyKiI3Ha4> hygienic macro expander

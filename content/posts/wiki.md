@@ -1,7 +1,7 @@
 +++
 title = "Wiki"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T22:25:03-07:00
+lastmod = 2020-10-13T22:44:54+02:00
 slug = "wiki"
 draft = false
 +++
@@ -92,6 +92,7 @@ I've taken inspiration from several others who maintain wikis.
 <https://jlelse.blog/posts/wiki-approach/> cool wiki approach :: find the best method for me ! I think writing a blog post is the best way to help me organize my thoughts, i should get that infrastructure up. nextcloud notes is also a good option, but i do have to set up a nextcloud server to handle that
 <https://dpitt.me/blog/2020/03/zettelkasten/>
 [obsidian md knowledge base](https://obsidian.md/)
+[The Brain](https://www.thebrain.com/) is a digital memory solution written and maintained by the brother of Acronym's founder, Errolson,for many years. It's not well known in the technology space, but it's popular with creatives and researchers who often don't intersect with the field.
 
 
 ## git {#git}

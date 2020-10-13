@@ -1,10 +1,15 @@
 +++
 title = "Web Design"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T04:46:18-04:00
+lastmod = 2020-10-13T22:01:35+02:00
 slug = "web_design"
 draft = false
 +++
+
+### Backlinks {#backlinks}
+
+-   [Wiki]({{< relref "wiki" >}})
+-   [Fonts]({{< relref "fonts" >}})
 
 tags
 : [Design]({{< relref "design" >}}),[ Fonts]({{< relref "fonts" >}})
@@ -50,9 +55,12 @@ Focus on boiling it down to its essentials.
     [Devine Lu Linvega](https://xxiivv.com/); they've inspired me to move towards using
     minimal, accessible tooling, and have a fantastic design language
     present throughout all of their work. [100 Rabbits]({{< relref "100_rabbits" >}})
+-   [Pentagram](https://www.pentagram.com/work/secondmind), a design consultancy with a lot of great work. They have lots of mockups and designs to reference.
 
 
 ## Resources {#resources}
 
 [clrs.cc](http://clrs.cc/)
 : communicative colors for browser prototyping.
+
+Y

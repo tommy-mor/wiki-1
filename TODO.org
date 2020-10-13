@@ -1,0 +1,8 @@
+#+TITLE: Todo
+* TODO Add CI
+- Currently the site is built on the client side
+- Add a CI configuration to build the site on upload
+* TODO Add 'Edit on GitHub' button
+- Dependent on CI
+- Allows others to open PRs and edit content from GitHub
+  that is then directly added to the site (and incorporated, via CI)

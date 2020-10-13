@@ -45,9 +45,11 @@ Focus on boiling it down to its essentials.
   [[https://xxiivv.com/][Devine Lu Linvega]]; they've inspired me to move towards using
   minimal, accessible tooling, and have a fantastic design language
   present throughout all of their work. [[file:../people/100_rabbits.org][100 Rabbits]]
-
+- [[https://www.pentagram.com/work/secondmind][Pentagram]], a design consultancy with a lot of great work. They have lots of mockups and designs to reference.
 * Resources
 :PROPERTIES:
 :ID:       919f9e4b-ec6f-404a-9f5c-ee51aa3605d3
 :END:
 - [[http://clrs.cc/][clrs.cc]] :: communicative colors for browser prototyping.
+
+Y
