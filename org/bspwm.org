@@ -1,6 +1,6 @@
 #+setupfile:./hugo_setup.org
 #+hugo_slug: bspwm
-#+TITLE: Bspwm
+#+TITLE: bspwm
 
 BSPWM is a binary space partitioning window manager.
 

@@ -2,7 +2,9 @@
 #+hugo_slug: guix
 #+TITLE: Guix
 
-Guix is a project similar to NixOS that's built atop of the Guile Scheme programming langauge.
+Guix is a project similar to NixOS but uses the Guile Scheme programming language instead of Nix. Unlike Nix, the project doesn't support any nonfree software, but it can borrow Nix builds. 
 
 * Tools
+
 https://github.com/alezost/guix.el emacs interface for guix package manager
+

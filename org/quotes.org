@@ -3,7 +3,6 @@
 #+TITLE: Quotes
 
 * Inspirational Quotes
-
 * https://applygrad.cs.cmu.edu/apply/index.php?domain=80
 
 The best way to measure how much you've grown
@@ -24,9 +23,9 @@ success.
 
 something something olin shivers reject things machines can do
 
-
 * quotes
-what's the greater risk - letting go of what people think or letting go of how i
-feel, what i believe and who I am?
+
+what's the greater risk - letting go of what people think or letting go of how i feel, what i believe and who I am?
 
 brene brown
+

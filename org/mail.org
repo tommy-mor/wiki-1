@@ -4,8 +4,6 @@
 
 Checking and interacting with mail.
 
-* UI
-https://github.com/icyphox/mael mail client in bash and python
 * Etc
 
 https://dbp.io/essays/2013-06-29-hackers-replacement-for-gmail.html
@@ -18,3 +16,4 @@ email ideas:
 - fwd these emails to central repo
 - know exactly what service these emails came from
 - quick frontend to generate these email addresses/inboxes for subscriptions
+

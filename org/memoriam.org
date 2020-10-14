@@ -3,6 +3,7 @@
 I want to replicate the feeling of memory.
 
 * Rationale
+
 Memories are temporary.
 Memories fade.
 
@@ -12,7 +13,10 @@ I want to replicate the feeling of walking down a familiar road and seeing a pla
 
 Further, I'd like to add a nostalgic aspect that we do not often feel in the real world -- one spent on the internet.
 
+(This isn't a very good name... it should be catchier.) 
+
 * Information
+
 - Location
 - Location stamped photos/videos
 - Notes on photos
@@ -21,10 +25,16 @@ Not everything has to be linked to a location, but most browsing is location-bas
 
 * Rough Idea
 ** Temporal View
+
 Cutscenes happen like a video game with fast travel. Pressing 'play' on a day starts with a map and a first location. It will zoom in when digital activ
+
 ** Spacial View
+
 Visit location -> see everything visible in that location. A lot of this is already handled by Google Maps. You should be able to enter the other views from here so that viewing a location can trigger a memory.
+
 ** Textual View
+
 This is a traditional dictionary view.
 It puts text notes first and allows for the browsing of linked information, much like other dictionaries.
 I'd like a view that operates similar to my wiki.
+

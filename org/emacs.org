@@ -11,7 +11,7 @@ However, emacslisp is structured not to be used as an editor configuration
 with some additional logic capabilities, but rather as a fully-featured
 programming language with proper language facilities.
 
-Emacs is my desktop environment.[[file:../concepts/exwm.org][ EXWM]] is my window manaager,
+Emacs is my desktop environment. [file:./exwm.org][ EXWM]] is my window manaager,
 elfeed is my RSS reader, mu4e is my email client and so forth.
 The one program that does not have a proper Emacs interface
 is the web browser, so I use Firefox (and web apps) for most other tools.
@@ -19,26 +19,31 @@ is the web browser, so I use Firefox (and web apps) for most other tools.
 This isn't to cause myself undue pain. It reduces context switching between
 the keyboard shortcuts of many programs and their keybindings,
 and allows time tracking, task tracking and information management
-(all fractured, often difficult concepts) to be managed by [[file:../concepts/org_mode.org][Org Mode]] entirely
+(all fractured, often difficult concepts) to be managed by [[file:./org_mode.org][Org Mode]] entirely
 within Emacs. This tight integration allows me to take notes and track
 time without having to switch contexts to other programs with other
 user interfaces.
 
 * Tools
-[[https://github.com/karlicoss/cloudmacs][cloudmacs]] allows you to self-host your emacs configuration and access it in the browser.
+- [[https://github.com/karlicoss/cloudmacs][cloudmacs]] :: allows you to self-host your emacs configuration and access it in the browser.
+
 * Configurations
+
 https://github.com/howardabrams/dot-files
 https://github.com/jethrokuan/dots
 https://github.com/codygman/hci human programming interface in emacs
 https://github.com/Ambrevar/dotfiles
-* Community
-https://github.com/howardabrams/pdx-emacs-hackers
-* Frameworks
-Doom Emacs
-https://github.com/jkitchin/scimax science emacs framework
 
-* Packages
-https://github.com/kaushalmodi/ox-hugo org export for hugo
+* Community
+
+https://github.com/howardabrams/pdx-emacs-hackers
+
+* Frameworks
+- Doom Emacs :: The framework I use; focuses on optimization and concise configuration
+- Spacemacs :: I used to use this. It's too bloated for my tastes.
+- [[https://github.com/jkitchin/scimax][Scimax]] :: Scientific Emacs framework
+
+* Packages I Haven't Tried
 https://github.com/mtekman/org-tanglesync.el sync org mode files with dotfiles external to them
 https://github.com/alphapapa/matrix-client.el emacs matrix client
 https://github.com/casouri/OrgMark add drawings to org mode from your ipad
@@ -50,12 +55,8 @@ https://github.com/progfolio/doct declarative format for org capture templates
 https://github.com/jeremy-compostella/org-msg minor mode for replying to outlook in nice outlook html
 
 * Links
-https://www.youtube.com/watch?v=KdcXu_RdKI0&feature=youtu.be -- getting more out
-of org-capture
-https://www.reddit.com/r/emacs/comments/9iu6la/unemployed_and_learning_emacs/ --
-somehow integrating images into org mode ?
-https://www.emacswiki.org/emacs/KeyChord -- key chord: binding commands to
-combinations of keystrokes
+[[https://www.youtube.com/watch?v=KdcXu_RdKI0&feature=youtu.be][getting more out of org-capture]]
+[[https://www.emacswiki.org/emacs/KeyChord][KeyChord]] :: binding commands to combinations of keystrokes
 https://github.com/NatTuck/doom-config/blob/master/config.el#L12 -- nat tuck's
 configuration
 https://www.wisdomandwonder.com/article/10805/emacsorg-mode-choosing-the-best-writing-and-publishing-software
@@ -69,11 +70,10 @@ https://www.emacswiki.org/emacs/ExampleConfigurations
 https://github.com/munen/emacs.d
 https://github.com/jhamrick/emacs
 
-
-https://www.reddit.com/r/vim/comments/h8pgor/til_conceal_in_vim/ --
-concealing plaintext symbols with glyphs
+https://www.reddit.com/r/vim/comments/h8pgor/til_conceal_in_vim/ -- concealing plaintext symbols with glyphs
 https://www.reddit.com/r/emacs/comments/i09ncw/discussion_using_emacsorgmode_to_manage_life/ using org mode to manage your life
 https://www.reddit.com/r/emacs/comments/hxu9dx/withemacs_what_you_need_to_know_about_hooks/ emacs hooks
 
 https://app.getpocket.com/read/2677474486 gantt calendar (??) from nixos
 https://magit.vc/manual/forge/Token-Creation.html#Token-Creation magit has a cool interface for making pull requests, but the documentation does not make clear how fully featured it is...
+

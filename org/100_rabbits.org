@@ -2,5 +2,4 @@
 #+hugo_slug: 100_rabbits
 #+title: 100 Rabbits
 
-100 Rabbits are a creative technologist duo
-living on a sailboat.
+100 Rabbits are a creative technologist duo living on a sailboat.

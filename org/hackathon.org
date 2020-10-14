@@ -9,6 +9,7 @@ These will each be eventually updated with their own posts as the ideas expand a
 The name is the most important part of a project. Without a good name the project will fail.
 
 * Reddit Tree Navigation
+
 Remember Prezi? You could click on different bubbles
 to navigate through a presentation nonlinearly, or could
 navigate it linearly with forward and backwards arrow keys.
@@ -16,6 +17,7 @@ navigate it linearly with forward and backwards arrow keys.
 This has a lot of potential! Let's try it with Reddit threads.
 
 ** UX
+
 Visiting a reddit post and prefixing it with the reddit tree website's URL opens a window with the post's contents at the top of the webpage. Below this, there are lots of bubbles pseudorandomly scattered throughout the page. Their sizes are by default weighted by the number of upvotes on the comment, but they can be arranged by number of comments in the thread branching from the comment or some other metrics (TBD).
 
 Each bubble has the username, number of upvotes, and the prefix of the comment. They may have smaller bubbles visible to demonstrate the next layer of comments in the tree.
@@ -30,15 +32,22 @@ Each of these pages will also havte a bubble with a plus sign on it in the botto
 
 ** Production
 *** MVP
+
 - Visit a specific url on the reddit tree view website to open a reddit thread.
 - View the post and each comment in a bubble.
 - Click a bubble to view the next level of comments.
+
 *** Enhanced UX
+
 - Tree view can be accessed by prefixing a reddit URL thread with our URL.
 - Post bubbles are sized proportionally to their number of upvotes or some other ranking metric. You can see smaller bubbles around them that provide an estimate of the number of comments in their assoc. thread.
+
 *** Usable for Reddit
+
 - The user can log in and make comments themselves.
+
 *** Complete Product
+
 Rather than providing alternate views to individual threads, the program can instead act as its own reddit client.
 
 The main page of the site functions just like Reddit's home page, only with bubbles for each subreddit.
@@ -50,6 +59,7 @@ A UI is provided to make new posts in the subreddit from this page.
 Clicking on an individual posts opens the fleshed out idea above, providing an alternative navigational experience for all of reddit.
 
 * Version Control for Music
+
 Live coding is a good idea, but it's meant to be 'played';
 current solutions for persisting livecoding information require
 recording, which compresses all of the structural information associated with the music, or meticulously copying and pasting code then saving it all.
@@ -70,11 +80,18 @@ These recordings can be:
 - Exported: this can be done in the same way tracks are played back.
 - Converted to linear tracks. You can 'export' a branch to a linear arrangement to make it easier to edit and turn into a complete song without having to record it! This process generates the appropriate pauses in between the different parts of the music and loops to ensure that the different segments of the track are run at the right time and in the right order.
   This allows artists to take live coding projects that have been performed. convert them into full-fledged tracks, and export them without having to perform them.
-* Spell Check Hook
+
+* DONE Spell Check Hook
+CLOSED: [2020-10-14 Wed 18:05]
+
 I hate improper spelling or formatting.
 A linter that checks for proper spelling in a project with git hooks!
 You won't be able to commit to your projecct until you fix those spelling errors.
+
+This is pretty easy with husky and eslint-plugin-spellcheck - - and it's a pain. 
+
 * GitHub README Information Generators
+
 These are tools dynamically queried by README files that show information about specific projects.
 They're lightweight and easily hosted.
 https://github.com/anuraghazra/github-readme-stats is a good place to start for learning how to make one such banner.
@@ -100,6 +117,7 @@ eg wiring up jenkins to unsuccessful deployments on different pipelines, differe
 pluggable sound system with insertable sound effects; able to hear two events occuring at identical intervals but it is difficult to see this in terms of time stamps!
 
 * working on linux
+
 xournal for annotating pdf
 obs sdutio for webcam video
 audacity for autio editing
@@ -111,6 +129,7 @@ gimp for photo editing
 inkscape for vector graphics
 
 * org mode flow
+
 org mode
 org board for offline archiving
 org capture for getting links from browser
@@ -119,12 +138,14 @@ org-mind-map can be useful to visualize connections
 grep etc are useful for traversing everything!
 
 * working on os
+
 richard stallman: live cheaply
 eric raymond: be independently wealthy
 large, talented people: identify and support important or promising open source projects.
 focus on how to improve the livelihoods of funding open source software and interfacing with it
 
 * learning from casual friends
+
 - find the person at the office who knows things and buy them a beer!
 become friends with amazing programmers. care about them and listen to their frustrations
 we have lots of 'tribal knowledge' that comes out but that we do not fully understand or internalize
@@ -136,8 +157,8 @@ do not need to be good at all of the things; find a balance between being averag
 one of the best ways to learn a tool is by using it at work -- you're mandated to use it.get a job to learn the thing you want to learn! it's not possible to do *everything* in your spare time, after all
 solve problems around you without asking permission
 
-
 ** three steps
+
 [[https://www.jjude.com/sdl/][sdl]]
 consume, produce and engage.
 first, lookfor the best articles, books videos on the topic and devour them
@@ -151,6 +172,7 @@ by always working on the most interesting problem available, you have endless mo
 thomas huxkey -- a good liberal education is to know something about everything and everything about something. go deep on what you want to work in but become broad in skills with everything else.
 
 * couchsurfing
+
 stay at strangers place entirely for free
 anything you ant it t be -- fill out profile with detail and you can pick out whoever you want to host
 get ot meet incredible people and bring incredible people into ur home as both a host and proprietor!
@@ -159,6 +181,7 @@ try this when u move off campus to see who u can meet . if its still around
 crossing the red line :: going from a basic feeling to a constant frustration, beyond such a frustration to this feeling that you can do much more than you thought you could do. the mind accepts even as the body tires, and that the mind has no use -- you are now mind over matter, and can keep going if you need to because you've triumphed!
 
 * webrtc signal strategies
+
 websockets
 xhr and complete options
 sip over websockets
@@ -170,6 +193,7 @@ sitting alone ate the crack of dawn makes me feel like my day has purpose
 leaders must own everything in their world. there is no one else to blame
 
 * finding time wfh
+
 find alone time while off work
 go for a drive at least once a day
 make sure to have a sit down meal with family
@@ -183,13 +207,6 @@ how lucky i am to have something that makes goddbye so hard
 they say nothing is impossible, but i do nothing every day
 
 git rebase --interactive
-
-80 pounds in 6mo:
-stopped eating junk and sugar, working out.
-eating more protein and whole foods
-eating at a calorie deficit
-countingg calories and macros
-lift 6 days a week, get 10k steps a day
 
 optimizing resumes
 add relevant words to electronic resumes in white letters on whitee background
@@ -208,7 +225,8 @@ i refuse to do anything that computers can do - olin shivers
 
 think of meat as a side dish, not as a meal
 
-* Experiments
+* NEXT Experiments
+
 A website, similar to a 'portfolio',
 that highlights a bunch of cool experiments I have going on
 with regards to web design.
@@ -217,7 +235,8 @@ The main page, https://experiments.chvatal.com, provides an interface for easily
 
 Regardless of presentation, the website should contain a folder of git submodules -- each corresponding to one of the 'experiments'. These experiments are added to the final static site as links when the website is uploaded as part of a CI action or similar, though this can initially be done manually. Each submodule should display a website and should host itself in a subdirectory of 'experiments'.
 
-* Portfolio
+* NEXT Portfolio
+
 I've been thinking that my single page introduction isn't quite enough for employers, and that it might be good to add a portfolio with writeups to document each of my projects.
 
 Maybe I could do this in a cool, nonlinear way, like SSENSE does or similar to how the minimal photography websites approach things.
@@ -226,3 +245,4 @@ Think about how I can write about my projects and include them in a portfolio.
 Ideally I link the repositories and the description for the project is pulled from the README of each repository so I don't have to do any additional writing. These READMEs should already include appropriate screenshots, and whatever tool configures the portfolio website should be able to render these. (It could also take the GitHub summary line and make that the headline for the project!)
 
 Perhaps 'experiments' and 'portfolio' are one and the same; perhaps 'experiments' is completely abstract while 'portfolio' is concrete and professional. What's the best way to tackle this?
+
