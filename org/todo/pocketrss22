@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+
+<channel>
+
+<title>My Reading List: Unread</title>
+<description>Items I've saved to read</description>
+<link>http://readitlaterlist.com/users/*sso15924994936315a8/feed/unread</link>
+<atom:link href="http://readitlaterlist.com/users/*sso15924994936315a8/feed/unread" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title><![CDATA[NixOS Planet]]></title>
+<category>Unread</category>
+<link>https://planet.nixos.org</link>
+<guid>https://planet.nixos.org</guid>
+<pubDate>Sun, 19 Jul 2020 15:48:51 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Nix Cookbook]]></title>
+<category>Unread</category>
+<link>https://nixos.wiki/wiki/Nix_Cookbook</link>
+<guid>https://nixos.wiki/wiki/Nix_Cookbook</guid>
+<pubDate>Sun, 19 Jul 2020 15:43:38 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Your one-stop static site engine]]></title>
+<category>Unread</category>
+<link>https://getzola.org</link>
+<guid>https://getzola.org</guid>
+<pubDate>Sun, 19 Jul 2020 13:11:03 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Untitled]]></title>
+<category>Unread</category>
+<link>https://hugoreeves.com/atom.xml</link>
+<guid>https://hugoreeves.com/atom.xml</guid>
+<pubDate>Sun, 19 Jul 2020 12:57:57 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Home]]></title>
+<category>Unread</category>
+<link>https://rycee.net</link>
+<guid>https://rycee.net</guid>
+<pubDate>Sun, 19 Jul 2020 01:32:06 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Using ZFS Snapshots and Clones]]></title>
+<category>Unread</category>
+<link>https://ubuntu.com/tutorials/using-zfs-snapshots-clones#1-overview</link>
+<guid>https://ubuntu.com/tutorials/using-zfs-snapshots-clones#1-overview</guid>
+<pubDate>Sun, 19 Jul 2020 01:18:02 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[monadplus.pro]]></title>
+<category>Unread</category>
+<link>https://monadplus.pro</link>
+<guid>https://monadplus.pro</guid>
+<pubDate>Sat, 18 Jul 2020 18:21:20 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[&#039;Package not available: company-org-roam&#039; #13]]></title>
+<category>Unread</category>
+<link>https://github.com/vlaci/nix-doom-emacs/issues/13</link>
+<guid>https://github.com/vlaci/nix-doom-emacs/issues/13</guid>
+<pubDate>Sat, 18 Jul 2020 17:15:36 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Emacs Org-Bable MySQL no longer working]]></title>
+<category>Unread</category>
+<link>https://reddit.com/r/emacs/comments/64qwq5/emacs_orgbable_mysql_no_longer_working</link>
+<guid>https://reddit.com/r/emacs/comments/64qwq5/emacs_orgbable_mysql_no_longer_working</guid>
+<pubDate>Sat, 18 Jul 2020 17:03:54 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Neo – Keyboard Layout]]></title>
+<category>Unread</category>
+<link>https://neo-layout.org/index_en.html</link>
+<guid>https://neo-layout.org/index_en.html</guid>
+<pubDate>Sat, 18 Jul 2020 13:38:37 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[NixOS on a Dell 9560]]></title>
+<category>Unread</category>
+<link>https://grahamc.com/blog/nixos-on-dell-9560</link>
+<guid>https://grahamc.com/blog/nixos-on-dell-9560</guid>
+<pubDate>Sat, 18 Jul 2020 13:34:57 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Jack Coughlin]]></title>
+<category>Unread</category>
+<link>https://johnbcoughlin.com/posts/nix-dynamic-linking</link>
+<guid>https://johnbcoughlin.com/posts/nix-dynamic-linking</guid>
+<pubDate>Sat, 18 Jul 2020 12:40:10 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[direnv - unclutter your .profile]]></title>
+<category>Unread</category>
+<link>https://direnv.net</link>
+<guid>https://direnv.net</guid>
+<pubDate>Sat, 18 Jul 2020 12:39:55 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[What is something free from the internet everyone should take advantage of?]]></title>
+<category>Unread</category>
+<link>https://reddit.com/r/AskReddit/comments/hsirrq/what_is_something_free_from_the_internet_everyone</link>
+<guid>https://reddit.com/r/AskReddit/comments/hsirrq/what_is_something_free_from_the_internet_everyone</guid>
+<pubDate>Sat, 18 Jul 2020 12:38:35 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[[Serious] Dark Web users of Reddit, was there ever a point in your use that you felt you were genuinely in danger? What happened?]]></title>
+<category>Unread</category>
+<link>https://reddit.com/r/AskReddit/comments/ht929i/serious_dark_web_users_of_reddit_was_there_ever_a</link>
+<guid>https://reddit.com/r/AskReddit/comments/ht929i/serious_dark_web_users_of_reddit_was_there_ever_a</guid>
+<pubDate>Sat, 18 Jul 2020 12:35:32 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[brainrape/nixform]]></title>
+<category>Unread</category>
+<link>https://github.com/brainrape/nixform</link>
+<guid>https://github.com/brainrape/nixform</guid>
+<pubDate>Sat, 18 Jul 2020 12:00:34 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[configuration files]]></title>
+<category>Unread</category>
+<link>https://github.com/brainrape/conf</link>
+<guid>https://github.com/brainrape/conf</guid>
+<pubDate>Sat, 18 Jul 2020 11:54:32 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Win95.CSS]]></title>
+<category>Unread</category>
+<link>https://github.com/brainrape/win95.css</link>
+<guid>https://github.com/brainrape/win95.css</guid>
+<pubDate>Sat, 18 Jul 2020 11:54:12 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Windows 95 UI Kit]]></title>
+<category>Unread</category>
+<link>https://github.com/brainrape/windows-95-ui-kit</link>
+<guid>https://github.com/brainrape/windows-95-ui-kit</guid>
+<pubDate>Sat, 18 Jul 2020 11:52:37 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Windows 95 UI Kit]]></title>
+<category>Unread</category>
+<link>https://themesberg.com/product/ui-kit/windows-95-ui-kit</link>
+<guid>https://themesberg.com/product/ui-kit/windows-95-ui-kit</guid>
+<pubDate>Sat, 18 Jul 2020 11:52:25 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[brainrape/nixos-tutorial]]></title>
+<category>Unread</category>
+<link>https://github.com/brainrape/nixos-tutorial</link>
+<guid>https://github.com/brainrape/nixos-tutorial</guid>
+<pubDate>Sat, 18 Jul 2020 11:34:41 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Projects · Vincent Demeester / home]]></title>
+<category>Unread</category>
+<link>https://gitlab.com/vdemeester/home</link>
+<guid>https://gitlab.com/vdemeester/home</guid>
+<pubDate>Sat, 18 Jul 2020 11:20:14 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Installation]]></title>
+<category>Unread</category>
+<link>https://github.com/nimboids/vim-config</link>
+<guid>https://github.com/nimboids/vim-config</guid>
+<pubDate>Sat, 18 Jul 2020 11:12:21 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Cardshifter/Cardshifter]]></title>
+<category>Unread</category>
+<link>https://github.com/Cardshifter/Cardshifter</link>
+<guid>https://github.com/Cardshifter/Cardshifter</guid>
+<pubDate>Sat, 18 Jul 2020 11:12:08 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Sponsor NixOS/nixpkgs]]></title>
+<category>Unread</category>
+<link>https://github.com/NixOS/nixpkgs/blob/master/pkgs/misc/vim-plugins/vim-plugin-names</link>
+<guid>https://github.com/NixOS/nixpkgs/blob/master/pkgs/misc/vim-plugins/vim-plugin-names</guid>
+<pubDate>Sat, 18 Jul 2020 10:37:42 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Setting Up Vim on NixOS]]></title>
+<category>Unread</category>
+<link>https://mpscholten.de/nixos/2016/04/11/setting-up-vim-on-nixos.html</link>
+<guid>https://mpscholten.de/nixos/2016/04/11/setting-up-vim-on-nixos.html</guid>
+<pubDate>Sat, 18 Jul 2020 10:12:13 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Advanced PDF management for Zotero]]></title>
+<category>Unread</category>
+<link>http://zotfile.com</link>
+<guid>http://zotfile.com</guid>
+<pubDate>Sat, 18 Jul 2020 02:55:19 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Bad-ptr/persp-mode.el]]></title>
+<category>Unread</category>
+<link>https://github.com/Bad-ptr/persp-mode.el</link>
+<guid>https://github.com/Bad-ptr/persp-mode.el</guid>
+<pubDate>Sat, 18 Jul 2020 02:55:09 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Why Doom?]]></title>
+<category>Unread</category>
+<link>https://github.com/christabella/doom-emacs-config</link>
+<guid>https://github.com/christabella/doom-emacs-config</guid>
+<pubDate>Sat, 18 Jul 2020 02:54:25 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[An Orgmode Note Workflow]]></title>
+<category>Unread</category>
+<link>https://rgoswami.me/posts/org-note-workflow#zotero</link>
+<guid>https://rgoswami.me/posts/org-note-workflow#zotero</guid>
+<pubDate>Sat, 18 Jul 2020 02:53:59 -0500</pubDate>
+</item>
+</channel>
+
+</rss>

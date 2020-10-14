@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+
+<channel>
+
+<title>My Reading List: Unread</title>
+<description>Items I've saved to read</description>
+<link>http://readitlaterlist.com/users/*sso15924994936315a8/feed/unread</link>
+<atom:link href="http://readitlaterlist.com/users/*sso15924994936315a8/feed/unread" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title><![CDATA[Untitled]]></title>
+<category>Unread</category>
+<link>http://jamesoconnor.xyz</link>
+<guid>http://jamesoconnor.xyz</guid>
+<pubDate>Sun, 12 Jul 2020 19:38:16 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Gray code]]></title>
+<category>Unread</category>
+<link>https://en.m.wikipedia.org/wiki/Gray_code</link>
+<guid>https://en.m.wikipedia.org/wiki/Gray_code</guid>
+<pubDate>Fri, 10 Jul 2020 16:25:34 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Ten modern layouts in one line of CSS]]></title>
+<category>Unread</category>
+<link>https://web.dev/one-line-layouts</link>
+<guid>https://web.dev/one-line-layouts</guid>
+<pubDate>Fri, 10 Jul 2020 16:13:27 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Jack Altman]]></title>
+<category>Unread</category>
+<link>https://mobile.twitter.com/jaltma/status/1281441060510552064</link>
+<guid>https://mobile.twitter.com/jaltma/status/1281441060510552064</guid>
+<pubDate>Fri, 10 Jul 2020 16:01:34 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[This FTP site]]></title>
+<category>Unread</category>
+<link>http://okmij.org/ftp</link>
+<guid>http://okmij.org/ftp</guid>
+<pubDate>Sun, 12 Jul 2020 19:38:50 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Introduction]]></title>
+<category>Unread</category>
+<link>https://wiki.nikitavoloboev.xyz</link>
+<guid>https://wiki.nikitavoloboev.xyz</guid>
+<pubDate>Sun, 12 Jul 2020 19:37:35 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Knowledge Base]]></title>
+<category>Unread</category>
+<link>https://github.com/bphenriques/knowledge-base</link>
+<guid>https://github.com/bphenriques/knowledge-base</guid>
+<pubDate>Sun, 12 Jul 2020 20:11:20 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[How to detect if JavaScript is disabled?]]></title>
+<category>Unread</category>
+<link>https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled</link>
+<guid>https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled</guid>
+<pubDate>Fri, 10 Jul 2020 14:46:33 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Directory Variables]]></title>
+<category>Unread</category>
+<link>https://emacswiki.org/emacs/DirectoryVariables</link>
+<guid>https://emacswiki.org/emacs/DirectoryVariables</guid>
+<pubDate>Fri, 10 Jul 2020 14:43:00 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Literate doom-emacs config]]></title>
+<category>Unread</category>
+<link>https://dotdoom.rgoswami.me/config.html</link>
+<guid>https://dotdoom.rgoswami.me/config.html</guid>
+<pubDate>Fri, 10 Jul 2020 14:35:18 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Org-mode Workflow Part 2: Processing the Inbox]]></title>
+<category>Unread</category>
+<link>https://blog.jethro.dev/posts/processing_inbox</link>
+<guid>https://blog.jethro.dev/posts/processing_inbox</guid>
+<pubDate>Fri, 10 Jul 2020 14:27:03 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Org Mode - Organize Your Life In Plain Text!]]></title>
+<category>Unread</category>
+<link>http://doc.norang.ca/org-mode.html</link>
+<guid>http://doc.norang.ca/org-mode.html</guid>
+<pubDate>Fri, 10 Jul 2020 14:26:54 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[zaeph/.emacs.d]]></title>
+<category>Unread</category>
+<link>https://github.com/zaeph/.emacs.d</link>
+<guid>https://github.com/zaeph/.emacs.d</guid>
+<pubDate>Fri, 10 Jul 2020 14:26:33 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[org-brain]]></title>
+<category>Unread</category>
+<link>https://github.com/Kungsgeten/org-brain</link>
+<guid>https://github.com/Kungsgeten/org-brain</guid>
+<pubDate>Fri, 10 Jul 2020 14:22:52 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[alphapapa/org-rifle]]></title>
+<category>Unread</category>
+<link>https://github.com/alphapapa/org-rifle</link>
+<guid>https://github.com/alphapapa/org-rifle</guid>
+<pubDate>Fri, 10 Jul 2020 14:07:52 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Free Tailwind CSS Templates, Components and Resources]]></title>
+<category>Unread</category>
+<link>https://tailwindtoolbox.com</link>
+<guid>https://tailwindtoolbox.com</guid>
+<pubDate>Fri, 10 Jul 2020 13:43:32 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[travis a. everett]]></title>
+<category>Unread</category>
+<link>https://t-ravis.com#r=start&amp;c=look</link>
+<guid>https://t-ravis.com#r=start&amp;c=look</guid>
+<pubDate>Fri, 10 Jul 2020 13:42:16 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[The Zephyr Abstract Syntax Description Language]]></title>
+<category>Unread</category>
+<link>https://cs.princeton.edu/research/techreps/TR-554-97</link>
+<guid>https://cs.princeton.edu/research/techreps/TR-554-97</guid>
+<pubDate>Fri, 10 Jul 2020 13:25:16 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[PyTorch Implementation of Differentiable SDE Solvers]]></title>
+<category>Unread</category>
+<link>https://github.com/google-research/torchsde</link>
+<guid>https://github.com/google-research/torchsde</guid>
+<pubDate>Fri, 10 Jul 2020 13:25:12 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[XXIIVV — everyday]]></title>
+<category>Unread</category>
+<link>https://wiki.xxiivv.com/site/everyday.html</link>
+<guid>https://wiki.xxiivv.com/site/everyday.html</guid>
+<pubDate>Fri, 10 Jul 2020 13:25:06 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[sotonye]]></title>
+<category>Unread</category>
+<link>https://mobile.twitter.com/cybersygh/status/1281445769124261889</link>
+<guid>https://mobile.twitter.com/cybersygh/status/1281445769124261889</guid>
+<pubDate>Fri, 10 Jul 2020 13:15:59 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[pump (the brakes)]]></title>
+<category>Unread</category>
+<link>https://github.com/chessai/pump</link>
+<guid>https://github.com/chessai/pump</guid>
+<pubDate>Fri, 10 Jul 2020 13:08:08 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[alex-shpak/hugo-book]]></title>
+<category>Unread</category>
+<link>https://github.com/alex-shpak/hugo-book</link>
+<guid>https://github.com/alex-shpak/hugo-book</guid>
+<pubDate>Fri, 10 Jul 2020 13:06:10 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[§What’s top of mind]]></title>
+<category>Unread</category>
+<link>https://notes.andymatuschak.org/zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma</link>
+<guid>https://notes.andymatuschak.org/zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma</guid>
+<pubDate>Fri, 10 Jul 2020 13:05:13 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Report or block bphenriques]]></title>
+<category>Unread</category>
+<link>https://github.com/bphenriques</link>
+<guid>https://github.com/bphenriques</guid>
+<pubDate>Fri, 10 Jul 2020 13:02:50 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Installation]]></title>
+<category>Unread</category>
+<link>https://man.sr.ht/installation.md#packages</link>
+<guid>https://man.sr.ht/installation.md#packages</guid>
+<pubDate>Fri, 10 Jul 2020 12:44:36 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[시몽]]></title>
+<category>Unread</category>
+<link>https://emersion.fr</link>
+<guid>https://emersion.fr</guid>
+<pubDate>Fri, 10 Jul 2020 12:42:25 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[XXIIVV — about]]></title>
+<category>Unread</category>
+<link>https://wiki.xxiivv.com/site/about.html</link>
+<guid>https://wiki.xxiivv.com/site/about.html</guid>
+<pubDate>Fri, 10 Jul 2020 09:05:14 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[tools]]></title>
+<category>Unread</category>
+<link>https://wiki.xxiivv.com/site/tools.html</link>
+<guid>https://wiki.xxiivv.com/site/tools.html</guid>
+<pubDate>Fri, 10 Jul 2020 03:23:30 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[nataniev]]></title>
+<category>Unread</category>
+<link>https://wiki.xxiivv.com/site/nataniev.html</link>
+<guid>https://wiki.xxiivv.com/site/nataniev.html</guid>
+<pubDate>Fri, 10 Jul 2020 03:22:28 -0500</pubDate>
+</item>
+</channel>
+
+</rss>

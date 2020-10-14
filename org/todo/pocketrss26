@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+
+<channel>
+
+<title>My Reading List: Unread</title>
+<description>Items I've saved to read</description>
+<link>http://readitlaterlist.com/users/*sso15924994936315a8/feed/unread</link>
+<atom:link href="http://readitlaterlist.com/users/*sso15924994936315a8/feed/unread" rel="self" type="application/rss+xml" />
+
+
+<item>
+<title><![CDATA[Quantum Country]]></title>
+<category>Unread</category>
+<link>https://quantum.country</link>
+<guid>https://quantum.country</guid>
+<pubDate>Thu, 16 Jul 2020 02:33:25 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Andy Matuschak]]></title>
+<category>Unread</category>
+<link>https://andymatuschak.org</link>
+<guid>https://andymatuschak.org</guid>
+<pubDate>Thu, 16 Jul 2020 02:33:16 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Exalting data, missing meaning]]></title>
+<category>Unread</category>
+<link>https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning</link>
+<guid>https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning</guid>
+<pubDate>Thu, 16 Jul 2020 02:33:03 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Untitled]]></title>
+<category>Unread</category>
+<link>https://andymatuschak.org/scrying-pen</link>
+<guid>https://andymatuschak.org/scrying-pen</guid>
+<pubDate>Thu, 16 Jul 2020 02:32:32 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Why books don’t work]]></title>
+<category>Unread</category>
+<link>https://andymatuschak.org/books</link>
+<guid>https://andymatuschak.org/books</guid>
+<pubDate>Thu, 16 Jul 2020 02:31:55 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Planet : by Oskar Stålberg]]></title>
+<category>Unread</category>
+<link>https://oskarstalberg.com/game/planet/planet.html</link>
+<guid>https://oskarstalberg.com/game/planet/planet.html</guid>
+<pubDate>Thu, 16 Jul 2020 02:30:38 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Brick Block - by Oskar Stålberg]]></title>
+<category>Unread</category>
+<link>http://oskarstalberg.com/game/house/Index.html</link>
+<guid>http://oskarstalberg.com/game/house/Index.html</guid>
+<pubDate>Thu, 16 Jul 2020 02:26:33 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[cass.si — /]]></title>
+<category>Unread</category>
+<link>https://cass.si</link>
+<guid>https://cass.si</guid>
+<pubDate>Thu, 16 Jul 2020 01:55:16 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Plan 9 from Bell Labs]]></title>
+<category>Unread</category>
+<link>https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs</link>
+<guid>https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs</guid>
+<pubDate>Thu, 16 Jul 2020 01:54:48 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[mntmn/interim]]></title>
+<category>Unread</category>
+<link>https://github.com/mntmn/interim</link>
+<guid>https://github.com/mntmn/interim</guid>
+<pubDate>Thu, 16 Jul 2020 01:48:32 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Uniform Function Call Syntax]]></title>
+<category>Unread</category>
+<link>https://en.wikipedia.org/wiki/Uniform_Function_Call_Syntax</link>
+<guid>https://en.wikipedia.org/wiki/Uniform_Function_Call_Syntax</guid>
+<pubDate>Thu, 16 Jul 2020 01:42:47 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Next web browser]]></title>
+<category>Unread</category>
+<link>https://github.com/atlas-engineer/nyxt</link>
+<guid>https://github.com/atlas-engineer/nyxt</guid>
+<pubDate>Thu, 16 Jul 2020 01:39:33 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[FluxML/Flux.jl]]></title>
+<category>Unread</category>
+<link>https://github.com/FluxML/Flux.jl/blob/ec16a2c77dbf6ab8b92b0eecd11661be7a62feef/src/layers/recurrent.jl#L131</link>
+<guid>https://github.com/FluxML/Flux.jl/blob/ec16a2c77dbf6ab8b92b0eecd11661be7a62feef/src/layers/recurrent.jl#L131</guid>
+<pubDate>Thu, 16 Jul 2020 00:07:42 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Emoji_Entities: Support for using Emoji names for characters]]></title>
+<category>Unread</category>
+<link>https://github.com/JuliaString/Emoji_Entities.jl</link>
+<guid>https://github.com/JuliaString/Emoji_Entities.jl</guid>
+<pubDate>Thu, 16 Jul 2020 00:07:39 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Understanding LSTM Networks]]></title>
+<category>Unread</category>
+<link>https://colah.github.io/posts/2015-08-Understanding-LSTMs</link>
+<guid>https://colah.github.io/posts/2015-08-Understanding-LSTMs</guid>
+<pubDate>Thu, 16 Jul 2020 00:07:35 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Dan Grayson&#039;s home page]]></title>
+<category>Unread</category>
+<link>https://faculty.math.illinois.edu/~dan</link>
+<guid>https://faculty.math.illinois.edu/~dan</guid>
+<pubDate>Wed, 15 Jul 2020 23:51:24 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Univalent foundations]]></title>
+<category>Unread</category>
+<link>https://en.wikipedia.org/wiki/Univalent_foundations</link>
+<guid>https://en.wikipedia.org/wiki/Univalent_foundations</guid>
+<pubDate>Wed, 15 Jul 2020 23:49:52 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[On the Systematic Creation of Faithfully Rounded Truncated Multipliers and]]></title>
+<category>Unread</category>
+<link>https://researchgate.net/publication/265339509_On_the_Systematic_Creation_of_Faithfully_Rounded_Truncated_Multipliers_and_Arrays</link>
+<guid>https://researchgate.net/publication/265339509_On_the_Systematic_Creation_of_Faithfully_Rounded_Truncated_Multipliers_and_Arrays</guid>
+<pubDate>Wed, 15 Jul 2020 22:27:36 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[ARITH 2020 : Venue]]></title>
+<category>Unread</category>
+<link>http://arith2020.arithsymposium.org/programme.html</link>
+<guid>http://arith2020.arithsymposium.org/programme.html</guid>
+<pubDate>Wed, 15 Jul 2020 22:25:08 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[bfloat16 floating-point format]]></title>
+<category>Unread</category>
+<link>https://en.wikipedia.org/wiki/Bfloat16_floating-point_format</link>
+<guid>https://en.wikipedia.org/wiki/Bfloat16_floating-point_format</guid>
+<pubDate>Wed, 15 Jul 2020 22:19:38 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[SystemC]]></title>
+<category>Unread</category>
+<link>https://en.wikipedia.org/wiki/SystemC</link>
+<guid>https://en.wikipedia.org/wiki/SystemC</guid>
+<pubDate>Wed, 15 Jul 2020 22:18:54 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[CREST: Hardware Formal Verification with ANSI-C Reference Specifications]]></title>
+<category>Unread</category>
+<link>https://ui.adsabs.harvard.edu/abs/2019arXiv190801324T/abstract</link>
+<guid>https://ui.adsabs.harvard.edu/abs/2019arXiv190801324T/abstract</guid>
+<pubDate>Wed, 15 Jul 2020 22:18:42 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[IEEE Standard 754 Floating Point Numbers]]></title>
+<category>Unread</category>
+<link>https://geeksforgeeks.org/ieee-standard-754-floating-point-numbers</link>
+<guid>https://geeksforgeeks.org/ieee-standard-754-floating-point-numbers</guid>
+<pubDate>Wed, 15 Jul 2020 22:17:45 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[The E Theorem Prover]]></title>
+<category>Unread</category>
+<link>https://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html</link>
+<guid>https://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html</guid>
+<pubDate>Wed, 15 Jul 2020 22:11:11 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[HOL Interactive Theorem Prover]]></title>
+<category>Unread</category>
+<link>https://hol-theorem-prover.org</link>
+<guid>https://hol-theorem-prover.org</guid>
+<pubDate>Wed, 15 Jul 2020 22:10:52 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[IEEE 754]]></title>
+<category>Unread</category>
+<link>https://en.wikipedia.org/wiki/IEEE_754</link>
+<guid>https://en.wikipedia.org/wiki/IEEE_754</guid>
+<pubDate>Wed, 15 Jul 2020 22:04:10 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[browserdotsys/vecchio]]></title>
+<category>Unread</category>
+<link>https://github.com/browserdotsys/vecchio</link>
+<guid>https://github.com/browserdotsys/vecchio</guid>
+<pubDate>Wed, 15 Jul 2020 21:49:38 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[bdougie.live]]></title>
+<category>Unread</category>
+<link>https://bdougie.live</link>
+<guid>https://bdougie.live</guid>
+<pubDate>Wed, 15 Jul 2020 18:29:40 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[Report or block acoglio]]></title>
+<category>Unread</category>
+<link>https://github.com/acoglio</link>
+<guid>https://github.com/acoglio</guid>
+<pubDate>Wed, 15 Jul 2020 18:11:30 -0500</pubDate>
+</item>
+<item>
+<title><![CDATA[ACL2s Home page/Documentation]]></title>
+<category>Unread</category>
+<link>http://acl2s.ccs.neu.edu/acl2s/doc</link>
+<guid>http://acl2s.ccs.neu.edu/acl2s/doc</guid>
+<pubDate>Wed, 15 Jul 2020 18:09:37 -0500</pubDate>
+</item>
+</channel>
+
+</rss>
