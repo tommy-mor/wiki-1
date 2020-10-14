@@ -26,3 +26,7 @@
 
 [[https://pleroma.tilde.zone/main/all][Federated social media is the future.]]
 
+* Mastodon
+- An implementation of ActivityPub
+[[https://github.com/tleb/awesome-mastodon][awesome page]]
+[[https://github.com/mouse-reeve/bookwyrm][bookwyrm]] :: a decentralized reading and reviewing service with activitypub

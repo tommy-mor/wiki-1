@@ -1,17 +1,30 @@
 +++
 title = "Python"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:03:22-07:00
+lastmod = 2020-10-14T20:46:06+02:00
 slug = "python"
 draft = false
 +++
 
-Python is a general-purpose programming language that's small and self-consistent.
-For any higher level project that isn't web-based, it's probably the best way to prototype.
+Python is a small, self-consistent general-purpose programming language.
 
 
 ## Tools {#tools}
 
-<https://github.com/chriskiehl/Gooey> -- turn cli into gui with one line
-<https://github.com/wilcoxjay/mypyvy> symbolic transitions in python
-<https://github.com/willmcgugan/rich> library for rich terminal text
+[Gooey](https://github.com/chriskiehl/Gooey)
+: Turn a Python CLI into a GUI with one line
+
+[MyPyVy](https://github.com/wilcoxjay/mypyvy)
+: symbolic transitions in python
+
+[Rich](https://github.com/willmcgugan/rich)
+: Print rich terminal text
+
+[pycopy](https://github.com/pfalcon/pycopy)
+: python dialect for microcontrollers
+
+[httpie](https://github.com/httpie/httpie)
+: modern, friendly http client
+
+[forbidden fruit](https://github.com/clarete/forbiddenfruit)
+: allow python to extend built in types

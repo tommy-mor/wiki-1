@@ -1,0 +1,63 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: javascript
+#+TITLE: JavaScript
+
+It's a terrible language, but given its status as the de-facto language of the web, it has an incredible ecosystem of tools developed to help out.
+
+* Frameworks
+- [[https://github.com/sveltejs/svelte][Svelte ]]:: 'cybernetically enhanced' framework. [[https://github.com/feltcoop/why-svelte][Why]]
+- [[https://github.com/bigskysoftware/htmx][HTMX]] :: tools for seamless HTMl. The web should be more like this
+- [[https://github.com/hapijs/hapi][Hapi]]
+* Libraries
+** Functional Programming
+- [[https://github.com/fantasyland/fantasy-land][Fantasyland]] :: Specification for algebra in JavaScript
+  - [[https://github.com/origamitower/folktale][Folktale]] :: A corresponding standard library
+  - [[https://github.com/fantasyland/static-land][Staticland]] :: Fantasyland but without classes
+* Tools
+** Typescript
+[[https://github.com/gcanti/fp-ts][functional programing for ts]]
+** Configuration
+- [[https://github.com/davidtheclark/cosmiconfig][Cosmiconfic]] :: Load configuration from anywhere
+- [[https://github.com/lerna/lerna][Lerna]] :: Manage JavaScript projects with multiple packages
+** 3D
+*** BabylonJS
+[[https://github.com/brianzinn/create-react-app-typescript-babylonjs][Create React App with Babylon and TypeScript]]
+[[https://github.com/brianzinn/react-babylonjs][React for Babylon]]
+*** MatterJS
+[[https://github.com/liabru/matter-js][Rigid body physics engine]]
+- [[https://github.com/photonstorm/phaser][Phaser]] :: 2d game framework
+*** ThreeJS
+[[https://github.com/pmndrs/react-three-flex][flexbox for react-three-fiber]]
+** UI Dev
+https://github.com/davidkpiano/flipping :: flipping animation
+https://github.com/davidkpiano/xstate :: state machines for the web
+*** Storybook
+[[https://github.com/storybookjs/storybook][the repo]]
+[[https://github.com/react-theming/storybook-addon][Material UI]]
+* Meta
+- [[https://github.com/acornjs/acorn][Acorn]] :: js parser in js
+** Babel
+The compiler for Javascript.
+[[https://github.com/jgierer12/awesome-babel-macros][Babel macros]]
+** EsLint
+[[https://github.com/EvgenyOrekhov/eslint-config-hardcore][Hardcore config]]
+[[https://github.com/jonaskello/eslint-plugin-functional][functional config]]
+- [[https://github.com/apollographql/eslint-plugin-graphql]] :: graphql support
+- https://github.com/gajus/eslint-plugin-sql :: sql support (kind of)
+- https://github.com/azeemba/eslint-plugin-json :: json support
+- https://github.com/Bkucera/eslint-plugin-json-format :: json autoformat
+- https://github.com/mysticatea/eslint-plugin-node :: nodejs rules
+- https://github.com/BenoitZugmeyer/eslint-plugin-html  :: eslint for raw html
+- https://github.com/dustinspecker/awesome-eslint :: eslint resources
+
+* Etc
+[[https://github.com/200ok-ch/organice][Organice]] :: Org mode without emacs
+[[https://github.com/automerge/automerge][automerge]] :: a CRDT that allows concurrent modification
+[[https://github.com/turbolinks/turbolinks][Turbolinks]] :: framework agnostic way of rendering views on server side and swapping in throuhg a socket
+[[https://github.com/chjj/tty.js][tty.js]] :: terminal for the browser
+[[https://github.com/sanctuary-js/sanctuary][sanctuary]] :: strict javascript functions composed functionally
+https://github.com/sindresorhus/speed-test cli for speedtest.net
+https://github.com/calmm-js/kefir.atom :: reactive state with lenses
+https://github.com/spcask/mdme :: embed self rendering md content
+https://github.com/inkandswitch/cambria bidirectional lenses
+https://github.com/padenot/ringbuf.js ring buffers

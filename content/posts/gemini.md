@@ -1,7 +1,7 @@
 +++
 title = "Gemini"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-03T02:22:21-07:00
+lastmod = 2020-10-14T20:25:29+02:00
 slug = "gemini"
 draft = false
 +++
@@ -35,6 +35,9 @@ I hope to have this wiki, along with my other personal websites, up on Gemini so
 
 [Gig](https://github.com/pitr/gig)
 : A Gemini framework in Go.
+
+[geminid](https://github.com/jovoro/geminid)
+: gemini server in C
 
 [Castor](https://sr.ht/~julienxx/Castor/)
 : A GTK-based browser for Gopher and Gemini.

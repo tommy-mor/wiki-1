@@ -1,7 +1,7 @@
 +++
 title = "Git"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T19:12:50+02:00
+lastmod = 2020-10-14T20:51:56+02:00
 slug = "git"
 draft = false
 +++
@@ -45,3 +45,18 @@ Sourcehut
 
 Gitea
 : Open source git repository; self host it
+
+
+## Organization Thoughts {#organization-thoughts}
+
+github organization:
+
+-   one repo per course - as most courses require partner work
+
+= repo for coding challenge practice problems
+
+-   managing research notes: ??? i am thinking a single org file for all of this
+-   - that is, an org file in each project for the research notes pertaining to that project,
+-   - and anotherorg file for misc. research ?? i will have to see how my research is used
+
+<https://danieltakeshi.github.io/2017/07/15/how-i-organize-my-github-repositories/>

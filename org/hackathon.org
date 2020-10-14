@@ -15,6 +15,7 @@ to navigate through a presentation nonlinearly, or could
 navigate it linearly with forward and backwards arrow keys.
 
 This has a lot of potential! Let's try it with Reddit threads.
+[[https://github.com/ssorallen/react-reddit-client][An example client to get started]]
 
 ** UX
 

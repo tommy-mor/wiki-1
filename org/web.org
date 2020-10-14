@@ -6,6 +6,8 @@ Things about the web.
 [[https://www.youtube.com/watch?v=5CYeZ2kEiOI&app=desktop][from rails to elm and haskell: functional web programming]]
 
 * web dev
+https://github.com/gawlk/svind boilerplate supporting svelte, vite, vercel and tailwind
+https://github.com/GoogleChromeLabs/ProjectVisBug tool to edit any website in any state directly
 https://felixgerschau.com/react-rerender-components https://tonsky.me/
 https://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
@@ -80,3 +82,4 @@ https://www.nirandfar.com/hooked/ book on the perils of the modern web, tangenti
 - [[branch.gg]] :: A two-dimensional office environment for employees to interact in just like a physical space.
 - [[http://endless.horse/][hoooooooooooooooooooooooooooooooooo]]
 https://meowis.ms/handshake.html handshake: forming a namespace system for the decentralized web. we don't own our own domains!
+https://github.com/auchenberg/volkswagen the best way to pass tests

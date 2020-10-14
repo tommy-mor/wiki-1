@@ -1,0 +1,12 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: remark_able
+#+TITLE: Remarkable
+
+An E-Reader for note taking.
+You can just SSH into the thing.
+
+* Mods
+[[https://github.com/Evidlo/remarkable_entware][entware remarkable]]
+[[https://github.com/Evidlo/remarkable_syncthing][Syncthing for Remarkable]]
+[[https://github.com/michaelmior/zotero-remarkable][zotero remarkable sync]]
+[[https://github.com/reHackable/awesome-reMarkable][awesome remarkable]]

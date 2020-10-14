@@ -1,7 +1,7 @@
 +++
 title = "Wiki"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-13T22:44:54+02:00
+lastmod = 2020-10-14T20:54:18+02:00
 slug = "wiki"
 draft = false
 +++
@@ -79,6 +79,10 @@ I've taken inspiration from several others who maintain wikis.
 <https://github.com/karlicoss/beepb00p>
 <https://github.com/bennetthardwick/website>
 
+<https://github.com/nikitavoloboev/knowledge> -- i **love** the idea of visualizing the ralations of the notes as well as his rationale
+<https://github.com/aceyoung9/garden>
+<https://github.com/binyamin/eleventy-garden>
+
 
 ## Frameworks {#frameworks}
 
@@ -93,21 +97,6 @@ I've taken inspiration from several others who maintain wikis.
 <https://dpitt.me/blog/2020/03/zettelkasten/>
 [obsidian md knowledge base](https://obsidian.md/)
 [The Brain](https://www.thebrain.com/) is a digital memory solution written and maintained by the brother of Acronym's founder, Errolson,for many years. It's not well known in the technology space, but it's popular with creatives and researchers who often don't intersect with the field.
-
-
-## git {#git}
-
-github organization:
-
--   one repo per course - as most courses require partner work
-
-= repo for coding challenge practice problems
-
--   managing research notes: ??? i am thinking a single org file for all of this
--   - that is, an org file in each project for the research notes pertaining to that project,
--   - and anotherorg file for misc. research ?? i will have to see how my research is used
-
-<https://danieltakeshi.github.io/2017/07/15/how-i-organize-my-github-repositories/>
 
 
 ## organization {#organization}

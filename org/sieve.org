@@ -148,3 +148,5 @@ https://github.com/RSS-Bridge/rss-bridge
 bibliogram for subscribing to instagram
 invidio for youtube
 https://github.com/avencera/fast_rss for parsing rss from elixir backend
+https://github.com/miniflux/miniflux feed reader with Go
+https://github.com/zserge/headline ascetic RSS reader without server. 4kb and beautiful, works offline

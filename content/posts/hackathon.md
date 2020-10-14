@@ -1,7 +1,7 @@
 +++
 title = "Hackathon"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-03T04:23:28-07:00
+lastmod = 2020-10-14T19:42:40+02:00
 slug = "hackathon"
 draft = false
 +++
@@ -20,6 +20,7 @@ to navigate through a presentation nonlinearly, or could
 navigate it linearly with forward and backwards arrow keys.
 
 This has a lot of potential! Let's try it with Reddit threads.
+[An example client to get started](https://github.com/ssorallen/react-reddit-client)
 
 
 ### UX {#ux}
@@ -40,36 +41,40 @@ Each of these pages will also havte a bubble with a plus sign on it in the botto
 
 ### Production {#production}
 
+<!--list-separator-->
 
-#### MVP {#mvp}
+-  MVP
 
--   Visit a specific url on the reddit tree view website to open a reddit thread.
--   View the post and each comment in a bubble.
--   Click a bubble to view the next level of comments.
+    -   Visit a specific url on the reddit tree view website to open a reddit thread.
+    -   View the post and each comment in a bubble.
+    -   Click a bubble to view the next level of comments.
 
+<!--list-separator-->
 
-#### Enhanced UX {#enhanced-ux}
+-  Enhanced UX
 
--   Tree view can be accessed by prefixing a reddit URL thread with our URL.
--   Post bubbles are sized proportionally to their number of upvotes or some other ranking metric. You can see smaller bubbles around them that provide an estimate of the number of comments in their assoc. thread.
+    -   Tree view can be accessed by prefixing a reddit URL thread with our URL.
+    -   Post bubbles are sized proportionally to their number of upvotes or some other ranking metric. You can see smaller bubbles around them that provide an estimate of the number of comments in their assoc. thread.
 
+<!--list-separator-->
 
-#### Usable for Reddit {#usable-for-reddit}
+-  Usable for Reddit
 
--   The user can log in and make comments themselves.
+    -   The user can log in and make comments themselves.
 
+<!--list-separator-->
 
-#### Complete Product {#complete-product}
+-  Complete Product
 
-Rather than providing alternate views to individual threads, the program can instead act as its own reddit client.
+    Rather than providing alternate views to individual threads, the program can instead act as its own reddit client.
 
-The main page of the site functions just like Reddit's home page, only with bubbles for each subreddit.
-The bubbles are weighted proportional to the number of new posts, popularity of those posts or some other metric.
+    The main page of the site functions just like Reddit's home page, only with bubbles for each subreddit.
+    The bubbles are weighted proportional to the number of new posts, popularity of those posts or some other metric.
 
-When clicking on one of these subreddit bubbles, you open a secondary bubble view that showcases each post in the subreddit.
-A UI is provided to make new posts in the subreddit from this page.
+    When clicking on one of these subreddit bubbles, you open a secondary bubble view that showcases each post in the subreddit.
+    A UI is provided to make new posts in the subreddit from this page.
 
-Clicking on an individual posts opens the fleshed out idea above, providing an alternative navigational experience for all of reddit.
+    Clicking on an individual posts opens the fleshed out idea above, providing an alternative navigational experience for all of reddit.
 
 
 ## Version Control for Music {#version-control-for-music}
@@ -97,11 +102,13 @@ These recordings can be:
     This allows artists to take live coding projects that have been performed. convert them into full-fledged tracks, and export them without having to perform them.
 
 
-## Spell Check Hook {#spell-check-hook}
+## <span class="org-todo done DONE">DONE</span> Spell Check Hook {#spell-check-hook}
 
 I hate improper spelling or formatting.
 A linter that checks for proper spelling in a project with git hooks!
 You won't be able to commit to your projecct until you fix those spelling errors.
+
+This is pretty easy with husky and eslint-plugin-spellcheck - - and it's a pain.
 
 
 ## GitHub README Information Generators {#github-readme-information-generators}
@@ -231,13 +238,6 @@ they say nothing is impossible, but i do nothing every day
 
 git rebase --interactive
 
-80 pounds in 6mo:
-stopped eating junk and sugar, working out.
-eating more protein and whole foods
-eating at a calorie deficit
-countingg calories and macros
-lift 6 days a week, get 10k steps a day
-
 optimizing resumes
 add relevant words to electronic resumes in white letters on whitee background
 add quotes from company websites or job postings in white letters on white space
@@ -256,7 +256,7 @@ i refuse to do anything that computers can do - olin shivers
 think of meat as a side dish, not as a meal
 
 
-## Experiments {#experiments}
+## <span class="org-todo todo NEXT">NEXT</span> Experiments {#experiments}
 
 A website, similar to a 'portfolio',
 that highlights a bunch of cool experiments I have going on
@@ -267,7 +267,7 @@ The main page, <https://experiments.chvatal.com>, provides an interface for easi
 Regardless of presentation, the website should contain a folder of git submodules -- each corresponding to one of the 'experiments'. These experiments are added to the final static site as links when the website is uploaded as part of a CI action or similar, though this can initially be done manually. Each submodule should display a website and should host itself in a subdirectory of 'experiments'.
 
 
-## Portfolio {#portfolio}
+## <span class="org-todo todo NEXT">NEXT</span> Portfolio {#portfolio}
 
 I've been thinking that my single page introduction isn't quite enough for employers, and that it might be good to add a portfolio with writeups to document each of my projects.
 

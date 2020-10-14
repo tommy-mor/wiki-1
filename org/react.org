@@ -15,3 +15,16 @@ Program as functionally as possible!
 [[https://m.youtube.com/watch?v=O8d_42Wc-po][sharing code between react and react native]]
 
 - Always use capital letters for React components, and always use React component syntax to call them. It's okay if this means declaring a constant with a capital letter; that's expected and idiomatic in this case, even if it feels inconsistent.
+* Tools
+[[https://github.com/preactjs/preact][3kb React alternative: Preact]]
+[[https://github.com/purescript-contrib/purescript-react][React bindings for Purescript]]
+[[https://github.com/facebookexperimental/Recoil][Experimental state management for React]]
+[[https://github.com/strateos/react-map-interaction][Interact with any react component like a map]]
+[[https://github.com/danbovey/react-infinite-scroller][easy infinite scroll]]
+- [[https://github.com/pmndrs/jotai][Jotai]] :: Primitive React state management
+* UI
+- [[https://github.com/urbit/indigo-react][Indigo]] :: Tlon's React components; [[file:web_design.org][Web Design]]
+- [[https://github.com/jpzk/chopchop][Chopchop]] :: Mouseless paged reader for the browser
+- [[https://github.com/uber/react-view][React specific component playground]]
+- [[https://github.com/microsoft/fluentui][Fluent UI]] :: Microsoft's UI Framework
+-- [[https://github.com/rhysd/react-vim-wasm][react vim wasm]] :: [[file:vim.org][Vim]] editor embedded in React code

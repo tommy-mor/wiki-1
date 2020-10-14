@@ -28,3 +28,12 @@ Git is a popular version control system.
 - GitHub :: I use this; Microsoft is bad but the community is good
 - Sourcehut :: Minimal free software repository. I would use this if the developer weren't an egotistical BDFL.
 - Gitea :: Open source git repository; self host it
+
+* Organization Thoughts
+github organization:
+- one repo per course - as most courses require partner work
+= repo for coding challenge practice problems
+- managing research notes: ??? i am thinking a single org file for all of this
+- - that is, an org file in each project for the research notes pertaining to that project,
+- - and anotherorg file for misc. research ?? i will have to see how my research is used
+https://danieltakeshi.github.io/2017/07/15/how-i-organize-my-github-repositories/

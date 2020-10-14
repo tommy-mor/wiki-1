@@ -1,7 +1,7 @@
 +++
 title = "Rust"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:25:51-07:00
+lastmod = 2020-10-14T20:59:39+02:00
 slug = "rust"
 draft = false
 +++
@@ -16,3 +16,7 @@ draft = false
 <https://fnordig.de/2020/05/02/rust-in-an-instant/>
 <https://fnordig.de/2020/05/02/rust-in-an-instant/>
 <https://www.christianfscott.com/making-rust-as-fast-as-go/>
+<https://github.com/sunjay/portrayer> sample rust ray traceer
+<https://github.com/bvaisvil/zenith> desktop monitor like top or htop but just better
+[nom](https://github.com/Geal/nom) :: parser combinator for rust
+<https://github.com/PoiScript/orgize> :: parse [Org Mode]({{< relref "org_mode" >}}) in rust

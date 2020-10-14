@@ -1,7 +1,7 @@
 +++
 title = "Haskell"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T13:30:03+02:00
+lastmod = 2020-10-14T20:51:21+02:00
 slug = "haskell"
 draft = false
 +++
@@ -127,3 +127,13 @@ getting ncurses5-compat-libs:
 -   The Forth programming language (then make lots of example programs!)
 -   [Jason Hemann's small, dependently typed language](https://github.com/jasonhemann/dependently-typed-lang)
 -   [Matthew Flatt's hygienic macro expander](https://m.youtube.com/watch?v=Or%5FyKiI3Ha4)
+
+
+## IHP {#ihp}
+
+'batteries included haskell framework'
+<https://github.com/digitallyinduced/ihp>
+<https://github.com/bergmark/feed> haskell package for RSS
+<https://github.com/cdepillabout/termonad> haskell terminal emulator
+<https://github.com/AndrasKovacs/setoidtt> implementations of systems with setoid type theory
+<https://github.com/jaspervdj/websockets> yea

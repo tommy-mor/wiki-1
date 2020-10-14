@@ -1,10 +1,14 @@
 +++
 title = "Org Mode"
 author = ["Jacob Chvatal"]
-lastmod = 2020-07-14T17:38:01-04:00
+lastmod = 2020-10-14T20:53:04+02:00
 slug = "org_mode"
 draft = false
 +++
+
+### Backlinks {#backlinks}
+
+-   [Emacs]({{< relref "emacs" >}})
 
 Org Mode is a markup language and a part of the Emacs ecosystem.
 It's a favorite of developers, writers, and researchers alike,
@@ -79,3 +83,7 @@ its that it has become an integral component of the Emacs ecosystem.
 With this, the format has seen support for many tools -- from calendar
 to todo lists and READMEs to DevOps, it's flexible enough to be used
 anywhere -- and thrives in the right ecosystem.
+<https://github.com/mengwong/org-asana> sync org mode and asana
+<https://github.com/Kinneyzhang/gkroam> lightweight roam replica for org
+<https://github.com/jethrokuan/org-capture-bot> bot to send things to org capture
+<https://github.com/io12/org-fragtog> view latex fragments after exiting them with cursor

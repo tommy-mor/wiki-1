@@ -28,3 +28,6 @@ https://www.reddit.com/r/vim/comments/hxn5ue/how_do_i_use_macros_when_i_have_var
 https://www.reddit.com/r/vim/comments/hwdehp/vim_osc_livecoding/ livecoding in vim
 https://www.reddit.com/r/vim/comments/hy3yma/what_is_the_best_leader_key/ finding the best leader key
 https://app.getpocket.com/read/3056881828 arbitrary variables in vimrcs
+https://github.com/mhinz/vim-signify show a diff with vim sign column
+https://github.com/francoiscabrol/ranger.vim rangerinteraction inside of vim
+https://github.com/huyvohcmc/atlas.vim colorful vim theme?

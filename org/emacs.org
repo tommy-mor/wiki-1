@@ -50,7 +50,12 @@ https://github.com/cpitclaudel/quick-peek peek at a window inline!
 https://github.com/legalnonsense/elgantt gantt chart (??) in org
 https://github.com/progfolio/doct declarative format for org capture templates
 https://github.com/jeremy-compostella/org-msg minor mode for replying to outlook in nice outlook html
+- [[https://github.com/NicolasPetton/Indium][Indium]] ::[[file:javascript.org][JavaScript]] development library
+https://github.com/davazp/graphql-mode gql mode for emacs
+https://github.com/lassik/emacs-format-all-the-code autoformat source code for many languages
 
+https://github.com/ubolonton/emacs-tree-sitter emacs bindings for tree sitter parsing
+https://github.com/charignon/github-review github code review in emacs
 * Links
 [[https://www.youtube.com/watch?v=KdcXu_RdKI0&feature=youtu.be][getting more out of org-capture]]
 [[https://www.emacswiki.org/emacs/KeyChord][KeyChord]] :: binding commands to combinations of keystrokes
@@ -67,7 +72,6 @@ https://www.emacswiki.org/emacs/ExampleConfigurations
 https://github.com/munen/emacs.d
 https://github.com/jhamrick/emacs
 
-https://www.reddit.com/r/vim/comments/h8pgor/til_conceal_in_vim/ -- concealing plaintext symbols with glyphs
 https://www.reddit.com/r/emacs/comments/i09ncw/discussion_using_emacsorgmode_to_manage_life/ using org mode to manage your life
 https://www.reddit.com/r/emacs/comments/hxu9dx/withemacs_what_you_need_to_know_about_hooks/ emacs hooks
 

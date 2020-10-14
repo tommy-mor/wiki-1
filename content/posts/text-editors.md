@@ -1,7 +1,7 @@
 +++
 title = "Text Editors"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T19:11:20+02:00
+lastmod = 2020-10-14T20:48:30+02:00
 slug = "text-editors"
 draft = false
 +++
@@ -22,6 +22,9 @@ Text editors control the way you interface with written content. For programmers
 [Yi](https://github.com/yi-editor/yi)
 : A modular collection of packages for creating your own text editor in Haskell.
 
+[Leo](https://github.com/leo-editor/leo-editor)
+: Python-based personal information manager
+
 
 ## Etc {#etc}
 
@@ -33,9 +36,4 @@ Text editors control the way you interface with written content. For programmers
 interface, very cool livecoding environment
 
 <https://github.com/pitr/config%5Ffiles> mostly vim config
-
-
-## roam {#roam}
-
-this is a new editor point from roam or something
-i am making a new note.:
+<https://github.com/ianstormtaylor/slate> :: customizable framework for building text editors

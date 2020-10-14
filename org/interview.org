@@ -8,3 +8,4 @@ Advice and content for programming interviews and interview prep.
 - [[https://github.com/yangshun/front-end-interview-handbook][Front-end Interview Handbook]] :: Great resources for front-end developer interview questions.
 
 - [[https://seanprashad.com/leetcode-patterns/][Leetcode Patterns]] :: The most common Leetcode questions with links to the corresponding problems. Useful for interview studying and preparation.
+- [[https://github.com/viraptor/reverse-interview][Reverse interview]] :: good questions to ask the company during your interview

@@ -9,7 +9,7 @@ Text editors control the way you interface with written content. For programmers
 https://github.com/LightTable/LightTable
 - [[https://github.com/hundredrabbits/Left][Left]] :: A simple, minimal writing tool without the distractions
 - [[https://github.com/yi-editor/yi][Yi]] :: A modular collection of packages for creating your own text editor in Haskell.
-
+- [[https://github.com/leo-editor/leo-editor][Leo]] :: Python-based personal information manager
 * Etc
 https://www.techradar.com/best/best-text-editors
 https://github.com/LightTable/LightTable -- incredibly powerful editor
@@ -19,6 +19,4 @@ https://metaredux.com/posts/2018/11/09/ciders-orchard-the-heart.html cidet
 interface, very cool livecoding environment
 
 https://github.com/pitr/config_files mostly vim config
-* roam
-this is a new editor point from roam or something
-i am making a new note.:
+https://github.com/ianstormtaylor/slate :: customizable framework for building text editors

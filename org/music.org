@@ -4,6 +4,16 @@
 
 Programming and music.
 
+* Synthesizers
+** OP-1
+[[https://github.com/op1hacks/docs][OP-1 Hacks]]
+[[https://github.com/op1hacks/op1repacker][OP-1 Repacker]]
+** Otto :: Open source OP-1 Adjacent Project
+[[https://github.com/OTTO-project/OTTO][src]]
+
+** Pocket Operators
+[[https://github.com/santiagomarcano/PO-33][learn to use the PO-33]]
+
 * Tools
 - MPD
   https://github.com/drewt/scmus

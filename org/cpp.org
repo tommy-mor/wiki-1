@@ -1,0 +1,11 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: ccpp
+#+TITLE: C, C++
+
+Ancient titan systems programming language.
+
+* Utilities
+[[https://github.com/TheLartians/ModernCppStarter][a template for modern cpp projects]]
+[[https://github.com/katef/libfsm][library for DFAs and friends]]
+[[https://github.com/tevador/RandomX]] proof of work via random code execution
+https://github.com/k-vernooy/tetris simple example tetris terminal app

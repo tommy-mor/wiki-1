@@ -109,3 +109,10 @@ https://app.getpocket.com/read/2558647524 learning nixos easily
 - The Forth programming language (then make lots of example programs!)
 - [[https://github.com/jasonhemann/dependently-typed-lang][Jason Hemann's small, dependently typed language]]
 - [[https://m.youtube.com/watch?v=Or_yKiI3Ha4][Matthew Flatt's hygienic macro expander]]
+* IHP
+'batteries included haskell framework'
+https://github.com/digitallyinduced/ihp
+https://github.com/bergmark/feed haskell package for RSS
+https://github.com/cdepillabout/termonad haskell terminal emulator
+https://github.com/AndrasKovacs/setoidtt implementations of systems with setoid type theory
+https://github.com/jaspervdj/websockets yea

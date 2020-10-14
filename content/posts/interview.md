@@ -1,7 +1,7 @@
 +++
 title = "Interview"
 author = ["Jacob Chvatal"]
-lastmod = 2020-09-27T21:17:40+02:00
+lastmod = 2020-10-14T20:42:02+02:00
 slug = "interview"
 draft = false
 +++
@@ -17,3 +17,6 @@ Advice and content for programming interviews and interview prep.
 
 [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 : The most common Leetcode questions with links to the corresponding problems. Useful for interview studying and preparation.
+
+[Reverse interview](https://github.com/viraptor/reverse-interview)
+: good questions to ask the company during your interview

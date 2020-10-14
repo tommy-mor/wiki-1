@@ -1,0 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: racket
+#+TITLE: Racket
+[[https://github.com/Bogdanp/marionette][Control Firefox via the Marionette protocol]]
+[[https://github.com/greghendershott/fear-of-macros][practical guide to racket macros]]

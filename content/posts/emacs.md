@@ -1,7 +1,7 @@
 +++
 title = "Emacs"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T19:19:35+02:00
+lastmod = 2020-10-14T20:47:32+02:00
 slug = "emacs"
 draft = false
 +++
@@ -9,8 +9,8 @@ draft = false
 ### Backlinks {#backlinks}
 
 -   [acl2]({{< relref "acl2" >}})
--   [Vim]({{< relref "vim" >}})
 -   [EXWM]({{< relref "exwm" >}})
+-   [Vim]({{< relref "vim" >}})
 
 Emacs is a fully-featured programming environment.
 
@@ -76,6 +76,14 @@ Spacemacs
 <https://github.com/progfolio/doct> declarative format for org capture templates
 <https://github.com/jeremy-compostella/org-msg> minor mode for replying to outlook in nice outlook html
 
+-   [Indium](https://github.com/NicolasPetton/Indium) ::[JavaScript]({{< relref "javascript" >}}) development library
+
+<https://github.com/davazp/graphql-mode> gql mode for emacs
+<https://github.com/lassik/emacs-format-all-the-code> autoformat source code for many languages
+
+<https://github.com/ubolonton/emacs-tree-sitter> emacs bindings for tree sitter parsing
+<https://github.com/charignon/github-review> github code review in emacs
+
 
 ## Links {#links}
 
@@ -94,7 +102,6 @@ write your own emacs config for better speed
 <https://github.com/munen/emacs.d>
 <https://github.com/jhamrick/emacs>
 
-<https://www.reddit.com/r/vim/comments/h8pgor/til%5Fconceal%5Fin%5Fvim/> -- concealing plaintext symbols with glyphs
 <https://www.reddit.com/r/emacs/comments/i09ncw/discussion%5Fusing%5Femacsorgmode%5Fto%5Fmanage%5Flife/> using org mode to manage your life
 <https://www.reddit.com/r/emacs/comments/hxu9dx/withemacs%5Fwhat%5Fyou%5Fneed%5Fto%5Fknow%5Fabout%5Fhooks/> emacs hooks
 

@@ -14,7 +14,6 @@ Scattered notes on ricing.
     [[https://voidlinux.org/atom.xml][cool bsp config]]
     [[https://voidlinux.org/atom.xml][nighthawks with cool bar]]
     [[http://paulgraham.com/hijack.html][yikes!!]]
-    [
     [[https://www.techmeme.com/][good articles]]
     [[https://www.slowernews.com/][slower news.]]
     [[https://littr.me/about][new social link aggregator.]]
@@ -220,6 +219,7 @@ Scattered notes on ricing.
 
     * try this
     [[https://tudorr.ro/software/windowchef/][i like this website layout, not sure if super relevant]]
+
 * waste
 
 [[https://voidlinux.org/atom.xml][anime smth]]
@@ -456,3 +456,4 @@ https://xn--gckvb8fzb.com/a-nomads-computer/
 * try this
 
 [[https://tudorr.ro/software/windowchef/][i like this website layout, not sure if super relevant]]
+

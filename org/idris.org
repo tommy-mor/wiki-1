@@ -8,3 +8,5 @@ Idris is a fully-featured programming language inspired by Haskell that has full
 https://github.com/jdublu10/pacman a proof that idris is pacman complete, the most important part of a programming language
 https://github.com/joaomilho/awesome-idris :: Idris resources
 https://idris.readthedocs.io/en/latest/tutorial/starting.html :: Starting Idris
+[[https://github.com/idris-hackers/idris-koans][Koans]]: small tidbits of Idris
+[[https://github.com/idris-lang/Idris2][idris 2... you know what that means]]

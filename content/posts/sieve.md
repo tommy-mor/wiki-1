@@ -1,7 +1,7 @@
 +++
 title = "Sieve"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T17:51:39-07:00
+lastmod = 2020-10-14T20:32:54+02:00
 slug = "sieve"
 draft = false
 +++
@@ -185,3 +185,5 @@ The commercial features:
 bibliogram for subscribing to instagram
 invidio for youtube
 <https://github.com/avencera/fast%5Frss> for parsing rss from elixir backend
+<https://github.com/miniflux/miniflux> feed reader with Go
+<https://github.com/zserge/headline> ascetic RSS reader without server. 4kb and beautiful, works offline

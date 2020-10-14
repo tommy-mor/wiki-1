@@ -1,22 +1,15 @@
 +++
 title = "ActivityPub"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:33:04-07:00
+lastmod = 2020-10-14T20:47:12+02:00
 slug = "activitypub"
 draft = false
 +++
 
-<https://raw.githubusercontent.com/w3c/activitypub/gh-pages/activitypub-tutorial.txt>
-how the protocol works
-<https://gohugo.io/> to use
-<https://orgmode.org/manual/Handling-Links.html> handling external links with
-org
-<https://willschenk.com/articles/2019/using%5Forg%5Fmode%5Fin%5Fhugo/> helpful emacs org mode tweaks
+[A good explanation of how the protocol works.](https://raw.githubusercontent.com/w3c/activitypub/gh-pages/activitypub-tutorial.txt)
 
 
-## activitypub research {#activitypub-research}
-
-i believe that using this protocol is the best
+## Research {#research}
 
 1.  host local servers, one tracking each service
 2.  connect to these servers with a locally hosted mastodon client
@@ -37,4 +30,12 @@ i believe that using this protocol is the best
         twitter thing they use to sane default formats to display on mastodon
         (i guess these should be cached for some time period, then...)
 
-[federated social media is the future.](https://pleroma.tilde.zone/main/all)
+[Federated social media is the future.](https://pleroma.tilde.zone/main/all)
+
+
+## Mastodon {#mastodon}
+
+-   An implementation of ActivityPub
+
+[awesome page](https://github.com/tleb/awesome-mastodon)
+[bookwyrm](https://github.com/mouse-reeve/bookwyrm) :: a decentralized reading and reviewing service with activitypub

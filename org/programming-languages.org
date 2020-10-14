@@ -16,13 +16,14 @@
 - [[https://github.com/LuxLang/lux][Lux]] :: A statically typed Lisp-like language for the JVM.
 - [[https://github.com/einaregilsson/While-Language][While]] :: A language used in textbooks such as 'Principles of Program Analysis'.
 - [[https://github.com/kwanghoon/polyrpc][PolyRPC]] :: A 'multi-tier' functional programming language.
+- [[https://github.com/musikinformatik/Steno][Steno]] :: livecoding metalanguage
 * Work
 https://github.com/google/evcxr
 https://github.com/hengestone/lua-languages programming languages targeting lua
-
+https://github.com/jeanqasaur/dsl-syllabus-fall-2016 class on dsls
 * Research
 https://github.com/jdublu10/icfp2020-papers ICFP 2020 conf
-
+https://github.com/melling/ComputerLanguages someone's notes on computer languages
 * Lean
 This'll be factored out when I learn more about Lean.
 https://github.com/uwdb/Cosette automated sql solver
