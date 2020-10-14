@@ -1,7 +1,7 @@
 +++
 title = "Emulation"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T22:16:37-07:00
+lastmod = 2020-10-14T19:12:44+02:00
 slug = "emulation"
 draft = false
 +++

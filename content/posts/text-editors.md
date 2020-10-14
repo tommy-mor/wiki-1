@@ -1,7 +1,7 @@
 +++
 title = "Text Editors"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T22:55:43-07:00
+lastmod = 2020-10-14T19:11:20+02:00
 slug = "text-editors"
 draft = false
 +++
@@ -11,10 +11,16 @@ Text editors control the way you interface with written content. For programmers
 
 ## Work {#work}
 
-[Xi](https://github.com/xi-editor/xi-editor) is a flexible editor with a modular approach to construction; if you implement Xi's protocol, you can use any user interface that calls back to Xi on the backend.
+[Xi](https://github.com/xi-editor/xi-editor)
+: is a flexible editor with a modular approach to construction; if you implement Xi's protocol, you can use any user interface that calls back to Xi on the backend. However, it's plagued with latency issues.
+
 <https://github.com/LightTable/LightTable>
-<https://github.com/hundredrabbits/Left> a writing tool without the distractions
-<https://github.com/yi-editor/yi> The Yi editor is a collection of packages for using haskell to create a text editor.
+
+[Left](https://github.com/hundredrabbits/Left)
+: A simple, minimal writing tool without the distractions
+
+[Yi](https://github.com/yi-editor/yi)
+: A modular collection of packages for creating your own text editor in Haskell.
 
 
 ## Etc {#etc}

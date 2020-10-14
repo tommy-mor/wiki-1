@@ -1,3 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: git
 #+TITLE: Git
 
 Git is a popular version control system.
@@ -21,3 +23,8 @@ Git is a popular version control system.
   Git's own built-in conventions use this form.
 - Wrap at 72 characters
 - Use the body to explain 'what' and 'why' as necessary
+
+* Repositories
+- GitHub :: I use this; Microsoft is bad but the community is good
+- Sourcehut :: Minimal free software repository. I would use this if the developer weren't an egotistical BDFL.
+- Gitea :: Open source git repository; self host it
