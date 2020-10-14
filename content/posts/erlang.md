@@ -1,12 +1,13 @@
 +++
 title = "Erlang"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:42:32-07:00
+lastmod = 2020-10-14T19:17:15+02:00
 slug = "erlang"
 draft = false
 +++
 
-[plz try erlang one of these days](https://www.erlang.org/news/140)
-[heres another one on erlang](https://news.ycombinator.com/item?id=23166554)
+## References {#references}
 
-<https://github.com/happi/theBeamBook> on erlang
+[Erlang 23 Release Notes](https://www.erlang.org/news/140)
+[heres another one on erlang](https://news.ycombinator.com/item?id=23166554)
+[The Beam Book](https://github.com/happi/theBeamBook), a resource for learning Erlang

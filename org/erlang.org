@@ -1,7 +1,8 @@
 #+setupfile:./hugo_setup.org
 #+hugo_slug: erlang
 #+title: Erlang
-[[https://www.erlang.org/news/140][plz try erlang one of these days]]
-[[https://news.ycombinator.com/item?id=23166554][heres another one on erlang]]
 
-https://github.com/happi/theBeamBook on erlang
+* References
+[[https://www.erlang.org/news/140][Erlang 23 Release Notes]]
+[[https://news.ycombinator.com/item?id=23166554][heres another one on erlang]]
+[[https://github.com/happi/theBeamBook][The Beam Book]], a resource for learning Erlang

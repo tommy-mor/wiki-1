@@ -3,14 +3,11 @@
 #+TITLE: Firefox
 
 * Customization
-
 https://github.com/cadejscroggins/tilde browser startpage
 https://www.reddit.com/r/FirefoxCSS/comments/hyq315/update_to_minfox_theme_clean_and_minimal_firefox/ minifox, an updated firefox theme
 https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2FMrOtherGuy%2Ffirefox-csshacks%2Ftree%2Fmaster%2Fchrome firefox css hacks
 https://www.reddit.com/r/FirefoxCSS/comments/hneh2u/a_blurred_transparent_and_modern_looking_theme/ transparent firefox theme
 
 * Other Options
-
 https://github.com/midori-browser/core fast webkit browser
 https://www.reddit.com/r/vim/comments/hyzfgd/what_vim_firefox_plugin_are_you_using/ vim firefox keybindings
-

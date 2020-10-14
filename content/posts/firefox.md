@@ -1,13 +1,10 @@
 +++
 title = "Firefox"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T22:21:42-07:00
+lastmod = 2020-10-14T19:22:21+02:00
 slug = "firefox"
 draft = false
 +++
-
-Firefox is one of two popular browsers, the other being Chrome.
-
 
 ## Customization {#customization}
 

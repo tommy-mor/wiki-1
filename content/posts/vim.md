@@ -1,31 +1,24 @@
 +++
 title = "Vim"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T22:24:16-07:00
+lastmod = 2020-10-14T19:21:55+02:00
 slug = "vim"
 draft = false
 +++
 
-Vim is a text editor with an easily configurable extension language.
-It's most frequently used as a [Terminal UI]({{< relref "terminal_ui" >}}) program,
-but also has a graphical application distribution (Gvim).
+### Backlinks {#backlinks}
 
-Unfortunately, due to the inflexibility of its programming environment,
-it's not as flexible a tool as[ Emacs]({{< relref "emacs" >}}).
+-   [Tmux]({{< relref "tmux" >}})
 
-However, it has a first-class editor-based extension language
-that's written to prioritize text processing and configuration.
-Its extensive, literate keybindings that have made their way
-into every popular text editor as well as many other applications.
+Vim is a text editor with an easily configurable extension language. It's most frequently used as a [TUI]({{< relref "terminal_ui" >}}) program but also has an (aft-used) graphical application distribution (Gvim).
 
-It's one of best text-editing tools in the Unix ecosystem,
-and Vim users often have a library of cli and tui programs that they use
-in conjunction with Vim to facilitate a desktop ecosystem without a GUI.
+I've come to prefer the power of [Emacs]({{< relref "emacs" >}}) but I do miss Vim's performance.
 
-Vim is often preinstalled on Unix systems. If it's unavailable,
-such systems will likely still have vi (or busybox vi), so taking the time
-to learn vim keybindings is worthwhile for their flexibility throuhgout
-programming environments.
+However, it has a first-class editor-based extension language that's written to prioritize text processing and configuration. Its extensive, literate keybindings that have made their way into every popular text editor as well as many other applications.
+
+It's one of best text-editing tools in the Unix ecosystem, and Vim users often have a library of cli and tui programs that they use in conjunction with Vim to facilitate a desktop ecosystem without a GUI.
+
+Vim is often preinstalled on Unix systems. If it's unavailable, such systems will likely still have vi (or busybox vi), so taking the time to learn vim keybindings is worthwhile for their flexibility throughout programming environments.
 
 
 ## Tools {#tools}
@@ -38,6 +31,7 @@ programming environments.
 ## Resources {#resources}
 
 <https://www.reddit.com/r/vim/comments/i1tfux/i%5Fhave%5Ffallen%5Fto%5Fvim/> learning more about vim mappings
+<https://www.reddit.com/r/vim/comments/h8pgor/til%5Fconceal%5Fin%5Fvim/> -- concealing plaintext symbols with glyphs
 
 
 ## Plugins {#plugins}

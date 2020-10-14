@@ -1,5 +1,6 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: formal-spec-languages
 #+TITLE: Formal Spec Langauges
-
 
 * From Hillel Wayne's writing
 A notation to describe the design of a system without implementing it.

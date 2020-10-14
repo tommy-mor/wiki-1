@@ -1,7 +1,7 @@
 +++
 title = "File Systems"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T19:20:55-07:00
+lastmod = 2020-10-14T19:22:14+02:00
 slug = "file-systems"
 draft = false
 +++
@@ -15,3 +15,4 @@ I use ext4 at the moment, but a future install of my operating system will make 
 
 -   <https://github.com/ipfs/awesome-ipfs> interplanetary file system configuration
 -   <https://github.com/edolstra/dwarffs> allows debug tools to automatically look up debug information over the internet
+-   ZFS: Killer
