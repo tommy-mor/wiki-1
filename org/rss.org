@@ -10,3 +10,4 @@ https://www.ragan.com/how-to-create-internal-rss-feeds/ creating internal rss
 feeds for the intranet
 [[https://ideatrash.net/2019/12/proxies-tt-rss-and-newsboat-or-newsbeuter-oh-my.html][link newsboat with tt rss]]
 [[https://tt-rss.org/][rss configuration]]
+https://github.com/RSS-Bridge/rss-bridge

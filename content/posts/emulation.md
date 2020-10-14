@@ -1,7 +1,7 @@
 +++
 title = "Emulation"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T19:12:44+02:00
+lastmod = 2020-10-14T21:30:01+02:00
 slug = "emulation"
 draft = false
 +++
@@ -29,3 +29,5 @@ It's most commonly used to run operating systems inside of others or to play vid
 A technique for getting near-native performance in an emulator.
 <https://www.reddit.com/r/VFIO/comments/hyerum/problem%5Fwith%5Fpci%5Fpassthrough%5Fin%5Fkvmqemu/>
 <https://dominicm.com/gpu-passthrough-qemu-arch-linux/>
+[game boy em](https://github.com/mattrberry/CryBoy)
+[chip8 em in nim](https://github.com/mattrberry/chip-8%5Fnim)

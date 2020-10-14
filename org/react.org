@@ -28,3 +28,5 @@ Program as functionally as possible!
 - [[https://github.com/uber/react-view][React specific component playground]]
 - [[https://github.com/microsoft/fluentui][Fluent UI]] :: Microsoft's UI Framework
 -- [[https://github.com/rhysd/react-vim-wasm][react vim wasm]] :: [[file:vim.org][Vim]] editor embedded in React code
+* Learning
+[[https://pomb.us/build-your-own-react/][build your own react]]

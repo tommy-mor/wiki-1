@@ -1,0 +1,10 @@
+#+TITLE: Bodymod
+
+Body modification research.
+* barcodes
+https://en.m.wikipedia.org/wiki/QR_code
+https://barcode.tec-it.com/en/Aztec
+https://barcode.tec-it.com/en/USPSIMPackage?data=9102805213683062522920 cloning barcodes
+* nfc implants
+https://dangerousthings.com/
+[[https://forum.dangerousthings.com/t/magic-mifare-chips/6696][cloning mifare]]

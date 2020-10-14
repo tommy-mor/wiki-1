@@ -5,6 +5,8 @@
 Cool tricks with CSS.
 
 * Codepens
+https://codepen.io/jh3y/pen/LYNZwGm impossible checkbox
+https://webdevtrick.com/html-css-glitch-effect/
 https://codepen.io/jh3y/pen/yLYXVJa -- snorlax
 https://codepen.io/a-trost/pen/BaoZgaK -- neat animation!
 https://codersblock.com/blog/using-css-to-control-text-selection/ -- using css to control text selection

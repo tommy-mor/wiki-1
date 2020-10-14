@@ -72,3 +72,6 @@ https://github.com/mengwong/org-asana sync org mode and asana
 https://github.com/Kinneyzhang/gkroam lightweight roam replica for org
 https://github.com/jethrokuan/org-capture-bot bot to send things to org capture
 https://github.com/io12/org-fragtog view latex fragments after exiting them with cursor
+https://www.reddit.com/r/orgmode/comments/iqhmd9/i_looked_at_my_notes_from_a_previous_class_for/ latex integrated
+https://blog.polaris64.net/post/emacs-using-org-mode-to-track-exercises/ xercise tracking?
+https://m.youtube.com/watch?feature=youtu.be&t=207&v=fgizHHd7nOo doing more with org

@@ -1,7 +1,7 @@
 +++
 title = "Python"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T20:46:06+02:00
+lastmod = 2020-10-14T21:19:35+02:00
 slug = "python"
 draft = false
 +++
@@ -28,3 +28,6 @@ Python is a small, self-consistent general-purpose programming language.
 
 [forbidden fruit](https://github.com/clarete/forbiddenfruit)
 : allow python to extend built in types
+
+[hy](https://docs.hylang.org/en/stable/)
+: a lisp embedded in python

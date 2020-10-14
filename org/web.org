@@ -68,6 +68,9 @@ built to appreciate the visitor -- they are constructed to make the user a
 customer. Cookies bad! Small blogging good!
 
 https://www.nirandfar.com/hooked/ book on the perils of the modern web, tangentially
+https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html
+http://john.ankarstrom.se/replacing-javascript/ reducing the scope of the web
+[[https://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html]]
 
 * background
 [[https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/][Great work on how browsers work]].

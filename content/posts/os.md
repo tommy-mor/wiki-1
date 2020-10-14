@@ -1,7 +1,7 @@
 +++
 title = "Operating Systems"
 author = ["Jacob Chvatal"]
-lastmod = 2020-09-12T16:07:33+02:00
+lastmod = 2020-10-14T21:32:58+02:00
 slug = "os"
 draft = false
 +++
@@ -17,6 +17,7 @@ There are lots of innovative OS projects but only a few are really used.
 ### Desktop {#desktop}
 
 Aside from Linux, Windows, MacOS and derivatives...
+<https://www.ipredia.org/os/>
 
 [IlluminOS](https://illuminos.org)
 : An operating system that claims to provide advanced system debugging, a next-generation file system, networking and visualization.
@@ -67,6 +68,8 @@ Gentoo
 
 Plan9
 : Defer to [Devine's notes on the subject](https://wiki.xxiivv.com/site/plan9.html).
+
+[Junos OS](https://en.m.wikipedia.org/wiki/Junos%5FOS)
 
 
 ### Mobile {#mobile}

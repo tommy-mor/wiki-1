@@ -1,13 +1,14 @@
 +++
 title = "Org Mode"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T20:53:04+02:00
+lastmod = 2020-10-14T21:28:35+02:00
 slug = "org_mode"
 draft = false
 +++
 
 ### Backlinks {#backlinks}
 
+-   [Rust]({{< relref "rust" >}})
 -   [Emacs]({{< relref "emacs" >}})
 
 Org Mode is a markup language and a part of the Emacs ecosystem.
@@ -87,3 +88,6 @@ anywhere -- and thrives in the right ecosystem.
 <https://github.com/Kinneyzhang/gkroam> lightweight roam replica for org
 <https://github.com/jethrokuan/org-capture-bot> bot to send things to org capture
 <https://github.com/io12/org-fragtog> view latex fragments after exiting them with cursor
+<https://www.reddit.com/r/orgmode/comments/iqhmd9/i%5Flooked%5Fat%5Fmy%5Fnotes%5Ffrom%5Fa%5Fprevious%5Fclass%5Ffor/> latex integrated
+<https://blog.polaris64.net/post/emacs-using-org-mode-to-track-exercises/> xercise tracking?
+<https://m.youtube.com/watch?feature=youtu.be&t=207&v=fgizHHd7nOo> doing more with org

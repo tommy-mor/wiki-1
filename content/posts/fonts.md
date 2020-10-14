@@ -1,7 +1,7 @@
 +++
 title = "Fonts"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-07T23:15:26-07:00
+lastmod = 2020-10-14T21:22:30+02:00
 slug = "fonts"
 draft = false
 +++
@@ -427,3 +427,5 @@ font tutorial
 <https://fontsinuse.com/uses/2291/ableton-website> -- ableton fonts!
 [reading on type defining a brand](https://www.creativebloq.com/features/5-ways-type-can-define-brands)
 <https://glyphsapp.com/> good tool
+
+<http://typography.philipyoungg.com/>

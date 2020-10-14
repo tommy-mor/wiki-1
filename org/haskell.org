@@ -116,3 +116,6 @@ https://github.com/bergmark/feed haskell package for RSS
 https://github.com/cdepillabout/termonad haskell terminal emulator
 https://github.com/AndrasKovacs/setoidtt implementations of systems with setoid type theory
 https://github.com/jaspervdj/websockets yea
+https://aaronguo1996.github.io/project/hoogleplus/ hoogle plus :: search for *combinations* of functions with hoogle!
+https://m.youtube.com/watch?v=FYTZkE5BZ-0 :: make[[file:music.org][Music]]  with haskell from scratch
+https://kowainik.github.io/posts/haskell-mini-patterns haskell mini patterns
