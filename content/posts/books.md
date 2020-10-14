@@ -1,7 +1,7 @@
 +++
 title = "Books"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T22:08:40-07:00
+lastmod = 2020-10-14T13:21:02+02:00
 slug = "books"
 draft = false
 +++
@@ -90,3 +90,11 @@ ten years
 full metal jacket
 cowboy bebop
 samurai champloo
+
+to read:
+
+-   noise
+
+read:
+
+-   blame!

@@ -1,7 +1,7 @@
 +++
 title = "Haskell"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-13T22:30:04+02:00
+lastmod = 2020-10-14T13:30:03+02:00
 slug = "haskell"
 draft = false
 +++
@@ -81,19 +81,27 @@ operating over monads
 
 ### setting up stack {#setting-up-stack}
 
-wget <https://get.haskellstack.org/stable/linux-x86%5F64-static.tar.gz>
-rm -rf linux-x86\_64-static.tar.gz
+```sh
+wget https://get.haskellstack.org/stable/linux-x86_64-static.tar.gz
+rm -rf linux-x86_64-static.tar.gz
 export PATH=$PATH:./s
+```
 
 creating project:
+
+```sh
 stack new Other simple
 stack setup
 getting ncurses5-compat-libs:
+```
 
-[building web apps in haskell](https://medium.com/@saurabhnanda/why-building-web-apps-in-haskell-is-harder-than-it-ought-to-be-c9b13de0be4f)
+-   [Building web apps in haskell](https://medium.com/@saurabhnanda/why-building-web-apps-in-haskell-is-harder-than-it-ought-to-be-c9b13de0be4f). This is outdated, I'm using IHP now!
+
 [ez web server in haskell](https://stackoverflow.com/questions/22620294/minimal-warp-webserver-example)
 [client side apps in haskell](https://www.airpair.com/haskell-tutorial/intro-to-haskell-web-apps)
-[web frameworks for haskell](https://wiki.haskell.org/Web/Frameworks)
+
+-   [web frameworks for haskell](https://wiki.haskell.org/Web/Frameworks)
+
 <https://github.com/raviksharma/bartosz-basics-of-haskell> basics of haskell tutorial
 <https://www.reddit.com/r/haskell/comments/hz4sec/the%5Fgolden%5Frule%5Fof%5Fsoftware%5Fquality/> haskell and software quality
 
@@ -106,15 +114,16 @@ getting ncurses5-compat-libs:
 <https://app.getpocket.com/read/2558647524> learning nixos easily
 
 
-## proofs {#proofs}
+## Proofs {#proofs}
 
-<https://blog.madsbuch.com/proving-stuff-in-haskell/> proving things in haskell
-<https://wiki.haskell.org/Dependent%5Ftype> dependent types in context of haskell (limited support)
-<https://jeltsch.wordpress.com/2012/04/30/dependently-typed-programming-and-theorem-proving-in-haskell/>
+-   [A casual guide to proving things in Haskell](https://blog.madsbuch.com/proving-stuff-in-haskell/)
+-   [Dependent types in the context of Haskell (limited support)](https://wiki.haskell.org/Dependent%5Ftype)
+-   [A more rigorous overview of dependently typed programming in Haskell](https://jeltsch.wordpress.com/2012/04/30/dependently-typed-programming-and-theorem-proving-in-haskell/)
+-   [Haskell libraries and theorem provers](https://wiki.haskell.org/Applications%5Fand%5Flibraries/Theorem%5Fprovers)
 
 
 ## things to remake in haskell (and maybe racket!) {#things-to-remake-in-haskell--and-maybe-racket}
 
--   forth
--   <https://github.com/jasonhemann/dependently-typed-lang>
--   <https://m.youtube.com/watch?v=Or%5FyKiI3Ha4> hygienic macro expander
+-   The Forth programming language (then make lots of example programs!)
+-   [Jason Hemann's small, dependently typed language](https://github.com/jasonhemann/dependently-typed-lang)
+-   [Matthew Flatt's hygienic macro expander](https://m.youtube.com/watch?v=Or%5FyKiI3Ha4)

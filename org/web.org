@@ -65,6 +65,10 @@ social media activation, CMS and user experience. These websites are not
 built to appreciate the visitor -- they are constructed to make the user a
 customer. Cookies bad! Small blogging good!
 
+https://www.nirandfar.com/hooked/ book on the perils of the modern web, tangentially
+
+* background
+[[https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/][Great work on how browsers work]].
 * fun sites
 - [[https://milk.com]] :: This individual is staking their claim over their corner of the internet and doing so strongly. Mimu is a cool collection of programatically generated music demos as well.
 - [[radio.garden]] :: A map of the world with lots of radio stations. Listen in from anywhere!

@@ -1,0 +1,8 @@
+#+TITLE: Exercise
+
+[[https://www.health.harvard.edu/staying-healthy/5-of-the-best-exercises-you-can-ever-do][Harvard Health publishing on best exercises]]
+- Swimming
+- tai chi
+- Strength training
+- Walking
+- Kegel exercise
