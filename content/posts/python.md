@@ -1,7 +1,7 @@
 +++
 title = "Python"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T21:19:35+02:00
+lastmod = 2020-10-14T21:57:53+02:00
 slug = "python"
 draft = false
 +++
@@ -31,3 +31,5 @@ Python is a small, self-consistent general-purpose programming language.
 
 [hy](https://docs.hylang.org/en/stable/)
 : a lisp embedded in python
+
+<https://m.youtube.com/watch?v=u2KZJzoz-qI>

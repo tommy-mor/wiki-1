@@ -5,6 +5,7 @@
 Cool tricks with CSS.
 
 * Codepens
+https://codepen.io/Mamboleoo/pen/MWyNZYr rainbow hypercube
 https://codepen.io/jh3y/pen/LYNZwGm impossible checkbox
 https://webdevtrick.com/html-css-glitch-effect/
 https://codepen.io/jh3y/pen/yLYXVJa -- snorlax

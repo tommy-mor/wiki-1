@@ -1,15 +1,15 @@
 +++
 title = "Vim"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T20:45:23+02:00
+lastmod = 2020-10-14T22:05:01+02:00
 slug = "vim"
 draft = false
 +++
 
 ### Backlinks {#backlinks}
 
--   [Tmux]({{< relref "tmux" >}})
 -   [React]({{< relref "react" >}})
+-   [Tmux]({{< relref "tmux" >}})
 
 Vim is a text editor with an easily configurable extension language. It's most frequently used as a [TUI]({{< relref "terminal_ui" >}}) program but also has an (aft-used) graphical application distribution (Gvim).
 
@@ -47,3 +47,6 @@ Vim is often preinstalled on Unix systems. If it's unavailable, such systems wil
 <https://github.com/mhinz/vim-signify> show a diff with vim sign column
 <https://github.com/francoiscabrol/ranger.vim> rangerinteraction inside of vim
 <https://github.com/huyvohcmc/atlas.vim> colorful vim theme?
+<https://vim.fandom.com/wiki/Editing%5Fremote%5Ffiles%5Fvia%5Fscp%5Fin%5Fvim>
+<https://www.reddit.com/r/vim/comments/h84oiy/list%5Fof%5Fall%5Fvimtips/>
+<https://getpocket.com/redirect?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fvim%2Fcomments%2Fi35lev%2Fi%5Fmade%5Fan%5Fimproved%5Fnerdtree%5Fcalled%5Fchadtree%2F>

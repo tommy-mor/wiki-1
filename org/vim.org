@@ -31,3 +31,6 @@ https://app.getpocket.com/read/3056881828 arbitrary variables in vimrcs
 https://github.com/mhinz/vim-signify show a diff with vim sign column
 https://github.com/francoiscabrol/ranger.vim rangerinteraction inside of vim
 https://github.com/huyvohcmc/atlas.vim colorful vim theme?
+https://vim.fandom.com/wiki/Editing_remote_files_via_scp_in_vim
+https://www.reddit.com/r/vim/comments/h84oiy/list_of_all_vimtips/
+https://getpocket.com/redirect?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fvim%2Fcomments%2Fi35lev%2Fi_made_an_improved_nerdtree_called_chadtree%2F

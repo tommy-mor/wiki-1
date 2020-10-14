@@ -1,7 +1,7 @@
 +++
 title = "Books"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T13:21:02+02:00
+lastmod = 2020-10-14T22:01:31+02:00
 slug = "books"
 draft = false
 +++
@@ -98,3 +98,6 @@ to read:
 read:
 
 -   blame!
+
+<https://www.goodreads.com/book/show/41057294-normal-people>
+<https://www.amazon.com/gp/product/0143122231/ref=as%5Fli%5Ftl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0143122231&linkCode=as2&tag=ucmbread-20&linkId=XIHEULXQQPU7EGO7>

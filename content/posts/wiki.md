@@ -1,7 +1,7 @@
 +++
 title = "Wiki"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T20:54:18+02:00
+lastmod = 2020-10-14T21:53:39+02:00
 slug = "wiki"
 draft = false
 +++
@@ -78,7 +78,6 @@ I've taken inspiration from several others who maintain wikis.
 <https://github.com/nikitavoloboev/knowledge>
 <https://github.com/karlicoss/beepb00p>
 <https://github.com/bennetthardwick/website>
-
 <https://github.com/nikitavoloboev/knowledge> -- i **love** the idea of visualizing the ralations of the notes as well as his rationale
 <https://github.com/aceyoung9/garden>
 <https://github.com/binyamin/eleventy-garden>
@@ -87,6 +86,8 @@ I've taken inspiration from several others who maintain wikis.
 ## Frameworks {#frameworks}
 
 [txtxt is a CLI microblogging service for 'hackers'](https://github.com/buckket/twtxt)
+<https://codeberg.org/Valenoern/bopwiki> microwiki
+<https://blot.im/> blog platform with no interface
 
 
 ## Notes {#notes}
@@ -104,3 +105,4 @@ I've taken inspiration from several others who maintain wikis.
 <https://todaytakeseverything.wordpress.com/2016/09/29/the-bullet-journal-bulletproof/>
 doing things once a day and putting them in a bullet journal or something
 <https://www.reddit.com/r/philosophy/comments/1vn6uk/thoughts%5Fon%5Fthe%5Fmeditations%5Fby%5Fmarcus%5Faurelius/>
+<https://www.veilance.com/gb/en/shop/mens/isogon-mx-jacket>

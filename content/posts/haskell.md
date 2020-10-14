@@ -1,7 +1,7 @@
 +++
 title = "Haskell"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T21:32:21+02:00
+lastmod = 2020-10-14T22:16:51+02:00
 slug = "haskell"
 draft = false
 +++
@@ -140,3 +140,8 @@ getting ncurses5-compat-libs:
 <https://aaronguo1996.github.io/project/hoogleplus/> hoogle plus :: search for **combinations** of functions with hoogle!
 <https://m.youtube.com/watch?v=FYTZkE5BZ-0> :: make[Music]({{< relref "music" >}})  with haskell from scratch
 <https://kowainik.github.io/posts/haskell-mini-patterns> haskell mini patterns
+<https://www.reddit.com/r/haskell/comments/hawgff/any%5Fdevs%5Fhere%5Finterested%5Fin%5Flearning%5Fplutus%5Fand/>
+<https://blog.sigplan.org/2019/12/16/runtime-support-for-multicore-haskell-a-retrospective/>
+icebreaker fpga
+<https://github.com/mikeizbicki/subhask> rewrite of prelude to make numerics fun and fast
+<https://mpickering.github.io//ide/posts/2020-08-04-measuring-memory-size.html> measuring memory usage in haskell

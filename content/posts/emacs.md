@@ -1,7 +1,7 @@
 +++
 title = "Emacs"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T21:20:25+02:00
+lastmod = 2020-10-14T21:58:20+02:00
 slug = "emacs"
 draft = false
 +++
@@ -109,3 +109,4 @@ write your own emacs config for better speed
 <https://magit.vc/manual/forge/Token-Creation.html#Token-Creation> magit has a cool interface for making pull requests, but the documentation does not make clear how fully featured it is...
 
 <https://www.reddit.com/r/emacs/comments/74hetz/emacs%5Feverywhere/> emacs everywhere
+[literate devops with emacs](https://m.youtube.com/watch?v=dljNabciEGg)

@@ -1,7 +1,7 @@
 +++
 title = "JavaScript"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T20:51:04+02:00
+lastmod = 2020-10-14T22:20:09+02:00
 slug = "javascript"
 draft = false
 +++
@@ -137,3 +137,6 @@ The compiler for Javascript.
 <https://github.com/spcask/mdme> :: embed self rendering md content
 <https://github.com/inkandswitch/cambria> bidirectional lenses
 <https://github.com/padenot/ringbuf.js> ring buffers
+<https://github.com/typeorm/typeorm/blob/master/README.md> super flexible js and ts orm that runs anywhere
+phantomjs browser control
+[excellent article on javascript generators](https://github.com/gajus/gajus.com-blog/blob/master/posts/the-definitive-guide-to-the-javascript-generators/index.md)

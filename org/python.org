@@ -13,3 +13,4 @@ Python is a small, self-consistent general-purpose programming language.
 - [[https://github.com/httpie/httpie][httpie]] :: modern, friendly http client
 - [[https://github.com/clarete/forbiddenfruit][forbidden fruit]] :: allow python to extend built in types
 - [[https://docs.hylang.org/en/stable/][hy]] :: a lisp embedded in python
+https://m.youtube.com/watch?v=u2KZJzoz-qI

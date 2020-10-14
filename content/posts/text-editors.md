@@ -1,7 +1,7 @@
 +++
 title = "Text Editors"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T20:48:30+02:00
+lastmod = 2020-10-14T21:55:43+02:00
 slug = "text-editors"
 draft = false
 +++
@@ -37,3 +37,4 @@ interface, very cool livecoding environment
 
 <https://github.com/pitr/config%5Ffiles> mostly vim config
 <https://github.com/ianstormtaylor/slate> :: customizable framework for building text editors
+<https://s.ai/nlws/> nonlinear writing system

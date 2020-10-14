@@ -1,15 +1,16 @@
 +++
 title = "Web Design"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-13T22:01:35+02:00
+lastmod = 2020-10-14T22:15:56+02:00
 slug = "web_design"
 draft = false
 +++
 
 ### Backlinks {#backlinks}
 
--   [Wiki]({{< relref "wiki" >}})
 -   [Fonts]({{< relref "fonts" >}})
+-   [React]({{< relref "react" >}})
+-   [Wiki]({{< relref "wiki" >}})
 
 tags
 : [Design]({{< relref "design" >}}),[ Fonts]({{< relref "fonts" >}})
@@ -64,3 +65,6 @@ Focus on boiling it down to its essentials.
 : communicative colors for browser prototyping.
 
 Y
+<https://cargo.site/>
+[complex reduction](https://www.huffpost.com/entry/complexion-reduction-a-new-trend-in-mobile-design%5Fb%5F577d828fe4b05b4c02fb8b07?test%5Fad=taboola%5Fiframe%5Fmw%5Flife)
+[apple music redesign case study](https://medium.com/startup-grind/i-got-rejected-by-apple-music-so-i-redesigned-it-b7e2e4dc64bf)

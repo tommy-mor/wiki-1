@@ -1,7 +1,7 @@
 +++
 title = "CSS"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T21:22:03+02:00
+lastmod = 2020-10-14T21:45:01+02:00
 slug = "css"
 draft = false
 +++
@@ -11,6 +11,7 @@ Cool tricks with CSS.
 
 ## Codepens {#codepens}
 
+<https://codepen.io/Mamboleoo/pen/MWyNZYr> rainbow hypercube
 <https://codepen.io/jh3y/pen/LYNZwGm> impossible checkbox
 <https://webdevtrick.com/html-css-glitch-effect/>
 <https://codepen.io/jh3y/pen/yLYXVJa> -- snorlax

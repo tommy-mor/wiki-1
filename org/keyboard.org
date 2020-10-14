@@ -317,3 +317,6 @@ one is relative to the
 location on the keyboard, while another is relative to the letter.  i like
 mixing both of these. there should be some system for allowing me to easily
 do the former?
+http://xahlee.info/kbd/most_efficient_keyboard_layout.html the most efficient keyboard layout
+https://forum.colemak.com/topic/2206-planck/
+https://forum.colemak.com/topic/2147-limiting-keyboard-use-to-only-easytoreach-keys/

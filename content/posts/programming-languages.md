@@ -1,7 +1,7 @@
 +++
 title = "Programming Languages"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T21:37:27+02:00
+lastmod = 2020-10-14T22:17:20+02:00
 slug = "programming-languages"
 draft = false
 +++
@@ -58,6 +58,7 @@ Whitespace
 <https://microformats.io/> html dsl in classes to add meaning
 <https://www.puzzlescript.net/> langauge for puzzles!
 <https://frinklang.org/> frink
+<https://www.colm.net/open-source/ragel/> state machine compiler
 <https://www.openpolicyagent.org/docs/latest/policy-language/> policy lang
 <http://inform7.com/> dsl for text based adventures
 <http://ebblang.org/> dsl for physical simulations
@@ -67,6 +68,16 @@ Whitespace
 
 -   also see <https://jrslepak.github.io/publications/>
     <https://tracery.io/> :: simple graphics programming language
+
+<https://www.unisonweb.org/> :: distribured programming language
+<https://faust.grame.fr/>
+<https://en.m.wikipedia.org/wiki/Datalog>
+<http://pepijndevos.nl/2018/10/03/behavior-trees-are-concatenative-programs.html>
+behavior trees
+<http://coconut-lang.org/>
+<https://www.dangermouse.net/esoteric/piet.html>
+<https://github.com/pitr/jj> j impl in nim
+<https://effekt-lang.org/> effekt polymorphism
 
 
 ## Work {#work}
@@ -583,3 +594,6 @@ how efficient can objects be?
 tiny compiler in python!
 <https://blog.sigplan.org/2020/07/29/increasing-the-impact-of-pl-research/>
 a meta article on impactful pl research
+<https://www.edx.org/course/compilers>
+<http://craftinginterpreters.com/>
+<https://github.com/glaretechnologies/winter>

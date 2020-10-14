@@ -1,17 +1,12 @@
 +++
 title = "Mail"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:04:37-07:00
+lastmod = 2020-10-14T21:43:31+02:00
 slug = "mail"
 draft = false
 +++
 
 Checking and interacting with mail.
-
-
-## UI {#ui}
-
-<https://github.com/icyphox/mael> mail client in bash and python
 
 
 ## Etc {#etc}
@@ -27,3 +22,6 @@ email ideas:
 -   fwd these emails to central repo
 -   know exactly what service these emails came from
 -   quick frontend to generate these email addresses/inboxes for subscriptions
+
+<https://stevelosh.com/blog/2012/10/the-homely-mutt/>
+<http://matt.might.net/articles/how-to-email/>

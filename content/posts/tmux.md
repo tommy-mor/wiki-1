@@ -1,7 +1,7 @@
 +++
 title = "Tmux"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T21:54:23-07:00
+lastmod = 2020-10-14T21:41:12+02:00
 slug = "tmux"
 draft = false
 +++
@@ -26,3 +26,4 @@ A tmux plugin that offers pane control and standard pane navigation bindings.
 ## Other Work {#other-work}
 
 [Byobu](https://www.byobu.org/home) claims to be a more fully-featured window manager built on top of tmux that might be more viable as a day to day interface without an X session.
+<https://zserge.com/posts/tmux/> tmux for mortals

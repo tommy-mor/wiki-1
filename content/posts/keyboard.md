@@ -1,7 +1,7 @@
 +++
 title = "Keyboard"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:02:16-07:00
+lastmod = 2020-10-14T21:57:14+02:00
 slug = "keyboard"
 draft = false
 +++
@@ -413,3 +413,6 @@ one is relative to the
 location on the keyboard, while another is relative to the letter.  i like
 mixing both of these. there should be some system for allowing me to easily
 do the former?
+<http://xahlee.info/kbd/most%5Fefficient%5Fkeyboard%5Flayout.html> the most efficient keyboard layout
+<https://forum.colemak.com/topic/2206-planck/>
+<https://forum.colemak.com/topic/2147-limiting-keyboard-use-to-only-easytoreach-keys/>

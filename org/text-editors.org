@@ -20,3 +20,4 @@ interface, very cool livecoding environment
 
 https://github.com/pitr/config_files mostly vim config
 https://github.com/ianstormtaylor/slate :: customizable framework for building text editors
+https://s.ai/nlws/ nonlinear writing system

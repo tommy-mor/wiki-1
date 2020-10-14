@@ -52,13 +52,14 @@ https://github.com/bphenriques/knowledge-base elisp wiki
 https://github.com/nikitavoloboev/knowledge
 https://github.com/karlicoss/beepb00p
 https://github.com/bennetthardwick/website
-
 https://github.com/nikitavoloboev/knowledge -- i *love* the idea of visualizing the ralations of the notes as well as his rationale
 https://github.com/aceyoung9/garden
 https://github.com/binyamin/eleventy-garden
 
 * Frameworks
 [[https://github.com/buckket/twtxt][txtxt is a CLI microblogging service for 'hackers']]
+https://codeberg.org/Valenoern/bopwiki microwiki
+https://blot.im/ blog platform with no interface
 * Notes
 https://www.youtube.com/watch?v=nXgqnYVAzKk&app=desktop note citation system for vim and pandoc
 https://blog.griffin.sh/2020/06/05/how-we-write/ improving language for blogging
@@ -71,3 +72,4 @@ https://dpitt.me/blog/2020/03/zettelkasten/
 https://todaytakeseverything.wordpress.com/2016/09/29/the-bullet-journal-bulletproof/
 doing things once a day and putting them in a bullet journal or something
 https://www.reddit.com/r/philosophy/comments/1vn6uk/thoughts_on_the_meditations_by_marcus_aurelius/
+https://www.veilance.com/gb/en/shop/mens/isogon-mx-jacket

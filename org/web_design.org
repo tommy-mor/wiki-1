@@ -53,3 +53,6 @@ Focus on boiling it down to its essentials.
 - [[http://clrs.cc/][clrs.cc]] :: communicative colors for browser prototyping.
 
 Y
+https://cargo.site/
+[[https://www.huffpost.com/entry/complexion-reduction-a-new-trend-in-mobile-design_b_577d828fe4b05b4c02fb8b07?test_ad=taboola_iframe_mw_life][complex reduction]]
+[[https://medium.com/startup-grind/i-got-rejected-by-apple-music-so-i-redesigned-it-b7e2e4dc64bf][apple music redesign case study]]

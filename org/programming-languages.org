@@ -23,6 +23,7 @@ https://dhall-lang.org/ langauge for system configuration
 https://microformats.io/ html dsl in classes to add meaning
 https://www.puzzlescript.net/ langauge for puzzles!
 https://frinklang.org/ frink
+https://www.colm.net/open-source/ragel/ state machine compiler
 https://www.openpolicyagent.org/docs/latest/policy-language/ policy lang
 http://inform7.com/ dsl for text based adventures
 http://ebblang.org/ dsl for physical simulations
@@ -31,6 +32,15 @@ http://optlang.org/ embedded lang for nonlinear least squares optimization
 https://hackage.haskell.org/package/accelerate embedded lang for array processing
 - also see https://jrslepak.github.io/publications/
   https://tracery.io/ :: simple graphics programming language
+https://www.unisonweb.org/ :: distribured programming language
+https://faust.grame.fr/
+https://en.m.wikipedia.org/wiki/Datalog
+http://pepijndevos.nl/2018/10/03/behavior-trees-are-concatenative-programs.html
+behavior trees
+http://coconut-lang.org/
+https://www.dangermouse.net/esoteric/piet.html
+https://github.com/pitr/jj j impl in nim
+https://effekt-lang.org/ effekt polymorphism
 * Work
 https://hmc-cs111-fall2016.github.io/ class on DSLs
 https://github.com/google/evcxr
@@ -465,3 +475,6 @@ http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html cool project for a
 tiny compiler in python!
 https://blog.sigplan.org/2020/07/29/increasing-the-impact-of-pl-research/
 a meta article on impactful pl research
+https://www.edx.org/course/compilers
+http://craftinginterpreters.com/
+https://github.com/glaretechnologies/winter

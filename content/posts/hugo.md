@@ -1,7 +1,7 @@
 +++
 title = "Hugo"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T22:01:42-07:00
+lastmod = 2020-10-14T22:16:16+02:00
 slug = "hugo"
 draft = false
 +++
@@ -18,3 +18,6 @@ Hugo is the static site generator I use to maintain my web spaces, including thi
 ## Tools {#tools}
 
 [Math Typesetting](https://themes.gohugo.io//theme/hugo-theme-codex/blog/math-typesetting/)
+[Org mode tweaks for using it in Hugo](https://willschenk.com/articles/2019/using%5Forg%5Fmode%5Fin%5Fhugo/)
+<https://github.com/lopes/zola.386> zola killer 90s theme
+<https://www.youtube.com/watch?v=LCdG6KPE35M&app=desktop>

@@ -10,3 +10,5 @@ Hugo is the static site generator I use to maintain my web spaces, including thi
 * Tools
 [[https://themes.gohugo.io//theme/hugo-theme-codex/blog/math-typesetting/][Math Typesetting]]
 [[https://willschenk.com/articles/2019/using_org_mode_in_hugo/][Org mode tweaks for using it in Hugo]]
+https://github.com/lopes/zola.386 zola killer 90s theme
+https://www.youtube.com/watch?v=LCdG6KPE35M&app=desktop

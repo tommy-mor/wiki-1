@@ -3,8 +3,10 @@
 #+TITLE: Music
 
 Programming and music.
-
 * Synthesizers
+** Online
+https://synth.playtronica.com/
+https://midi.city/
 ** OP-1
 [[https://github.com/op1hacks/docs][OP-1 Hacks]]
 [[https://github.com/op1hacks/op1repacker][OP-1 Repacker]]
@@ -17,7 +19,8 @@ Programming and music.
 * Tools
 - MPD
   https://github.com/drewt/scmus
-
+[[https://m.youtube.com/watch?v=3jxcKPoi5Kc][use game boy as midi synthesizer]]
+http://nanoloop.com/mono/index.html nanoloop synth
 * Notes
 ncmpcpp is an mpt client, the frontend for mpd
 

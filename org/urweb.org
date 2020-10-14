@@ -19,3 +19,4 @@ Of course, once you're familiar with using the ecosystem, go back to the referen
 [[https://github.com/urweb/urweb][the Urweb repository]]
 [[http://www.impredicative.com/ur/demo/][the main demo as provided in the repo]]
 [[http://frigoeu.github.io/urweb1.html][a great writeup on why urweb is worth trying]]
+http://expdev.net/urtutorial/ decent tutorial

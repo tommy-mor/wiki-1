@@ -86,3 +86,5 @@ http://john.ankarstrom.se/replacing-javascript/ reducing the scope of the web
 - [[http://endless.horse/][hoooooooooooooooooooooooooooooooooo]]
 https://meowis.ms/handshake.html handshake: forming a namespace system for the decentralized web. we don't own our own domains!
 https://github.com/auchenberg/volkswagen the best way to pass tests
+https://yarmo.eu/blog/no-io-yes-xyz
+https://github.com/luigimannoni/webxr-earthday webxr of earth day
