@@ -2,5 +2,5 @@
 
 Research learning to design logos.
 
-[[file:people/100_rabbits.org][100 Rabbits]]' tool, Dotgrid, is a great minimal logo design tool.
+[[file:100_rabbits.org][100 Rabbits]]' tool, Dotgrid, is a great minimal logo design tool.
 [[https://m.youtube.com/watch?v=ab3Sy-HnUB0][Logo design mini crash course]]. Not sure if this aligns with my personal sensibilities but it's a good overview of the industry.
