@@ -1,0 +1,39 @@
+#+TITLE: Blogs
+
+blogs with multiple topics, cool people, disorganized things
+https://utdemir.com/
+http://christophermeiklejohn.com/
+https://www.reddit.com/r/selfimprovement/comments/i41u4y/my_ultimate_guide_to_mental_strength/ some bullshit
+https://michel.steuwer.info/
+http://uwplse.org/
+https://www.cs.cornell.edu/courses/cs7491/2020sp/
+https://www.cs.cornell.edu/courses/cs6120/2019fa/
+https://andrewblinn.com/
+
+[[https://ifreund.xyz][Isaac Freund]]
+[[https://miles.land][R. Miles
+https://aturon.github.io/about About Aaron]]
+[[https://lindseykuper.livejournal.com/383642.html][What the firsst half of grad school was like]]
+[[https://izbicki.me][hello world!]]
+[[https://linus.zone/dev][Linus&#0]]
+[[https://rachitnigam.com][Rachit Nigam]]
+[[http://alexwong.tech][Home]]
+[[https://capra.cs.cornell.edu/ugresearch.html][Undergraduate Research]]
+[[http://cs.cornell.edu/~asampson][Adrian Sampson]]
+[[ https://reddit.com/r/ocaml/comments/i31lhf/multicore_ocaml_july_2020 ][Multicore OCa]]
+[[https://boarders.github.io][Callan McGil]]
+[[https://boarders.github.io/posts/locally-nameless][Locally Nameless]]
+[[https://memory-metadata.livia-foldes.com][memory metadata]]
+[[https://guzey.com][Alexey Guzey]]
+[[ https://enandini.com/projects/LDA_Topic_Modeling.html ][LDA_Topic_Model]]
+[[https://cs.au.dk/~amoeller/spa][Static Program Analys]]
+[[ https://mobile.twitter.com/johnregehr/status/1290337031411777537 ][John Regehr]]
+[[ https://mobile.twitter.com/dennybritz/status/1290204344281780225 ][Denny Britz]]
+[[https://github.com/rntz/datafun][rntz/dataf]]
+[[https://thesephist.com/projects][Projects]]
+[[https://thesephist.com][Recents
+[[ https://galois.com/blog/2018/07/vellvm-verifying-the-llvm ][Vellvm – Verifyin]]
+[[https://github.com/richardanaya/mochi][Mochi 🍡]]
+[[ https://github.com/richardanaya/pinephone-cairo-game-starter ][pinephone-cai
+[[https://nexdock.com/touch][Introducing the ne]]
+[[https://raku.org][The Raku Programmin]]
