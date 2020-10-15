@@ -1,7 +1,7 @@
 +++
 title = "Git"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T20:51:56+02:00
+lastmod = 2020-10-15T13:01:13+02:00
 slug = "git"
 draft = false
 +++
@@ -60,3 +60,12 @@ github organization:
 -   - and anotherorg file for misc. research ?? i will have to see how my research is used
 
 <https://danieltakeshi.github.io/2017/07/15/how-i-organize-my-github-repositories/>
+
+
+## Rewriting {#rewriting}
+
+It's a good idea to reformat commits to make them more readable.
+
+```sh
+git reset HEAD~${number of commits to go back}
+```

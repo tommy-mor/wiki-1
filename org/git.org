@@ -37,3 +37,9 @@ github organization:
 - - that is, an org file in each project for the research notes pertaining to that project,
 - - and anotherorg file for misc. research ?? i will have to see how my research is used
 https://danieltakeshi.github.io/2017/07/15/how-i-organize-my-github-repositories/
+
+* Rewriting
+It's a good idea to reformat commits to make them more readable.
+#+begin_src sh
+git reset HEAD~${number of commits to go back}
+#+end_src
