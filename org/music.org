@@ -3,6 +3,7 @@
 #+TITLE: Music
 
 Programming and music.
+
 * Synthesizers
 ** Online
 https://synth.playtronica.com/
@@ -43,9 +44,7 @@ goto https://mopidy.com/ext/spotify/#authentication and authenticate
 its unclear how i can even search with this interface!!
 
 ** idea: dishwasher with auto soap dispenser. duh
-
-[[Displaying art with
-ncmcpp][https://github.com/ngynLk/dotfiles/tree/master/.ncmpcpp]]
+[[https://github.com/ngynLk/dotfiles/tree/master/.ncmpcpp][Displaying art with ncmcpp]]
 
 [[https://wiki.znc.in/ZNC][configure irc bouncer so that irc clients can stay in session]]
 

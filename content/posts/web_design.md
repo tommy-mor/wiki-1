@@ -1,7 +1,7 @@
 +++
 title = "Web Design"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T22:15:56+02:00
+lastmod = 2020-10-15T22:36:33+02:00
 slug = "web_design"
 draft = false
 +++

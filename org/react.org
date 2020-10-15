@@ -1,3 +1,5 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: react
 #+TITLE: React
 
 React is made by facebook or something.

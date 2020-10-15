@@ -117,7 +117,7 @@ https://github.com/cdepillabout/termonad haskell terminal emulator
 https://github.com/AndrasKovacs/setoidtt implementations of systems with setoid type theory
 https://github.com/jaspervdj/websockets yea
 https://aaronguo1996.github.io/project/hoogleplus/ hoogle plus :: search for *combinations* of functions with hoogle!
-https://m.youtube.com/watch?v=FYTZkE5BZ-0 :: make[[file:music.org][Music]]  with haskell from scratch
+https://m.youtube.com/watch?v=FYTZkE5BZ-0 :: make [[file:./music.org][music]] with haskell from scratch
 https://kowainik.github.io/posts/haskell-mini-patterns haskell mini patterns
 https://www.reddit.com/r/haskell/comments/hawgff/any_devs_here_interested_in_learning_plutus_and/
 https://blog.sigplan.org/2019/12/16/runtime-support-for-multicore-haskell-a-retrospective/

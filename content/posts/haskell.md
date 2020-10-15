@@ -1,7 +1,7 @@
 +++
 title = "Haskell"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T22:16:51+02:00
+lastmod = 2020-10-15T22:35:05+02:00
 slug = "haskell"
 draft = false
 +++
@@ -138,7 +138,7 @@ getting ncurses5-compat-libs:
 <https://github.com/AndrasKovacs/setoidtt> implementations of systems with setoid type theory
 <https://github.com/jaspervdj/websockets> yea
 <https://aaronguo1996.github.io/project/hoogleplus/> hoogle plus :: search for **combinations** of functions with hoogle!
-<https://m.youtube.com/watch?v=FYTZkE5BZ-0> :: make[Music]({{< relref "music" >}})  with haskell from scratch
+<https://m.youtube.com/watch?v=FYTZkE5BZ-0> :: make [music]({{< relref "music" >}}) with haskell from scratch
 <https://kowainik.github.io/posts/haskell-mini-patterns> haskell mini patterns
 <https://www.reddit.com/r/haskell/comments/hawgff/any%5Fdevs%5Fhere%5Finterested%5Fin%5Flearning%5Fplutus%5Fand/>
 <https://blog.sigplan.org/2019/12/16/runtime-support-for-multicore-haskell-a-retrospective/>
