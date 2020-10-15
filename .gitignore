@@ -9,3 +9,4 @@
 /org/work/
 org/private/
 /org/lit/.auctex-auto/
+*/**/*.syncthing*
