@@ -5,6 +5,10 @@ theme = "cortex"
 
 [params]
 email = "jakechvatal@gmail.com"
+time_format = "January 2, 2006"
+enableGitInfo = true
+github_repo = "https://github.com/jakechv/wiki"
+github_subdir="master"
 
 [markup]
   [markup.goldmark]
