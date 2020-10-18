@@ -124,3 +124,5 @@ https://blog.sigplan.org/2019/12/16/runtime-support-for-multicore-haskell-a-retr
 icebreaker fpga
 https://github.com/mikeizbicki/subhask rewrite of prelude to make numerics fun and fast
 https://mpickering.github.io//ide/posts/2020-08-04-measuring-memory-size.html measuring memory usage in haskell
+* web
+https://github.com/JoeyEremondi/haskelm haskell to elm translation with TemplateHaskell

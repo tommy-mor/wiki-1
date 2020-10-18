@@ -1,7 +1,7 @@
 +++
 title = "JavaScript"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T22:20:09+02:00
+lastmod = 2020-10-18T20:21:36+02:00
 slug = "javascript"
 draft = false
 +++
@@ -127,6 +127,10 @@ The compiler for Javascript.
 
 ## Etc {#etc}
 
+ImmutableJS: Immutable data structures
+Ramda: Better JS functional programming
+Typescript with these two is the de factor pure programming ecosystem
+
 [Organice](https://github.com/200ok-ch/organice) :: Org mode without emacs
 [automerge](https://github.com/automerge/automerge) :: a CRDT that allows concurrent modification
 [Turbolinks](https://github.com/turbolinks/turbolinks) :: framework agnostic way of rendering views on server side and swapping in throuhg a socket
@@ -140,3 +144,4 @@ The compiler for Javascript.
 <https://github.com/typeorm/typeorm/blob/master/README.md> super flexible js and ts orm that runs anywhere
 phantomjs browser control
 [excellent article on javascript generators](https://github.com/gajus/gajus.com-blog/blob/master/posts/the-definitive-guide-to-the-javascript-generators/index.md)
+<https://ionicframework.com/react> apps everywhere with single react code base? seems too good to be true

@@ -1,7 +1,7 @@
 +++
 title = "Logos"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T21:40:10+02:00
+lastmod = 2020-10-18T20:23:48+02:00
 slug = "logos"
 draft = false
 +++
@@ -13,3 +13,4 @@ Research learning to design logos.
 [photoshop over ronin for design](https://100r.co/site/ronin.html)
 <https://icons.mono.company/> free icons for digital products; more formal than material ui
 <https://bgjar.com/> bubble svg background generaotr
+[some cool icon](https://icons.modulz.app/)s with built in react support

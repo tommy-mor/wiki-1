@@ -320,3 +320,4 @@ do the former?
 http://xahlee.info/kbd/most_efficient_keyboard_layout.html the most efficient keyboard layout
 https://forum.colemak.com/topic/2206-planck/
 https://forum.colemak.com/topic/2147-limiting-keyboard-use-to-only-easytoreach-keys/
+[[http://thedarnedestthing.com/rolling%20qmk%20modifiers%20revisited][keyboard modifiers for qmk]]

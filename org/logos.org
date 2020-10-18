@@ -9,3 +9,4 @@ Research learning to design logos.
 [[https://100r.co/site/ronin.html][photoshop over ronin for design]]
 https://icons.mono.company/ free icons for digital products; more formal than material ui
 https://bgjar.com/ bubble svg background generaotr
+[[https://icons.modulz.app/][some cool icon]]s with built in react support

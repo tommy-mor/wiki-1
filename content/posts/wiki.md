@@ -1,7 +1,7 @@
 +++
 title = "Wiki"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T21:53:39+02:00
+lastmod = 2020-10-18T20:12:32+02:00
 slug = "wiki"
 draft = false
 +++
@@ -106,3 +106,6 @@ I've taken inspiration from several others who maintain wikis.
 doing things once a day and putting them in a bullet journal or something
 <https://www.reddit.com/r/philosophy/comments/1vn6uk/thoughts%5Fon%5Fthe%5Fmeditations%5Fby%5Fmarcus%5Faurelius/>
 <https://www.veilance.com/gb/en/shop/mens/isogon-mx-jacket>
+<https://www.srid.ca/689c4a39.html> bulletproof web app for notes; uses reflex frp and obelisk framewrok
+<https://reflex-frp.org/> haskell web framework; uses tech called obsidian. feels very opinionated? not sure whether it is good or not
+<http://shpadoinkle.org/docs/getting-started/index.html> some ui library someone is very passionate about, it is unclear whether it is good or worthwhile

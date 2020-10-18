@@ -25,3 +25,4 @@ Lots of resources suggest that your site, or its critical resources at the least
 There are obvious performance improvements to some actions as well:
 - https://blog.logrocket.com/improve-site-performance-inlining-css/
 - https://www.filamentgroup.com/lab/load-css-simpler/
+[[https://www.matuzo.at/blog/writing-even-more-css-with-accessibility-in-mind-user-preferences/][writing css with accessibility in mind]]

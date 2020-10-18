@@ -1,7 +1,7 @@
 +++
 title = "Ethical Web"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-15T22:37:58+02:00
+lastmod = 2020-10-18T20:27:04+02:00
 slug = "ethical_web"
 draft = false
 +++
@@ -37,3 +37,5 @@ There are obvious performance improvements to some actions as well:
 
 -   <https://blog.logrocket.com/improve-site-performance-inlining-css/>
 -   <https://www.filamentgroup.com/lab/load-css-simpler/>
+
+[writing css with accessibility in mind](https://www.matuzo.at/blog/writing-even-more-css-with-accessibility-in-mind-user-preferences/)

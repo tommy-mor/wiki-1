@@ -73,3 +73,6 @@ https://todaytakeseverything.wordpress.com/2016/09/29/the-bullet-journal-bulletp
 doing things once a day and putting them in a bullet journal or something
 https://www.reddit.com/r/philosophy/comments/1vn6uk/thoughts_on_the_meditations_by_marcus_aurelius/
 https://www.veilance.com/gb/en/shop/mens/isogon-mx-jacket
+https://www.srid.ca/689c4a39.html bulletproof web app for notes; uses reflex frp and obelisk framewrok
+https://reflex-frp.org/ haskell web framework; uses tech called obsidian. feels very opinionated? not sure whether it is good or not
+http://shpadoinkle.org/docs/getting-started/index.html some ui library someone is very passionate about, it is unclear whether it is good or worthwhile

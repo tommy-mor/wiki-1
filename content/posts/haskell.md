@@ -1,7 +1,7 @@
 +++
 title = "Haskell"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-15T22:35:05+02:00
+lastmod = 2020-10-18T20:09:10+02:00
 slug = "haskell"
 draft = false
 +++
@@ -145,3 +145,8 @@ getting ncurses5-compat-libs:
 icebreaker fpga
 <https://github.com/mikeizbicki/subhask> rewrite of prelude to make numerics fun and fast
 <https://mpickering.github.io//ide/posts/2020-08-04-measuring-memory-size.html> measuring memory usage in haskell
+
+
+## web {#web}
+
+<https://github.com/JoeyEremondi/haskelm> haskell to elm translation with TemplateHaskell

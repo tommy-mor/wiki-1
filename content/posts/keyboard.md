@@ -1,7 +1,7 @@
 +++
 title = "Keyboard"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T21:57:14+02:00
+lastmod = 2020-10-18T20:26:23+02:00
 slug = "keyboard"
 draft = false
 +++
@@ -416,3 +416,4 @@ do the former?
 <http://xahlee.info/kbd/most%5Fefficient%5Fkeyboard%5Flayout.html> the most efficient keyboard layout
 <https://forum.colemak.com/topic/2206-planck/>
 <https://forum.colemak.com/topic/2147-limiting-keyboard-use-to-only-easytoreach-keys/>
+[keyboard modifiers for qmk](http://thedarnedestthing.com/rolling%20qmk%20modifiers%20revisited)
