@@ -1,0 +1,14 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: diy
+#+TITLE: Diy
+
+It's important to make as many of the things you consume and use by yourself, or to at least know and understand what's in them.
+
+This prevents us from poisoning our bodies.
+
+This includes processed foods and sanitary products of all sorts, and can also extend to the fabrics we wear.
+
+* Sources
+[[https://grimgrains.com/site/basic_toothpaste.html][Toothpaste recips]]
+[[https://www.cosmopolitan.com/style-beauty/beauty/a28510392/homemade-diy-shampoo/][Simple homemade shampoo]]
+[[https://grimgrains.com/site/home.html#recipes][excellent homemade, vegetarian recipes]]
