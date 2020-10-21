@@ -7,6 +7,9 @@
 :PROPERTIES:
 :ID:       84fdf4e2-8050-40e8-bd93-502d6e260dfa
 :END:
+
+
+
 Websites should be minimal.
 There is no reason to download five megabytes of Javascript to communicate
 my hiring credentials. I shouldn't have to wade through frameworks and dark
@@ -33,10 +36,13 @@ hardware to sufficiently load websites.
 The web doesn't have to be so hostile or expensive to run.
 Focus on boiling it down to its essentials.
 
+https://matthiasott.com/notes/the-thing-with-leading-in-css
+
 * Inspiration
 :PROPERTIES:
 :ID:       3f7f93ab-9bc7-4322-9f3e-15d8efa5b949
 :END:
+
 - [[http://mikhailkhoury.com/][Mikhail Khoury's website]], one I stumbled upon only because he shares
   a last name with Northeastern's Computer Science college, has
   an astoundingly minimal yet well-designed site. It's easy to navigate
@@ -47,13 +53,16 @@ Focus on boiling it down to its essentials.
   minimal, accessible tooling, and have a fantastic design language
   present throughout all of their work. [[file:../people/100_rabbits.org][100 Rabbits]]
 - [[https://www.pentagram.com/work/secondmind][Pentagram]], a design consultancy with a lot of great work. They have lots of mockups and designs to reference.
+
 * Resources
 :PROPERTIES:
 :ID:       919f9e4b-ec6f-404a-9f5c-ee51aa3605d3
 :END:
+
 - [[http://clrs.cc/][clrs.cc]] :: communicative colors for browser prototyping.
 
 Y
 https://cargo.site/
 [[https://www.huffpost.com/entry/complexion-reduction-a-new-trend-in-mobile-design_b_577d828fe4b05b4c02fb8b07?test_ad=taboola_iframe_mw_life][complex reduction]]
 [[https://medium.com/startup-grind/i-got-rejected-by-apple-music-so-i-redesigned-it-b7e2e4dc64bf][apple music redesign case study]]
+

@@ -15,3 +15,4 @@ https://github.com/sunjay/portrayer sample rust ray traceer
 https://github.com/bvaisvil/zenith desktop monitor like top or htop but just better
 [[https://github.com/Geal/nom][nom]] :: parser combinator for rust
 https://github.com/PoiScript/orgize :: parse [[file:org_mode.org][Org Mode]] in rust
+https://rustwasm.github.io/docs/book/game-of-life/introduction.html build conway's game of life with rust, js, webassembly

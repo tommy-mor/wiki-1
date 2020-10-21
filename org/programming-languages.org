@@ -3,7 +3,9 @@
 #+TITLE: Programming Languages
 
 * Languages
+
 - [[https://www.jsoftware.com/#/][J]] :: A high-performance language for data processing and parallel computing.
+- [[https://github.com/zetzit/zz][Z]] :: A dialect for C that's immutable by default, resolves undefined behavior and uses an SMT solver to guarantee reference stability 
 - [[https://chapel-lang.org][Chapel]] :: A parallel programming language that claims to have some novel ideas.
 - [[https://github.com/CatalaLang/catala][Catala]] :: A DSL for representing laws by construction, designed to enable lawyers to certify laws. Interested in formal verification of legal documents, potentially.
 - [[https://raku.org][Raku]] :: A descendent of Perl, it features lots of additional features including fun grammar specifications.
@@ -17,7 +19,9 @@
 - [[https://github.com/einaregilsson/While-Language][While]] :: A language used in textbooks such as 'Principles of Program Analysis'.
 - [[https://github.com/kwanghoon/polyrpc][PolyRPC]] :: A 'multi-tier' functional programming language.
 - [[https://github.com/musikinformatik/Steno][Steno]] :: livecoding metalanguage
+
 ** DSLs
+
 http://bloom-lang.net/bud/
 https://dhall-lang.org/ langauge for system configuration
 https://microformats.io/ html dsl in classes to add meaning
@@ -41,15 +45,21 @@ http://coconut-lang.org/
 https://www.dangermouse.net/esoteric/piet.html
 https://github.com/pitr/jj j impl in nim
 https://effekt-lang.org/ effekt polymorphism
+
 * Work
+
 https://hmc-cs111-fall2016.github.io/ class on DSLs
 https://github.com/google/evcxr
 https://github.com/hengestone/lua-languages programming languages targeting lua
 https://github.com/jeanqasaur/dsl-syllabus-fall-2016 class on dsls
+
 * Research
+
 https://github.com/jdublu10/icfp2020-papers ICFP 2020 conf
 https://github.com/melling/ComputerLanguages someone's notes on computer languages
+
 * Lean
+
 This'll be factored out when I learn more about Lean.
 https://github.com/uwdb/Cosette automated sql solver
 https://github.com/ImperialCollegeLondon/group-theory-game group theory in lean
@@ -143,7 +153,9 @@ do the former?
 
 
 TODO: break this down into more specific topics!
+
 * blurring the curry howard line
+
 https://www.youtube.com/watch?v=jrVPB-Ad5Gc&t=1870s&app=desktop
 works on autonomous vehicles, fun stuff
 
@@ -202,6 +214,7 @@ in agda
 * future reading
 ** prog synth
 ** toy lang
+
 [[https://h.christine.website/][powerful programming language]]
 [[http://willcrichton.net/notes/][type level programming]]
 
@@ -209,9 +222,10 @@ in agda
 
 [[https://www.youtube.com/watch?v=6avJHaC3C2U&app=desktop][the art of code]]
 [[https://pldi20.sigplan.org/details/pldi-2020-papers/65/Question-Selection-for-Interactive-Program-Synthesis][prog synth at pldi]]
-** useful lang
 
+** useful lang
 ** elm
+
 https://elm-lang.org/examples
 https://www.reddit.com/r/gorillaz/comments/g980ui/rock_the_house_animation_by_%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8F%E3%83%A0%E3%83%8F%E3%83%A0/
 -- how do i do animations like this?
@@ -223,28 +237,42 @@ resume for github
 http://mjb.io/ -- wild!
 
 * Programming Languages
+
 useful resources: https://github.com/wilbowma/pl-thesaurus -- too advanced for me
+
 ** Adjunction
+
 Whnen categories are Posets, adjunction is a Galois connection
+
 ** Strong Monad
 ** Monad
+
 Kleisli trible, s4 possibility mdality
 when category is defined as poset, monad is a closure operator
+
 ** Reflection
+
 when categories are posets, this is a galois surjection
+
 ** Right Adjoint
+
 In order theory, right adjoint of Galois connection is upper adjoint
 in abstract interpretation, this is Concretization function
+
 ** Left Adjoint
+
 in order theory: left adjoint of galois connection is lower adjoint
 in abstract interpretation, this is abstract function
-** Galois Connection
 
+** Galois Connection
 * *term rewriting
+
 https://www21.in.tum.de/~nipkow/TRaAT/ -- book benjamin had, it's a description
 of term rewriting problems, universal algebra, unification theory
 https://en.wikipedia.org/wiki/Rewriting
+
 * pl
+
 https://www.reddit.com/r/ProgrammingLanguages/comments/fzu00x/naming_functional_and_destructive_operations/
 https://www.reddit.com/r/haskell/comments/60r9hu/proposal_suggest_explicit_type_application_for/
 https://www.amazon.com/gp/product/1555580416?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1555580416
@@ -313,6 +341,7 @@ http://craftinginterpreters.com/closures.html
 https://jadon.io/blog/row-polymorphism
 
 ** fun languages
+
 https://github.com/adam-mcdaniel/oakc fun alternative to c langauge
 https://github.com/psg-mit/smooth
 http://bloom-lang.net/
@@ -363,7 +392,9 @@ http://blog.hydromatic.net/2020/02/25/morel-a-functional-language-for-data.html
 https://www.reddit.com/r/ProgrammingLanguages/comments/ecc1fo/design_flaws_in_futhark/
 https://github.com/Storyyeller/IntercalScript
 https://vanemden.wordpress.com/2014/06/18/how-recursion-got-into-programming-a-comedy-of-errors-3/
+
 *** haxe!
+
 https://www.reddit.com/r/programming/comments/do220a/haxe_4_has_been_released/
 cross platform language toolkit!
 https://www.reddit.com/r/ProgrammingLanguages/comments/eh1sfy/carpentry_compiler/
@@ -383,30 +414,38 @@ https://www.reddit.com/r/ProgrammingLanguages/comments/g0j1um/simple_but_powerfu
 https://www.reddit.com/r/ProgrammingLanguages/comments/fxrp6e/languages_with_structural_typing/
 https://www.reddit.com/r/ProgrammingLanguages/comments/g0po6x/types_over_strings_extensible_architectures_in/
 https://www.reddit.com/r/dartlang/comments/f4d07x/poll_should_the_angel_framework_be_merged_into_a/
+
 ** verification
+
 https://www.cs.princeton.edu/~appel/certicoq/
 https://vst.cs.princeton.edu/ building verified software
+
 ** parsing
+
 https://www.reddit.com/r/ProgrammingLanguages/comments/dszj7b/parse_dont_validate/
 https://nothings.org/computer/lexing.html -- lexing
 https://softwareengineering.stackexchange.com/questions/338665/when-to-use-a-parser-combinator-when-to-use-a-parser-generator
 https://www.reddit.com/r/perl6/comments/73tjdo/an_outline_of_federico_tomassettis_a_guide_to/
 shunting yard algorithm : used to parse expressions in infix notation !
 in parser generator: .mly file uses infix things with Shunting Yard Algorithm under the hood !!
+
 ** type systems
+
 https://www.typescriptlang.org/docs/handbook/advanced-types.html#index-types-and-index-signatures
 http://reasonableapproximation.net/2019/05/05/hindley-milner.html
 http://prl.ccs.neu.edu/gtp
 https://ncatlab.org/nlab/show/pure+type+system
 https://blog.sigplan.org/2019/10/17/what-type-soundness-theorem-do-you-really-want-to-prove/
 great writeup about pa paper
+
 ** redex
+
 https://www.youtube.com/watch?v=BuCRToctmw0 -- run your research - talk on redex
 https://redex.racket-lang.org/
 a dsl for specifying and debugging operational semantics
 
-
 ** compilers
+
 [[https://en.m.wikipedia.org/wiki/Duff%27s_device][compiler neat thing]]
 [[https://www.youtube.com/watch?v=de8Ak0nY1hA&app=desktop][improving compiler correctness using formal methods]]
 http://www.keystone-engine.org/
@@ -455,11 +494,13 @@ https://www.reddit.com/r/ProgrammingLanguages/comments/e1vv55/c3_a_clike_languag
 https://www.reddit.com/r/ProgrammingLanguages/comments/a0yyfc/plam_for_anyone_exploring_%CE%BBcalculus/
 
 *** pattern matching
+
 https://www.reddit.com/r/ProgrammingLanguages/comments/g1vno3/beginner_resources_for_compiling_pattern_matching/
 https://www.reddit.com/r/ProgrammingLanguages/comments/f4gfum/pattern_matching_in_your_language/
 http://cone.jondgoodwin.com/coneref/refmatch.html
 
 ** static analysis
+
 https://www.reddit.com/r/Coq/comments/tzpb9/webbased_proofbypointing_frontend_to_coq/
 https://hal.inria.fr/hal-01093327
 https://hal.inria.fr/tel-01102401
@@ -469,6 +510,7 @@ https://en.wikipedia.org/wiki/Loop-invariant_code_motion
 https://www.reddit.com/r/ProgrammingLanguages/comments/g1wd0v/but_what_if_we_put_modifiers_after_the_keyword/
 
 ** tss something
+
 https://bellard.org/otcc/
 https://bellard.org/tcc/
 http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html cool project for a
@@ -478,3 +520,4 @@ a meta article on impactful pl research
 https://www.edx.org/course/compilers
 http://craftinginterpreters.com/
 https://github.com/glaretechnologies/winter
+

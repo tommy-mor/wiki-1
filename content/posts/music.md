@@ -1,7 +1,7 @@
 +++
 title = "Music"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-15T22:36:05+02:00
+lastmod = 2020-10-18T20:28:13+02:00
 slug = "music"
 draft = false
 +++
@@ -191,3 +191,4 @@ enthusiasts and music industrial designers!
 
 [inspiration: turning ideas into tracks](https://www.youtube.com/watch?v=ONloOhDLrFU&app=desktop)
 [bitwig: linux daw](https://www.bitwig.com/en/bitwig-studio.html)
+[ZzFXM Tracker synthesizer](https://keithclark.github.io/ZzFXM/tracker/?url=https://raw.githubusercontent.com/keithclark/ZzFXM/master/examples/songs/sanxion.js)

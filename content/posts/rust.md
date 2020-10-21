@@ -1,7 +1,7 @@
 +++
 title = "Rust"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T20:59:39+02:00
+lastmod = 2020-10-18T21:16:22+02:00
 slug = "rust"
 draft = false
 +++
@@ -20,3 +20,4 @@ draft = false
 <https://github.com/bvaisvil/zenith> desktop monitor like top or htop but just better
 [nom](https://github.com/Geal/nom) :: parser combinator for rust
 <https://github.com/PoiScript/orgize> :: parse [Org Mode]({{< relref "org_mode" >}}) in rust
+<https://rustwasm.github.io/docs/book/game-of-life/introduction.html> build conway's game of life with rust, js, webassembly
