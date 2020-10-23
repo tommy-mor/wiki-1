@@ -1,7 +1,7 @@
 +++
 title = "Ethical Web"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-21T23:15:06+02:00
+lastmod = 2020-10-23T10:22:27+02:00
 slug = "ethical_web"
 draft = false
 +++
@@ -16,8 +16,6 @@ The modern web often forces all developers to adhere to more and more specificat
 This is bad abstraction! This process is no different from forcing everyone who **uses** a technology to add specific components to their work rather than taking on this responsibility as the browser.
 
 Of course, information like a robots.txt, a webpage title and these sorts of things should be standardized and mandated by the user -- but there are lots of sensible defaults, like keyboard-navigable websites, that could be applied and later overridden by the user if they don't like these defaults.
-
-Not including these accessible features in a native application that runs these web services leads to substantial bloat and insecure (JavaScript) code execution to emulate accessiblity features that could easily be accepted by the browser, like onMouseKey functionality! What about using tab-enter to navigate links without having to tag said links with specific attributes?
 
 
 ## Web Minimalism {#web-minimalism}

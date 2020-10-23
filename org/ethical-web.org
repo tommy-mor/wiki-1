@@ -11,8 +11,6 @@ This is bad abstraction! This process is no different from forcing everyone who 
 
 Of course, information like a robots.txt, a webpage title and these sorts of things should be standardized and mandated by the user -- but there are lots of sensible defaults, like keyboard-navigable websites, that could be applied and later overridden by the user if they don't like these defaults.
 
-Not including these accessible features in a native application that runs these web services leads to substantial bloat and insecure (JavaScript) code execution to emulate accessiblity features that could easily be accepted by the browser, like onMouseKey functionality! What about using tab-enter to navigate links without having to tag said links with specific attributes?
-
 * Web Minimalism
 ** Size Compression
 There are transpilers and minifying tools, but to best optimize for small websites you might as well roll your own static site generator. I've been using Python's Jinja2 template engine but I'm sure there are better options.
