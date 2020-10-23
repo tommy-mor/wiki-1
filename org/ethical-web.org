@@ -25,6 +25,14 @@ There are obvious performance improvements to some actions as well:
 - https://www.filamentgroup.com/lab/load-css-simpler/
 [[https://www.matuzo.at/blog/writing-even-more-css-with-accessibility-in-mind-user-preferences/][writing css with accessibility in mind]]
 * Accessibility
+** Resources
+- REact ESLint Plugin
+- Axe-core (+Storybook a11y addon): checks rendered HTML for accessibility; browser extensions and react integrations are both available
+- [[https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb/related][Spectrum]]: browser extension to examine how those with different color vision deficiencies will view the application
+- Tab through you application! Make sure that the tab key proceeds in an order that makes sense. A 'skip navigation' link should appear the first time the 'Tab' key is pressed (a la GitHub) to enable users to tab through the relevant content rather than the heading.
+- Always try to zoom to 200%; many users use the web this way! The size should behave in exactly the same way.
+- Use a screen reader to browse. This will ensure that your semantic markup, interactive elements and other utilities are up to spec.
+- Open content in browser reading mode; ensure that the minimum viable amount of content is available.
 ** WCAG Standard
 *** Text
 - All non-text content must have a visible text alternative.
@@ -97,3 +105,4 @@ There are obvious performance improvements to some actions as well:
 [[https://www.smashingmagazine.com/2015/02/designing-digital-technology-for-the-elderly/][same thing]]
 [[http://assets.aarp.org/www.aarp.org_/articles/research/oww/AARP-50Sites.pdf][AARP Site Accessibility]]
 [[https://www.iso.org/accessing-my-world.html][ISO: Accessing the World]]
+[[https://blog.sapegin.me/all/accessibility-testing/][A myriad of accessibility testing tips, links, resources]]

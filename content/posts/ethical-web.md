@@ -1,7 +1,7 @@
 +++
 title = "Ethical Web"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-23T10:22:27+02:00
+lastmod = 2020-10-24T01:20:53+02:00
 slug = "ethical_web"
 draft = false
 +++
@@ -40,6 +40,17 @@ There are obvious performance improvements to some actions as well:
 
 
 ## Accessibility {#accessibility}
+
+
+### Resources {#resources}
+
+-   REact ESLint Plugin
+-   Axe-core (+Storybook a11y addon): checks rendered HTML for accessibility; browser extensions and react integrations are both available
+-   [Spectrum](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb/related): browser extension to examine how those with different color vision deficiencies will view the application
+-   Tab through you application! Make sure that the tab key proceeds in an order that makes sense. A 'skip navigation' link should appear the first time the 'Tab' key is pressed (a la GitHub) to enable users to tab through the relevant content rather than the heading.
+-   Always try to zoom to 200%; many users use the web this way! The size should behave in exactly the same way.
+-   Use a screen reader to browse. This will ensure that your semantic markup, interactive elements and other utilities are up to spec.
+-   Open content in browser reading mode; ensure that the minimum viable amount of content is available.
 
 
 ### WCAG Standard {#wcag-standard}
@@ -137,3 +148,4 @@ There are obvious performance improvements to some actions as well:
 [same thing](https://www.smashingmagazine.com/2015/02/designing-digital-technology-for-the-elderly/)
 [AARP Site Accessibility](http://assets.aarp.org/www.aarp.org%5F/articles/research/oww/AARP-50Sites.pdf)
 [ISO: Accessing the World](https://www.iso.org/accessing-my-world.html)
+[A myriad of accessibility testing tips, links, resources](https://blog.sapegin.me/all/accessibility-testing/)
