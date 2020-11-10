@@ -390,3 +390,5 @@ teaching a child
 - society, media, pol system
 - learning second language
 programming comes later. lessons, then foster them.
+* finding optimal pricing strategy
+http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/

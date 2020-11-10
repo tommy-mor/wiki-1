@@ -1,0 +1,5 @@
+* Jean Yang
+
+https://blog.sigplan.org/2020/10/27/whats-the-role-of-developer-experience-in-programming-languages-research/
+excellent article on assessing dev experience and getting concrete info from it
+
