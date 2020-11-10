@@ -1,20 +1,19 @@
-
-  {:journal-basis "daily" 
+{:journal-basis "daily" 
 
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
-           :name ""
-           :alias ""
+           :name "Jacob Chvatal"
+           :alias "jakeisnt"
            ;; your twitter handle
-           :twitter ""
+           :twitter "@jakeissnt"
            ;; description supports both hiccup and html
-           :description ""}
+           :description "jake.isnt.online"}
 
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd
  ;; need to use Markdown for some projects.
- ;; :preferred-format ""
+ :preferred-format "org"
 
  ;; Git settings
  :git-pull-secs 60
