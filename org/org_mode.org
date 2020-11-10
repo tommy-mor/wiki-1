@@ -21,6 +21,7 @@ The structure of an org-mode file is intuitive.
 
 It supports several flavors of text:
 #+begin_src org
+
 ,*bold*, /italic/, _underlined_, +strikethrough+, =monospace=.
 
 Links are rendered [[https://jacob.chvatal.com][with description]]
@@ -60,7 +61,6 @@ print("Sometimes...")
 | Native      | Support!     |
 
 It has a single standard, and isn't a 'flavor' of markdown or rst!
-
 * Plugins
 The best part about org mode isn't its simplicity and flexibility --
 its that it has become an integral component of the Emacs ecosystem.
