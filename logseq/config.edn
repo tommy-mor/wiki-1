@@ -7,13 +7,13 @@
            ;; your twitter handle
            :twitter "@jakeissnt"
            ;; description supports both hiccup and html
-           :description "jake.isnt.online"}
+           :description "<a href="http://jake.isnt.online">jake.isnt.online</a>}
 
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd
  ;; need to use Markdown for some projects.
- :preferred-format "org"
+ :preferred-format "Org"
 
  ;; Git settings
  :git-pull-secs 60
@@ -22,7 +22,7 @@
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
- :hidden [/content]
+ :hidden ["/content"]
 
  ;; When creating the new journal page, the app will use your template content here.
  ;; Example for Markdown users: "## [[Work]]\n###\n## [[Family]]\n###\n
