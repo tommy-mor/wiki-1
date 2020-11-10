@@ -10,7 +10,12 @@ The modern web often forces all developers to adhere to more and more specificat
 This is bad abstraction! This process is no different from forcing everyone who *uses* a technology to add specific components to their work rather than taking on this responsibility as the browser.
 
 Of course, information like a robots.txt, a webpage title and these sorts of things should be standardized and mandated by the user -- but there are lots of sensible defaults, like keyboard-navigable websites, that could be applied and later overridden by the user if they don't like these defaults.
-
+* Resource Usage
+** Resources
+- [[https://www.websitecarbon.com/][Website Carbon Calculator]]
+- [[https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/][This Website is killing the planet]]
+- [[https://kevq.uk/how-local-fonts-can-save-the-environment][go green with local fonts]]
+- [[https://buttondown.email/hillelwayne/archive/no-your-clean-code-wont-save-the-planet/][no, your clean code won't save the planet]]
 * Web Minimalism
 ** Size Compression
 There are transpilers and minifying tools, but to best optimize for small websites you might as well roll your own static site generator. I've been using Python's Jinja2 template engine but I'm sure there are better options.

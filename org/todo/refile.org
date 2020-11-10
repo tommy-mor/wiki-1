@@ -1221,3 +1221,4 @@ https://github.com/semi-technologies/weaviate search graphql
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
 the history of http
 to bitwarden
+https://ziglearn.org/ learn zig

@@ -1,7 +1,7 @@
 +++
 title = "Books"
 author = ["Jacob Chvatal"]
-lastmod = 2020-11-10T08:28:40+01:00
+lastmod = 2020-11-10T15:25:50+01:00
 slug = "books"
 draft = false
 +++
@@ -97,9 +97,37 @@ to read:
 
 <https://www.goodreads.com/book/show/41057294-normal-people>
 <https://www.amazon.com/gp/product/0143122231/ref=as%5Fli%5Ftl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0143122231&linkCode=as2&tag=ucmbread-20&linkId=XIHEULXQQPU7EGO7>
+<http://atulgawande.com/book/being-mortal/> being mortal:: atul gawande, surgery, medicine
+<https://www.goodreads.com/book/show/769712.Palestine> palestine: joe sacco
+<https://www.goodreads.com/book/show/16982.Marvels> kurt busiek: marvels
+<https://www.goodreads.com/book/show/118944.American%5FBorn%5FChinese> gene luen yang: american born chinese
+<https://www.goodreads.com/book/show/34072.Jimmy%5FCorrigan> Jimmy Corrigan: the smartest kid on earth. chris ware
+ghost world
+<https://www.goodreads.com/book/show/38333.Black%5FHole> charles burns: black hole
+<https://www.goodreads.com/book/show/6088007-neuromancer> william gibson: neuromancer
+
+<https://www.goodreads.com/book/show/297627.The%5FLeague%5Fof%5FExtraordinary%5FGentlemen%5FVol%5F1>  the league of extraordinary gentlemen. marvel anti-heroes, but with historical figures we already believe to be the good guys. similar to alan moore's watchman evaulation of the anti hero, but sets you up with preconceived notions of his subjects
+<https://www.goodreads.com/book/show/96358.Batman> batman the killing joke
+<https://www.goodreads.com/book/show/22416.Transmetropolitan%5FVol%5F1> transmetropolitan, a journalist dragged back into the thick of it
+<https://en.m.wikipedia.org/wiki/Gon%5F(manga)> manga for kids about a dinosaur navigating the world : ' )
+<https://myanimelist.net/manga/664/Akira> akira, duh
+<https://en.m.wikipedia.org/wiki/Mushishi>
+<https://myanimelist.net/manga/336/GTO> gto
+![](https://en.m.wikipedia.org/wiki/File:Berserk%5Fvol01.jpg) berserk i guess
+<https://www.goodreads.com/book/show/59960.Batman>
+<https://www.goodreads.com/book/show/156534.Y> Y, the last man
+<https://nogunslife.fandom.com/wiki/No%5FGuns%5FLife%5F(manga)> No Guns Life
+<https://en.m.wikipedia.org/wiki/Dorohedoro>
 
 
 ## favorites {#favorites}
 
 blame!
-scott pilgrim
+
+
+### Scott Pilgrim {#scott-pilgrim}
+
+Such a joyful adventure! Follows a kid out of college and two old to grow up as he battles his new girlfriend's evil exes and navigates regrets, living without limits and his future. Thematic exploration changes with the art style.
+
+
+## others i have read {#others-i-have-read}
