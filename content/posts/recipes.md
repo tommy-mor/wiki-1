@@ -1,7 +1,7 @@
 +++
 title = "Recipes"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-01T23:17:57-07:00
+lastmod = 2020-11-10T18:52:03+01:00
 slug = "recipes"
 draft = false
 +++
@@ -226,3 +226,7 @@ Homemade Soft Pretzels Recipe | Alton Brown | Food Network
 ## mmm {#mmm}
 
 <https://www.allrecipes.com/recipe/17918/focaccia-bread/>
+<https://cookieandkate.com/> good source for vegetarian recipes
+<https://www.ica.se/recept/lussebullar-1047/> saffron bread
+<https://cooking.nytimes.com/68861692-nyt-cooking/2274598-50-vegetarian-dishes-you-can-cook-in-30-minutes-or-fewer?utm%5Fsource=sharetools&utm%5Fmedium=email&utm%5Fcampaign=website>  nyt cooking recipes
+<https://www.maangchi.com/recipe/dubu-jorim> spicy braised tofu

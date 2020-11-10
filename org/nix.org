@@ -127,3 +127,4 @@ https://app.getpocket.com/read/3056078810 nix and music ??
 https://app.getpocket.com/read/875290314 real time audio with nixos
 
 https://app.getpocket.com/read/2962491016 nixos desktop workflow
+https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html basic git server with nixos

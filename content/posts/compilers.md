@@ -1,7 +1,7 @@
 +++
 title = "Compilers"
 author = ["Jacob Chvatal"]
-lastmod = 2020-08-02T22:25:27-07:00
+lastmod = 2020-11-10T18:43:41+01:00
 slug = "algorithms"
 draft = false
 +++
@@ -22,3 +22,7 @@ They're most commonly used to translate higher level languages like C to lower l
 <https://dl.acm.org/doi/abs/10.1145/512927.512941> first work on verifying and structuring compilers
 <https://hassamuddin.com/blog/reg-alloc/> overview of register allocation
 <https://getpocket.com/redirect?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammingLanguages%2Fcomments%2Fhvs79e%2Ftracing%5Fjit%5Fvs%5Fmethod%5Fjit%5Fwhat%5Fto%5Fchoose%2F> tracing jit vs method jit compilation -- learn the difference!
+
+<https://groups.google.com/g/comp.arch/c/UXEi7G6WHuU/m/Z2z7fC7Xhr8J?pli=1> popcount: the NSA instruction
+<https://vaibhavsagar.com/blog/2019/09/08/popcount/> more on popcount
+<https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/> cool article about whats inside a binary executable

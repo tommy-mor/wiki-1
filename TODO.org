@@ -6,3 +6,9 @@
 - Dependent on CI
 - Allows others to open PRs and edit content from GitHub
   that is then directly added to the site (and incorporated, via CI)
+* TODO Convert links to archive.org references on push
+this way i'll actually have them in the future
+should be part of a CI job or something; maybe locally in the editor? could take a lot of time though.
+* TODO dynamically fetch and insert titles into .org files
+this way i dont have to retype the title, as i do most of the time.
+easier to just go back and change it than to have to manually add the title

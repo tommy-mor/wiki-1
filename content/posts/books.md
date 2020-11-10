@@ -1,7 +1,7 @@
 +++
 title = "Books"
 author = ["Jacob Chvatal"]
-lastmod = 2020-11-10T15:25:50+01:00
+lastmod = 2020-11-10T18:42:41+01:00
 slug = "books"
 draft = false
 +++
@@ -74,6 +74,7 @@ de google the blog
 code as a creative medium :: MIT book
 <https://en.m.wikipedia.org/wiki/Literate%5Fprogramming> -- practice literate
 programming in daily life.
+<https://en.m.wikipedia.org/wiki/Juno%5F(film)> movie not book i guess
 
 <https://moviebarcode.tumblr.com/> cool looks
 

@@ -1,7 +1,7 @@
 +++
 title = "Programming Languages"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T22:17:20+02:00
+lastmod = 2020-11-10T18:57:51+01:00
 slug = "programming-languages"
 draft = false
 +++
@@ -10,6 +10,9 @@ draft = false
 
 [J](https://www.jsoftware.com/#/)
 : A high-performance language for data processing and parallel computing.
+
+[Z](https://github.com/zetzit/zz)
+: A dialect for C that's immutable by default, resolves undefined behavior and uses an SMT solver to guarantee reference stability
 
 [Chapel](https://chapel-lang.org)
 : A parallel programming language that claims to have some novel ideas.
@@ -562,6 +565,7 @@ how efficient can objects be?
 <http://prl.ccs.neu.edu/blog/2020/01/15/the-typed-racket-optimizer-vs-transient/>
 <https://docs.racket-lang.org/ts-guide/index.html>
 <https://www.reddit.com/r/ProgrammingLanguages/comments/f3ekao/i%5Fbuilt%5Fa%5F2d%5Fgridbased%5Fesoteric%5Flanguage%5Fwith%5Fa/>
+<https://esolangs.org/wiki/2014> esolang only working in 2014
 <https://matklad.github.io/2020/04/15/from-pratt-to-dijkstra.html>
 <https://www.reddit.com/r/ProgrammingLanguages/comments/e1vv55/c3%5Fa%5Fclike%5Flanguage%5Fnow%5Fhas%5Fa%5Fdomain/>
 <https://www.reddit.com/r/ProgrammingLanguages/comments/a0yyfc/plam%5Ffor%5Fanyone%5Fexploring%5F%CE%BBcalculus/>
@@ -597,3 +601,7 @@ a meta article on impactful pl research
 <https://www.edx.org/course/compilers>
 <http://craftinginterpreters.com/>
 <https://github.com/glaretechnologies/winter>
+
+<https://www.zinkov.com/posts/2019-02-17-why-program-synthesis/> program synthesis why?
+<https://loglo.app/> turn yaml into cnc
+<https://tixy.land/> fun language for creative code golfing

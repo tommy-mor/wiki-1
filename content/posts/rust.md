@@ -1,7 +1,7 @@
 +++
 title = "Rust"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-18T21:16:22+02:00
+lastmod = 2020-11-10T16:11:42+01:00
 slug = "rust"
 draft = false
 +++
@@ -21,3 +21,5 @@ draft = false
 [nom](https://github.com/Geal/nom) :: parser combinator for rust
 <https://github.com/PoiScript/orgize> :: parse [Org Mode]({{< relref "org_mode" >}}) in rust
 <https://rustwasm.github.io/docs/book/game-of-life/introduction.html> build conway's game of life with rust, js, webassembly
+<https://blog.mgattozzi.dev/rusts-runtime/> rust's runtime
+<https://arzg.github.io/lang/> make a lang, in rust

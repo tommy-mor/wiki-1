@@ -1,14 +1,10 @@
 +++
 title = "Music"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-18T20:28:13+02:00
+lastmod = 2020-11-10T18:38:06+01:00
 slug = "music"
 draft = false
 +++
-
-### Backlinks {#backlinks}
-
--   [Haskell]({{< relref "haskell" >}})
 
 Programming and music.
 
@@ -192,3 +188,4 @@ enthusiasts and music industrial designers!
 [inspiration: turning ideas into tracks](https://www.youtube.com/watch?v=ONloOhDLrFU&app=desktop)
 [bitwig: linux daw](https://www.bitwig.com/en/bitwig-studio.html)
 [ZzFXM Tracker synthesizer](https://keithclark.github.io/ZzFXM/tracker/?url=https://raw.githubusercontent.com/keithclark/ZzFXM/master/examples/songs/sanxion.js)
+<https://codepen.io/kucerajacob/pen/GRqBQNV> drum sequencer with sample pad
