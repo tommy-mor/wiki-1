@@ -21,7 +21,7 @@ Notes on fonts and font design.
 - Gill Snas :: warm british, a bit tall, crisp lines
 - Gotham :: New York signage lettering style.
 https://www.indesignskills.com/inspiration/best-fonts-graphic-designers/
-- Bodoni :: luxe, aspirational look font. more compressed and exaggerated
+** - Bodoni :: luxe, aspirational look font. more compressed and exaggerated
 - Univers :: 'the ultimate modernist font' - incredibly legible, clean, and functiona
 - Lombok :: very cool angular sans-serif font  https://www.behance.net/gallery/17179851/Lombok-typeface
 - Ailerons :: inspired by airplane models (??) https://www.behance.net/gallery/25541553/Ailerons-Typeface
@@ -43,7 +43,6 @@ https://www.indesignskills.com/inspiration/best-fonts-graphic-designers/
 - Perfograma :: entirely dotted, perforated font. not sure how this is useful  https://www.behance.net/gallery/23576901/Perfograma-free-font
 - Arenq :: bold, shaped font with double lines to highlight aspects. https://www.dafont.com/arenq.font
 - Intro :: comfortable, curvy, smooth font https://www.fontfabric.com/fonts/intro/
-
 ** To Investigate
 - https://about.easil.com/best-free-fonts/ -- these fonts are potentially cool as well!
 
