@@ -68,3 +68,4 @@ https://withknown.com/ neat publishing engine that may include gemini code
 [[https://sdf.org/][sdf.org, what is this?]]
 stunnel and xinetd for gemini. gemini is a great content oriented portable
 thing and community
+https://portal.drewdevault.com/x/rawtext.club/social_contract.gmi the social contract of rawtext.club, a prominent gemini community! cool inspiration

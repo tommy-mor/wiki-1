@@ -1,7 +1,7 @@
 +++
 title = "Git"
 author = ["Jacob Chvatal"]
-lastmod = 2020-11-11T08:36:12+01:00
+lastmod = 2020-11-11T08:42:54+01:00
 slug = "git"
 draft = false
 +++
@@ -74,3 +74,4 @@ git reset HEAD~${number of commits to go back}
 ## Tricks {#tricks}
 
 <http://joeyh.name/blog/entry/how%5Fto%5Fpublish%5Fgit%5Frepos%5Fthat%5Fcannot%5Fbe%5Frepublished%5Fto%5Fgithub/> :: cheeky way to abuse DMCA to avoid GitHub using your Git repos
+<https://sourcehut.org/blog/2020-10-29-how-mailing-lists-prevent-censorship/> using the mailing list model over the built-in issue model, and how this naturally federated and local first procedure is superior to github's standard issue approach

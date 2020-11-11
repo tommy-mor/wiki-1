@@ -66,3 +66,6 @@ https://cargo.site/
 [[https://www.huffpost.com/entry/complexion-reduction-a-new-trend-in-mobile-design_b_577d828fe4b05b4c02fb8b07?test_ad=taboola_iframe_mw_life][complex reduction]]
 [[https://medium.com/startup-grind/i-got-rejected-by-apple-music-so-i-redesigned-it-b7e2e4dc64bf][apple music redesign case study]]
 
+https://codepen.io/ge1doot/pen/MWeBPQE very cute pen
+https://matthiasott.com/notes/wicked-design quick thoughts on 'wicked design'
+https://grumpy.website/ a catalogue of terrible user interface design decisions

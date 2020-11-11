@@ -1,7 +1,7 @@
 +++
 title = "Gemini"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T20:25:29+02:00
+lastmod = 2020-11-11T08:43:48+01:00
 slug = "gemini"
 draft = false
 +++
@@ -96,3 +96,4 @@ the history of the web;; much of this should be avoided with gemini!
 [sdf.org, what is this?](https://sdf.org/)
 stunnel and xinetd for gemini. gemini is a great content oriented portable
 thing and community
+<https://portal.drewdevault.com/x/rawtext.club/social%5Fcontract.gmi> the social contract of rawtext.club, a prominent gemini community! cool inspiration

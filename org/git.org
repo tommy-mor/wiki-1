@@ -45,3 +45,4 @@ git reset HEAD~${number of commits to go back}
 #+end_src
 * Tricks
 http://joeyh.name/blog/entry/how_to_publish_git_repos_that_cannot_be_republished_to_github/ :: cheeky way to abuse DMCA to avoid GitHub using your Git repos
+https://sourcehut.org/blog/2020-10-29-how-mailing-lists-prevent-censorship/ using the mailing list model over the built-in issue model, and how this naturally federated and local first procedure is superior to github's standard issue approach

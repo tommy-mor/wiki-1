@@ -1,7 +1,7 @@
 +++
 title = "Text Editors"
 author = ["Jacob Chvatal"]
-lastmod = 2020-11-10T18:52:59+01:00
+lastmod = 2020-11-11T08:45:29+01:00
 slug = "text-editors"
 draft = false
 +++
@@ -39,3 +39,6 @@ interface, very cool livecoding environment
 <https://github.com/ianstormtaylor/slate> :: customizable framework for building text editors
 <https://s.ai/nlws/> nonlinear writing system
 <https://www.maangchi.com/recipe/dubu-jorim> a prototype code explorer!
+<http://www.sci.utah.edu/~nmccurdy/Poemage/> a visualization tool that helps users read
+<http://www.andrewbragdon.com/codebubbles%5Fsite.asp> rethinking ui of IDES: 'codebubbles'
+<http://akkartik.name/about> lots of links on ways to work on advancing program structure

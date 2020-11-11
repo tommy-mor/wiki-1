@@ -1,7 +1,7 @@
 +++
 title = "Hackathon"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-14T19:42:40+02:00
+lastmod = 2020-11-11T08:54:37+01:00
 slug = "hackathon"
 draft = false
 +++
@@ -277,3 +277,24 @@ Think about how I can write about my projects and include them in a portfolio.
 Ideally I link the repositories and the description for the project is pulled from the README of each repository so I don't have to do any additional writing. These READMEs should already include appropriate screenshots, and whatever tool configures the portfolio website should be able to render these. (It could also take the GitHub summary line and make that the headline for the project!)
 
 Perhaps 'experiments' and 'portfolio' are one and the same; perhaps 'experiments' is completely abstract while 'portfolio' is concrete and professional. What's the best way to tackle this?
+
+
+## Idea journal with notes {#idea-journal-with-notes}
+
+1.  very basic android app
+2.  take note
+3.  note recorded with geolocation, some other info
+
+4.  backend for the notes
+5.  plaintext? git?
+
+6.  map viz
+7.  social network features
+8.  federation?
+    use react-leaflet on desktop (!!)
+
+
+## better android launcher {#better-android-launcher}
+
+i like the one im using now but wish it were FOSS
+<https://parallelcodes.com/create-android-launcher-program/> intro tutorial for doingthis

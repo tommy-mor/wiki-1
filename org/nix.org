@@ -128,3 +128,6 @@ https://app.getpocket.com/read/875290314 real time audio with nixos
 
 https://app.getpocket.com/read/2962491016 nixos desktop workflow
 https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html basic git server with nixos
+* cool nixos stuff to do
+https://github.com/grahamc/nixos-config/commit/9161782363b1fab27cffaa0b6432a10b303f3d7c make programs run in their own cgroups; use play/pause to play and pause /programs/.
+https://github.com/sdiehl/dotfiles/blob/master/i3/config good i3 configuration from stephen diehl

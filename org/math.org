@@ -1,0 +1,9 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: math
+
+#+TITLE: Math
+Notes and resources for mathematics.
+
+* Links
+https://mathenchant.wordpress.com/2020/10/17/when-11-equals-0/amp/?__twitter_impression=true
+[[http://jdh.hamkins.org/lectures-on-the-philosophy-of-mathematics-oxford-mt20/][the philosophy of math, from oxford]]

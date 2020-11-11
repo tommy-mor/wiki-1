@@ -1,16 +1,10 @@
 +++
 title = "Web Design"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-18T20:23:19+02:00
+lastmod = 2020-11-11T08:47:46+01:00
 slug = "web_design"
 draft = false
 +++
-
-### Backlinks {#backlinks}
-
--   [Fonts]({{< relref "fonts" >}})
--   [React]({{< relref "react" >}})
--   [Wiki]({{< relref "wiki" >}})
 
 tags
 : [Design]({{< relref "design" >}}),[ Fonts]({{< relref "fonts" >}})
@@ -44,6 +38,8 @@ hardware to sufficiently load websites.
 The web doesn't have to be so hostile or expensive to run.
 Focus on boiling it down to its essentials.
 
+<https://matthiasott.com/notes/the-thing-with-leading-in-css>
+
 
 ## Inspiration {#inspiration}
 
@@ -68,3 +64,7 @@ Y
 <https://cargo.site/>
 [complex reduction](https://www.huffpost.com/entry/complexion-reduction-a-new-trend-in-mobile-design%5Fb%5F577d828fe4b05b4c02fb8b07?test%5Fad=taboola%5Fiframe%5Fmw%5Flife)
 [apple music redesign case study](https://medium.com/startup-grind/i-got-rejected-by-apple-music-so-i-redesigned-it-b7e2e4dc64bf)
+
+<https://codepen.io/ge1doot/pen/MWeBPQE> very cute pen
+<https://matthiasott.com/notes/wicked-design> quick thoughts on 'wicked design'
+<https://grumpy.website/> a catalogue of terrible user interface design decisions

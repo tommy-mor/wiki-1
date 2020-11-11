@@ -1223,3 +1223,4 @@ the history of http
 to bitwarden
 https://ziglearn.org/ learn zig
 [[https://www.inkandswitch.com/local-first.html][local-first software]]
+https://www.welcometothejungle.com/en/collections/behind-the-code podcast on people doing things 'behind the code'

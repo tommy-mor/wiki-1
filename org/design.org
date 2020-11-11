@@ -3,3 +3,6 @@
 #+title: Design
 
 Notes on medium-agnostic design principles.
+
+* Inspiration
+[[https://www.midcenturyhome.com/dieter-rams-music-player-tp1/][dieter rams' braun work]]

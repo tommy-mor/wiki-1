@@ -247,3 +247,18 @@ Ideally I link the repositories and the description for the project is pulled fr
 
 Perhaps 'experiments' and 'portfolio' are one and the same; perhaps 'experiments' is completely abstract while 'portfolio' is concrete and professional. What's the best way to tackle this?
 
+* Idea journal with notes
+1. very basic android app
+- take note
+- note recorded with geolocation, some other info
+
+2. backend for the notes
+- plaintext? git? 
+
+3. map viz
+4. social network features
+5. federation? 
+   use react-leaflet on desktop (!!)
+* better android launcher
+i like the one im using now but wish it were FOSS
+https://parallelcodes.com/create-android-launcher-program/ intro tutorial for doingthis
