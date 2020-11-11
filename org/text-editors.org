@@ -25,3 +25,4 @@ https://www.maangchi.com/recipe/dubu-jorim a prototype code explorer!
 http://www.sci.utah.edu/~nmccurdy/Poemage/ a visualization tool that helps users read
 http://www.andrewbragdon.com/codebubbles_site.asp rethinking ui of IDES: 'codebubbles'
 http://akkartik.name/about lots of links on ways to work on advancing program structure
+https://pharo.org/ editor that's an 'IDE and OS rolled into one' with killer runtime code inspection

@@ -1,7 +1,7 @@
 +++
 title = "Web Design"
 author = ["Jacob Chvatal"]
-lastmod = 2020-11-11T08:47:46+01:00
+lastmod = 2020-11-11T13:44:21+01:00
 slug = "web_design"
 draft = false
 +++
@@ -68,3 +68,4 @@ Y
 <https://codepen.io/ge1doot/pen/MWeBPQE> very cute pen
 <https://matthiasott.com/notes/wicked-design> quick thoughts on 'wicked design'
 <https://grumpy.website/> a catalogue of terrible user interface design decisions
+<https://avanier.now.sh/work.html> love this
