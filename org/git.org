@@ -43,3 +43,5 @@ It's a good idea to reformat commits to make them more readable.
 #+begin_src sh
 git reset HEAD~${number of commits to go back}
 #+end_src
+* Tricks
+http://joeyh.name/blog/entry/how_to_publish_git_repos_that_cannot_be_republished_to_github/ :: cheeky way to abuse DMCA to avoid GitHub using your Git repos

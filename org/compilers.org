@@ -20,3 +20,4 @@ https://getpocket.com/redirect?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammin
 https://groups.google.com/g/comp.arch/c/UXEi7G6WHuU/m/Z2z7fC7Xhr8J?pli=1 popcount: the NSA instruction
 https://vaibhavsagar.com/blog/2019/09/08/popcount/ more on popcount
 https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/ cool article about whats inside a binary executable
+[[https://m.youtube.com/watch?v=yP29TKmK3_o][secure compilation from amal]]

@@ -89,3 +89,7 @@ https://github.com/auchenberg/volkswagen the best way to pass tests
 https://yarmo.eu/blog/no-io-yes-xyz
 https://github.com/luigimannoni/webxr-earthday webxr of earth day
 [[https://runyourown.social/#how-to-run-a-small-social-network-site-for-your-friends][advice on running a small social network]]
+https://now.lectronice.com/ cute personal site
+http://vmchale.com/miscellany very cool person
+
+https://thomasorus.com/home.html cute site using some fun time tracking and management ideas

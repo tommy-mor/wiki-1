@@ -1,7 +1,7 @@
 +++
 title = "Compilers"
 author = ["Jacob Chvatal"]
-lastmod = 2020-11-10T18:43:41+01:00
+lastmod = 2020-11-11T08:30:57+01:00
 slug = "algorithms"
 draft = false
 +++
@@ -26,3 +26,4 @@ They're most commonly used to translate higher level languages like C to lower l
 <https://groups.google.com/g/comp.arch/c/UXEi7G6WHuU/m/Z2z7fC7Xhr8J?pli=1> popcount: the NSA instruction
 <https://vaibhavsagar.com/blog/2019/09/08/popcount/> more on popcount
 <https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/> cool article about whats inside a binary executable
+[secure compilation from amal](https://m.youtube.com/watch?v=yP29TKmK3%5Fo)

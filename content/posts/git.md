@@ -1,7 +1,7 @@
 +++
 title = "Git"
 author = ["Jacob Chvatal"]
-lastmod = 2020-10-15T13:01:13+02:00
+lastmod = 2020-11-11T08:36:12+01:00
 slug = "git"
 draft = false
 +++
@@ -69,3 +69,8 @@ It's a good idea to reformat commits to make them more readable.
 ```sh
 git reset HEAD~${number of commits to go back}
 ```
+
+
+## Tricks {#tricks}
+
+<http://joeyh.name/blog/entry/how%5Fto%5Fpublish%5Fgit%5Frepos%5Fthat%5Fcannot%5Fbe%5Frepublished%5Fto%5Fgithub/> :: cheeky way to abuse DMCA to avoid GitHub using your Git repos

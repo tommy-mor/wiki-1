@@ -16,6 +16,8 @@ Of course, information like a robots.txt, a webpage title and these sorts of thi
 - [[https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/][This Website is killing the planet]]
 - [[https://kevq.uk/how-local-fonts-can-save-the-environment][go green with local fonts]]
 - [[https://buttondown.email/hillelwayne/archive/no-your-clean-code-wont-save-the-planet/][no, your clean code won't save the planet]]
+- [[https://joanielemercier.com/energy-consumption/ ][energy consumption measurement of a studio]]. may not be the best place for this
+- [[https://www.notechmagazine.com/low-tech-magazine-the-printed-website][low tech mag: the printed website]]
 * Web Minimalism
 ** Size Compression
 There are transpilers and minifying tools, but to best optimize for small websites you might as well roll your own static site generator. I've been using Python's Jinja2 template engine but I'm sure there are better options.

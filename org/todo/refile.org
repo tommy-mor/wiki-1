@@ -1222,3 +1222,4 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HT
 the history of http
 to bitwarden
 https://ziglearn.org/ learn zig
+[[https://www.inkandswitch.com/local-first.html][local-first software]]

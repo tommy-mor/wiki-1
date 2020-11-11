@@ -1,7 +1,7 @@
 +++
 title = "Ethical Web"
 author = ["Jacob Chvatal"]
-lastmod = 2020-11-10T16:05:55+01:00
+lastmod = 2020-11-11T08:35:21+01:00
 slug = "ethical_web"
 draft = false
 +++
@@ -27,6 +27,8 @@ Of course, information like a robots.txt, a webpage title and these sorts of thi
 -   [This Website is killing the planet](https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/)
 -   [go green with local fonts](https://kevq.uk/how-local-fonts-can-save-the-environment)
 -   [no, your clean code won't save the planet](https://buttondown.email/hillelwayne/archive/no-your-clean-code-wont-save-the-planet/)
+-   [energy consumption measurement of a studio](https://joanielemercier.com/energy-consumption/%20). may not be the best place for this
+-   [low tech mag: the printed website](https://www.notechmagazine.com/low-tech-magazine-the-printed-website)
 
 
 ## Web Minimalism {#web-minimalism}

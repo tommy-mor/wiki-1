@@ -1,7 +1,7 @@
 +++
 title = "Music"
 author = ["Jacob Chvatal"]
-lastmod = 2020-11-10T18:38:06+01:00
+lastmod = 2020-11-11T08:33:46+01:00
 slug = "music"
 draft = false
 +++
@@ -189,3 +189,4 @@ enthusiasts and music industrial designers!
 [bitwig: linux daw](https://www.bitwig.com/en/bitwig-studio.html)
 [ZzFXM Tracker synthesizer](https://keithclark.github.io/ZzFXM/tracker/?url=https://raw.githubusercontent.com/keithclark/ZzFXM/master/examples/songs/sanxion.js)
 <https://codepen.io/kucerajacob/pen/GRqBQNV> drum sequencer with sample pad
+[devine using orca well](https://m.youtube.com/watch?feature=youtu.be&v=OP8bsXbJlpw)
