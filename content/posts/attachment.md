@@ -1,0 +1,34 @@
++++
+title = "Attachment"
+author = ["Jacob Chvatal"]
+lastmod = 2020-11-15T16:25:47+01:00
+slug = "childhood_attachment"
+draft = false
++++
+
+I played the Pokemon trading card game for many years.
+
+Every day after school was another day to fit cards between the slats
+of the old wooden bench on my front porch, lining up dozens of Pokemon
+to fight against my neighbor's deck.
+
+I've always dreamt that the cards would go to another good home with kids
+who would treasure the cards as much as I have, obsessively sorting them
+to build the best decks with the coolest cards.
+
+One year, these cards traveled with me to a tournament on the morning of my
+brother's birthday. I'd spent the whole evening crafting and preparing my deck to
+destroy the competition -- I'd even gotten a new card, the _Typhlosion Prime_,
+that I hoped would help me best them.
+
+"You need sleeves to play with cards like that!"
+
+"Sorry, but you have five copies of _Ponyta_ in your deck.
+You'll have to remove one to play."
+
+Yesterday I sold my collection of Pokemon cards for $50.
+As she left, the woman mentioned she knew some people who might be
+interested in some of the old cards -- that she'd have an easy time
+flipping them to make a lot of money.
+
+I don't care.
