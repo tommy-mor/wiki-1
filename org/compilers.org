@@ -7,6 +7,9 @@ They're most commonly used to translate higher level languages like C to lower l
 
 * To Review
 
+
+
+https://o1o.ch/about/ interesting compilers work in R
 - [[https://news.ycombinator.com/item?id=23175280][explore compiler ir]]
 - [[https://www.reddit.com/r/Compilers/comments/bg1g2w/interesting_topics_for_study_at_university/][cool topics to study]]
   - alternative ir structures
@@ -21,3 +24,4 @@ https://groups.google.com/g/comp.arch/c/UXEi7G6WHuU/m/Z2z7fC7Xhr8J?pli=1 popcoun
 https://vaibhavsagar.com/blog/2019/09/08/popcount/ more on popcount
 https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/ cool article about whats inside a binary executable
 [[https://m.youtube.com/watch?v=yP29TKmK3_o][secure compilation from amal]]
+

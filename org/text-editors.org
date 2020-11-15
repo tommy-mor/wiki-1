@@ -5,12 +5,15 @@
 Text editors control the way you interface with written content. For programmers, this is the vast majority of the content they create, develop, and perhaps consume.
 
 * Work
+
 - [[https://github.com/xi-editor/xi-editor][Xi]] :: is a flexible editor with a modular approach to construction; if you implement Xi's protocol, you can use any user interface that calls back to Xi on the backend. However, it's plagued with latency issues.
 https://github.com/LightTable/LightTable
 - [[https://github.com/hundredrabbits/Left][Left]] :: A simple, minimal writing tool without the distractions
 - [[https://github.com/yi-editor/yi][Yi]] :: A modular collection of packages for creating your own text editor in Haskell.
 - [[https://github.com/leo-editor/leo-editor][Leo]] :: Python-based personal information manager
+
 * Etc
+
 https://www.techradar.com/best/best-text-editors
 https://github.com/LightTable/LightTable -- incredibly powerful editor
 https://github.com/tree-sitter/tree-sitter parsing tool system
@@ -26,3 +29,5 @@ http://www.sci.utah.edu/~nmccurdy/Poemage/ a visualization tool that helps users
 http://www.andrewbragdon.com/codebubbles_site.asp rethinking ui of IDES: 'codebubbles'
 http://akkartik.name/about lots of links on ways to work on advancing program structure
 https://pharo.org/ editor that's an 'IDE and OS rolled into one' with killer runtime code inspection
+hemingway: a text editor that provides constant feedback on the semantic meaning and organization of your writing
+

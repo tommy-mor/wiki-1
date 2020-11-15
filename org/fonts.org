@@ -8,6 +8,7 @@ Notes on fonts and font design.
 
 * Cool Fonts
 ** Prose
+
 - Didot: :: 'Timeless elegance'; old and sophisticated.
 - Warnock :: Powerful with a lot of glyphs. It's an Adobe font and is probably expensive.
 - Trajan :: based on roman typography!
@@ -21,7 +22,9 @@ Notes on fonts and font design.
 - Gill Snas :: warm british, a bit tall, crisp lines
 - Gotham :: New York signage lettering style.
 https://www.indesignskills.com/inspiration/best-fonts-graphic-designers/
+
 ** - Bodoni :: luxe, aspirational look font. more compressed and exaggerated
+
 - Univers :: 'the ultimate modernist font' - incredibly legible, clean, and functiona
 - Lombok :: very cool angular sans-serif font  https://www.behance.net/gallery/17179851/Lombok-typeface
 - Ailerons :: inspired by airplane models (??) https://www.behance.net/gallery/25541553/Ailerons-Typeface
@@ -43,10 +46,14 @@ https://www.indesignskills.com/inspiration/best-fonts-graphic-designers/
 - Perfograma :: entirely dotted, perforated font. not sure how this is useful  https://www.behance.net/gallery/23576901/Perfograma-free-font
 - Arenq :: bold, shaped font with double lines to highlight aspects. https://www.dafont.com/arenq.font
 - Intro :: comfortable, curvy, smooth font https://www.fontfabric.com/fonts/intro/
+- ark :: wow https://stued.io/projects/ark-typeface
+
 ** To Investigate
+
 - https://about.easil.com/best-free-fonts/ -- these fonts are potentially cool as well!
 
 ** Monospace
+
 - source code pro
 - jet brains mono
 - [[https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Fbe5invis%2FIosevka][iosveka]]
@@ -68,6 +75,7 @@ https://github.com/huytd/haskplex-font put this on the AUR!
 
 * Vocabulary
 ** Design
+
 - Motion Design :: Text in motion carefully chose to make text readable in videos and other animations.
     This text isn't visible all the time; rather, it's moving quickly and likely flashes past during a video.
 - Variable Fonts :: One or more axes that provide variation between different extremes of typeface design.
@@ -76,7 +84,9 @@ https://github.com/huytd/haskplex-font put this on the AUR!
     Formally, this is a specification that allows for multiple fonts to be packaged in a single file.
 - typeface :: A particular design of type. A single group of fonts; a set of fonts in the same style, or 'font family'.
 - font :: An instance of a typeface; a single weight of style within a typeface family.
+
 ** Type
+
 - baseline :: The line on which type sits.
 - height :: THe distance from baseline to the top of the lowercase letters, disregarding tall letters such as h.
 - cap height :: The distance between a capital letter and baseline.
@@ -106,32 +116,46 @@ https://github.com/huytd/haskplex-font put this on the AUR!
 - Widow :: A single word or short line left at the end of a column. This is considered bad typography.
 - Orphan :: A line exists at the top of the following column!
     This can be fixed just like the rag, by reworking the line breaks or editing the copy to remove these typography misdeeds.
+
 * History
+
 - printing press :: Used a font based on blackletter, similar ot the font traditionally used
   with handwritten material. This wasn't good for printing.
   Roman type was created to solve this problem. First, Jenson, but the most
   recognizable roman font is Cambria.
+
 ** Italics
+
 created to save space and money when printing books and long form
 texts.paved road for old style, transitional style and modern styles of typing.
+
 ** Caslon
+
 created 'old style' or 'Antiqua' of type : old style typefaces have
 thick serifs, low contrast. these are typically created from 1470 to 1600.
+
 ** Transitional typefaces
+
 thin serifs with high contrasts between these types.
 Baskerville is one such font (which was created as an improvement to the caslon typeface!
+
 ** Modern style
+
 very thin serifs with extreme contrast between strokes. created
 to reject traditional styles, annoyed with typefaces based on handwriting!
 Modern style initiated by Firmin Didot and Giambatista Bodoni ; Firmin Didot
 created modern style classification type, Didot, followed by the Bodoni
 typefaces
+
 ** William Caslon IV
+
 sans serif typefaces -- no projecting featues at the end of
 strokes! Helvetica : known as the favorite typeface, one of the most populat.
 variations on this include slab serifs and gemoetric sans. slab : magazines,
 newspaper headers; geometric : based on simple geometric shapes.
+
 ** Susan Kare - great apple designer! She did Chicago, a neat pixel sans-serif
+
 typeface -- this could be cool to use, as well as Monaco - (kind of boring)
 . geneva is the third typeface; it's inspired by helvetica and is a
 neo-grotesque typeface, a realist typeface including basic ligatures, long s and
@@ -140,6 +164,7 @@ using them! realist ~=grotesquemore reading (TODO)::
 https://en.wikipedia.org/wiki/Sans-serif#GrotesqueCreative
 
 * Embellishments
+
 indents: indenting
 the first line of every paragraph has always been a convention -- to create
 a visual separation between paragraphsCreative ieaas : extreme indent, outdent.
@@ -151,28 +176,40 @@ have many uses - have fun with them
 
 * Classifying Type
 ** Serif
+
 Traditional typefaces with feet or arms hanging off of the end of letter strokes, adding a thick or thin look to the letter.
 These are considered the easiest fonts to read.
 Serif fonts are 'fancy' fonts -- they all have embellishments. Times New Roman, a serif font, is the most used font as the most common font found in newspapers.
 - Examples :: baskerville, clarendon, garamond, georgia, trajan
+
 ** Sans-Serif
+
   Fonts without serifs and having an overall more even stroke weight. clean, modern, minima    list
   - Examples :: arial, futura, impact, myriad, tahoma
+
 ** Decorative
+
 Fonts typically used only for attention-grabbing headlines.
 Only one decorative font should be used, and not as the body font!
+
 ** Script
+
 Script fonts are intended to mimic handwriting, so the letters often touch one another.
 These fonts should never be used with all-caps.
+
 ** Dingbats
+
  These fonts contain characters that are small pieces of art, used to enhance the design of the page.
  Dingbats are usually packaged with a specific font and mimic its style.
 
 * Best Practices
 ** Font Size
+
 On computers, 72 pt. font corresponds to one inch on paper.
 Two different font sizes at the same point can correspond to different physical sizes, and correct size does depend on use.
+
 ** Spacing
+
 - character and word spacing, kerning, -- space between each character or letter, adjusted to create plea    sing look
 tracking, -- adjustment of word spacing, similar to kerning but refers to space between words rather than     characters
 line spacing, leading -- amount of space between lines of type -- larger the type, the more leading neede    d!
@@ -185,6 +222,7 @@ orphan! do not leave these     distracting shapes! edit the copy to remove them.
 never use bold serif type, apparently? john cane is very against it.
 
 * type blogs / references
+
 http://www.atypeprimer.com/ -- written by northeastern prof, all about type!
 http://www.atypeprimer.com/exercises/understanding-letterforms/
 http://www.thomasphinney.com/
@@ -196,7 +234,9 @@ https://www.monotype.com/ -- duo of complimentary typeface families https://www.
 https://www.amazon.com/Type-Primer-John-Kane-dp-1856696448/dp/1856696448/ref=mt_paperback?_encoding=UTF8&
 me=&qid=1587603890 -- some other link to it .
 https://fontsinuse.com/ -- showcases examples of fonts and their uses!
+
 * misc
+
 https://vistaserv.net/blog/90s-fonts-modern-browsers -- a quest to design a
 font that looks retro in the modern browser
 https://camd.northeastern.edu/art-design/research-approach-art-design/
@@ -222,3 +262,4 @@ https://fontsinuse.com/uses/2291/ableton-website -- ableton fonts!
 https://glyphsapp.com/ good tool
 
 http://typography.philipyoungg.com/
+

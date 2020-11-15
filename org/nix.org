@@ -97,8 +97,6 @@ sudo systemctl start sshd to start ssh daemon
 
 [[https://opensource.builders/][oepn source alternatives for everything]]
 [[http://thedarnedestthing.com/current%20configuration][cool selfhosting specs]]
-
-[[ Slashdot.org][what is your nix?]]
 [[https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/][self hosting email with vultr, nixos]]
 [[https://www.reddit.com/r/NixOS/comments/44attf/nixos_on_digital_ocean/][nix as config mgr]]
 [[https://www.reddit.com/r/NixOS/comments/44attf/nixos_on_digital_ocean/czoyjng/][ooh]]
@@ -131,3 +129,4 @@ https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html ba
 * cool nixos stuff to do
 https://github.com/grahamc/nixos-config/commit/9161782363b1fab27cffaa0b6432a10b303f3d7c make programs run in their own cgroups; use play/pause to play and pause /programs/.
 https://github.com/sdiehl/dotfiles/blob/master/i3/config good i3 configuration from stephen diehl
+http://www.seas.upenn.edu/~bcpierce/unison config with some good android stuff

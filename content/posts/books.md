@@ -1,7 +1,7 @@
 +++
 title = "Books"
 author = ["Jacob Chvatal"]
-lastmod = 2020-11-10T18:42:41+01:00
+lastmod = 2020-11-15T16:01:24+01:00
 slug = "books"
 draft = false
 +++
@@ -119,11 +119,29 @@ ghost world
 <https://www.goodreads.com/book/show/156534.Y> Y, the last man
 <https://nogunslife.fandom.com/wiki/No%5FGuns%5FLife%5F(manga)> No Guns Life
 <https://en.m.wikipedia.org/wiki/Dorohedoro>
+Biomega
+Vagabond
+
+Tekkonkinkreet
+20th century boys
+Tokyo Tribes
+Gantz
+Battle Angel Alita
+Koduko no Gourmet
+[homunculus](https://en.m.wikipedia.org/wiki/Homunculus%5F(manga))
+[the flowers of evil](https://en.m.wikipedia.org/wiki/The%5FFlowers%5Fof%5FEvil%5F(manga))
+[domu: a child's dream](https://www.goodreads.com/book/show/136744.Domu)
+[uzumaki](https://en.m.wikipedia.org/wiki/Uzumaki)
+[ichi the killer](https://en.m.wikipedia.org/wiki/Ichi%5Fthe%5FKiller%5F(manga))
+[andy grove::only the paranoid survive](https://www.penguinrandomhouse.com/books/72469/only-the-paranoid-survive-by-andrew-grove/)
 
 
 ## favorites {#favorites}
 
-blame!
+
+### Blame! {#blame}
+
+an incredible navigation of dystopia in a world as a city
 
 
 ### Scott Pilgrim {#scott-pilgrim}
@@ -132,3 +150,5 @@ Such a joyful adventure! Follows a kid out of college and two old to grow up as 
 
 
 ## others i have read {#others-i-have-read}
+
+ghost in the shell -- too hard to follow, too much dialogue, not a big fan of the art style
