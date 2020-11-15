@@ -13,6 +13,8 @@ This website has been inspired by the following:
 - [[https://braindump.jethro.dev][Jethro's Braindump]]
 and is in a state of continuous improvement.
 
+I often use [[https://logseq.com][Logseq]] to work on these notes, though my primary interface to them is still through org-roam.
+
 The structure of this repository is no different from other sites served with [[gohugo.io][Hugo]].
 The repository for [[https://github.com/jakechv/cortex][the template]] contains all of the presentation logic.
 
