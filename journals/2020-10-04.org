@@ -1,0 +1,23 @@
+#+TITLE: Sunday, 10/04/2020
+** 20:27 favorite manga
+blame!
+one piece
+akira (check it out!)
+bleach beginning and art (but not story......)
+** 20:55 hillel newsletter
+http://email.mg.buttondown.email/c/eJyNTstuhDAM_BpyS5QnIYccti39jZUh3g1tgApSUP--yV4q9bSSbY3tmdEE36HlypLJSy654FzWKSwTzL5a8eJsL_reuDdzaTSf72z4znldwnouDGeYEom-SowU2EmrjROj1la1QjpseRChsyT5mPPX3qhLI99L_fcopzilhOmEnwXLBtsYp6OiEzekAwQKme6113TgtpcP2fwHfOIYD8iQSrh7tWLjOpPssR1bY0xHB367Ua0C0EF2ljrAoFGhAiPIX4zrI8Z1Cs8JH-ynqL8LVGqg
+- semidefinite programming
+*** satsolving notes
+famous np complete problem: must find satisfying formula for the boolean varaibles and statement
+for sanity we format the statement to assume conjunctive normal form
+find assignment that satisfies the equation
+
+all np-complete problems can be converted to 3-sat problem
+sat solvers can quickly solve problems with lots of variables!
+this is mostly used for dependency management.
+but how do you prove a transition from your problem into sat?
+
+- aside: cleverness is communicated in a domain with experience,
+  but can be transferred
+- posits that cleverness is only necessary with a lack of communication
+- smt community -> off of sat -> puts effort into affordances

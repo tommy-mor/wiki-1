@@ -1,0 +1,14 @@
+#+TITLE: Wednesday, 08/05/2020
+** 19:05 always mention downsides
+always mention the downsides of your ideas or approaches.
+people should understand the flaws of the current system.
+** 19:06 knowing math
+understanding math:
+- know how to use machinery to transform problems into solutions
+- understand how to advance the field; learning to read and write proofs
+  most people do not need to write proofs, but its important
+  to understand how the real world relates to math
+It's important to recognize a world in which you can phrase a problem
+and the ability to sovle a concrete problem within this framework.
+
+read the wilson book for graph theory!

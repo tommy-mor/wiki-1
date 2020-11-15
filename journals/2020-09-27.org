@@ -1,0 +1,18 @@
+#+TITLE: Sunday, 09/27/2020
+** 19:47 moomin
+research on all of teh moomin characters
+snufkin is god
+moominpappa kinda cute
+** 21:36 write about these things
+this is life this is life this is life
+the clothes i wear
+the choices i make - why? -
+** 21:46 static analysis in java enterprise applications
+these are generally notes on notes, i guess
+[[https://pldi20.sigplan.org/details/pldi-2020-papers/66/Static-Analysis-of-Java-Enterprise-Applications-Frameworks-and-Caches-the-Elephants][the paper]], it's from PLDI 2020
+Static analysis of enterprise is hard due to dependency injection, inversion of control, and general obfuscation of bytecode; code generation techniques are also highly leveraged.
+The static analyzer for such applications should adopt:
+- Foundational static analysis framework
+- Framework independenet layer that understands the enterprise application concepts
+- per framework mapping to translate details of framework into concepts at the framework level
+... I really don't care about Java. I'm closing this paper.

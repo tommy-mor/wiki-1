@@ -1,0 +1,83 @@
+#+TITLE: Tuesday, 09/22/2020
+** 20:34 hitting 100k/year on github sponsors
+wow! making more than he's making as a full tiem software developer!
+left to go on a sabattical, started making his own thing
+created Livewire for Laravel and AlpineJS for javascript
+income was 20k for the first year to pursue the freelance work,
+and his sponsorships lead to him making 25! and now he's making 100!
+
+sponsorware:
+- make software
+- make it exclusive to sponsore until you reach # of sponsors
+- release it once it reaches critical mass
+  check out SponsorSyrup for this
+educational content
+- software for free, learn how to use the software for money!
+- pay for technical support and additional tutorials
+- releases free screencasts showing how to use the program,
+  adding links to the documentation,
+  and adding private screencasts reserved only for sponsors
+- people watching the screencasts must be sponsors for a certain ammount
+
+
+nuggets
+- make good stuff! produce truly useful software.
+- build an audience; collect subscribers and fans
+- charge an impactful amount - make the first 'tier' a decent chunk of cash
+- pick better tier names, tiers for the audience you want to shoot for
+- don't be afraid to talk about sponsorships and money
+** 20:48 on effective patches: linux
+https://lkml.org/lkml/2004/12/20/255
+
+making trivial cleanups? are they useful or good?
+
+small patches are important because people realize that they *can* change the kernel!
+on a practical level, they can tag a change on the kernel and say that they accomplished it
+
+it's not possible to get into the kernel without starting out small and making mistakes
+
+even trivial patches really do take time, as they often have trivial mistakes!
+they take a lot of time proportional to effort in the contribution, but it's so
+important for people to learn how to contribute to projects! don't stop making patches,
+even if those patches aren't the best. they're a good way to learn.
+** 20:54 goodbye serenity
+https://www.nybooks.com/daily/2011/12/05/goodbye-serenity/
+god i love this article
+claim of finding serenity by no longer reading the papers and watching television. sadomasichism
+the revolutionaries and political exiles are long dead
+we torment ourselves with the internet
+
+our political system is wholly incapable of solving any of our countries real problems
+** 20:58 a lesson in acceptance
+https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance
+god i love how this flows!
+
+balance your infections
+being a restaurants regular is a beautiful thing
+- defines a 'regular'
+- what does it mean to frequent the restaurant? what does it mean ot enjoy it?
+- it is a gift to shut up and exist in a country that screams at everything
+
+eating out is an excercise in acceptance; they are letting you into their home
+deserts are hardly equal
+restaurants are where life is lived
+if we sacrifice them, we sacrifice live as we know them; we sacrifice the
+humanity in a city
+
+return to restaurants only in memory until the day i die
+** 21:24 tf2 drugs
+experimen
+t
+with everything
+https://www.teamfortress.tv/18898/psychedelic-experiences#12
+** 21:27 today
+what did i learn today?
+- how to use react hooks
+- about the sudanese pyramids
+- how valuable it is to adhere to structure
+- that i am so addicted to the wrong kinds of technology
+  and need to really limit myself
+- i save too many links,
+  and i need to curb the flow of infomration in
+  i have known this for awhile,
+  but this goes with the aforemwntioned internet addiction

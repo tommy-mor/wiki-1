@@ -1,0 +1,56 @@
+#+TITLE: Tuesday, 10/20/2020
+** 09:59 the future of community
+
+[[https://thesephist.com/posts/community-possibility/][src]]
+- radically easier to create new communities
+- easier to find members to scale
+- people look to nurture small communities for growth
+
+  it's so easy to find places to gather together!
+  - Rume
+  - Gather.Town
+  - Icebreaker
+  - Discord
+
+focusing on people connecting with each other and bootstrapping communities
+- Commsor
+- People & Company
+as the public web becomes too crowded, entertainers continue
+to build in public, but the rest of us look for smaller, more private spaces;
+connecting everyone means that nobody has a true community, so people are
+driving towards smaller, intentionally brewed community groups
+
+how to bootstrap
+- tribal knowledge
+- tools are cruel and disconnected
+what are the 'best practices' for starting a small community?
+evetns? meetups? traditions? customs? subgroups?
+how can these be encouraged? mandated?
+
+https://www.sohohouse.com/en-us/membership
+** 21:16 learned sorting algorithm case
+[[https://blog.acolyer.org/2020/10/16/the-case-for-a-learned-sorting-algorithm/][src]] [[https://dl.acm.org/doi/10.1145/3318464.3389752][og paper]]
+Learned sort :: beter performance than RadixSort *including* time to train model
+- build a CDF of the data
+- put each item into position estimated by the CDF
+- use sorting algorithm very efficient with nearly sorted arrays
+
+solving collisions:
+- scan for nearest vacant slot
+- list of elements for each position
+- spill bucket merged to the end of the array
+'experimentally', spill bucket worked the best
+
+lost to radix sort because of a sequential cache; make it cache efficient?
+use model prediction to bin the elements, not just insert them!
+
+first phase: cascading fucket sort, making predictions to put input elements into one of f ordered buckets
+
+after buckets of size t, each are sorted using the model predictions to put elements in the right position within the bucket
+concat the buckets in order
+merge and sort the spilled bucket with the others!
+
+model!
+- linear spline fitting for training
+  what is this? learn it if you want to come back!
+  leads to faster training and fewer key slots used

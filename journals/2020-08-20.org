@@ -1,0 +1,13 @@
+#+TITLE: Thursday, 08/20/2020
+** 09:33 problems i want to solve
+- unix problem -- using strings as a basis for the operating system abd.
+  define type system as basis for the os.
+- editing (kind of): editing text without using plaintext.
+  projectional editors are interesting but not something im interested in working on or coding.
+- information control and transparency
+- personal info management and history logging
+- inspiration engines and incoming content management
+- minimal resource usage with web, mobile etc. protocols for this?
+  definitely want to contribute but not sure if i should add to standard
+  or just use minimal practices in my own work
+- federating content creation -- and getting paid for it!

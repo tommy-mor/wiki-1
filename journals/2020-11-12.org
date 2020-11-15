@@ -1,0 +1,4 @@
+#+TITLE: Thursday, 11/12/2020
+** 00:33 learn how tor works and how to set it up!
+seems like a good step towards better privacy on the internet
+also try out setting up qubes and/or wayland for better user permissions everywhere

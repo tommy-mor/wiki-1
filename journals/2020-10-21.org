@@ -1,0 +1,48 @@
+#+TITLE: Wednesday, 10/21/2020
+** 23:35 in praise of idleness
+bertrand russell
+http://www.zpub.com/notes/idle.html
+
+there is far too much work done, and the belief that work is virtuous causes immense harm!
+
+it is not necessary for all of us to be idle and to fill ourselves; a man earns and spends, and in spending he gives employment
+
+the man who lends his money to the government is no better than the murderers of those people
+
+in industrial enterprises, hen these operations succeed the money is well spent; otherwise, these enterprises fail, wasting a lot of human labor in the process. (note: i question what is 'failure' and what is 'worthwhile' here)
+
+a great deal of harm is done strictly because of the belief in virtuous work, and the road to prosperity leads to eliminating it.
+work is:
+- altering matter
+- telling others to do so
+- land ownership: others pay for the privilege to exist and work. their idleness in fact spurns the industry of many others, and their desire for idleness spurns all of this other work!
+the second can be indefinitely extended and abstracted
+duty i just a means for the ohlders of poewr to live in the interests of their masters, but they persuade those under them that they should share these interests
+labor is still valuable in this framework precisely because leisure is good; to save someone lots of time is worth some work yourself
+the idea that the poor should have leisure has and always will be shocking to the rich
+it is unjust that a man consume more than he produces, as he will incur undue labor from another!
+
+other reasons we work:
+- the necessity of keeping everyone content while taking care of oneselv
+- pleasure in mechamism, in making changes to others and the earth's surface. this feels very 'manifest destiny'
+- happy from toil! work should always be considered a necessary means to a livelihood, from which leisure can derive happiness and enjoyment
+
+  a passage on academia being divorced from real life; it's sort of an emulated leisure class, in which academics are expected to produce some fascimile of results in exchange for some grant-funded fascimile of real, productive work to lated be used in exchange with others
+
+** local-first software
+[[https://adlrocha.substack.com/p/adlrocha-what-if-we-had-local-first][src]]
+motivation boring; collaboration clearly insecure when dependent on owned centralized service
+'git is the standard' for how collaboration should be maintained and synchronized
+
+prioritize the use of local storage and networks, as software is just better without a constant reliance on internet! every utility should 'just work' without the need for a constant internet connection, and most services should be started and used without such a connection at all. it's so clear how much error is introduced by any sort of client server model, even if it's the serving of a simple static site
+- security and privacy by default
+- long lasting, saved now
+- retain ultimate ownership and control
+CRDTs! conflict free replicated data types, designed to be multi user from the ground up through infrequent network communication; operating on richer data types than just text.
+
+CRDT technology works and developers have great time when working with Functional Reactive Programming especially
+
+perhaps all applications should be designed to be local first!filecoin, golem, libp2p, NAT, relays, wifi offloading, mesh networks
+
+[[beakerbrowser.com][Beaker Browser: a p2p browser]]
+[[https://scuttlebutt.nz/][scuttlebutt: a simple decentralized social network]]

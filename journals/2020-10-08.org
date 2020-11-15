@@ -1,0 +1,13 @@
+#+TITLE: Thursday, 10/08/2020
+** 18:18 trusting science code
+https://www.hillelwayne.com/post/how-do-we-trust-science-code/?utm_source=hillelwayne&utm_medium=email
+greece - austerity because of software bug! growth in a time of debt economic paper; had a bug in it.
+programming is essential to scientific research, but all researchers want is to do the job and get back to work
+serious bugs can always slip through!
+how do you convince everyone to make a boring part of their work more boring for a nebulous benefit?
+improving this experience is a social problem, not a technical one
+
+excel makes structured data analysis easily accessible to nonprogrammers. this is important!
+& excel's flaws are no different than the flaws of a semantics of a programming language -- they're complicated, complicated issues
+
+Pitman shorthand stenography! Very cool. Do more stenography research
