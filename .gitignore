@@ -10,3 +10,4 @@
 org/private/
 /org/lit/.auctex-auto/
 */**/*.syncthing*
+/content/posts/**
