@@ -16,3 +16,6 @@ two-dimensional graphic calculating devices; allow very fast computation and pro
 *** Is it morally wrong to write inefficient code?
 [[https://tomgamon.com/posts/is-it-morally-wrong-to-write-inefficient-code/][article]]
 idea: because running code uses energy, writing inefficient code is morally wrong
+**** [[Ethical Web]] guidelines suggest that this is the case; by minimizing any impact, systems use fewer resources, meaning that we do not cause pain to others through contributing to reused, impactful inefficiencies in code
+***** the line between running code and polluting the environment is relatively straightforward, unless you live and your code is always run in places primarily dependent on renewable power -- in which case your impact is substantially diminished
+****** The essay primarily disputes the las
