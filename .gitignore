@@ -6,8 +6,10 @@
 /org/org-roam.db
 /org/org-fc.tsv
 /public/
+/public/posts/
 /org/work/
 org/private/
 /org/lit/.auctex-auto/
 */**/*.syncthing*
 /content/posts/**
+org-roam.db
