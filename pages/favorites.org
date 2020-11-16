@@ -239,7 +239,12 @@ I don't really even know what cables I use as of now.
 - A small transit bag (smaller than the day bag) for a camera and a couple of essentials
   When traveling this would serve as the case for my camera.
 - A nice looking suitcase (mine is fine but I want something that looks better)
-* TODO Transportation
+* CANCELLED Transportation
+CLOSED: [2020-11-16 Mon 20:28]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2020-11-16 Mon 20:28] \\
+  This is stupid. I can use my feet most places I'll be; I have the patience and it takes up very little space. As needed, I'll get a small bike or skateboard that'll pack well. There's no need for me to worry about one more thing for me to charge, so tech like boosted boards should be avoided.
+:END:
 I'd like an item I can pack and bring with me to use as transport wherever I end up.
 This would be something like a small electric skateboard;
 it has to be flexible enough to pack in a medium-sized suitcase,
