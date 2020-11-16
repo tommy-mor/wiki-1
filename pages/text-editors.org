@@ -30,4 +30,4 @@ http://www.andrewbragdon.com/codebubbles_site.asp rethinking ui of IDES: 'codebu
 http://akkartik.name/about lots of links on ways to work on advancing program structure
 https://pharo.org/ editor that's an 'IDE and OS rolled into one' with killer runtime code inspection
 hemingway: a text editor that provides constant feedback on the semantic meaning and organization of your writing
-
+- [[https://m.youtube.com/watch?feature=youtu.be&v=8htgAxJuK5c][Adding interactive visual syntax to textual code]] :: Leif Anderson of Northeastern defining syntax extensions to programming languages in order to directly manipulate problems with visual, concrete syntax as a GUI

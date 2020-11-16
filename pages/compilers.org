@@ -25,3 +25,4 @@ https://vaibhavsagar.com/blog/2019/09/08/popcount/ more on popcount
 https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/ cool article about whats inside a binary executable
 [[https://m.youtube.com/watch?v=yP29TKmK3_o][secure compilation from amal]]
 
+[[https://chrisseaton.com/truffleruby/basic-truffle-graphs/][truffle compiler graphs for real programming languages]]
