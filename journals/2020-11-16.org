@@ -1,0 +1,78 @@
+#+TITLE: Monday, 11/16/2020
+** 09:28 life lessons adam smith
+*** thinking vs going with the flow
+[[http://adamsmith.cc/structured-thinking-versus-go-with-the-flow][article]]
+**** structured approach
+- weak on 'street smarts'
+- more difficult to have, make, use new experiences
+- difficult to adapt and take advantage of opportunities
+- harder to make decisions when the outcomes are unclear
+- can take fun out of things that required more creative thinking
+**** go with flow
+- greedy :: no higher-order thinking
+- can produce the wrong answers in complex settings
+- inferior for high-leverage decision making
+- tends towards decisions with short term horizons
+**** improve structured thinking
+- learn how to use and combine mental models
+- lots of experience engineering in complex settings
+- look at things from 'clean state'
+- don't ever get emotionally attached to current models
+**** improve go with the flow
+- see how others get places faster
+- take more risks and say yes more often
+- make decisions quickly
+- easily identify decisions that don't matter and don't waste time
+- be more okay with having the wrong answers
+**** evaluation
+- go with the flow better for social
+- structured can lead better results
+- structured often comes with tons of stress, doubt, etc.
+  i personally experience this very frequently, holding myself back because i don't think that what it takes lines up with my current priorities, when i should really just become a more well-rounded person
+**** specific models
+[[http://wikilogic.org/][src]]
+http://norvig.com/experiment-design.html
+knowing a name for something doesn't mean you know /anything/ about the thing. names are so arbitrary
+if the path to victory is not clear, do nothing
+train harder than you fight
+sometimes reactionary responses can be too strong and need a middle way
+fast:alone, far:together
+keep your identity strong
+[[http://paulbuchheit.blogspot.fr/2012/03/eight-years-today.html][be good to yourself and others or neither ]]
+*** grit
+[[http://adamsmith.cc/grit-determination][article]]
+- grit :: perseverance and passion for long-term goals.
+  entails working towards challenges and maintaining effort
+  for years dispite failure, adversity and plateaus in progress.
+grit is different from self control: self-control is a local decision
+made on the day to day, while grit is made over the course of months,
+years of lifetimes. committment to a vocation does not derive from
+hourly temptations.
+grit is the best predictor of success - iq doesn't scale, and local self-control doesn't generalize to a global effort.
+willpower is probably limited; if it is, using willpower for one thing will diminish it for other things. grit can also be substantially diminished when everyone works super fast and gets early traction, then gets tired of chasing their goals and runs out of energy
+focus on what you want to be gritty about!
+*** always add polish
+[[http://adamsmith.cc/always-add-polish-heres-why][src]]
+difference between success and failure
+if experiences don't have a /polished/ and seamless user experience, they will fail.
+how do you quantify polish? we all need this emotional polish!
+adding polish lowers the /emotional/ energy needed to interact with and respond to emails, interfaces, etc.
+engineers fail at this and fail easily, but it's so so important.
+** 20:02 privacy tools
+we can never be private enough,
+but we can take measures to mitigate the actions of others
+- [[https://privacytools.io/][privacytools.io]] :: lots of great privacy resources
+- [[https://homebrewserver.club/]] :: host your own federated server
+- https://talk.libreho.st/ :: forum to discuss self hosting
+** 20:14 malleable software
+The tragedy of modern computing: too often we conform to the software, rather than molding it to our needs. How can we empower everyone to edit their tools? Here are 3 ideas I think can help us get there. [[https://twitter.com/geoffreylitt/status/1328375258592710661?ref_src=twsrc%5Etfw]]
+programming is the stone age!
+the user should still be able to /see/ their objects and /act/ on them in familiar ways
+[[https://t.co/HbW9p7919W?amp=1][browser extensions as semantic wrappers]]
+wrap apis in simple interfaces to help users create interactions with the webpage!
+- [[https://t.co/zX3qE52Ghl?amp=1][local-first software]] :: this has probably been linked many times. it's about getting yor data out of cloud services and silos.
+ - [[https://t.co/oLHIl6OAri?amp=1][wildcard]] :: empowering users to customize chrome extensions via in-browser databases
+  [[https://t.co/mfpIgwnorL?amp=1][designing and programming malleable software]]
+  [[https://www.youtube.com/watch?v=SM26UoK8Ohw][end user customization by direct manipulation]]
+  [[https://www.geoffreylitt.com/inspirations.html][inspirations for work on this software]]
+  [[https://tcher.tech/publications/CCS2020_EscapingThePrisonOfStyle.pdf][oh my god]]
