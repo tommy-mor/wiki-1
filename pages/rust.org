@@ -23,7 +23,7 @@ https://arzg.github.io/lang/ make a lang, in rust
 https://github.com/sunjay/portrayer sample rust ray traceer
 https://github.com/bvaisvil/zenith desktop monitor like top or htop but just better
 nom :: parser combinator for rust
-https://github.com/PoiScript/orgize :: parse Org Mode in rust
+https://github.com/PoiScript/orgize :: parse [[file:org_mode.org][Org Mode]] in rust
 https://rustwasm.github.io/docs/book/game-of-life/introduction.html build conway's game of life with rust, js, webassembly
 
 https://gendignoux.com/blog/2020/06/16/rust-5-years-cross-platform.html

@@ -126,3 +126,6 @@ https://github.com/mikeizbicki/subhask rewrite of prelude to make numerics fun a
 https://mpickering.github.io//ide/posts/2020-08-04-measuring-memory-size.html measuring memory usage in haskell
 * web
 https://github.com/JoeyEremondi/haskelm haskell to elm translation with TemplateHaskell
+
+https://m.youtube.com/watch?v=65GWGc5LNxc debugging ghc assertion error
+
