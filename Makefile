@@ -7,7 +7,7 @@
 SOURCE_ORG_FILES=$(shell pwd)/pages
 EMACS_BUILD_SRC=$(shell pwd)/tools
 EMACS_BUILD_DIR=/tmp/knowledge-base-home-build
-BASE_URL=https://bphenriques.github.io/knowledge-base
+BASE_URL=https://jakeisnt.github.io/wiki
 
 all: clean build-content serve
 
