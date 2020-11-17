@@ -14,3 +14,7 @@ This includes processed foods and sanitary products of all sorts, and can also e
 [[https://grimgrains.com/site/home.html#recipes][excellent homemade, vegetarian recipes]]
 [[https://wiki.lowtechlab.org/wiki/Garde-Manger/en][store food beyond the fridge]]
 [[https://merveilles.town/web/statuses/105119450964595101 ][long term bulk food storage from rek]]
+
+* Modular Hardware
+[[https://www.lowtechmagazine.com/2012/12/how-to-make-everything-ourselves-open-modular-hardware.html][Low Tech Mag: How to make everything ourselves]]
+[[https://gridbeam.xyz/][Gridbeam modular furniture manufacturer]]

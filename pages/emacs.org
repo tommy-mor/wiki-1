@@ -80,3 +80,8 @@ https://magit.vc/manual/forge/Token-Creation.html#Token-Creation magit has a coo
 
 https://www.reddit.com/r/emacs/comments/74hetz/emacs_everywhere/ emacs everywhere
 [[https://m.youtube.com/watch?v=dljNabciEGg][literate devops with emacs]]
+
+* emacs
+:PROPERTIES:
+:ID:       92c5c049-6516-4427-9693-8d6f96758b12
+:END:

@@ -19,3 +19,6 @@ email ideas:
 
 https://stevelosh.com/blog/2012/10/the-homely-mutt/
 http://matt.might.net/articles/how-to-email/
+
+you should probably use plaintext email instead of html most of the time:
+https://useplaintext.email/

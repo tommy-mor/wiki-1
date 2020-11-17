@@ -26,3 +26,7 @@ https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/ cool article about wh
 [[https://m.youtube.com/watch?v=yP29TKmK3_o][secure compilation from amal]]
 
 [[https://chrisseaton.com/truffleruby/basic-truffle-graphs/][truffle compiler graphs for real programming languages]]
+https://www.youtube.com/watch?v=BRNxM8szTPA&list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW some time on v8 and wasm, from compilers guy
+[[https://dl.acm.org/doi/abs/10.1145/2980983.2908106][idle time garbage collection]]
+[[https://docs.google.com/document/d/10CbqmRs-i8Jy0IE3ToEP25_FD8gj2kEHvfd3N0icN3g/preview][in-place field representation]] motivation and examples
+https://v8.dev/blog/react-cliff vy performance cliff in react

@@ -31,3 +31,18 @@ http://akkartik.name/about lots of links on ways to work on advancing program st
 https://pharo.org/ editor that's an 'IDE and OS rolled into one' with killer runtime code inspection
 hemingway: a text editor that provides constant feedback on the semantic meaning and organization of your writing
 - [[https://m.youtube.com/watch?feature=youtu.be&v=8htgAxJuK5c][Adding interactive visual syntax to textual code]] :: Leif Anderson of Northeastern defining syntax extensions to programming languages in order to directly manipulate problems with visual, concrete syntax as a GUI
+
+https://nodes.io/
+** live programming editor research
+Excited to present our paper on "Example-Based Live Programming for Everyone" at Onward!/@splashcon! Together with our @HPI_DE students, we explored how language-agnostic tools for #LiveProgramming can be built with the #LSP and @GraalVM. 🛠🚀
+
+Preprint: https://t.co/JwKOdnDQrl https://t.co/EFIt78VFlQ
+
+https://twitter.com/fniephaus/status/1316397053325565953
+
+https://hazel.org/: a live fp enviornment featuring type holes with a language built around filling them.
+
+** General Idea
+- build to be language agnostic: use a plugin system to support other programs out of the box
+- Abandon the file structure: we can do much more faster if we abandon files and use semantic structures relevant to the programming languages. We're building a data manipulation framework, and the plugins define the constraints for manipulating the data
+- improve traversal and visualization of these data structures

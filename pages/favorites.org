@@ -254,3 +254,11 @@ but versatile enough to take me across much of a city and back.
 Ideas:
 - Boosted board mini x
 - Segway One S1
+
+** etc
+- better toothbrush
+- travel razor
+- some way to convert 2xAAA or 2xAA to usb-c charging (may need to just buy the battery charger...)
+- usbc to micro usb for charging (for now)
+- charging brick that allows you to plug in thunderbolt cable (more flexible than having usbc cable tightly coupled to power brick; the mac one may be the best here)
+  

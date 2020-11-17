@@ -68,10 +68,9 @@ its that it has become an integral component of the Emacs ecosystem.
 With this, the format has seen support for many tools -- from calendar
 to todo lists and READMEs to DevOps, it's flexible enough to be used
 anywhere -- and thrives in the right ecosystem.
-https://github.com/mengwong/org-asana sync org mode and asana
-https://github.com/Kinneyzhang/gkroam lightweight roam replica for org
 https://github.com/jethrokuan/org-capture-bot bot to send things to org capture
 https://github.com/io12/org-fragtog view latex fragments after exiting them with cursor
 https://www.reddit.com/r/orgmode/comments/iqhmd9/i_looked_at_my_notes_from_a_previous_class_for/ latex integrated
 https://blog.polaris64.net/post/emacs-using-org-mode-to-track-exercises/ xercise tracking?
 https://m.youtube.com/watch?feature=youtu.be&t=207&v=fgizHHd7nOo doing more with org
+https://www.reddit.com/r/emacs/comments/gz4lk8/org_brain_and_org_roam/ :thread: better use of org mode in conjunction with citations, research and notes on various academic works.
