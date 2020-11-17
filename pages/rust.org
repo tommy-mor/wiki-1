@@ -1,7 +1,7 @@
 #+setupfile:./hugo_setup.org
 #+hugo_slug: rust
 #+TITLE: Rust
-
+- tags ::[[file:programming-languages.org][ Programming Languages]]
 * innovation in rust
 
 https://rust-analyzer.github.io/blog/2020/04/20/first-release.html

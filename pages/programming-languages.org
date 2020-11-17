@@ -19,6 +19,7 @@
 - [[https://github.com/einaregilsson/While-Language][While]] :: A language used in textbooks such as 'Principles of Program Analysis'.
 - [[https://github.com/kwanghoon/polyrpc][PolyRPC]] :: A 'multi-tier' functional programming language.
 - [[https://github.com/musikinformatik/Steno][Steno]] :: livecoding metalanguage
+- [[https://en.m.wikipedia.org/wiki/Unlambda][Unlambda]] :: A minimal functional programming language based on combinatory logic meant to be a demonstration of pure functional programming
 
 ** DSLs
 
@@ -490,6 +491,8 @@ http://prl.ccs.neu.edu/blog/2020/01/15/the-typed-racket-optimizer-vs-transient/
 https://docs.racket-lang.org/ts-guide/index.html
 https://www.reddit.com/r/ProgrammingLanguages/comments/f3ekao/i_built_a_2d_gridbased_esoteric_language_with_a/
 https://esolangs.org/wiki/2014 esolang only working in 2014
+https://esolangs.org/wiki/Efghij esolang that interacts with the physical world via a jenga-based game, manually interpreted and executed by the programmer according to the specification
+https://esolangs.org/wiki/Ziim 2d language reliant entirely on unicode arrows
 https://matklad.github.io/2020/04/15/from-pratt-to-dijkstra.html
 https://www.reddit.com/r/ProgrammingLanguages/comments/e1vv55/c3_a_clike_language_now_has_a_domain/
 https://www.reddit.com/r/ProgrammingLanguages/comments/a0yyfc/plam_for_anyone_exploring_%CE%BBcalculus/
