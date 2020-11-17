@@ -1,42 +1,39 @@
-name: Build & Deploy
+name: Build and Deploy
+
 on:
   push:
-    branches:
-      - master
-
-env:
-  HUGO_VERSION: 0.74.3
-  EMACS_VERSION: 27.1
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
-  gh-pages-deploy:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+      - name: Download firn
+        run: curl -s https://raw.githubusercontent.com/theiceshelf/firn/master/install -o install-firn
+      - name: Install firn
+        run: chmod +x install-firn && sudo ./install-firn
+      - run: firn build -d /home/runner/work/exp2exp.github.io/exp2exp.github.io/src
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v1
         with:
-          submodules: true
+          name: public
+          path: "src/_firn/_site"
 
-      - name: Install org-roam dependencies
-        run: |
-          sudo apt-get install sqlite3
-      - name: Install Hugo
-        uses: peaceiris/actions-hugo@v2
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    if: success() && github.ref == 'refs/heads/master'
+    steps:
+      - name: Download build artifacts
+        uses: actions/download-artifact@v1
         with:
-          hugo-version: ${{ env.HUGO_VERSION }}
-          extended: true
-
-      - name: Install emacs
-        uses: purcell/setup-emacs@master
-        with:
-          version: ${{ env.EMACS_VERSION }}
-
-      - name: Build
-        run: make build 
-
+          name: public
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages
