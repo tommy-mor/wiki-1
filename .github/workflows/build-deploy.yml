@@ -16,7 +16,7 @@ jobs:
         run: curl -s https://raw.githubusercontent.com/theiceshelf/firn/master/install -o install-firn
       - name: Install firn
         run: chmod +x install-firn && sudo ./install-firn
-      - run: firn build -d /home/runner/work/exp2exp.github.io/exp2exp.github.io/src
+      - run: firn build -d /home/runner/work/wiki/wiki/pages
       - name: Upload build artifacts
         uses: actions/upload-artifact@v1
         with:
