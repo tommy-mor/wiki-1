@@ -21,7 +21,7 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: public
-          path: "src/_firn/_site"
+          path: "pages/_firn/_site"
 
   deploy:
     runs-on: ubuntu-latest
