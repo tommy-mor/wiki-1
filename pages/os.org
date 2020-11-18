@@ -32,6 +32,7 @@ https://www.ipredia.org/os/
 - Plan9 :: Defer to [[https://wiki.xxiivv.com/site/plan9.html][Devine's notes on the subject]].
 - [[https://en.m.wikipedia.org/wiki/Junos_OS][Junos OS]]
 - [[https://spectrum-os.org/][Spectrum]] :: An OS modeled after Qubes, but making full use of the Nix reproducible build system, and dedicated to supporting mainstream x86-64 hardware.
+- SmartOS :: combines opensolaris tech with linux kvm virtualization. has zfs. contributed to illumos project
 ** Mobile
 https://news.ycombinator.com/item?id=23100713
 - LineageOS ::

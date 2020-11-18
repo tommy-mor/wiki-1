@@ -9,3 +9,6 @@ Ancient titan systems programming language.
 [[https://github.com/katef/libfsm][library for DFAs and friends]]
 [[https://github.com/tevador/RandomX]] proof of work via random code execution
 https://github.com/k-vernooy/tetris simple example tetris terminal app
+
+* 100R
+Program fluently with C89 + SDL (standard library) even GUI applications?

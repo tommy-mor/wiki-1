@@ -50,6 +50,7 @@ https://eloquentjavascript.net/ writing javascript good
 
 https://en.wikipedia.org/wiki/Adventures_in_the_Screen_Trade
 https://en.wikipedia.org/wiki/No_Logo
+[[https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862][working in public: maintaining open source software]]
 realm of racket ????
 https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 
@@ -71,6 +72,7 @@ https://moviebarcode.tumblr.com/ cool looks
 
 https://github.com/alimir1/ali/blob/master/index.md books this dude has enjoyed
 movies
+i am heath ledger
 https://m.imdb.com/title/tt0096256/
 okja
 fargo
@@ -110,6 +112,10 @@ https://nogunslife.fandom.com/wiki/No_Guns_Life_(manga) No Guns Life
 https://en.m.wikipedia.org/wiki/Dorohedoro
 Biomega
 Vagabond
+deiter rams: the complete works. claus kemp
+deiter rams' 10 principles of good design, apparently on vimeo
+the work of art in the age of its technological reproducibility and other writings on media: walter benjamin
+futura: the artist's monograph
 
 - [[https://en.m.wikipedia.org/wiki/Be_Here_Now_(book)][Be Here Now]] :: Foundational LSD book
 - [[https://www.goodreads.com/book/show/118288.On_Beauty_and_Being_Just][On Beauty and Being Just]] :: a work on our world's loss of focus on true beauty
@@ -122,6 +128,9 @@ Tokyo Tribes
 Gantz
 Battle Angel Alita
 Koduko no Gourmet
+blind man's bluff: untold story of american submarine espionage
+neuromancer, gibson -- some of the goodreqads reviews are absolutely incredibly written, actually
+superlife: on superfoods and fitness. Darin Olien
 [[https://www.calnewport.com/books/deep-work/][deep work]]: rules for focused success
 [[https://en.m.wikipedia.org/wiki/Homunculus_(manga)][homunculus]]
 [[https://en.m.wikipedia.org/wiki/The_Flowers_of_Evil_(manga)][the flowers of evil]]
@@ -136,3 +145,5 @@ an incredible navigation of dystopia in a world as a city
 Such a joyful adventure! Follows a kid out of college and two old to grow up as he battles his new girlfriend's evil exes and navigates regrets, living without limits and his future. Thematic exploration changes with the art style.
 * others i have read
 ghost in the shell -- too hard to follow, too much dialogue, not a big fan of the art style
+
+* etc

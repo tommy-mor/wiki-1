@@ -10,6 +10,10 @@
            ;; description supports both hiccup and html
            :description "<a href="http://jake.isnt.online">jake.isnt.online</a>}
 
+
+ ;; support proper file links for local use
+ :org-mode/insert-file-link? true
+
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd
