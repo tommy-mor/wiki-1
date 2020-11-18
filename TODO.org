@@ -12,3 +12,6 @@ should be part of a CI job or something; maybe locally in the editor? could take
 * TODO dynamically fetch and insert titles into .org files
 this way i dont have to retype the title, as i do most of the time.
 easier to just go back and change it than to have to manually add the title
+* TODO remove personal info
+some config to prevent pages with personal info from showing in public wiki,
+but allowing me to browse them freely locally
