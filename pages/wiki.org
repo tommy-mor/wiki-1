@@ -100,3 +100,18 @@ http://outliners.scripting.com/ 40 years of outliners
 https://github.com/TymonZ/garden
 
 [[https://notes.andymatuschak.org/Work_with_the_garage_door_up][working with the garage door up]] :: why we should learn with wikis in the open. 
+
+[[https://weakty.com/meta][weakty wiki]]
+- site map!
+- related tags!
+- backlinks!
+- resoures!
+- activity graph for research or projects!
+  i love how this wiki looks and feels
+  uses [[https://fortelabs.co/blog/para/][PARA]] method of organizing information
+  and a feed! god this shit is so good
+  and a table of contents but everything is hidden out of the way! IBM plex mono is /almost/ there - but not quite
+  
+
+
+[[https://web.hypothes.is/][hypothesis]]: a margin with conversations anywhere on the web! i cannot stress how cool this is, particularly the trick with the sidebar

@@ -113,3 +113,4 @@ There are obvious performance improvements to some actions as well:
 [[http://assets.aarp.org/www.aarp.org_/articles/research/oww/AARP-50Sites.pdf][AARP Site Accessibility]]
 [[https://www.iso.org/accessing-my-world.html][ISO: Accessing the World]]
 [[https://blog.sapegin.me/all/accessibility-testing/][A myriad of accessibility testing tips, links, resources]]
+[[humanetech.com]]

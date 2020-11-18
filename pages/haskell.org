@@ -131,3 +131,6 @@ https://github.com/JoeyEremondi/haskelm haskell to elm translation with Template
 https://m.youtube.com/watch?v=65GWGc5LNxc debugging ghc assertion error
 
 https://reasonablypolymorphic.com/blog/towards-tactics/index.html navigating the haskell tactics engine
+
+https://www.srid.ca/haskell-new-project.html creating a new haskell project with ide support and nix
+https://hoogleplus.goto.ucsd.edu/

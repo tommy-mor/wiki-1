@@ -20,3 +20,6 @@ On MacOS and Windows, this is your standard user interface, just as it is with G
 - [[https://github.com/seanpringle/goomwwm][goowmwm: get out of my way! simple and effective window manager]].
 - [[https://github.com/fuhsjr00/bug.n][bug.n]] is a tiling window manager for Windows written in AutoHotkey.
 - https://github.com/conformal/spectrwm fun tiling wm
+* experiments
+[[https://www.notion.so/Expanding-UI-OS-e58f65ad81d94fb187cc18275b22f68c][an OS for autonomy]]
+[[https://www.notion.so/Dango-b46c07f3dc224f968c768885abe70e70][single flexible digital document instead of all apps]]
