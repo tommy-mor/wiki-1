@@ -13,3 +13,4 @@ org/private/
 */**/*.syncthing*
 /content/posts/**
 org-roam.db
+private/
