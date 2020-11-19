@@ -85,3 +85,4 @@ https://www.reddit.com/r/emacs/comments/74hetz/emacs_everywhere/ emacs everywher
 :PROPERTIES:
 :ID:       92c5c049-6516-4427-9693-8d6f96758b12
 :END:
+https://karthinks.com/software/batteries-included-with-emacs/ fun things that come with emacs!
