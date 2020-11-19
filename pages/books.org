@@ -3,7 +3,33 @@
 #+TITLE: Books
 
 Books I've read and would like to read.
+
+hr giger
+zdzislaw beksinski
+* shows
+BBC: In Our Time. on famous math works
+wayne, emerson student film
+** merveilles
+rozencrantz guildenstern
+solaris
+wristcutter: a love story
+the rules of attaction
+faust
+my dinner with andre
+sedmikrasky
+valerie a tyden divu
+na srebrnym globie
+the taste of tea
+cat soup
+black moon
+(see xxiivv wiki for more)
 * ETC
+beyond good and evil: friedrich nietzsche
+3 body problem
+sapiens: yuval noah harari
+Skarholmen
+karl jung?
+black hat python: python for pen testers
 https://www.amazon.com/Breaking-Habit-Being-Yourself-Create/dp/1401938094
 https://www.amazon.com/10-Happier-Self-Help-Actually-Works/dp/0062265423
 https://en.wikipedia.org/wiki/The_Coddling_of_the_American_Mind
@@ -146,7 +172,8 @@ Personal space: Dylan Gins (@_dylangins on ig)
 book: xchg rax,rax - assembly riddles
 Range: david epstein. book about generalism                                                          
 fuzzingbook.org 
-waste tide: chen qiufan                                                                                
+waste tide: chen qiufan
+thinking fast and slow: daniel kahneman
 Exhalation: ted chiang
 Flights: olga tokarczuk
 outline: rachel cusk  
