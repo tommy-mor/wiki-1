@@ -29,7 +29,7 @@ I hope to have this wiki, along with my other personal websites, up on Gemini so
 - [[https://git.sr.ht/~julienxx/asuka][Asuka]] :: A Rust-based Gemini client.
 [[https://gemini.circumlunar.space/clients.html][A list of Gemini clients.]]
 [[https://portal.mozz.us/gemini/gemini.circumlunar.space/software/][A list of all currently known Gemini software.]]
-
+[[https://flounder.online/][Flounder, a Gemini/HTTPS host for simple sites.]]
 * Sites
 [[https://portal.mozz.us/gemini/tildeverse.org/][The Tildeverse on Gemini]].
 [[https://portal.mozz.us/gemini/commie.space/blog/][A Tilde blog.]]
