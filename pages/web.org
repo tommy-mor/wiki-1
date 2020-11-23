@@ -94,3 +94,10 @@ http://vmchale.com/miscellany very cool person
 
 https://thomasorus.com/home.html cute site using some fun time tracking and management ideas
 https://www.welcometothejungle.com/en/articles/btc-interview-paul-mockapetris interview with creator of dns
+
+[[https://href.cool]]
+[[https://john-doe.neocities.org/#home][example with one line html file for multi page site]]
+
+
+https://www.are.na/everest-pipkin/on-vocal-cloning on vocal cloning: beautiful piece. sources for this: https://shell-song.neocities.org/
+https://neocities.org/: support for creating cool websites with free hosting!

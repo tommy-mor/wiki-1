@@ -130,3 +130,5 @@ https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html ba
 https://github.com/grahamc/nixos-config/commit/9161782363b1fab27cffaa0b6432a10b303f3d7c make programs run in their own cgroups; use play/pause to play and pause /programs/.
 https://github.com/sdiehl/dotfiles/blob/master/i3/config good i3 configuration from stephen diehl
 http://www.seas.upenn.edu/~bcpierce/unison config with some good android stuff
+** adjust audio based on context
+https://askubuntu.com/questions/95716/automatically-adjust-the-volume-based-on-content

@@ -37,3 +37,5 @@ https://aturon.github.io/about About Aaron]]
 [[ https://github.com/richardanaya/pinephone-cairo-game-starter ][pinephone-cai
 [[https://nexdock.com/touch][Introducing the ne]]
 [[https://raku.org][The Raku Programmin]]
+
+https://teetotality.blog/posts/how-this-blog-was-made/ this works off of IPFS

@@ -115,3 +115,4 @@ https://github.com/TymonZ/garden
 
 
 [[https://web.hypothes.is/][hypothesis]]: a margin with conversations anywhere on the web! i cannot stress how cool this is, particularly the trick with the sidebar
+https://dreamwiki.sixey.es/welcome.dream/

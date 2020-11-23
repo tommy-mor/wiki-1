@@ -20,6 +20,7 @@
 - [[https://github.com/kwanghoon/polyrpc][PolyRPC]] :: A 'multi-tier' functional programming language.
 - [[https://github.com/musikinformatik/Steno][Steno]] :: livecoding metalanguage
 - [[https://en.m.wikipedia.org/wiki/Unlambda][Unlambda]] :: A minimal functional programming language based on combinatory logic meant to be a demonstration of pure functional programming
+- Vodka :: A creative coding environment and language for structured editing for writers. 
 
 ** DSLs
 
