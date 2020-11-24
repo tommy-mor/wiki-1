@@ -34,6 +34,7 @@ There are obvious performance improvements to some actions as well:
 * Accessibility
 ** Resources
 - REact ESLint Plugin
+- [[https://blog.brownplt.org/2018/06/11/philogenic-colors.html][Picking friendly colors for error messages for Pyret]]
 - Axe-core (+Storybook a11y addon): checks rendered HTML for accessibility; browser extensions and react integrations are both available
 - [[https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb/related][Spectrum]]: browser extension to examine how those with different color vision deficiencies will view the application
 - Tab through you application! Make sure that the tab key proceeds in an order that makes sense. A 'skip navigation' link should appear the first time the 'Tab' key is pressed (a la GitHub) to enable users to tab through the relevant content rather than the heading.

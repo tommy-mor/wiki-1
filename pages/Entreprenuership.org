@@ -12,3 +12,5 @@ http://firstround.com/review/how-superhuman-built-an-engine-to-find-product-mark
 * Caramack
 tweet: from peter drucker:
 "Leaders focus on doing the right thing, managers focus on doing things right"
+* Drew
+[[https://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.html][advice for working in FOSS full time]]

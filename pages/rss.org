@@ -13,3 +13,4 @@ feeds for the intranet
 https://github.com/RSS-Bridge/rss-bridge
 https://github.com/bcongdon/rssfilter/blob/master/README.md filter rss feeds
 https://freshrss.org/ self hosted rss
+[[https://kill-the-newsletter.com/][convert email newsletters to rss feeds!]]
