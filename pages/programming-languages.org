@@ -530,3 +530,5 @@ https://github.com/glaretechnologies/winter
 https://www.zinkov.com/posts/2019-02-17-why-program-synthesis/ program synthesis why?
 https://loglo.app/ turn yaml into cnc
 https://tixy.land/ fun language for creative code golfing
+
+run your research paper is probably cool!
