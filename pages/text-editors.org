@@ -40,7 +40,8 @@ Preprint: https://t.co/JwKOdnDQrl https://t.co/EFIt78VFlQ
 
 https://twitter.com/fniephaus/status/1316397053325565953
 
-https://hazel.org/: a live fp enviornment featuring type holes with a language built around filling them.
+[[https://twitter.com/azlenelza/status/1331623011049500678][a text editor with speech and motion controls]]
+https://hazel.org/: a live fp environment featuring type holes with a language built around filling them.
 
 ** General Idea
 - build to be language agnostic: use a plugin system to support other programs out of the box

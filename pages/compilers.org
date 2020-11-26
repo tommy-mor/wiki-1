@@ -35,3 +35,8 @@ https://v8.dev/blog/react-cliff vy performance cliff in react
 Great resource for learning about the history of programming languages research, by definition.
 https://dl.acm.org/doi/10.1145/1238844.1238853
 https://tlbh.it/index.html fun podcast about compilers
+
+* pattern matching
+https://www.reddit.com/r/ProgrammingLanguages/comments/g1vno3/beginner_resources_for_compiling_pattern_matching/
+https://www.reddit.com/r/ProgrammingLanguages/comments/f4gfum/pattern_matching_in_your_language/
+http://cone.jondgoodwin.com/coneref/refmatch.html

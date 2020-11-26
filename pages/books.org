@@ -86,7 +86,6 @@ https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 https://en.m.wikipedia.org/wiki/Words_of_Radiance
 https://www.amazon.com/Dark-Matter-Novel-Blake-Crouch/dp/1101904240
 https://en.m.wikipedia.org/wiki/Range:_Why_Generalists_Triumph_in_a_Specialized_World
-https://m.imdb.com/title/tt1737747/
 https://www.powells.com/book/little-typer-9780262536431
 https://blog.rogs.me/2020/05/de-google-my-blog-how-to-blog-in-2020-without-google/
 de google the blog
@@ -95,13 +94,15 @@ code as a creative medium :: MIT book
 https://en.m.wikipedia.org/wiki/Literate_programming -- practice literate
 programming in daily life.
 https://en.m.wikipedia.org/wiki/Juno_(film) movie not book i guess
+[[https://m.imdb.com/title/tt0477139/][Wristcutters]]: a love story. movie
 
 https://moviebarcode.tumblr.com/ cool looks
 
 https://github.com/alimir1/ali/blob/master/index.md books this dude has enjoyed
-movies
+* movies
 i am heath ledger
 https://m.imdb.com/title/tt0096256/
+https://m.imdb.com/title/tt1737747/
 okja
 fargo
 yokai watch

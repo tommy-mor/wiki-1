@@ -5,16 +5,17 @@
 * Languages
 
 - [[https://www.jsoftware.com/#/][J]] :: A high-performance language for data processing and parallel computing.
+    [[https://github.com/pitr/jj][J implementation in Nim]]
 - [[https://github.com/zetzit/zz][Z]] :: A dialect for C that's immutable by default, resolves undefined behavior and uses an SMT solver to guarantee reference stability 
 - [[https://chapel-lang.org][Chapel]] :: A parallel programming language that claims to have some novel ideas.
 - [[https://github.com/CatalaLang/catala][Catala]] :: A DSL for representing laws by construction, designed to enable lawyers to certify laws. Interested in formal verification of legal documents, potentially.
 - [[https://raku.org][Raku]] :: A descendent of Perl, it features lots of additional features including fun grammar specifications.
-- [[https://github.com/jfecher/ante][Ante]] :: 'The compile-time language'. Made by a Northeastern undergraduate student.
+- [[https://github.com/jfecher/ante][Ante]] :: 'The compile-time language'. Made by a Northeastern undergraduate.
 - [[https://github.com/adam-mcdaniel/oakc][Oak]] :: Designed as a simple replacement for C.
 - [[https://github.com/topshell-language/topshell][Topshell]] :: A functional, reactive scripting language.
 - [[https://github.com/MosheWagner/PyChefInterpreter][Chef]] :: An esoteric programming language designed to simultaneously represent recipes and programs.
 - [[https://github.com/bakpakin/Fennel][Fennel]] :: Lisp for Lua.
-- Whitespace :: A programming language designed with only whitespace characters, ignoring all others. Any program that disregards whitespace can express a whitespace program within it.
+- Whitespace :: A programming language designed with only whitespace characters, ignoring all others. Any program that disregards whitespace can express a whitespace program within it. Fun to represent in laugnages that aren't indent-aware - these programs can also encode Whitespace within them!
 - [[https://github.com/LuxLang/lux][Lux]] :: A statically typed Lisp-like language for the JVM.
 - [[https://github.com/einaregilsson/While-Language][While]] :: A language used in textbooks such as 'Principles of Program Analysis'.
 - [[https://github.com/kwanghoon/polyrpc][PolyRPC]] :: A 'multi-tier' functional programming language.
@@ -24,7 +25,7 @@
 - [[play-lang.dev][Play]] :: A statically typed Forth!
 
 ** DSLs
-
+- [[https://gitlab.inria.fr/verifisc/mlang][MLang]] :: A DSL created to represent and calculate the French tax code.
 http://bloom-lang.net/bud/
 https://dhall-lang.org/ langauge for system configuration
 https://microformats.io/ html dsl in classes to add meaning
@@ -39,14 +40,14 @@ http://optlang.org/ embedded lang for nonlinear least squares optimization
 https://hackage.haskell.org/package/accelerate embedded lang for array processing
 - also see https://jrslepak.github.io/publications/
   https://tracery.io/ :: simple graphics programming language
-https://www.unisonweb.org/ :: distribured programming language
+- [[https://www.unisonweb.org/][Unison]] :: A distributed programming language and editing environment for the modern web.
+  A major inspiration for the projectional [[file:text-editors.org][Text Editors]] project.
 https://faust.grame.fr/
 https://en.m.wikipedia.org/wiki/Datalog
 http://pepijndevos.nl/2018/10/03/behavior-trees-are-concatenative-programs.html
 behavior trees
 http://coconut-lang.org/
 https://www.dangermouse.net/esoteric/piet.html
-https://github.com/pitr/jj j impl in nim
 https://effekt-lang.org/ effekt polymorphism
 
 * Work
@@ -57,12 +58,10 @@ https://github.com/hengestone/lua-languages programming languages targeting lua
 https://github.com/jeanqasaur/dsl-syllabus-fall-2016 class on dsls
 
 * Research
-
 https://github.com/jdublu10/icfp2020-papers ICFP 2020 conf
 https://github.com/melling/ComputerLanguages someone's notes on computer languages
 
 * Lean
-
 This'll be factored out when I learn more about Lean.
 https://github.com/uwdb/Cosette automated sql solver
 https://github.com/ImperialCollegeLondon/group-theory-game group theory in lean
@@ -499,14 +498,7 @@ https://matklad.github.io/2020/04/15/from-pratt-to-dijkstra.html
 https://www.reddit.com/r/ProgrammingLanguages/comments/e1vv55/c3_a_clike_language_now_has_a_domain/
 https://www.reddit.com/r/ProgrammingLanguages/comments/a0yyfc/plam_for_anyone_exploring_%CE%BBcalculus/
 
-*** pattern matching
-
-https://www.reddit.com/r/ProgrammingLanguages/comments/g1vno3/beginner_resources_for_compiling_pattern_matching/
-https://www.reddit.com/r/ProgrammingLanguages/comments/f4gfum/pattern_matching_in_your_language/
-http://cone.jondgoodwin.com/coneref/refmatch.html
-
 ** static analysis
-
 https://www.reddit.com/r/Coq/comments/tzpb9/webbased_proofbypointing_frontend_to_coq/
 https://hal.inria.fr/hal-01093327
 https://hal.inria.fr/tel-01102401
@@ -516,7 +508,6 @@ https://en.wikipedia.org/wiki/Loop-invariant_code_motion
 https://www.reddit.com/r/ProgrammingLanguages/comments/g1wd0v/but_what_if_we_put_modifiers_after_the_keyword/
 
 ** tss something
-
 https://bellard.org/otcc/
 https://bellard.org/tcc/
 http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html cool project for a
