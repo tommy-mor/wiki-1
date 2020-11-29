@@ -12,3 +12,6 @@ https://github.com/k-vernooy/tetris simple example tetris terminal app
 
 * 100R
 Program fluently with C89 + SDL (standard library) even GUI applications?
+* C Style
+https://aiju.de/misc/c-style
+https://ftrv.se/3

@@ -1,105 +1,132 @@
 #+TITLE: Sweden Todo
 
 * 'Art Meets Nature'
-
-- 'Artipelag' - Varmdo on the stockholm archipalego!
+** 'Artipelag' - Varmdo on the stockholm archipalego!
   Looks like a great place to go.
 
 * Designer's Map Stockholm
+** Bar Hommage
+** Skrovet
+waffles and water lillies
+** Christoffers blommor
+Christopher's Flowers!
+** CANCELLED Kindstugugatan
+CLOSED: [2020-11-29 Sun 14:25]
+:LOGBOOK:
+- State "CANCELLED"  from              [2020-11-29 Sun 14:25] \\
+  i think this is just a street in gamla stan
+:END:
+oasis in trees
+** Omnipollo's Hat
+Hokensgata 1A
+** Restaurang Marcos
+** Bagdad Cafe
+Medditeranean museum
+** Hotel Skeppsholmen
+** DONE Moderna museet
+CLOSED: [2020-11-29 Sun 12:48]
+done
+** TODO Stockholm Gallery district in Vanadisplan
+** DONE Brod and Salt
+CLOSED: [2020-11-29 Sun 12:48]
+done
 
-- Bar Hommage
-- Skrovet - waffles and water lillies
-- Christoffers blommor - Christopher's Flowers!
-- Kindstugugatan - oasis in trees
-- Omnipollo's Hat, Hokensgata 1A
-- Restaurang Marcos
-- Bagdad Cafe - Medditeranean museum
-- Hotel Skeppsholmen
-- Moderna museet !!
-- Stockholm Gallery district in Vanadisplan
-- Brod and Salt
-
-* ArkDes
-
+* DONE ArkDes
+CLOSED: [2020-11-29 Sun 12:46]
 - Swedish center for architecture and design!
 - Free admission!
 
-* Tunnelbanan
+* DONE Tunnelbanan
+CLOSED: [2020-11-29 Sun 12:47]
 
 Check out the art at every subway station!
 Do this on a rainy day.
 
 * Stockholm Museums 2018
 
-- ABBA Museum
-- Accelerator -- contemporary art at Stockholm university
-- Almgrens silk weaving museum?
-- Aquaria water museum
-- Army museum
-- Artipelag art gallery
-- Brergius Botanic Garden
-- Birka Vikingastaden
-  The viking city
-- Carl Eldh Studio Museum
-- Museum of Dance and Movement
-- Drottningholm Palace with the Chinese Pavilion
-- Edsvik art gallery
-- Ethnography Museum
-- Butterfly House Haga Ocean
-- Fotografiska
-- Fargfabriken - contemporary art and architecture
-- Grimsholm Castle
-- Gustav III's Pavilion
-- Royal Stables
-- Haga Park Museum!
-- Hallwyl museum - von Hallwyl family collection
-- Hamn museum: the Battle of Staket against russians
-- National Home Guard museum
-- Hertha Hillfon - cultural meeting point
-- Swedish History Museum
-- Index :: Center for contemporary art
-- Junibacken - Pippi longstocking's house!
-- Kungliga Slott
-- Museum of Toys and Collectibles
-- Royal Armoury
-- Magasin II:: Museum and Foundation for Contemporary Art
-- Marabouparken Art Gallery : Modern
-- MC Collection museum - private collection of motorcycles
-- Millesgarden: Carl Milles art museum and sculpture park
-- Moderna Museet :: Modern museum!
-- Nationalmuseum :: Sweden national Museum
-- Nobel Museum
-- Nordiska Museet
-- Norrtalje Museum and art Gallery
-- Olle Olson Hagalund Museum
-- Swedish Police Museum
-- Post Museum
-- Prince Eugen's Waldemarsudde
-- Pythagoras Industrial Museum
-- Rosendal Palace
-- Sigtuna Museum :: Sweden's oldest town
-- Maritime museum
-- Skansen :: Swedish open air museum
-- Stadsmuseet :: City Museum
-- Statshuset :: Stockholm City Hall
-- Sven-Harry's Art Museum
-- Tekniska Museet
-- Thiel Gallery
-- Ulriksdals Palace
-- Vikingalv -- viking expedition?
-- Ostaiaska museet - museum of far eastern antiquities
+** ABBA Museum
+** Accelerator
+contemporary art at Stockholm university
+** Almgrens silk weaving museum?
+** Aquaria water museum
+** Army museum
+** Artipelag art gallery
+** Brergius Botanic Garden
+** Birka Vikingastaden
+  viking city
+** Carl Eldh Studio Museum
+** Museum of Dance and Movement
+** Drottningholm Palace with the Chinese Pavilion
+** Edsvik art gallery
+** Ethnography Museum
+** Butterfly House Haga Ocean
+** Fotografiska
+** Fargfabriken - contemporary art and architecture
+** Grimsholm Castle
+** Gustav III's Pavilion
+** Royal Stables
+** Haga Park Museum!
+** Hallwyl museum - von Hallwyl family collection
+** Hamn museum: the Battle of Staket against russians
+** National Home Guard museum
+** Hertha Hillfon - cultural meeting point
+** Swedish History Museum
+** Index :: Center for contemporary art
+** Junibacken - Pippi longstocking's house!
+** Kungliga Slott - done
+** Museum of Toys and Collectibles
+** Royal Armoury - done
+** Magasin II :: Museum and Foundation for Contemporary Art
+** Marabouparken Art Gallery : Modern
+** MC Collection museum - private collection of motorcycles - done
+** Millesgarden: Carl Milles art museum and sculpture park
+** DONE Moderna Museet ::
+CLOSED: [2020-11-29 Sun 12:49]
+Modern museum! - done
+** Nationalmuseum :: Sweden national Museum
+** DONE Nobel Museum 
+CLOSED: [2020-11-29 Sun 12:49]
+** Nordiska Museet
+** Norrtalje Museum and art Gallery
+** Olle Olson Hagalund Museum
+** Swedish Police Museum
+** Post Museum
+** Prince Eugen's Waldemarsudde
+** Pythagoras Industrial Museum
+** Rosendal Palace
+** Sigtuna Museum :: Sweden's oldest town
+** Maritime museum
+** CANCELLED Skansen
+CLOSED: [2020-11-29 Sun 12:49]
+:LOGBOOK:
+- State "CANCELLED"  from              [2020-11-29 Sun 12:49] \\
+  closed : (
+:END:
+:: Swedish open air museum - closed : (
+** Stadsmuseet
+:: City Museum - done?
+** Statshuset
+:: Stockholm City Hall
+** Sven-Harry's Art Museum
+** Tekniska Museet
+** Thiel Gallery
+** Ulriksdals Palace
+** Vikingalv
+ viking expedition?
+** Ostaiaska museet
+museum of far eastern antiquities
 
-* Gastcafe
-
+* DONE Gastcafe
+CLOSED: [2020-11-29 Sun 12:47]
 award winning cafe
 ghosts and stuff
 
+* else
 Visit [[https://cfhill.com][CFHill]]
 [[https://www.lonelyplanet.com/sweden/drottningholm/attractions/kina-slott/a/poi-sig/1111361/1330016 ][Kina Slott]]
-[[https://visitsweden.com/where-to-go/middle-sweden/stockholm/arkdes-skeppsholmen-stockholm/][ArkDes]]
-[[https://www.fotografiska.com/sto][Fotografiska]]
+[[https://www.fotografiska.com/sto][Fotografiska]] - closed
 [[https://hellasgarden.se/][Hellasgarden]]
-[[https://www.tripadvisor.com/Attractions-g679660-Activities-Vaxholm.html][Vaxholm]]
+[[https://www.tripadvisor.com/Attractions-g679660-Activities-Vaxholm.html][Vaxholm]] - maybe next time : (
 https://fargfabriken.se/sv/
 https://stockholmsspelmuseum.se/
 https://en.m.wikipedia.org/wiki/Hagaparken

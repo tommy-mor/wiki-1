@@ -44,3 +44,4 @@ https://news.ycombinator.com/item?id=23100713
 ** Other
 - Wii-Linux ::
 https://mirror.dernuntius.de/projects/wii-linux/
+http://songseed.org/dinghy/concept.html reenvisioning the os

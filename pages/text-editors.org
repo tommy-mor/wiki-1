@@ -43,6 +43,8 @@ https://twitter.com/fniephaus/status/1316397053325565953
 [[https://twitter.com/azlenelza/status/1331623011049500678][a text editor with speech and motion controls]]
 https://hazel.org/: a live fp environment featuring type holes with a language built around filling them.
 
+https://ash-k.itch.io/textreme an energetic text editor
+
 ** General Idea
 - build to be language agnostic: use a plugin system to support other programs out of the box
 - Abandon the file structure: we can do much more faster if we abandon files and use semantic structures relevant to the programming languages. We're building a data manipulation framework, and the plugins define the constraints for manipulating the data
