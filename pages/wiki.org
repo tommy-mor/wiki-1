@@ -112,7 +112,6 @@ https://github.com/TymonZ/garden
   and a feed! god this shit is so good
   and a table of contents but everything is hidden out of the way! IBM plex mono is /almost/ there - but not quite
   
-
-
 [[https://web.hypothes.is/][hypothesis]]: a margin with conversations anywhere on the web! i cannot stress how cool this is, particularly the trick with the sidebar
 https://dreamwiki.sixey.es/welcome.dream/
+http://mindforger.com/: markdown-powered wiki software
