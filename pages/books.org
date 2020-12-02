@@ -29,6 +29,8 @@ beyond good and evil: friedrich nietzsche
 sapiens: yuval noah harari
 Skarholmen
 karl jung?
+
+the machineries of joy: Ray Bradbury
 [[https://en.m.wikipedia.org/wiki/Elephantmen][Elephantmen]]
 [[https://m.barnesandnoble.com/w/the-body-keeps-the-score-bessel-van-der-kolk-md/1117229987][the body keeps the score: child trauma and adult health]]
 black hat python: python for pen testers

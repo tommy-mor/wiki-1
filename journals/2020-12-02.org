@@ -1,0 +1,31 @@
+#+TITLE: Wednesday, 12/02/2020
+** 19:04 substack writing
+i've joined a single hour of writing hosted by substack to promote running substack blogs and connecting others!
+i'm not super interested in using the substack platform in particular, but i enjoy the company and it's cool to participate in community projects like this.
+
+
+What do I want to get out of Substack? Out of writing?
+
+i want to learn more about myself and my relationship with the world.
+I love ava's approach: synthesizing philosophy writing with current events and experiences, and putting her personal experiences through old ideas.
+
+I enjoy paul graham's perspectives, to a point; he approaches everything first from the perspective of an engineer, then a historian, then a founder in his current position -- aiming to convey what's best for founders.
+
+What makes all of the writing I enjoy /interesting/ is this demonstration of abstract emotions through metaphor and parallels drawn to moments in the personal life of the writer. It's important not to get too personal -- names are deliberately obscured and personal interactions are mangled, anonymized or sanitized for the sake of narrative -- but to establish a personal connection with the reader it's vital to let them in. Too personal can be seen as personally invasive or downright dangerous, revealing circumstances that could compromise your well-being, safety or career.
+
+Treat the piece as good conversation -- your intention is to establish yourself as the reader's equal, not mentor. Mentorship, like much of Graham's writing, is completely patronizing. Sure, you can craft a gallery of admirers if you write well, but as your reader begins to disagree with your sentiments -- inevitable in such an egoist framework -- you become irrespectable. Allow the reader to play an equal part in the conversation! Provide them an introduction that puts them in the proper frame of mind. Once they're thinking like you, you can develop a path they can follow into your own life experiences: one that helps them learn about you just as much as it does about themselves.
+
+Weave in and out of anecdotes with personal references and effects. Without these, you haven't given the audience other ways to interact with the ideas. There is no such thing as writing without reference, and by explicitly citing them we include them in the conversation, too. This gives your reader the saem understanding of the material you, as the writer have -- and when they see eye to eye, they can make the same connections to their lives that you can.
+
+Try to impart a tidbit of a life lesson in each passage. Don't treat this as something you /know/ and feel that you /have/ to convey to the reader; treat the information you're imparting as a way you feel or a perspective you have on a part of your life, and try to figure out how to share that with them -- and encourage them to adopt the practice as well.
+
+There are not good writers, only good editors -- we can start by writing what we know, but this isn't worthy of publication until it's edited several times. Become your own editor and master the craft!
+
+"If you are not embarrassed by the first version of your product, you've launched too late." -- Reid Hoffman
+
+What do I want to write about? What do I bring to others that's valuable?
+- Technical knowledge. I've done a lot of research about many software tools and I've programmed enough to know how to use many of them.
+- Crafting a minimal lifestyle. Learning to live and travel with less.
+- Developing taste. I know what objects I'm interested in, what I like wearing and how I like my spaces to look.
+
+I don't necessarily have to write about things I have experience with already; rather, the act of writing can be a jumping off point for research and ideas to spring up! This holds for any subject -- starting to /do/ will start things off better than any other effort. Of course, it's much more difficult to research Foulcaultian ideas than it is to debug some code or read some new documentation -- but it's valuable nonetheless!
