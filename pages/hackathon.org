@@ -262,3 +262,10 @@ Perhaps 'experiments' and 'portfolio' are one and the same; perhaps 'experiments
 * better android launcher
 i like the one im using now but wish it were FOSS
 https://parallelcodes.com/create-android-launcher-program/ intro tutorial for doingthis
+* canary
+simple app:
+asks once per week if you're alive or have any problems
+you respond with yes, no, whatever
+if you haven't responded in more than two weeks (the servre handles this),
+an email is sent to designated people (ie parents) to notify them
+able to provide additional information for 'status update'
