@@ -29,7 +29,7 @@ beyond good and evil: friedrich nietzsche
 sapiens: yuval noah harari
 Skarholmen
 karl jung?
-
+[[https://www.penguinrandomhouse.com/books/82329/the-folk-art-of-japanese-country-cooking-by-gaku-homma/][the folk art of japanese cooking]]
 the machineries of joy: Ray Bradbury
 [[https://en.m.wikipedia.org/wiki/Elephantmen][Elephantmen]]
 [[https://m.barnesandnoble.com/w/the-body-keeps-the-score-bessel-van-der-kolk-md/1117229987][the body keeps the score: child trauma and adult health]]
