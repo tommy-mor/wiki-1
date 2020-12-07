@@ -15,3 +15,4 @@ Program fluently with C89 + SDL (standard library) even GUI applications?
 * C Style
 https://aiju.de/misc/c-style
 https://ftrv.se/3
+[[https://stackoverflow.com/questions/17014835/where-can-one-find-the-c89-c90-standards-in-pdf-format#17015061][links to the C standards]]; inb4 undefined behavior

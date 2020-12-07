@@ -1,0 +1,6 @@
+#+TITLE: Monday, 12/07/2020
+** 07:49 silly ideas
+see aingle image at a time and tag it with multiple tags. nice ui shows you existing tags, more effort to add new one but still possible
+images / video / text you've collected can be turned into a static site at a specific url and hosted easily
+
+interview ppl!!! all the time. ask good questions. i loved being interviewed because it made me think and i want to do the same for others and do it /quickly/.
