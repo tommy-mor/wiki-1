@@ -107,6 +107,7 @@ https://app.getpocket.com/read/2558647524 learning nixos easily
 - [[https://jeltsch.wordpress.com/2012/04/30/dependently-typed-programming-and-theorem-proving-in-haskell/][A more rigorous overview of dependently typed programming in Haskell]]
 - [[https://wiki.haskell.org/Applications_and_libraries/Theorem_provers][Haskell libraries and theorem provers]]
 * things to remake in haskell (and maybe racket!)
+[[https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/ ][sha256 encoder]]
 - The Forth programming language (then make lots of example programs!)
 - [[https://github.com/jasonhemann/dependently-typed-lang][Jason Hemann's small, dependently typed language]]
 - [[https://m.youtube.com/watch?v=Or_yKiI3Ha4][Matthew Flatt's hygienic macro expander]]

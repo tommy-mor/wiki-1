@@ -181,7 +181,8 @@ thinking fast and slow: daniel kahneman
 Exhalation: ted chiang
 Flights: olga tokarczuk
 outline: rachel cusk  
-ice: anna kaven      
+ice: anna kaven
+naussicaa: manga
 @migrant_journal issues
 [[https://www.calnewport.com/books/deep-work/][deep work]]: rules for focused success
 [[https://en.m.wikipedia.org/wiki/Homunculus_(manga)][homunculus]]                         
@@ -189,7 +190,11 @@ ice: anna kaven
 [[https://www.goodreads.com/book/show/136744.Domu][domu: a child's dream]]            
 [[https://en.m.wikipedia.org/wiki/Uzumaki][uzumaki]]                         
 [[https://en.m.wikipedia.org/wiki/Ichi_the_Killer_(manga)][ichi the killer]]                
-[[https://www.penguinrandomhouse.com/books/72469/only-the-paranoid-survive-by-andrew-grove/][andy grove::only the paranoid survive]] 
+[[https://www.penguinrandomhouse.com/books/72469/only-the-paranoid-survive-by-andrew-grove/][andy grove::only the paranoid survive]]
+
+[[https://en.m.wikipedia.org/wiki/The_New_Media_Reader][the new media reader]]
+[[https://en.m.wikipedia.org/wiki/Six_Memos_for_the_Next_Millennium][six memos for the next millenium]]
+[[https://en.m.wikipedia.org/wiki/Either/Or][either/or]]
 * favorites                          
 ** Blame!
 an incredible navigation of dystopia in a world as a city

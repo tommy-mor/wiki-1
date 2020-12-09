@@ -31,6 +31,8 @@ There are obvious performance improvements to some actions as well:
 - https://blog.logrocket.com/improve-site-performance-inlining-css/
 - https://www.filamentgroup.com/lab/load-css-simpler/
 [[https://www.matuzo.at/blog/writing-even-more-css-with-accessibility-in-mind-user-preferences/][writing css with accessibility in mind]]
+* Behavior
+[[https://blog.matsu.io/stop-breaking-links-with-javascript][Stop breaking links with javascript]] :: the web app should act exactly as one would expect a typical website to do. Back buttons should be reproduced to have consistent behavior at the least!
 * Accessibility
 ** Resources
 - REact ESLint Plugin
