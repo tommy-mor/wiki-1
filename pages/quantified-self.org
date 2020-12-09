@@ -84,3 +84,7 @@ the more efficient i become
 https://www.nature.com/articles/s41598-020-72501-w
 does perceived health matter more than actual health?
 this is just one study but nature is huge.
+* tracking
+[[https://medium.com/aaronn/tracking-my-blood-glucose-over-a-month-with-a-sensor-stapled-to-my-arm-8f025c438719][constant feedback blood glucose]]
+[[https://medium.com/aaronn/some-thoughts-on-n-back-and-a-free-sketch-file-din-for-ios-6d82af94359c][notes on n-back]]
+[[https://medium.com/aaronn/cognitive-enhancement-nootropic-stack-october-2017-7232c6b657e4][pill stack]]
