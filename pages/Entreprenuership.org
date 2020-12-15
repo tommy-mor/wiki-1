@@ -14,3 +14,12 @@ tweet: from peter drucker:
 "Leaders focus on doing the right thing, managers focus on doing things right"
 * Drew
 [[https://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.html][advice for working in FOSS full time]]
+* Minimum viable usership
+https://www.reddit.com/r/dredmorbius/comments/69wk8y/the_tyranny_of_the_minimum_viable_user/
+the tool should never be more complicated than the needs of the user; it should serve the single purpose it needs. consequently, complex tasks should never be more complex than the actual task at hand, nor more simple! 
+* Improving work
+[[https://rework.withgoogle.com/about/][inspired by Google's work]]
+Skira:
+- Psychological evaluations to ensure that employees feel that they are heard and supported
+- Thorough manager and personal feedback
+- Truly collaborative environment vs. one in which time is valued relative to one's importance in the company

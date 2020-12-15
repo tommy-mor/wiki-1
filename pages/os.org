@@ -12,6 +12,7 @@ Aside from Linux, Windows, MacOS and derivatives...
 https://www.ipredia.org/os/
 
 - [[https://illuminos.org][IlluminOS]] :: An operating system that claims to provide advanced system debugging, a next-generation file system, networking and visualization.
+- [[http://gerigeri.uw.hu/DawnOS/][DawnOS]] :: An operating system built on the [[http://mazonka.com/subleq/][subleq]] higher level language architecture
 - [[https://github.com/tomaka/redshirt][Redshirt]]
 - [[https://gitlab.redox-os.org/redox-os/redox][Redox]] :: is a Rust operating system with a microkernel-based design.
 - [[https://github.com/urbit/urbit][Urbit]] :: A 'universal function'.
@@ -30,6 +31,7 @@ https://www.ipredia.org/os/
 - [[https://www.qubes-os.org/intro/][Qubes OS]] :: An operating system that isolates every application and device on the computer, granting permission to each only when necessary. Many journalists and security professionals rely on this.
 - [[https://www.whonix.org/][WhoNix]] :: An operating system designed to completely sandbox your activity inside of a virtual machine.
 - Plan9 :: Defer to [[https://wiki.xxiivv.com/site/plan9.html][Devine's notes on the subject]].
+  - Plan9 resources: http://www.9gridchan.org/
 - [[https://en.m.wikipedia.org/wiki/Junos_OS][Junos OS]]
 - [[https://spectrum-os.org/][Spectrum]] :: An OS modeled after Qubes, but making full use of the Nix reproducible build system, and dedicated to supporting mainstream x86-64 hardware.
 - SmartOS :: combines opensolaris tech with linux kvm virtualization. has zfs. contributed to illumos project
