@@ -270,3 +270,8 @@ you respond with yes, no, whatever
 if you haven't responded in more than two weeks (the servre handles this),
 an email is sent to designated people (ie parents) to notify them
 able to provide additional information for 'status update'
+* the idea chat!
+https://t.co/WR8o4OwBeT?amp=1
+this is that shit we've been waiting for
+i would love to spend some time developing an ecosystem with the platform
+https://tfh.mit.edu/

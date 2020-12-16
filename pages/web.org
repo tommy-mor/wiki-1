@@ -101,3 +101,7 @@ https://www.welcometothejungle.com/en/articles/btc-interview-paul-mockapetris in
 
 https://www.are.na/everest-pipkin/on-vocal-cloning on vocal cloning: beautiful piece. sources for this: https://shell-song.neocities.org/
 https://neocities.org/: support for creating cool websites with free hosting!
+* SEO
+[[https://www.currentaffairs.org/2020/12/how-seo-is-gentrifying-the-internet][how seo is ruining the web]]
+[[https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf][Google's vaguely worded SEO advice hadnbook]]
+reverse engineer seo by sampling search results? is this done?
