@@ -83,7 +83,6 @@ https://dpitt.me/blog/2020/03/zettelkasten/
 [[https://www.thebrain.com/][The Brain]] is a digital memory solution written and maintained by the brother of Acronym's founder, Errolson,for many years. It's not well known in the technology space, but it's popular with creatives and researchers who often don't intersect with the field.
 
 * organization
-
 https://todaytakeseverything.wordpress.com/2016/09/29/the-bullet-journal-bulletproof/
 doing things once a day and putting them in a bullet journal or something
 https://www.reddit.com/r/philosophy/comments/1vn6uk/thoughts_on_the_meditations_by_marcus_aurelius/
@@ -115,3 +114,17 @@ https://github.com/TymonZ/garden
 [[https://web.hypothes.is/][hypothesis]]: a margin with conversations anywhere on the web! i cannot stress how cool this is, particularly the trick with the sidebar
 https://dreamwiki.sixey.es/welcome.dream/
 http://mindforger.com/: markdown-powered wiki software
+* concrete plan
+learn to build small software! a wiki is the best way to do this.
+- write a basic org-mode parser in ANSI [[file:cpp.org][C, C++]]
+  supports links, `#+title`, nested bullets, etc. fairly simple to start.
+- with inspiration from devine's wiki, integrate this parser into a service
+  that parses things out to html, also written in ANSI C
+- continue to rewrite in rust and other languages, like zig perhaps, for fun and to learn more programming
+- experiment with a file format other than org under the hood; something with an equivalent level
+  of expression but much simpler [i don't use most of the features of org here anyways; org feels like it's
+  doing too much as a file format, and i use different subsets of the format in different ways]
+  - would be cool to use a babel-adjacent technology to be able to convert to file formats compatible with other platforms on the fly.
+** experiments
+- figure out the best way to do project management. learn more about the mailing list strategy adn see how that compares to a `TODO.org` approach that I've been using in a few of my projects to take notes and ideas.
+- build hyper specific tools to interact with my wiki in different ways to enforce certain ways of integrating with it: adding a new idea, journal entry, or something similar for example. emacs is a nice interface and should be worked on, but it shouldn't be the only one. small, portable `.sh` scripts could be fun to experiment with here.
