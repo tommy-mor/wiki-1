@@ -27,3 +27,32 @@ the application must be useful to the community; the community must be useful to
 "software for your mom": applications should first be personal, built for one, and used intimately.
 
 jake - build software for yourself, and only for yourself to start. expand it when interest is shown and keep going after that : )
+** 21:21 high tech clothes, low tech living
+https://solar.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html
+wear high tech clothing in low tech society
+more bang for buck, self heating, can live and operate anywhere with lightweight material
+actually worth the material investment
+** 21:23 silent retreat
+[[https://romainaubert.com/vipassana-meditation-10-days-silence][source]]
+noble silence
+- silence of:
+  body: 
+  + no stretching, running or yoga
+  + no communication with gestures
+  + no eye contact
+  + no distractions.
+  + walk slowly
+  + eat facing a wall
+  + sit, stand, brush, wash, sleep, meditate
+  voice:
+  + no talking or use of voice
+  mind: limit activities that distract practice
+  + no music, reading, writing
+  + be present
+  + remain in silence
+  + do not pay attention to animals, they disturb
+  + without mind, you are on your own. there is no way to stop until the end.
+*** train to focus
+we live in continuous partial attention, always dividing between so many different aspects of our life. focus always; the attention is overwehlming.
+"in noble silence everyone is alike."
+  

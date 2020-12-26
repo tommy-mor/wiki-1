@@ -49,3 +49,7 @@ https://ash-k.itch.io/textreme an energetic text editor
 - build to be language agnostic: use a plugin system to support other programs out of the box
 - Abandon the file structure: we can do much more faster if we abandon files and use semantic structures relevant to the programming languages. We're building a data manipulation framework, and the plugins define the constraints for manipulating the data
 - improve traversal and visualization of these data structures
+* petagogic ides
+https://parentheticallyspeaking.org/articles/pedagogic-ide/#%28part._.At_the_.Beginning%29
+
+sriram krishnamurthi's work on developing editors for education to help students learn without overwhelming them - at the same time helping them 'unlearn' bad habits from utilities like visual studio and intellij
