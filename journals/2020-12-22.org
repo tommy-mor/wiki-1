@@ -27,3 +27,53 @@ literally *reach out to anyone*; consequences are at worst rejection
 
 things you should buy and use: these are some good recs
 - https://medium.com/@s8mb/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6
+** 17:39 generating effective and active listening
+you spurn empathy and appearance of good listening through curiosity
+demonstrate a genuine interest in the issues and continue to talk to others!
+ask more questions (sensitively, of course) because they want someone to listen actively
+and work out their problems through talking about them
+
+keep asking questions about the issue until you have a complete snapshot of the mental state
+then make observations and, in turn, construct hypotheses based on this knowledge
+the helper tries to learn about the reality of the complainer as much as possible,
+regardless of whether a real solution to the issue is actually necessary!
+
+this makes reflective listening feel /validating/ instead of /alienating/; understand
+enough to know all of the details, but realize that there is no requirement for you to be helpful,
+and misinformed advice can lead to terrible decisions down the line
+** 19:13 success in modern age
+george washington: america will be most favorable country for all
+launching a new social platform is no different from founding a new country; it takes promising success, the new american dream
+
+the internet is still missing a middle class; an area for new, niche creators and products to flourish, but we haven't fully seen this yet -- rather, a few key players have monopolized users, like spotify paying 90% of its royalties to its top artists, or video games like roblox taking up huge percentages of concurrent users of total major games, etc.
+
+[[http://links.jstor.org/sici?sici=0002-8282%28198112%2971%3A5%3C845%3ATEOS%3E2.0.CO%3B2-R][the economics of superstars]] posits that the superstar phenomenom will only become more pronounced with technology; when everyone has access to the same resources, they'll trend towards the favorites, and with more options to choose from it'll be easier to find something with universal appeal, especially with costless distribution!
+
+so creator platforms provide opportunities for anyone to grow and succeed, but inevitably build a centralization of power.
+
+fostering creator middle class:
+- focus on content with lower replay value
+- serve heterogeneity
+- recommend content with element of randomness
+- facilitate collaborations and community
+- fund up and coming creators
+- decouple payouts with demongraphics
+- allow for capitalizing on superfans
+- create passive income opportunities
+- 'universal creative income'
+  [[https://www.amazon.com/gp/product/0446678791/?ie=UTF8&camp=1789&creative=9325&creativeASIN=0446678791&&&][free agent nation]] :: nobody is going at it alone; loyalty has switched from vertical to horizontal, towards self employment and networking directly with peers.
+houses build community! we see this again and again -- when you build your lives together, you find success together through collaborations
+
+
+** 19:15 wiki as prose
+a personal wiki should be more like prose; rather than just recording facts, it should take a user on a journey as needed. new additions modify the story, or navigation; this story is an evolving tale that explains how one's interests, ideas and abilities adapt over time, through version control creating the never-ending essay
+** 20:17 writing effectively
+https://www.youtube.com/watch?v=vtIzMaLkCaM
+- writing should be valuable. don't just write to be new or original; write to present value for your audience
+- writing is about changing your audience's ideas and making them think; it's not about communicating your own ideas in isolation. this requires following the rhetorical norms of your community, referencing work relevant to context, etc. and working with what the target audience is familiar with
+- know the audience! predict doubts in arguments and solve them in advance. know the readers and cater to them, both with the content you choose to present and the rules it should follow
+- expert notes are different from what readers understand
+- use writing to advance conversations and dialogues
+- knowledge is dynamic; peers determine what is considered knowledge
+- first frame the problem, then propose a solution
+this talk is very much worth revisiting in the future; come back!

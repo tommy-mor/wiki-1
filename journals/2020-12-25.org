@@ -1,0 +1,29 @@
+#+TITLE: Friday, 12/25/2020
+** 19:04 some more thoughts and notes
+- no more presents, please. ask to donate to charity instead!
+- domain-specific items have their uses, but there is clearly a balance to be stricken.
+- it's hard to justify getting rid of things that have no utility to others.
+  i know i don't like those t shirts, but wearing them means i wear the ones i care about less,
+  and i can wear the ones i care about when i'm out! they also won't be well served elsewhere.
+- things should be weighed in terms of utility, time spent and life wasted.
+- i waste far too much of my life doing things i shouldn't be doing, or not doing things that i should.
+  i've been procrastinating on a bunch of things and it's difficult for me to make meaningful progress. but it'll get done !! i'm making progress after cleaning things up tonight. listing old things to make room for the new stuff
+*** situated software
+[[http://www.shirky.com/writings/situated_software.html][article]]
+a change in the software ecosystem: ignoring practices and still making interesting work
+making purpose built software; it's so easy to build applications targeting just dozens of users, but doesn't make sense for large school applications unless the individual takes them on as passion projects
+not worrying about scale is incredibly valuable; as scaling problems aren't inherently fatal in most applications, there's no reason to really worry about them until the issue is relevant.
+the social energy and local importance of applications is so powerful - and not being able to scale sometimes is beneficial, preventing problems and issues and enabling others through catering to an audience.
+
+really, 'situated software' is refusing to prematurely choose a target audience, building it for the audience that's immediately apparent and expanded to meet demand in the future. targeting specific groups makes those groups feel more important, and demants more specific, better quality feedback!
+- easily accessible testing
+- incredible feedback locally
+- super fast iterated design based on this feedback; it's a much, much smaller loop
+- the community cares so so much more, making the work actually more important - face strong responses rather than indifference, closed tab, whatever
+- the smaller the circle, the more that the developer can assume about the users; i.e. they recognize icons x and y, certain error messages, etc.
+the application must be useful to the community; the community must be useful to the application.
+"reputational capital is easier to accumulate in smaller and more closed social systems"
+
+"software for your mom": applications should first be personal, built for one, and used intimately.
+
+jake - build software for yourself, and only for yourself to start. expand it when interest is shown and keep going after that : )

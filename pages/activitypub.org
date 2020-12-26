@@ -30,3 +30,9 @@
 - An implementation of ActivityPub
 [[https://github.com/tleb/awesome-mastodon][awesome page]]
 [[https://github.com/mouse-reeve/bookwyrm][bookwyrm]] :: a decentralized reading and reviewing service with activitypub
+* P2P
+[[https://octodon.social/@cwebber/99015530843597174][feasibility of p2p activitypub]]
+want to avoid static ip, ideally
+- run on home server, always-on computer kind of deal ie beaglebone
+- NAT TOR? Zooko's triangle -- choosing between human readable, decentralized and unique is impossible. PetNames proposal may be useful
+- key upgrade, but all that is needed is tor .onion address support, truly

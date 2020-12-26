@@ -1,0 +1,19 @@
+#+TITLE: Isntonline
+
+organization
+* manifesto
+we have the right to live local first,
+without internet connections,
+without information tracking,
+without constant distraction.
+
+we believe that software should build and work everywhere, empowering the user to use it as they please - but that the user experience should be offlune first.
+
+we believe in:
+- powerful data standards
+- downloading once, never again
+- operating with minimal resources
+- building once, running everywhere
+
+  first draft lol
+
