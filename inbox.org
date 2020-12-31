@@ -1715,3 +1715,5 @@ and specifically install certain plugins with certain things::
 - password thing with 'pass'
 - org-capture with emacs
 - react things with nodejs, javascript etccc
+* DONE curlable way to check template!!!
+CLOSED: [2020-12-28 Mon 17:01]

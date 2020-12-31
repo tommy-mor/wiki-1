@@ -102,29 +102,19 @@ sudo systemctl start sshd to start ssh daemon
 [[https://www.reddit.com/r/NixOS/comments/44attf/nixos_on_digital_ocean/czoyjng/][ooh]]
 
 ** nix
-https://christine.website/blog/i-was-wrong-about-nix-2020-02-10
 https://nixos.org/nixos/about.html
 https://ebzzry.io/en/nix/
-https://opencollective.com/nix-errors-enhancement
-http://fluffynukeit.com/installing-nixos/
 https://www.reddit.com/r/NixOS/comments/g1rmby/building_a_web_app_with_functional_programming/
 
 [[https://builtwithnix.org/][nix!]]
 [[https://discourse.nixos.org/t/is-there-much-difference-between-using-nix-shell-and-docker-for-local-development/807][nix vs docker]]
 [[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][configuring infra in nix]]
 [[https://github.com/kylesferrazza/nix/blob/master/README.md][nix!]]
-[[https://github.com/kylesferrazza/nix-gce][looks good]]
 https://nix.dev/ resources for learning nix to get things done
 https://www.reddit.com/r/NixOS/comments/6j9zlj/how_to_set_up_themes_in_nixos/ working with themes in nixos
-https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Fryantm%2Fnixfiles%2Fblob%2Fmaster%2Fmachine-specific%2Fhome1.nix someones config files
-
-https://app.getpocket.com/read/2452794423 tutorial for encrypted zfs boot
-https://app.getpocket.com/read/1841792851 nixos on zfs
-https://app.getpocket.com/read/3056979074 building package from source tutorial
-https://app.getpocket.com/read/3056078810 nix and music ??
-https://app.getpocket.com/read/875290314 real time audio with nixos
-
-https://app.getpocket.com/read/2962491016 nixos desktop workflow
+- encrypted zfs boot
+- nixos on zfs
+- real time audio with nixos
 https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html basic git server with nixos
 * cool nixos stuff to do
 https://github.com/grahamc/nixos-config/commit/9161782363b1fab27cffaa0b6432a10b303f3d7c make programs run in their own cgroups; use play/pause to play and pause /programs/.
