@@ -1,7 +1,7 @@
 #+TITLE: Wiki
 
-This is my personal wiki, served at [[https://wiki.chvatal.com]].
-I record my thoughts in the /org directory.
+This is my personal wiki, sometimes served at [[https://wiki.chvatal.com]].
+Daily thoughts are stored in journals/, while pages/ holds long-term notes.
 
 This website has been inspired by the following:
 - [[https://wiki.xxiivv.com/site/home.html][Devine Lu Linvega's Blog]]
@@ -13,13 +13,7 @@ This website has been inspired by the following:
 - [[https://braindump.jethro.dev][Jethro's Braindump]]
 and is in a state of continuous improvement.
 
-I often use [[https://logseq.com][Logseq]] to work on these notes, though my primary interface to them is still through org-roam.
-
-The structure of this repository is no different from other sites served with [[gohugo.io][Hugo]].
-The repository for [[https://github.com/jakechv/cortex][the template]] contains all of the presentation logic.
+I often use [[https://logseq.com][Logseq]] to work on these notes, though my primary interface to them is through [[https://github.com/org-roam/org-roam][org-roam]].
 
 * Contributing
-If you've found an issue with the wiki or would otherwise like to contribute,
-feel free to open a pull request!
-
-That said, these are my personal notes, so understand if I reject the contribution.
+If you've found an issue with the wiki or would otherwise like to contribute, feel free to open a pull request!
