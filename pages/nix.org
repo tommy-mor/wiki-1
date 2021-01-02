@@ -108,6 +108,7 @@ https://github.com/andir/infra
 https://github.com/bqv/nixrc
 https://github.com/yegortimoshenko/yegortimoshenko-flake
 https://github.com/Luis-Hebendanz/nix-configs
+https://gitlab.com/rycee/configurations -- he has a working color scheme !
 
 ** nix
 https://nixos.org/nixos/about.html
