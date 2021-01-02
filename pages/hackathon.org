@@ -290,3 +290,5 @@ allows you to pick different programs you want to install on your system based o
 you can select your system type: e.g. arm, etc
 this should be for nontechnical users that want to use linux, so they don't have to mess with nix's underlying data if they don't want to, but they have a nice interface to their code a needed -- they can bring back up their program launcher thing and add, update, or roll back programs and systems as needed without touching the nix cli!
 
+* generative music
+yes
