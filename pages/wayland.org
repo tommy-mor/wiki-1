@@ -7,3 +7,6 @@ Install Xeyes, one of the X11 demo apps
 if the eyes are moving when you mouse over the app, it's X : ) and running on XWayland, as X is giving it access to all of your information.
 * Resources
 [[https://web.archive.org/web/20200505182132/https://wayland-book.com/][Wayland book, the comprehensive guide to using Wayland]].
+* Fixing screensharing on wayland
+[[https://www.reddit.com/r/swaywm/comments/fq1qoe/how_to_use_xdgdesktopportalwlr_to_share_the_screen/][share with wayland package]]
+[[https://www.reddit.com/r/swaywm/comments/ev3ty6/does_anyone_know_a_workaround_to_share_screen_in/][loopback device for screen sharing]]

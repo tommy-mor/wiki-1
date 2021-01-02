@@ -101,6 +101,14 @@ sudo systemctl start sshd to start ssh daemon
 [[https://www.reddit.com/r/NixOS/comments/44attf/nixos_on_digital_ocean/][nix as config mgr]]
 [[https://www.reddit.com/r/NixOS/comments/44attf/nixos_on_digital_ocean/czoyjng/][ooh]]
 
+https://github.com/bqv/nixrc
+https://github.com/colemickens/nixcfg
+https://github.com/archseer/nixos-fedora
+https://github.com/andir/infra
+https://github.com/bqv/nixrc
+https://github.com/yegortimoshenko/yegortimoshenko-flake
+https://github.com/Luis-Hebendanz/nix-configs
+
 ** nix
 https://nixos.org/nixos/about.html
 https://ebzzry.io/en/nix/
