@@ -482,5 +482,3 @@ Links:
 [182]: https://web.archive.org/web//https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/ (link)
 [183]: https://manishearth.github.io/blog/2018/02/15/picking-apart-the-crashing-ios-string/ (link)
 [184]: https://web.archive.org/web/20200430223226/https://manishearth.github.io/blog/2018/02/15/picking-apart-the-crashing-ios-string/ (link)
-[185]: https://wayland-book.com/ (link)
-[186]: https://web.archive.org/web/20200505182132/https://wayland-book.com/ (link)
