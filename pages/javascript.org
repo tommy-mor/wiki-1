@@ -51,7 +51,6 @@ The compiler for Javascript.
 - https://github.com/dustinspecker/awesome-eslint :: eslint resources
 
 * Etc
-
 ImmutableJS: Immutable data structures
 Ramda: Better JS functional programming
 Typescript with these two is the de factor pure programming ecosystem
@@ -70,3 +69,6 @@ https://github.com/typeorm/typeorm/blob/master/README.md super flexible js and t
 phantomjs browser control
 [[https://github.com/gajus/gajus.com-blog/blob/master/posts/the-definitive-guide-to-the-javascript-generators/index.md][excellent article on javascript generators]]
 https://ionicframework.com/react apps everywhere with single react code base? seems too good to be true
+
+* CRDTs
+[[https://crdt.tech/][an excellent resource on conflict-free replicated datatypes]]
