@@ -11,10 +11,9 @@ https://github.com/nh2/nixops-tutorial development with NixOps
 https://www.reddit.com/r/emacs/comments/hniz19/using_nix_to_manage_emacs_packages/ using nix to manage emacs packages
 * Configs
 https://github.com/luke-clifton/nix-config has cool config
-https://github.com/hlissner/dotfiles, doom emacs developer, has nice config. It's not terribly complicated though
 https://github.com/bjornfor/nixos-config
 https://github.com/fooblahblah/nixos
-https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Futdemir%2Fdotfiles
+https://github.com/utdemir/dotfiles
 
 * ETC
 [[http://fluffynukeit.com/installing-nixos/][installing nixos]]
@@ -121,12 +120,8 @@ https://www.reddit.com/r/NixOS/comments/g1rmby/building_a_web_app_with_functiona
 [[https://github.com/kylesferrazza/nix/blob/master/README.md][nix!]]
 https://nix.dev/ resources for learning nix to get things done
 https://www.reddit.com/r/NixOS/comments/6j9zlj/how_to_set_up_themes_in_nixos/ working with themes in nixos
-- encrypted zfs boot
-- nixos on zfs
-- real time audio with nixos
 https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html basic git server with nixos
 * cool nixos stuff to do
-https://github.com/grahamc/nixos-config/commit/9161782363b1fab27cffaa0b6432a10b303f3d7c make programs run in their own cgroups; use play/pause to play and pause /programs/.
 https://github.com/sdiehl/dotfiles/blob/master/i3/config good i3 configuration from stephen diehl
 http://www.seas.upenn.edu/~bcpierce/unison config with some good android stuff
 ** adjust audio based on context
