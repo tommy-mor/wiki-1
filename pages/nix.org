@@ -10,6 +10,7 @@ https://github.com/elitak/nixos-infect install nixos over an existing os on digi
 https://github.com/nh2/nixops-tutorial development with NixOps
 https://www.reddit.com/r/emacs/comments/hniz19/using_nix_to_manage_emacs_packages/ using nix to manage emacs packages
 * Configs
+
 https://github.com/luke-clifton/nix-config has cool config
 https://github.com/bjornfor/nixos-config
 https://github.com/fooblahblah/nixos
