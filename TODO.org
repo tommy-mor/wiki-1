@@ -16,3 +16,7 @@ easier to just go back and change it than to have to manually add the title
 some config to prevent pages with personal info from showing in public wiki,
 but allowing me to browse them freely locally
 https://covilla.life/ cool idea
+
+https://mrshll.com/
+https://siraben.github.io/2020/02/20/free-monads.html
+https://yggdrasil-network.github.io/

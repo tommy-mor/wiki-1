@@ -128,3 +128,4 @@ http://www.seas.upenn.edu/~bcpierce/unison config with some good android stuff
 ** adjust audio based on context
 https://askubuntu.com/questions/95716/automatically-adjust-the-volume-based-on-content
 https://github.com/lovesegfault/nix-config
+https://github.com/RaitoBezarius/nix-scripts/blob/master/autoinstall/justdoit.nix

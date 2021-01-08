@@ -25,3 +25,11 @@ Skira:
 - Truly collaborative environment vs. one in which time is valued relative to one's importance in the company
 
 https://romainaubert.com/product-marketing-resources
+
+* OSS Success
+https://blog.vjeux.com/2020/uncategorized/reflections-on-excalidraw.html
+- respond quickly
+- be decisive
+- keep quality
+
+  etc...
