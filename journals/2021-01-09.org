@@ -1,0 +1,13 @@
+#+TITLE: Saturday, 01/09/2021
+** 10:47 journal
+starting a 'daily standup' or journal so i can better keep track of what i get done and want to do every day.
+
+yesterday i did not do much, hence why i am starting this journal.
+today i will:
+- travel to osu and spend time with friends
+- set up git crypt for my nixos configuration
+  - full file encryption is fine, don't have to *just* encrypt secrets.
+- generate a pgp key for jake@isnt.online and use it in fun places
+- ship some cards
+- clean my room and try to get rid of a couple of things
+- solidify my plans for the rest of the semester.
