@@ -1717,3 +1717,5 @@ and specifically install certain plugins with certain things::
 - react things with nodejs, javascript etccc
 * DONE curlable way to check template!!!
 CLOSED: [2020-12-28 Mon 17:01]
+* TODO what is this
+https://github.com/grahamc/nixos-config/blob/master/packages/motd/motd.sh

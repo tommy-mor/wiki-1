@@ -131,3 +131,5 @@ https://github.com/lovesegfault/nix-config
 https://github.com/RaitoBezarius/nix-scripts/blob/master/autoinstall/justdoit.nix
 https://github.com/gvolpe/nix-config/blob/master/home/ssh-key.nix
 https://github.com/gvolpe/nix-config/blob/master/home/programs/git/default.nix
+
+https://github.com/grahamc/nixos-config/tree/master/packages/recognize-thunderbolt cool thunderbolt utility; look at it if you have problems with thunderbolt
