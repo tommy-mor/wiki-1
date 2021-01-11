@@ -9,12 +9,14 @@ https://github.com/elitak/nixos-infect install nixos over an existing os on digi
 * Tutorials
 https://github.com/nh2/nixops-tutorial development with NixOps
 https://www.reddit.com/r/emacs/comments/hniz19/using_nix_to_manage_emacs_packages/ using nix to manage emacs packages
+[[https://christine.website/blog/i-was-wrong-about-nix-2020-02-10][Why Nix: Cachix, niv and nix-build overview]]
 * Configs
-
+[[https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html][set up a basic git server in NixOS]]
 https://github.com/luke-clifton/nix-config has cool config
 https://github.com/bjornfor/nixos-config
-https://github.com/fooblahblah/nixos
+
 https://github.com/utdemir/dotfiles
+https://blog.jcoglan.com/2017/09/19/the-patience-diff-algorithm/
 
 * ETC
 [[http://fluffynukeit.com/installing-nixos/][installing nixos]]
@@ -26,18 +28,15 @@ https://github.com/utdemir/dotfiles
 [[http://fluffynukeit.com/installing-nixos/][installing nixos in vm]]
 [[https://myme.no/posts/2020-01-26-nixos-for-development.html][nixos for developers]]
 
-[[http://blog.shealevy.com/][politics and nix]]
 [[https://www.quora.com/What-is-it-like-to-use-NixOS-Linux-on-production?share=1#][using nixos in prod]]
 [[https://medium.com/@jethroksy/a-year-with-nixos-113b534f446b][a year with nixos]]
 [[https://www.codedbearder.com/posts/nixos-terramaster-f2-221/][nixos on a NAS]]
 
 [[https://nixos.org/nixos/manual/index.html#sec-changing-config][changing nixos configuration]]
 [[https://nixos.org/nixos/manual/index.html#sec-changing-config][managing nix config]]
-[[https://www.natrius.eu/dokuwiki/doku.php?id=digital:server:matrixsynapse][installing matrix on ubuntu]]
 [[https://nixos.org/nixos/manual/index.html#sec-user-management][managing common programs on nixos]]
 [[https://github.com/matrix-org/synapse#synapse-installation][connecting to synapse from a client]]
 [[https://github.com/kylesferrazza/nix][good organization for config]]
-[[https://christine.website/blog/i-was-wrong-about-nix-2020-02-10][here is why nix is good .]]
 [[https://nixos.org/nixos/nix-pills/pr01.html][a good intro to nixos]]
 [[https://github.com/justinwoo/nix-shorts][short, readable notes on nix]]
 [[https://myme.no/posts/2020-01-26-nixos-for-development.html][nixos for developers]]
@@ -97,9 +96,6 @@ sudo systemctl start sshd to start ssh daemon
 
 [[https://opensource.builders/][oepn source alternatives for everything]]
 [[http://thedarnedestthing.com/current%20configuration][cool selfhosting specs]]
-[[https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/][self hosting email with vultr, nixos]]
-[[https://www.reddit.com/r/NixOS/comments/44attf/nixos_on_digital_ocean/][nix as config mgr]]
-[[https://www.reddit.com/r/NixOS/comments/44attf/nixos_on_digital_ocean/czoyjng/][ooh]]
 
 https://github.com/bqv/nixrc
 https://github.com/colemickens/nixcfg
@@ -111,19 +107,14 @@ https://github.com/Luis-Hebendanz/nix-configs
 https://gitlab.com/rycee/configurations -- he has a working color scheme !
 
 ** nix
-https://nixos.org/nixos/about.html
 https://ebzzry.io/en/nix/
 https://www.reddit.com/r/NixOS/comments/g1rmby/building_a_web_app_with_functional_programming/
 
-[[https://builtwithnix.org/][nix!]]
 [[https://discourse.nixos.org/t/is-there-much-difference-between-using-nix-shell-and-docker-for-local-development/807][nix vs docker]]
 [[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][configuring infra in nix]]
 [[https://github.com/kylesferrazza/nix/blob/master/README.md][nix!]]
 https://nix.dev/ resources for learning nix to get things done
-https://www.reddit.com/r/NixOS/comments/6j9zlj/how_to_set_up_themes_in_nixos/ working with themes in nixos
-https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html basic git server with nixos
 * cool nixos stuff to do
-https://github.com/sdiehl/dotfiles/blob/master/i3/config good i3 configuration from stephen diehl
 http://www.seas.upenn.edu/~bcpierce/unison config with some good android stuff
 ** adjust audio based on context
 https://askubuntu.com/questions/95716/automatically-adjust-the-volume-based-on-content
@@ -132,4 +123,5 @@ https://github.com/RaitoBezarius/nix-scripts/blob/master/autoinstall/justdoit.ni
 https://github.com/gvolpe/nix-config/blob/master/home/ssh-key.nix
 https://github.com/gvolpe/nix-config/blob/master/home/programs/git/default.nix
 
-https://github.com/grahamc/nixos-config/tree/master/packages/recognize-thunderbolt cool thunderbolt utility; look at it if you have problems with thunderbolt
+[[https://github.com/grahamc/nixos-config/tree/master/packages/recognize-thunderbolt][Thunderbolt system utility; investigate if any issues arise]]
+[[https://github.com/gvolpe/nix-config/blob/master/home/programs/browsers/install-ext.nix][cool config trick for installing chrome extensions]]
