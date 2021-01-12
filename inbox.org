@@ -1719,5 +1719,14 @@ and specifically install certain plugins with certain things::
 CLOSED: [2020-12-28 Mon 17:01]
 * TODO what is this
 https://github.com/grahamc/nixos-config/blob/master/packages/motd/motd.sh
-* TODO erased review
 * TODO docker dive - check it out nest time youe using doctor
+
+* some web design inspo
+https://dequis.org/
+https://v-os.ca/
+https://maxdeviant.com/posts/2020/the-high-cost-of-caring/
+https://maxdeviant.com/
+https://alarmingdevelopment.org/?p=1475
+https://years.cblgh.org/
+https://ruby0x1.ca/#home
+https://cblgh.org/support.html
