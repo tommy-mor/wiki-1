@@ -55,3 +55,5 @@ If you need to change commit history:
 - Squash the new commit with the old one in the history
 - Remove the second commit message (or merge it...)
 This did change the commit time for my latest commit, which is something to watch out for.
+* How Git Works
+[[https://blog.jcoglan.com/2017/09/19/the-patience-diff-algorithm/][Neat writeup on the Git patience diff algorithm]]

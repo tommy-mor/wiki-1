@@ -1730,3 +1730,5 @@ https://alarmingdevelopment.org/?p=1475
 https://years.cblgh.org/
 https://ruby0x1.ca/#home
 https://cblgh.org/support.html
+* TODO keep a page updated with the current things i own
+ive made efforts before but they havent quite succeeded

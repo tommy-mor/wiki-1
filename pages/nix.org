@@ -6,62 +6,75 @@ Nix is a functional package manager that isolates and sandboxes dependencies.
 
 * Tools
 [[https://github.com/elitak/nixos-infect][nixos-infect]]: install nixos over an existing os on digitalocean and other vps systems
+[[https://github.com/numtide/devshell][devshell]]: universally compatible nix-shell
 * Tutorials
+[[https://nix.dev/][Resources for learning more about the Nix ecosystem]]
 [[https://nixos.org/nixos/nix-pills/pr01.html][The de-facto introduction to NixOS]]
+[[https://ebzzry.io/en/nix/][Another great introduction to the Nix ecosystem]]. This has better overviews of technology like overlays than the official documentation.
 [[https://www.reddit.com/r/emacs/comments/hniz19/using_nix_to_manage_emacs_packages/][Using Nix to manage Emacs packages]] ([[file:emacs.org][Emacs]])
 [[https://christine.website/blog/i-was-wrong-about-nix-2020-02-10][Why Nix: Cachix, niv and nix-build overview]]
 [[https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html][Set up a basic git server with NixOS]]
+[[https://github.com/justinwoo/nix-shorts][Nix shorts]]: Lots of quick and helpful Nix tips to check out.
+- Building derivations at the Nix REPL
+- Installing packages from files and derivation expressions
+- Working with Nix shells
+- Creating derivations
 ** NixOps
 [[https://github.com/nh2/nixops-tutorial][nixops-tutorial]]: development with NixOps
 [[https://hydra.nixos.org/build/115931128/download/1/manual/manual.html#idm140737322673584][Hydra (and nixops) manual]]
 [[https://hydra.nixos.org/build/115931128/download/1/manual/manual.html#chap-introduction][nixops user guide]]
 ** MacOS
 [[https://medium.com/@zw3rk/provisioning-a-nixos-server-from-macos-d36055afc4ad][Provisioning a Nix server from MacOS]]
-
-* Configs
-https://github.com/luke-clifton/nix-config has cool config
-https://github.com/bjornfor/nixos-config
-https://github.com/utdemir/dotfiles
-https://blog.jcoglan.com/2017/09/19/the-patience-diff-algorithm/
-https://github.com/bqv/nixrc
-https://github.com/colemickens/nixcfg
-https://github.com/archseer/nixos-fedora
-https://github.com/andir/infra
-https://github.com/bqv/nixrc
-https://github.com/yegortimoshenko/yegortimoshenko-flake
-https://github.com/Luis-Hebendanz/nix-configs
-https://github.com/kalbasit/shabka
-https://gitlab.com/rycee/configurations -- he has a working color scheme !
-https://github.com/kylesferrazza/nix
-https://github.com/boxdot/nixos-server
-https://github.com/lovesegfault/nix-config
-https://github.com/RaitoBezarius/nix-scripts/blob/master/autoinstall/justdoit.nix
-https://github.com/gvolpe/nix-config/blob/master/home/ssh-key.nix
-https://github.com/gvolpe/nix-config/blob/master/home/programs/git/default.nix
 ** Server
 [[https://www.youtube.com/watch?v=0tsfQskVW18&app=desktop][nixos router for the homelab]] -- useful for learning to set everything up
 [[https://www.linode.com/docs/tools-reference/custom-kernels-distros/install-nixos-on-linode/][installing and configuring nixos on linode]]
+[[https://www.codedbearder.com/posts/nixos-terramaster-f2-221/][Running NixOS on a consumer NAS]]
 
-* ETC
-[[http://fluffynukeit.com/installing-nixos/][installing nixos in vm]]
-[[https://myme.no/posts/2020-01-26-nixos-for-development.html][nixos for developers]]
-[[https://www.quora.com/What-is-it-like-to-use-NixOS-Linux-on-production?share=1#][using nixos in prod]]
-[[https://medium.com/@jethroksy/a-year-with-nixos-113b534f446b][a year with nixos]]
-[[https://www.codedbearder.com/posts/nixos-terramaster-f2-221/][nixos on a NAS]]
-[[https://github.com/justinwoo/nix-shorts][short, readable notes on nix]]
-[[https://myme.no/posts/2020-01-26-nixos-for-development.html][nixos for developers]]
-[[https://nixos.org/nixos/manual/index.html#module-services-matrix][module services for nix]]
+* Evaluation
+** Why NixOS?
+[[https://medium.com/@jethroksy/a-year-with-nixos-113b534f446b][src]] [[https://myme.no/posts/2020-01-26-nixos-for-development.html][src2]]
+- It's the simplest way to quickly iterate and try new programs. From `nix-shell` to `nix-env` to configuration options like `windowManager.xmonad.enable`, it's incredibly easy to swap parts of your system in very few lines of code. A lot of the grunt work has been done already to ensure that common configurations are perfectly functional and reproducible out of the box.
+- It's trivial to revert the state of your system. All it takes is booting to a previous NixOS interation.
+- Declaring SystemD services happens in one place and is incredibly simple! No more managing configuration files scattered throughout your computer - you can 'metaprogram' them in Nix and serialize the files out to disk. This applies to lots of other types of files, too; I use templates to manage color schemes for all of my applications, for example.
+- It's incredibly simple to set up reproducible build environments for writing and running code, especially in sandboxes when you don't want to confuse your globally installed programs.
+** Nix vs. Docker
+[[https://discourse.nixos.org/t/is-there-much-difference-between-using-nix-shell-and-docker-for-local-development/807][src]] [[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][src2]] [[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][src3 (has good NixOps tutorial too)]]
+- Docker image is a snapshot of a machine that was assembled by running commands in a particular fashion
+- Making changes to the machine introduces nondeterminism; shell commands typically fetch information from outside sources that aren't pinned, so they change over time, and the functionality of your container will change as time progresses. Builds in Nix when properly pinned will not diverge the same way other deployment systems do.
+- There is no absolute guarantee that your Docker image produces the same image every rebuild
+- Nix runs natively, while Docker requires a Linux virtual machine
+- Nix can run as any user without particular privileges
 
-* Pro tips
-- If the configuration isn't running properly after successfully refreshing it,
-  you can use `nixos-rebuild boot` instead of `... refresh` to use the new configuration
-  on the next boot but not enable it immediately. The `nixos-rebuild` utilities aside from `switch` all come in handy when fixing a broken configuration.
-* Future configuration ideas
-[[https://askubuntu.com/questions/95716/automatically-adjust-the-volume-based-on-content][Adjust system volume based on context]]
-[[https://github.com/grahamc/nixos-config/tree/master/packages/recognize-thunderbolt][Thunderbolt system utility; investigate if any issues arise]]
-[[https://github.com/gvolpe/nix-config/blob/master/home/programs/browsers/install-ext.nix][cool config trick for installing chrome extensions]]
-Run programs in systemd cgroups (check out grahamc's config)
-
+* Configs
+[[https://github.com/jakeisnt/nix-cfg][My personal configuration]]:
+- Wayland enabled
+- Incredibly modular with thorough abstractions (in progress...)
+- Robust configuration of many programs, including mail server
+[[https://github.com/hlissner/dotfiles][hlissner's config]]
+- Heavily inspires mine - I forked his
+- Incredibly modular and allows for easy, opinionated program configuration
+- Some basic modular support and great library utilities
+- Consistent and comprehensive theme work
+[[https://github.com/grahamc/nixos-config][Graham's NixOS config]]:
+- ZFS with remote backups
+- Wayland dedicated
+- Start all programs in SystemD cgroups
+- Erase systems on every boot
+[[https://github.com/bjornfor/nixos-config][bjornfor config]]:
+- Lots of home automation utility configuration; zigbee, home audio management, etc.
+- Custom derivations for tons of obscure programs corresponding to the above
+- Backup service infrastructure across multiple devices
+- Wonky configuration for chromium, networking, VPNs, etc. Very thorough management of loads of different devices.
+- Has pirate radio and torrent setups as well if you're into that
+[[https://github.com/bqv/nixrc][bqv]]:
+- Makes substantial use of nix flakes, properly managing them as overlays
+- Way over my head... come back to this later! I haven't fully looked through this one.
+[[https://github.com/SoxinOS/soxin/][Soxin]] and [[https://github.com/kalbasit/soxincfg][cfg]]:
+- A modular NixOS configuration system and language
+- (How can I improve upon these ideas?)
+- I haven't fully examined this one.
+[[https://github.com/colemickens/nixcfg][colemickens]]:
+- I haven't fully examined this one either. Looks thorough, uses flakes and is constantly updated.
 * Installation
 ** Good practices
 - Create a separate partition for all of your nix derivations, /nix
@@ -84,33 +97,37 @@ w to write to disk
 
 sudo mkfs.ext4 -j -L nixos /dev/sda1
 
-** nixos configuration
+** Installation Outline
+Make sure to name your disks; some configurations use some disk names by default.
+
 nixos-generate-config --root /mnt
 
-edit /mnt/etc/nixos/configuration.nix
+Edit /mnt/etc/nixos/configuration.nix.
 
-uncomment:
+Uncomment:
 - localization for us
 - terminal font and keymap
-- timezone = America/NewYork (??)
+- timezone = America/NewYork, America/Los_Angeles, etc. These are defined somewhere on your system.
 
 UEFI systems:
-You must set the option boot.loader.systemd-boot.enable to true. nixos-generate-config should do this automatically for new configurations when booted in UEFI mode.
-look at options with boot.loader.efi and boot.loader.systemd as well.
+- You must set the option boot.loader.systemd-boot.enable to true. nixos-generate-config should do this automatically for new configurations when booted in UEFI mode.
+- Look at options with boot.loader.efi and boot.loader.systemd as well.
 
-boot.loader.grub.useOSProber can be set to true to add other OS to the grub
-menu
+To dual boot, supposedly boot.loader.grub.useOSProber can be set to true to add other OS to the grub
+menu. This failed when I tried it (I may have accidentally damaged the partition table, though) but it might work for you.
 
-entering nixos comes with a manual thing
-sudo systemctl start sshd to start ssh daemon as needed
-[[https://www.youtube.com/watch?v=uYZrbb78YzA&app=desktop][using nixos for declarative deployment and testing]]
-[[https://opensource.builders/][oepn source alternatives for everything]]
-[[http://thedarnedestthing.com/current%20configuration][cool selfhosting specs]]
+You may have to manually start the SSH daemon: `sudo systemctl start sshd`
 
-** nix
-https://ebzzry.io/en/nix/
-https://www.reddit.com/r/NixOS/comments/g1rmby/building_a_web_app_with_functional_programming/
-[[https://discourse.nixos.org/t/is-there-much-difference-between-using-nix-shell-and-docker-for-local-development/807][nix vs docker]]
-[[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][configuring infra in nix]]
-[[https://github.com/kylesferrazza/nix/blob/master/README.md][nix!]]
-https://nix.dev/ resources for learning nix to get things done
+* Pro tips
+- If the configuration isn't running properly after successfully refreshing it,
+  you can use `nixos-rebuild boot` instead of `... refresh` to use the new configuration
+  on the next boot but not enable it immediately. The `nixos-rebuild` utilities aside from `switch` all come in handy when fixing a broken configuration.
+- Write your own script to wrap common Nix commands. The command-line utilities aren't great, but you can just wrap others to create your own! (Who in their right mind would provide so many different names for programs `nixos-rebuild`, `nix-env`, `nix-shell` -- it's difficult to know which one to even query the manpage for unless you're very familiar with Nix(OS) already.)
+
+* Future configuration ideas
+[[https://askubuntu.com/questions/95716/automatically-adjust-the-volume-based-on-content][Adjust system volume based on context]]
+[[https://github.com/grahamc/nixos-config/tree/master/packages/recognize-thunderbolt][Thunderbolt system utility; investigate if any issues arise]]
+[[https://github.com/gvolpe/nix-config/blob/master/home/programs/browsers/install-ext.nix][cool config trick for installing chrome extensions]]
+[[https://github.com/bjornfor/nixos-config/blob/master/cfg/software-defined-radio.nix][set up software defined radio!]]
+Run programs in systemd cgroups (check out grahamc's config)
+[[https://github.com/RaitoBezarius/nix-scripts/blob/master/autoinstall/justdoit.nix][this does some crazy things with subvolumes to automatically set up a btrfs system with nixos, including initial mounts]]
