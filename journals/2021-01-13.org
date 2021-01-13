@@ -1,0 +1,17 @@
+#+TITLE: Wednesday, 01/13/2021
+** 11:46 log and daily standup
+forgot to do this for the past few days... and i suppose it's not exactly the start of the day today either.
+oh well.
+
+Previously, I:
+- Worked through all of the NixOS configuration ideas I had and formatted them,
+  rephrasing in both my wiki and on github issues to map out future work
+- Started to learn colemak on my keyboard
+
+today I'm going to:
+- Set up matrix, hosting both the web app and the server, on my VPS configuration
+- Get through all of the mails in my inbox
+- Fix my planck so that it always uses colemak so that I can continue to learn it
+- Ship the cards that I sold a few days ago
+- Hunt down my Google Fi SIM and deactivate it
+- Evaluate how I want to deal with the 'TODOs' in my wiki
