@@ -11,7 +11,7 @@ Nix is a functional package manager that isolates and sandboxes dependencies.
 [[https://nix.dev/][Resources for learning more about the Nix ecosystem]]
 [[https://nixos.org/nixos/nix-pills/pr01.html][The de-facto introduction to NixOS]]
 [[https://ebzzry.io/en/nix/][Another great introduction to the Nix ecosystem]]. This has better overviews of technology like overlays than the official documentation.
-[[https://www.reddit.com/r/emacs/comments/hniz19/using_nix_to_manage_emacs_packages/][Using Nix to manage Emacs packages]] ([[file:emacs.org][Emacs]])
+[[https://www.reddit.com/r/emacs/comments/hniz19/using_nix_to_manage_emacs_packages/][Using Nix to manage Emacs packages]] ([[file:emacs.org][Emacs]]). [[https://gitlab.com/rycee/configurations/-/blob/master/user/emacs.nix][Rycee's configuration]] is a good start or source of inspiration for this.
 [[https://christine.website/blog/i-was-wrong-about-nix-2020-02-10][Why Nix: Cachix, niv and nix-build overview]]
 [[https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html][Set up a basic git server with NixOS]]
 [[https://github.com/justinwoo/nix-shorts][Nix shorts]]: Lots of quick and helpful Nix tips to check out.
