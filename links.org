@@ -535,851 +535,9 @@
 [[https://nwat.xyz/][Noah Watkins]]
 [[https://wiki.xxiivv.com/site/oquonie.html][XXIIVV — oquonie]]
 [[http://matt.might.net/articles/practicing-privacy-encryption/][Practicing privacy with encryption]]
-:PROPERTIES:
-:EXPORT_HUGO_FRONT_MATTER_FORMAT: toml
-:EXPORT_FILE_NAME: site
-:EXPORT_DESCRIPTION: personal website
-# :EXPORT_HUGO_IMAGES: /img/org.png
-:END:
-#+TITLE: site
-#+hugo_base_dir: .
-
-* Projects
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: projects
-:END:
-
-** Projects
-:PROPERTIES:
-:EXPORT_HUGO_MENU: :menu "main"
-:EXPORT_FILE_NAME: _index
-:END:
-
-Descriptions of projects I've worked on.
-
-** DONE Poo-NU
-CLOSED: [2020-01-17 Fri 20:59]
-:PROPERTIES:
-:EXPORT_FILE_NAME: poo-nu
-:END:
-
-Started at HackHarvard with a team of three other Northeastern students and
-myself, Poo-NU is an application to help Northeastern students locate the
-closest available restroom. The application can be found at https://github.com/jakechvatal/poo-nu.
-
-The application is built with a React Native front-end with Material UI
-components and Bootstrap formatting. It interfaces with a GraphQL backend layer
-that makes queries to a MySQL databases. We selected these technologies
-primarily because we each wanted to learn how to use one of the technologies we
-chose; I had no experience with GraphQL and very little with React Native, so I
-learned how to apply my React knowledge to a cross-platform application and to
-adjust to a new form of querying and API definiton.
-
-Users are currently able to locate the nearest available bathroom via Google
-Maps, view which bathrooms are closest to them geographically and key
-information about them, such as their average rating and building location. Upon
-tapping on a bathroom, users are presented with a more detailed view of the
-bathroom with all of its ratings left by other users, and are able to add to
-these ratings themselves. We felt that making PooNU not just a utility, but also
-a community of others would help Northeastern students bond over their favorite
-campus bathrooms.
-
-** DONE CDK Global Internship
-:PROPERTIES:
-:EXPORT_FILE_NAME: cdk
-:END:
-
-At CDK Global, I leveraged React.js and Redux to, along with a high school
-intern and two college interns, develop software used by an internal credit
-reporting team to monitor the number of credit checks made by individual car
-dealerships.
-
-*** Tech Stack
-
-We built a full-stack web application with a React.js front-end, making use of
-both Material UI and CDK Global's proprietary React components as well as Redux
-and thunk for asynchronous global state management. Interesting challenges posed
-by this project include designing the inheritance hierarchy through which React
-components were displayed, as the desire of the end user to display a
-spreadsheet that presented statistical information in different forms in
-different modes, and designing an efficient way to manage global state with
-Redux to make a minimal number of request while keeping the information
-displayed up to date. The former problem was resolved by Redux to connect
-disparate components to their corresponding information without making many
-additional requests, and the latter through a custom Redux store method to
-refresh the data asynchronously as the application is used, refreshed and as
-information with different priorities was desired.
-
-The backend was constructed with the Spring Boot Java framework; the entire
-application was run on an Nginx server running in a Docker container on CDK's
-servers. To this end, I helped format the server and docker container to run the
-front-end on CDK's development, testing and production servers, and communicated
-with the Spring Boot developers to ensure the data representations presented by
-our API were best conducive to the needs of the end user on the front-end (as
-structure informs representation).
-
-*** Agile Organization
-
-Our team made use of a weekly Agile/Scrum organizational paradigm, in which we
-held sprint planning sessions to craft workloads, daily stand-ups to update and
-review progress, as well as reflection sessions to ensure that the system and
-each of its participants was running smoothly. We made heavy use of Atlassian's
-Jira organizational framework to organize this procedure, and for compatibility
-we used Stash as our git repository of choice as well as various other Atlassian
-services for the purposes of communication and documentation. As typical with
-Agile, development workflow started with a weekly assignment of stories,
-then creating a feature branch for each story to be completed and providing
-detailed instructions by which other team members could validate the work once
-the work was completed (as three other team members were required to approve a
-commit before it could be staged and merged into our master branch).
-
-Also of note was the extensive communication with our product manager - the
-objective of our project was not very well-defined when the internship began, so
-we set up extensive meetings with the non-technical end user, preparing
-questions and creating user stories for various desires of the end user based on
-responses and feedback on the current status of the application. Eventually, we
-found that receiving some answers to basic desires of functionality, then
-crafting user stories based on this feedback and presenting the end user with
-various iterations of demo applications to determine what the user desired, was
-most effective in determining concrete end goals for the project.
-
-** DONE Portland State University HSAP
-:PROPERTIES:
-:EXPORT_FILE_NAME: psu-hsap
-:END:
-
-During a high-school summer, I was able to participate in an iteration of the
-Department of Defense's High School Apprenticeship program through Portland
-State University. Along with two other high school students, we explored a
-variety of mathematics and programming paradigms pertaining to generating prime
-numbers, working with superclusters, and partitioning sparse graphs through the
-development of OpenMP-parallelized C++ libraries.
-
-All of our work was created under the PDX-Math-HSAP GitHub organization, which
-can be found at [[https://github.com/orgs/PDX-Math-HSAP/]].
-
-*** Primes
-
-We began the internship with a warm-up activity of sorts: writing an efficient
-algorithm to identify and display a number of accurate prime numbers in quick
-succession; in other words, a prime sieve. We began with a naive implementation
-of the Sieve of Erasnosthenes, an ancient Greek method developed to locate
-primes in the first 100 numbers, then made certain optimizations such as
-prematurely excluding all even numbers and all multiples of three from our prime
-search for greater efficiency. We ended up utilizing the Sieve of Atkin to
-find primes, utilizing both a modulo 2 and a modulo 6 implementation to
-determine whether numbers are primes.
-
-*** Sparse Matrices
-
-However, the primary objective of the program was to implement various graph
-algorithms rooted in linear algebraic concepts to partition unweighted sparse
-graphs. These are also known as networks with low connectivity, and are
-trivially encoded as matrices with few '1' characters to represent a connection
-between two nodes, as well as a majority of '0' characters to represent a lack
-of a connection. Depicted below is an asymmetric graph featuring apples, bananas
-and oranges as nodes, with the existence of an edge denoted by '1' and 0
-otherwise.
-An arbitrary explanation for such a graph is a supermarket in which an apple can
-only be purchased after a carrot, a banana can be purchased after either a
-banana or a carrot, and a carrot can be purchased after another carrot. It's
-unclear how the initial fruit was obtained. Feel free to view these as arbitrary
-'a', 'b' and 'c' nodes of a graph as well.
-|        | apple | banana | carrot |
-| apple  |     0 |      0 |      0 |
-| banana |     0 |      1 |      0 |
-| carrot |     1 |      1 |      1 |
-
-To save a significant amount of space when working with large
-graphs, these matrices can be represented in compressed-sparse row format
-instead - denoting both the row in which the '1' occurs as well as the column
-position. Such a matrix looks like the following:
-
-This arrangement is able to save us x amount of space while avoiding any
-increase in time complexity - the value of an element given its coordinate in
-a non-compressed matrix can be determined with more operations, but is still a
-constant-time operation with regards to the number of cells seen.
-
-To be continued and updated in the future.
-
-*** TODO Matrix Algorithms
-*** TODO Supercluster Usage
-** DONE Three.js Experiments
-CLOSED: [2020-01-17 Fri 21:01]
-
-As confusing of a language as it is, JavaScript has one thing going for it --
-it's the only language native to the web. It's the easiest way for developers to
-communicate to the world and show off their best work! I've invested a lot of
-time and effort into learning the ins and outs of Three.js - a JavaScript
-library for developing three-dimensional visualizations.
-Here's where I share these with the world.
-
-One of my favorite three.js projects can be found at chvatal.com, the splash
-page for this site; another sample user interface can be found at jakechvatal.github.io. This kind of work is on haitus for me as I focus on academic projects during the semester but I'm eager to pick it up as an extracurricular interest when I'm on break.
-
-** DONE Building this Website :@updates:web:
-CLOSED: [2019-12-30 Mon 11:12]
-:PROPERTIES:
-:EXPORT_FILE_NAME: building-site
-:END:
-
-This website is written with org-mode, powered by Hugo, and hosted with Netlify.
-
-Why?
-
-I had several needs for making this website. 
-1. Easily updatable. My last website was my first serious attempt at web
-   development without using a framework - making use only of HTML, CSS and Javascript - and hosted on an archaic static site deployment platform. As impressive as the Three.js visualizations on the site were, I had to dive into the code, then drag-and-drop upload the individual files to a host. The difficulty of updating the website kept me from updating it at all, so I wanted a solution with minimal friction. 
-2. Customizable. Drag-and-drop templates are restrictive, only allowing for the use of pre-made components. I want to be able to add neat animations and custom styles to have the freedom to display my website as I want it. Further, a structured templating system is ideal, as it'll save a lot of the time spent on boilerplate code. 
-3. Maintained. When I'm using a static site generator such as Hugo, the framework does a lot of the heavy lifting for me; I don't have to worry about the integrity of a large codebase for my personal site and can save that concern for other projects I'm invested in. 
-
-I was looking for the easiest way for me to track and update my website. I've been getting a lot of use out or Org Mode in Emacs recently, and its ability to function across platforms (as a plain-text document format) as well as its powerful language-specific syntax highlighting and evaluation (with LaTeX support!) made it an ideal candidate for composing a website.
-
-After finding the ox-hugo package, this became a no-brainer; I can compose my entire site in a single org mode file, then export it to a system of markdown files that I can slot into my Hugo blog.
-
-After adding the markdown file tree to my blog, I can just commit to the repository and push to Github. I've found that Netlify offers the best free tier of any static web host, and the continuous integration with a Github repository - as well as the ability to build the Hugo website on the fly - is powerful!
-
-Currently, I'm using a theme made for Hugo by another user, forked and added as a git submodule to the we site's repository. I'm working on adapting this to my own theme to better fit my use case - though I'm content with the minimal look of the website, I would like to better convey my projects and skills going forward.
-
-** TODO GraduateNU
-** TODO Activity Annotator
-** DONE School Projects
-SCHEDULED: <2020-01-17 Fri>
-:PROPERTIES:
-:EXPORT_FILE_NAME: neu-projects
-:END:
-
-Here are some interesting school projects I've worked on during school. Code for these projects can be provided upon request.
-
-StackLang Interpreter (CS2500A) 
-Wrote an interpreter for a small, stack-based programming language with lambdas, thunks and continuations in Racket's Intermediate Student Language DSL. Continued to TA this course and teach other students how to craft their own interpreters following similar principles.
-
-MiniCraft (CS2500A):
-Wrote a top-down two-dimensional variation of Minecraft in Racket's ISL DSL wherein players can traverse a world, place and destroy different types of blocks with special effects such as exploding TNT. Interfaced with a course-administered server to interact with other players in real time.
-
-Tower Defense (CS2510A):
-Designed and developed a tower defense game in Java. Featured a currency system, dynamically placeable towers with different effects (i.e. freezing surrounding enemies, shooting ahead of the moving objects from a long distance to hit them) along with enemies able to move along the track in real time. 
-
-Seam Carving Algorithm (CS2510A):
-Implementrd a seam-carving algorithm to compress the least important parts of an image while preserving the most detailed, removing both horizontal and vertical seams to do so. The algorithm is able to record, reverse and replace the seams as needed. 
-
-Maze Solving Algorithm (CS2510A):
-Wrote different implementations of an efficient maze-solving algorithm in Java, then displayed the different algorithms solving the maze in real time. 
-
-Animator (CS3500):
-Designed and developed an Animator in Java using the Swing UI library and a
-model-view-controller framework designed to allow the view to be hot-swappable
-as needed. Practiced many Java design patterns and utilized some neat data
-structures.
-
-Efficient Memory Allocator (CS3650):
-Wrote implementations of malloc(), calloc() and free() in C that were faster than reference GNU Core Utils implementations on provided edge cases.
-
-Pacman AI (CS4100):
-Implemented a variety of artificial intelligence algorithms to assist pacman to consume pellets while avoiding multiple ghosts. Worked with a variety of different algorithms, from particle filtering to deep learning.
-
-** Dotfiles
-:PROPERTIES:
-:EXPORT_FILE_NAME: dotfiles
-:END:
-
-I've spent a lot of time configuring my Arch Linux System.
-My initial installation is catalogued in Arch Linux Configuration; this is a
-description of the work I've done to make the installation mine.
-
-*** Color Scheme
-
-I've based my entire color scheme on Doom Emacs' 'Doom-one' theme, borrowing
-from the colors used for both the background and the syntax highlighting and
-reverse-engineered using both the original configuration file and the
-```xcolor``` program as a last resort.
-
-I've spent a considerable amount of time configuring the CSS of my Firefox
-browser as well; taking lots of inspiration from /r/firefoxcss users, I've
-removed much of the unnecessary syntax and moved the tab bar below the address
-bar so that searching and typing in URLs is the focus of the experience in the
-browser.
-
-*** Emacs
-
-I'm relatively new to Emacs - I've used the platform for about two months, and
-I'm still picking up on the keyboard shortcuts and utilities for a variety of
-tools. Most of the code I've written in recent memory has been OCaml or Haskell,
-and Emacs arguably provides the best set of tools to develop for both of these
-languages, with well-supported major modes and a variety of integrations. I take
-all of my course notes in Org mode - its ability to insert inline LaTeX and code
-blocks is incredible - and writing this website in Org mode is a snap.
-
-I'm working with the Doom Emacs distribution, and my configuration is centered
-around changing my Org-mode tags. My central repository for these files is
-Dropbox, and they sync seamlessly between my phone and my computer with my
-private Dropbox repository - editing such files on my phone with Orgzly, a
-well-supported application, even available on F-Droid for those not a fan of
-Google!
-
-*** Keybindings
-
-The choices I've made that have impacted my operating system workflow the most
-has been the keyboard shortcuts I've chosen. I've assigned these bindings in
-both the i3 configuration file and through X with the xbindkeys program. Perhaps
-the most important binding I've made is Mod4 (assigned to my Windows key on my
-XPS) + D to Rofi's DMenu-like feature; I can open any program without having to
-load up a terminal by interfacing with this program that analyzes all of the
-programs in my /usr/bin.
-
-I have my bindings in my configuration file for i3 assigned to various aspects
-of my 'system'; that is, utilities that allow me to better navigate or use my
-computer such as rofi. The bindings I have in xbindkeys are primarily geared
-towards scripts I have running, such as for increasing and decreasing
-brightness.
-
-*** Vim + Tmux: Developing without X
-
-Running a graphical server to interact with your computer is too much overhead
-for most tasks. If only text editing, file configuration or scripting has to be
-done, then why launch an entire session with a desktop environment and/or window
-manager just to accomplish these tasks? After all, we already have access to a
-terminal environment when we boot; it seems a bit unnecessary to start X
-immediately upon login. Utilizing this terminal substantially decreases
-operating system startup time - you're already at the terminal!
-
-Though I haven't made extensive use of the setup yet, I've been working on a
-basic configuration using just two programs: Vim and Tmux. Vim is a
-terminal-based text editor - it's been around forever and has lots of keyboard
-shortcuts as well as substantial third-party plugin systems with a variety of
-useful utilites. Tmux is a terminal multiplexer - it functions exactly like a
-window manager, opening multiple terminals with different preset configurations,
-but does so without having to interface with any user sessions, residing solely
-in the terminal. Using these two programs, we can craft the perfect environment
-for writing programs, text-editing, browsing the file system (ranger is my
-preferred interface) and even browsing the internet (with a TUI web browser such
-as w3m). As I'm currently writing this in Emacs (which doesn't have the best
-terminal user interface), I definitely have not completely accustomed to my
-setup -- but such a toolchain is certainly something I can see many people usin
-to enhance productivity even on devices with minimal graphical capabilities, and
-can be set up on a remote server as well to avoid any need for saving files on a
-local system.
-
-* Tutorials
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: tutorials
-:END:
-
-** Tutorials
-:PROPERTIES:
-:EXPORT_HUGO_MENU: :menu "main"
-:EXPORT_FILE_NAME: _index
-:END:
-
-How to accomplish things (both technical and non-technical) that I've had
-trouble with in the past.
-Either the current solution on the internet didn't fit my use case,
-I couldn't track down a solution, or I've discovered something cool
-I'd like to introduce to others.
-
-** Adding AWS Support to Your Android Application
-** TODO Arch Linux Configuration
-:PROPERTIES:
-:EXPORT_FILE_NAME: arch-config
-:END:
-
-I currently do all of my work on a Dell XPS 9370 (4k, 1 TB SSD) with an Arch Linux
-installation, dual-booted alongside Windows 10.
-I've documented my installation process here for myself and others
-configuring similar systems.
-
-Before starting, please refer to your system's page on the Arch Wiki:
-[[https://wiki.archlinux.org/index.php/Dell_XPS_13_(9370)]], as it will provide
-information about your specific system and configuration. This guide will be
-somewhat system specific, as its main motivation is to tackle the hurdles I
-faced with my specific installation, but it should be fairly extensible to other systems.
-
-*** Setup
-
-The setup is more or less similar to that described in the Arch Linux guide.
-Snag an installation from a reputable source
-https://www.archlinux.org/download/, then verify the signature of the
-installation to ensure it's legitimate and unmodified.
-
-Write the Arch Linux .iso file you've obtained to a thumb drive using another device
-you have on hand. I've used the Rufus utility on Windows 10 in the past, but any
-similar flash drive formatting utility will do.
-
-*** Installation
-**** Making Space
-**** WiFi
-***** Tackling EduRoam
-*** System Setup
-
-Congratulations - your system's successfully booted!
-
-Now, you're going to install some useful utilities and establish a framework
-upon which you can build your system the way you'd like.
-
-**** Campus Wifi Connection
-*** Extras
-
-We can benefit from some additional performance optimizations for our system.
-
-**** Power Conservation
-
-To conserve power, we can enable some kernel parameters as follows:
-#+begin_src sh
-$ touch /etc/modprobe.d/i915.conf
-$ echo "options i915 modeset=1 enable_rc6=1 enable_fbc=1 enable_guc_loading=1 enable_guc_submission=1 enable_psr=1" >> /etc/modprobe.d/i915.conf
-#+end_src
-
-We can also undervolt our system using a utility such as TLP.
-Undervolting thresholds are different for every system, and depriving power from
-parts of your system can result in permanent hardware damage. This is not good
-and should probably be avoided. With that said, undervolting my system seemed to
-net me about 30 minutes of battery life (I was able to undervolt by about
--100mA, but this may not be the same for your CPU). For more on undervolting,
-check out this guide. Though it's for Windows systems, the same guidelines apply
-regardless of system, even though the parameters may be different.
-[[https://www.ultrabookreview.com/10167-laptop-undervolting-overcloking/]]
-
-I'll likely compose an undervolting tutorial in the future.
-
-**** Enhancing Speed
-
-The CPU is substantially throttled by Dell and Intel to prevent the system
-from getting too hot and kicking in the fans. This is desired to make the system
-sound quieter, but it significantly reduces the actual power of our machine.
-
-The throttled^{aur} package:
-[[https://www.archlinux.org/packages/community/any/throttled/]] fixes this Intel
-throttling constraint handily on my machine. Register this with systemctl and
-you're good to go.
-
-We can also tweak our thermal mode profiles to tweak the default behavior of our
-system. This can be done with terminal commands:
-
-See all of the thermal modes available:
-#+begin_src sh
-$ symbios-thermal-ctl -i
-#+end_src
-
-See the current thermal mode set:
-#+begin_src sh
-$ symbios-thermal-ctl -g
-#+end_src
-
-Set the desired thermal mode:
-#+begin_src sh
-$ smbios-thermal-ctl --set-thermal-mode=THERMAL_MODE
-#+end_src
-
-**** Sleep Mode Efficiency
-
-The default sleep mode for Linux systems on the XPS isn't the best for power
-saving.
-
-*** Personal Preferences
-
-https://wiki.archlinux.org/index.php/Bluetooth_keyboard -- login w bluetooth keyboard
-https://wiki.archlinux.org/index.php/Bluetooth -- set up bluetooth headset
-// some installations require a new key - ensure you trust signature, then add
-the public key that could not be found to your roster of keys
-
-** NEXT Improving the Windows 10 Experience
-SCHEDULED: <2020-01-01 Wed>
-
-Before I switched to using Arch Linux, I was working on Windows 10. I made a
-variety of changes to my system to make it more efficient and more private. These are those.
-
-*** NEXT Stopping Telemetry
-SCHEDULED: <2020-01-01 Wed>
-
-Windows tracks everything you do, and by default it has the permissions to do so on your system. The system also consumes resources to do so, utilizing a small amount of (perhaps vital) processing power to record every keystroke and movement. As Windows is closed-source, we unfortunately can't determine exactly what it's doing behind the scenes, but we can do our best to prevent tracking and marginally improve performance.
-
-A program I've made use of is ShutUp10. This is little more than a nice user interface for the Windows registry, but provides an easy interface through which one can easily make privacy decisions. I'd go along with most of the program's recommendations for settings unless you feel that you're going to need to contact Microsoft support and want them to retrace your keystrokes to determine what you've done wrong. 
-
-*** NEXT Removing Cortana
-SCHEDULED: <2020-01-01 Wed>
-
-Users of Windows often don't make use of Cortana, the digital assistant built into the Windows 10 platform. It can consume up to 200 megabytes of RAM, a non-trivial amount of CPU power and is always running in the background - potentially picking up conversations you have while your computer's on. Further, Cortana makes your taskbar much wider - you don't need a, search box in your dock when you can condense it to a search icon! 
-
-Unfortunately, Windows 10 has chosen to couple Cortana with the Windows file system program - making Cortana more difficult to remove.
-
-You're going to have to dive into the registry for this one. 
-
-*** NEXT Improving Speed
-SCHEDULED: <2020-01-01 Wed>
-
-Aside from the other points, there are a couple of programs you can run to enhance the speed and power performance of your device; by a significant amount f you're lucky.
-
-My favorite utility to optimize my system's performance is Throttlestop. This utility interfaces with the same API as Intel's Extreme Tuning Utility, allowing users to undervolt or overclock their device as well as provide a variety of useful power settings.
-
-My system is set to undervolt by about 80 mV, which I've (experimentally, loosely) determined to get me about half an hour of battery life - not a bad deal for a program! Further, when unplugged, I fix the clock speed at about 900 mhz; as I often don't do any heavy programming work on windows, primarily sticking to web browsing and making use of Microsoft Office products, this works just fine for me. This also prevents my fan from kicking in while I'm in class so that I can be less of a distraction if taking notes during lecture. 
-
-When I'm plugged in, however, I fix my clock high. With no concern for battery, my charging setting fixes (or claims to fix) my CPU at 3.8 gigahertz, getting me optimal performance when plugged in. This has allowed me to play games like Overwatch on medium settings at over 60 FPS without the use of a discrete GPU, and significantly improves performance of heavier loads like Adobe Photoshop, Lightroom or Premiere Pro when I make use of them.
-
-A consideration I have in the future for improving efficiency is to replace the thermal paste on the CPU - often, the paste used is applied haphazardly and not of good quality. Replacing this with a substantial costing of liquid metal thermal paste could significantly improve the heat profile, thus improving battery life and performance. 
-
-*** NEXT Removing from Startup
-SCHEDULED: <2020-02-03 Mon>
-
-A lot of programs, when installed, add themselves to your list of programs to execute on startup. This leads to slow boot times and an unfriendly experience turning on your computer.
-
-To resolve this:
-Right click the start button (Win10 icon) -> select Task Manager
-
-Click the 'more details' expander.
-On this page, view the 'startup' tab. To remove a program, click on the program name, then 'disable' in the bottom right corner of the Task Manager window.
-
-Some common programs that have this behavior:
-- Adobe suite - runs updater tools
-- Slack, Chrome, Spotify, and other Electron applications - open on startup, each consuming a significant amount of time and memory
-- Bloatware installed by your device manufacturer (examples from Dell include Waves MaxxAudio and Killer Control Center)
-
-*** NEXT SSH, FTP, Linux
-SCHEDULED: <2020-02-03 Mon>
-
-There are a variety of tools you can make use of through windows to interface with traditionally Unix protocols.
-
-FileZilla is an FTP client that allows for drag-and-drop file transfer between your local system and some system you've logged into through the file transfer protocol.
-
-PuTTY is my SSH client of choice, and may require additional tooling and configuration but works smoothly.
-
-WSL, or Windows Subsystem for Linux, can be installed from the Windows store. It's not a drop-in replacement for a virtual machine or Linux distribution, and is not completely identical to the distribution it claims to replicate - but it can accomplish many things similar to that of a Debian system (or whichever WSL distribution you choose).
-
-To forward with X over SSH through either PuTTY or WSL, you'll need to install an X11 server for Windows. My recommended choice is Xming; forwarding programs to Xming can be a tough trick, but it's worth it if you'd like to, for example, stream data from a Kinect through a Pi to a local Windows system.
-
-For what it's worth, it's much simpler to make use of networking technologies from the command line--and a Linux system, in my opinion, provides the smoothest user interface for doing so - running programs through the terminal. 
-
-* TODO Thoughts
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: thoughts
-:END:
-
-** Thoughts
-:PROPERTIES:
-:EXPORT_HUGO_MENU: :menu "main"
-:EXPORT_FILE_NAME: _index
-:END:
-
-My thoughts on non-technical subject matters.
-
-** Favorites
-
-I've spent a lot of time finding the best products for me for common tasks. The
-items in this list are current favorites of mine and have become a part
-of my daily life.
-Products only make it in here if I've used them for a considerable length of
-time and have determined that they are the best tool to fit my requirements. I
-don't list products that happen to just serve a use case of mine; I'll only list
-them if I strongly feel that they're the best tool I've found to satisfy my
-needs for my criteria.
-
-*** Pants
-
-Though I haven't had the opportunity to try many of their alternatives given the
-prohibitive cost of the clothing, my favorite pants fit many of my needs -- they
-need to look subtle and versatile (this means black, minimally textured and
-slim) while retaining flexibility, water resistance and lightweight properties.
-
-You'd think it would be impossible to find a pair to satisfy all of these
-criterion, but the Enfin Leve Amaitu pants in Scholler Dryskin have gotten there
-for me. They look like chinos but are as flexible as sweatpants, have incredible
-water-wicking ability, and are skinny and subtle - easy to move around in but
-formal enough to wear to a more casual interview if need be (I have).
-
-Alternatives I haven't been able to consider in this section include the Acronym
-P-10S, Outlier End Of The World pants, Arcteryx Veilance' selection; these are
-options that haven't been readily available for me to try.
-
-*** Hoodie
-
-The hoodie is probably the most opinionated of these products -- it's chosen to
-fit my body type and my preferences, which most likely aren't the preferences of
-others, and isn't pedestrian enough to wear without being seen as a bit odd or
-'fashion-forward' given its structure.
-
-This is the Cav Empt White Line heavy hoodie. Really, the White Line hoodie was the
-hoodie I chose to pull the trigger on, but any Cav Empt hoodie would fit my
-preferences well, given their peculiar construction. The broad build and hanging
-shoulder stitches readily accomodate my wider frame, while the protruding
-neckline and large hood compliment layering well. While other hoodies are seen
-as primarily layering pieces, this one has the flair to be a statement piece in
-and of itself. Some of their hoodies have more elaborate designs than others --
-this one is, as the name suggests, a white line across an otherwise black
-hoodie, but the 'Hands' hoodie, depicting, well, hands all over, is another
-personal favorite of mine.
-
-I do wish that the hoodie were water-resistant or more easily accessible, but as
-such a niche product it's difficult to have it all. The Carhartt Rain Defender
-hoodie is a consideration for both of these criteria, but it doesn't have the
-'cool factor' of an obscure Japanese designer brand, and likely isn't designed
-to fit like one on the body.
-
-*** Pencils
-
-The Pentel Orenz Nero is my daily driver. Its metal-infused body is
-both sturdy and compact, and the lead tip easily retracts to prevent damage to
-the pencil. Its wild feature is the lead guard, enabling the use of 0.3 and 0.2
-mm lead by shielding it with an extending metal tip, as well as the ability to
-auto-dispense lead whenever the tip is pressed to paper -- clicking the back of
-the pencil is no longer necessary!
-
-The Uni Kuru Toga is my second favorite pencil and has a clever gimmick --
-every time the user presses the pencil to paper to write, the metal tip triggers
-a mechanism that slightly rotates the lead, ensuring that the lead never gets
-dull on one side. This doesn't sound like much, but it's substantially more
-comfortable to write with than pencils with flattened lead.
-
-*** Audio
-
-The AudioEngine A2+ monitor speakers have checked all my boxes. They're
-incredibly small for their power and audio quality, allowing them to easily fit
-on small desks or in cramped spaces without occupying much room. They have a
-variety of convenient ports on the back and can be connected to via Bluetooth,
-so the speakers can be controlled from around the house! Their construction is
-simply beautiful as well -- there is no tradeoff between aesthetics and audio
-quality with these.
-
-Bose QC35II: Though there are newer headphones with better noise-cancelling
-technology, cooler gimmicks and perhaps better looks, these headphones *just
-work*. Their noise cancelling capabilities are very capable, and they have a
-variety of hardware buttons -- they won't register accidental swipes or random
-touches from the environment that will control the music.
-
-The B&O Play by Bang and Olufsen headphones are a great option as well, but
-they're a bit more expensive, their noise cancelling isn't as optimal, and they
-look a bit flashy for my taste -- I like the unopinionated and functional
-construction of the Bose.
-
-*** Laptop
-
-The Thinkpad X1 Carbon is very well-constructed and executed. Though it does
-have the Intel Management Engine and is manufactured by Lenovo (both potential
-security vulnerabilities), it's incredibly compatible with Linux and the
-keyboard is unparalleled. The trackpoint isn't just something to laugh at
-either - it allows for mouse use without moving off of the home row.
-
-*** Daypack
-
-My current daily driver is the DSPTCH Daypack, as it offers a quick sling
-feature that allows me to pull the bag off of my back in one fluid motion as
-well as to tighten the bag to my chest when I'm concerned about it flapping
-around and disrupting other activities; with a top-loading zipper and a front
-pocket with organization for pens and pencils, it's easy for me to access
-anything I might need at my convenience. Admittedly, it's not the perfect bag for
-my needs (it's not waterproof, the zippers are a bit tight, and I wish it
-offered more in the way of organizational pockets), but it's the best product
-I've found to fit my needs so far. It's the perfect size though: 12L is just
-enough for my laptop, two notebooks, a small camera, a beanie and headphones to
-fit in the main body of the bag.
-
-Other considerations are the Acronym 3A-1 or Bagjack slings, but these bags are
-rare and can be prohibitively expensive when found.
-
-*** Camera
-
-The best camera is the camera you have with you.
-
-That said, my favorite camera is incredibly portable while still retaining
-features I prioritize -- swappable lenses, high-quality glass, and a variety of
-mechanical features to separate the process of making an image from the process
-of meddling with menus. I'd like to be able to pull the thing out of my bag on
-the spot, take a quick picture or two, then stow it away just as quickly.
-
-Though I haven't purchased my ideal camera yet, Fuji's X-T line is incredible in
-this regard - the cameras and lenses are lightweight and compact while still
-delivering good ISO performance and incredible image quality. The X-Pro line is
-also worth considering, though I'm not as much a fan of the rangefinder-like
-viewfinder those cameras possess.
-
-*** Toys
-
-The Lego Architecture Studio set is a true foray of Lego into adulthood. Other
-Lego toys marketed towards older audiences tend to be display pieces, intricate
-Lego sculptures that are built once and left on display to dust up on a shelf.
-As many of us know from childhood, though, the beauty of Legos doesn't lie in a
-single creation; rather, it's the blocks' inherent ability to compose
-practically anything the mind can dream up. An adult Lego set, too, should
-embody this experience. Without an opinionated set of instructions or clear
-guidance, the set provides one the tools to assemble all sorts of neat buildings
-on a small scale.
-
-The Architecture Studio is a set of 1210 white Lego bricks with a variety of
-interesting shapes and leaves the creativity entirely to the user. There is no
-hunting for bricks you need in boxes upon boxes, nor matching of colors or
-conflicting patterns -- with everything in the set designed to interact, it's
-the perfect playground to experiment and construct your own ideas without
-limitation. The product looks sophisticated, too; even spilled out on a table,
-the white Legos and half-assembled creations look practically artistic. It's not
-hard to add onto this set with new bricks and ideas either, as sites like
-Bricklink provide a direct connection to any brick you can think of to add to
-your architecture kit.
-
-The 'Tech Deck' is easy to begin using but incredibly hard to master. It's super
-portable as well, so it's easy to fiddle with at your leisure; I'll carry one
-around in my daily bag from time to time as something to keep my hands occupied
-as I solve a difficult problem or coding challenge.
-
-*** Programs
-
-I live most of my life on my computer, and there are some programs I can't
-function without.
-- Doom Emacs
-- Firefox (+ Vimium, theming)
-
-*** Keyboard
-
-We spend most of our lives using computers, so it's only natural to invest in a
-good keyboard. Though mechanical keyboards seem like an expensive fad, I've
-found mine to be incredibly comfortable and have a great experience using them.
-
-My introductory keyboard was the ObinsLab Anne Pro 2. It's relatively cheap,
-compact, and comes with a GUI configuration program while offering Bluetooth and
-USB-C connection capabilities. It's a very comfortable, budget-minded
-conventional keyboard that's on the smaller side. My primary wishes for this
-keyboard would be compatibility with QMK firmware and hot-swappable switches to
-allow newer enthusiasts to find the switch of their preference, but it's hard to
-have it all.
-
-My new keyboard is a Planck Rev. 6.1, a 40% ortholinear keyboard.
-
-I'm currently looking into ergonomic split keyboards which allow the hands to be
-separated when typing; this is said to prevent carpal tunnel syndrome by
-allowing the hands to rest in a more natural positon, though it's unclear how
-effective this is relative to the traditional or ortholinear keyboard (it
-certainly feels more comfortable once getting used to it).
-
-*** Cookware
-
-Though I'm still relatively new to cooking, these are some of my favorite
-products to use to prepare food.
-Victorinox Fibrox Pro - this knife can be found for about $35, and for a
-beginner's knife it's been fantastic. I was using a small paring knife to
-prepare all of my food before this, and it's made an incredible difference in
-the speed and accuracy with which I can prepare food! Though it's possible I'll
-upgrade in the future (I didn't want to invest in an incredibly expensive knife
-just to ruin it as I learn to navigate the kitchen), this knife is one I could
-very possibly use for years.
-
-** On Style :@reviews:fear:
-:PROPERTIES:
-:EXPORT_FILE_NAME: style
-:END:
-
-Style is important to every aspect of life.
-
-** Cooking
-** On Privacy
-
-Why is privacy important?
-
-** Time Management
-
-How do I do it?
-
-** My Music
-** NEXT Analysis Paralysis: Making Decisions Now
-SCHEDULED: <2020-01-01 Wed>
-
-The more time you spend reading, the less you'll know and the less you'll get done. 
-
-* TODO About
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: about
-:END:
-
-** About
-:PROPERTIES:
-:EXPORT_HUGO_MENU: :menu "main"
-:EXPORT_FILE_NAME: _index
-:END:
-
-Welcome to my website! If you're looking for my resume, that can be found here.
-
-I'm Jacob Chvatal, a sophomore Computer Science student. I spent the first eighteen
-years of my life growing up in Portland, OR (yes, many aspects of the city are
-similar to those showcased in Portlandia), and am currently attending
-Northeastern University in Boston, Massachusetts.
-
-In the classroom, I'm passionate about open-source software, well-designed code,
-and (*)nix systems. My current interests lie in developing new methods for
-humans to interact with technology, whether empowered by Domain-Specific
-Languages or Computer Vision - I want to help people learn to interact with the
-technology we use daily and empower them with tools to accomplish this more
-efficiently and more effectively.
-
-As such, my studies have primarily focused on exploring machine learning and
-programming languages, with some time spent on high-performance computing and
-algorithm optimization.
-
-When I'm not coding, I spend much of my free time attending underground
-concerts, taking photos and playing obscure board games.
-
-* Site Meta (ideas, notes, etc)
-
-#+TITLE: site-meta
-Planning out what I want my personal website to look like.
-
-** Use cases:
-
-What do I want this personal website to do?
-(these should be interpreted in order)
-- present information about me in an easy to read fashion
-- showcase my projects and work as a developer
-- demonstrate my skills with web development and framewokrs
-- showcase some of my cool 3d animation work
-  Notable: it is cool to have splash pages;
-  however, easily editing and updating the site is the primary goal.
-
-** Usability (for me)
-- edit just a document to update the site
-  I may have to run some command as well to push the update, but ideally
-  I will jsut be able to edit a document, push the change and it will be made.
-- easily make new posts and changes.
-  again, this should be as easy as editing a single document.
-- showcase cool javascript work
-  this is a bit more complicated, as it requires working with low-level aspects
-  of the site
-  this is also a bit of a stretch goal: it might not be strictly required
-  this also might require linkin to an external site or directly modifying the
-  template
-
-** References
-
-[[https://orgmode.org/manual/Adding-export-back_002dends.html]]
-https://github.com/gcushen/hugo-academic
-https://themes.gohugo.io/hugo-lithium-theme/ - best suited for blog
-https://themes.gohugo.io/hugo-creative-portfolio-theme/
-https://themes.gohugo.io/hugo-theme-novela/ - more business oriented?
-https://themes.gohugo.io/liva-hugo/ -- this is more commercial than anything
-else
-https://themes.gohugo.io/onedly-theme/ theme for documenting one day only diy
-projects ?
-https://themes.gohugo.io/hugo-terrassa-theme/
-https://themes.gohugo.io/hyde/ - maybe? look mroe into this.
-https://themes.gohugo.io/hugo-theme-m10c/ -- i like this dark mode
-https://themes.gohugo.io/hugo-coder/ -nice format, maybe not enough on landing page
-https://themes.gohugo.io/hugo-devresume-theme/ -- nice format, may be too much
-on landing page
-https://themes.gohugo.io/minimal/ -- like the toolbar and minimalism here, not
-usre what else really
-
-** Other Static Site Generators
-
-- https://www.gatsbyjs.org/
-  pros: allows for better customizability, definition of my own react
-  components : how can this be used with markdown?
-  potentially: create my own custom org mode -> gatsby theme thing ?
-- https://jaspervdj.be/hakyll/index.html -- used by aaron weiss, uses haskell, not
-sure what else
-https://using-remark.gatsbyjs.org/hello-world-kitchen-sink/#markdown-in-gatsby
-cool project? -> convert my thing to a gatsby markdown file
-
-
-* meta2
 https://www.gandi.net/en-US good web hosting
 https://njal.la/ completely anon dns hosting server, comes with secure vps in
 sweden
-
-
 [[https://t.co/6zPVNVmRXS][François Chollet on Twitter: &quot;Keras tweetorial: this is how you implement a]]
 [[https://vickitan.com/contact][Vicki Tan — Contact]]
 [[https://deepmind.com/blog/article/Towards-understanding-glasses-with-graph-neural-networks][Towards understanding glasses with graph neural networks | DeepMind]]
@@ -1455,7 +613,6 @@ sweden
 [[https://github.com/nhooyr/blog][nhooyr/blog: My personal blog]]
 [[https://github.com/cdr/code-server][cdr/code-server: VS Code in the browser]]
 [[https://github.com/cdr][Coder]]
-[[https://karpathy.github.io/2020/06/11/biohacking-lite/][Biohacking Lite]]
 [[https://library.northeastern.edu/research/resources/items/kanopy-streaming][Kanopy Streaming | Northeastern University Library]]
 [[https://github.com/tpope/vim-projectionist][tpope/vim-projectionist: projectionist.vim: Granular project configuration]]
 [[http://www.newartisans.com/][Lost in Technopolis]]
@@ -1807,7 +964,6 @@ sweden
 [[https://research.securitum.com/the-curious-case-of-copy-paste/][The Curious Case of Copy &amp; Paste - on risks of pasting arbitrary content in]]
 [[https://postbag.co/][Find journalists, bloggers and webmasters covering your niche.]]
 [[https://b3n.org/][b3n.org | Benjamin Bryan | Blogging from North Idaho]]
-[[https://icyphox.sh/blog/pi/][Migrating to the RPi]]
 [[https://akkshaya.blog/about-me/][About me – Akkshaya]]
 [[https://nikhilism.com/about/][About · Nikhil&#039;s blog]]
 [[http://xahlee.info/kbd/ergonomic_keyboards_index.html][Ergonomic Keyboard Reviews]]
@@ -1853,7 +1009,6 @@ sweden
 [[https://github.com/joeycastillo/The-Open-Book][joeycastillo/The-Open-Book]]
 [[https://tianyin.github.io/][Tianyin Xu&#039;s Homepage]]
 [[https://oops.cs.columbia.edu/][Oops! Predicting Unintentional Action in Video - Columbia Computer Vision]]
-[[https://flowcrypt.com/][FlowCrypt: PGP Encryption for Gmail]]
 [[https://www.kensington.com/p/products/electronic-control-solutions/trackball-products/orbit-trackball-with-scroll-ring/?r=1][Orbit® Trackball with Scroll Ring | Trackballs - Trackball Mice | Kensingto]]
 [[https://wiki.xxiivv.com/site/noodle.html][XXIIVV — noodle]]
 [[http://conal.net/blog/posts/everything-is-a-function-in-haskell][Conal Elliott » “Everything is a function” in Haskell?]]
@@ -1880,80 +1035,35 @@ sweden
 [[https://news.ycombinator.com/item?id=23550758][Ask HN: How do you develop internal motivation? | Hacker News]]
 [[https://exploringjs.com/deep-js/][Deep JavaScript: Theory and techniques]]
 [[https://dsalo.info/a-specialist-profession-or-a-profession-of-specialists/][A specialist profession, or a profession of specialists? – Dorothea Salo]]
-[[http://matt.might.net/articles/practicing-privacy-encryption/][Practicing privacy with encryption]]
-[[https://wiki.xxiivv.com/site/oquonie.html][XXIIVV — oquonie]]
-[[https://nwat.xyz/][Noah Watkins]]
 [[https://github.com/ztellman/gloss][ztellman/gloss: speaks in bytes, so you don&amp;#39;t have to]]
-[[https://en.m.wikipedia.org/wiki/Muqaddimah][Muqaddimah - Wikipedia]]
-[[https://steveblank.com/secret-history/][Steve Blank Secret History]]
-[[https://wiki.xxiivv.com/site/to_the_aeons_hell.html][XXIIVV — to the aeons hell]]
 [[https://medium.com/@mikekijewski][Mike Kijewski – Medium]]
 [[https://www.perl.org/][The Perl Programming Language - www.perl.org]]
-[[https://www.debian.org/vote/2019/vote_002#timeline][General Resolution: Init systems and systemd]]
 [[https://docs.hylang.org/en/stable/][The Hy Manual — hy 0.18.0 documentation]]
 [[https://wiki.xxiivv.com/site/wallpapers.html][XXIIVV — wallpapers]]
-[[https://attilammagyar.github.io/][athos[hun]]]
 [[http://matt.might.net/articles/how-to-email/][How to send and reply to email]]
 [[https://stevelosh.com/blog/2012/10/the-homely-mutt/][The Homely Mutt / Steve Losh]]
 [[http://matt.might.net/articles/hacking-strength/][Hacking strength: Gaining muscle with least resistance]]
 [[http://matt.might.net/articles/least-resistance-weight-loss/][Least resistance weight loss]]
-[[https://wiki.xxiivv.com/site/vast.html][XXIIVV — vast]]
-[[https://wiki.xxiivv.com/site/methascope.html][XXIIVV — methascope]]
-[[https://wiki.xxiivv.com/site/alphavetist.html][XXIIVV — alphavetist]]
-[[https://wiki.xxiivv.com/site/brane.html][XXIIVV — brane]]
-[[https://wiki.xxiivv.com/site/telekinesis.html][XXIIVV — telekinesis]]
-[[https://wiki.xxiivv.com/site/rafinograde.html][XXIIVV — rafinograde]]
 [[https://git.tt-rss.org/fox/tt-rss-android/src/master/org.fox.ttrss/src/main/java/org/fox/ttrss/offline][fox/tt-rss-android: Tiny Tiny RSS for Android - Tiny Tiny RSS]]
 [[http://matt.might.net/articles/tenure/#addendum][HOWTO: Get tenure]]
-[[https://input-output-hk.github.io/haskell.nix/tutorials/getting-started/][Getting Started - Alternative Haskell Infrastructure for Nixpkgs]]
 [[https://github.com/bcongdon/git-trophy][bcongdon/git-trophy: ? Create a 3D Printed Model of Your Github Contributio]]
 [[https://github.com/bcongdon/rssfilter/blob/master/README.md][rssfilter/README.md at master · bcongdon/rssfilter]]
 [[https://github.com/bcongdon/corral][bcongdon/corral: ? A serverless MapReduce framework written for AWS Lambda]]
-[[https://wiki.xxiivv.com/site/talk.html][XXIIVV — talk]]
 [[https://wiki.xxiivv.com/site/austria.html][XXIIVV — austria]]
 [[https://github.com/RSS-Bridge/rss-bridge/blob/master/README.md][rss-bridge/README.md at master · RSS-Bridge/rss-bridge]]
 [[https://github.com/RSS-Bridge/rss-bridge][RSS-Bridge/rss-bridge: The RSS feed for websites missing it]]
 [[https://wiki.xxiivv.com/site/plan9.html][XXIIVV — plan9]]
 [[https://articles.starcitygames.com/premium/stuck-in-the-middle-with-bruce/][Stuck In The Middle With Bruce - SCG Articles]]
 [[https://github.com/seenaburns/dex-ui][seenaburns/dex-ui: A science fiction desktop running on Linux. Awesome.]]
-[[https://github.com/seenaburns/dotfiles][seenaburns/dotfiles: Personal config files]]
-[[http://seenaburns.com/][Seena Burns]]
-[[https://alternativebit.fr/posts/ultimate-writer/#what-s-next][Ultimate Writer: an Open Digital Typewriter]]
-[[https://en.m.wikipedia.org/wiki/HyperCard][HyperCard - Wikipedia]]
-[[https://alternativebit.fr/posts/ultimate-writer/][Ultimate Writer: an Open Digital Typewriter]]
-[[https://wiki.xxiivv.com/site/computer.html][XXIIVV — computer]]
-[[https://en.m.wikipedia.org/wiki/Antifragile][Antifragile - Wikipedia]]
-[[https://github.com/seenaburns/isolate/blob/master/README.md][isolate/README.md at master · seenaburns/isolate]]
-[[https://dat.foundation/][Dat Protocol Foundation]]
-[[https://github.com/Rotonde][Rotonde Network]]
-[[https://wiki.xxiivv.com/site/rotonde.html][XXIIVV — rotonde]]
 [[https://www.brianketelsen.com/i3-windows/][Running i3 Window Manager on Bash For Windows]]
-[[https://www.kill-the-newsletter.com/][Kill the Newsletter!]]
 [[https://libbyapp.com/][https://libbyapp.com/]]
-[[https://benjamincongdon.me/tools][Tools | Ben Congdon]]
-[[https://wiki.xxiivv.com/site/superworker.html][XXIIVV — superworker]]
-[[https://wiki.xxiivv.com/site/language.html][XXIIVV — language]]
 [[https://mobile.twitter.com/cybersoybean/status/1256140146660925440][nina m ?️ #JunkTerrorBillNow on Twitter: &amp;quot;hi - i&amp;#39;ve made a picrew ]]
 [[https://github.com/HackathonHackers/personal-sites][HackathonHackers/personal-sites: List of Hackathon Hackers&amp;#39; personal si]]
 [[http://matt.might.net/articles/red-black-delete/][Missing method: How to delete from Okasaki&amp;#39;s red-black trees]]
-[[http://matt.might.net/articles/tenure/][HOWTO: Get tenure]]
-[[https://wiki.xxiivv.com/site/the_will_the_wisp.html][XXIIVV — the will the wisp]]
-[[https://wiki.xxiivv.com/site/eschatolor.html][XXIIVV — eschatolor]]
 [[https://git.tt-rss.org/fox/tt-rss-android][fox/tt-rss-android: Tiny Tiny RSS for Android - Tiny Tiny RSS]]
-[[https://wiki.xxiivv.com/site/lard_shader.html][XXIIVV — lard shader]]
-[[https://wiki.xxiivv.com/site/juni.html][XXIIVV — juni]]
-[[https://wiki.xxiivv.com/site/the_sartre_mechanism.html][XXIIVV — the sartre mechanism]]
-[[https://wiki.xxiivv.com/site/bifurcan.html][XXIIVV — bifurcan]]
 [[http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/][Productivity hints, tips, hacks and tricks for graduate students and profes]]
 [[https://www.amazon.com/gp/product/0143122231/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0143122231&amp;linkCode=as2&amp;tag=ucmbread-20&amp;linkId=XIHEULXQQPU7EGO7][Willpower: Rediscovering the Greatest Human Strength: Baumeister, Roy F., T]]
-[[https://v-os.ca/minimalism][V · Minimalism]]
-[[https://v-os.ca/][V · Home]]
-[[https://wiki.xxiivv.com/site/neon_hermetism.html][XXIIVV — neon hermetism]]
 [[https://www.reddit.com/r/vim/comments/h84oiy/list_of_all_vimtips/][List of all VimTips - vim]]
-[[https://wiki.xxiivv.com/site/blindfolk.html][XXIIVV — blindfolk]]
-[[https://wiki.xxiivv.com/site/systems.html][XXIIVV — systems]]
-[[https://software.intel.com/content/www/us/en/develop/articles/pin-a-dynamic-binary-instrumentation-tool.html][Pin - A Dynamic Binary Instrumentation Tool]]
-[[https://aaron.ng/][Aaron Ng]]
 [[https://openai.com/blog/image-gpt/][https://openai.com/blog/image-gpt/]]
 [[https://www.cnil.fr/en/cnil-publishes-gdpr-guide-developers][The CNIL publishes a GDPR guide for developers | CNIL]]
 [[https://radicale.org/master.html][Radicale &amp;quot;master&amp;quot; Documentation]]
@@ -1999,195 +1109,69 @@ sweden
 [[https://stackoverflow.com/questions/448673/how-do-emulators-work-and-how-are-they-written#448689][emulation - How do emulators work and how are they written? - Stack Overflo]]
 [[http://people.cs.uchicago.edu/~jhr/][John Reppy&amp;#39;s home page]]
 [[https://github.com/pitr/jj][pitr/jj: J in Nim]]
-[[https://github.com/patio11/wrightverification/blob/master/README.md][wrightverification/README.md at master · patio11/wrightverification]]
-[[https://hackaday.com/2020/01/28/factory-laptop-with-ime-disabled/][Factory Laptop With IME Disabled | Hackaday]]
-[[https://dhh.dk/][David Heinemeier Hansson (DHH)]]
 [[https://nanochess.org/][Chess programs in C, Java and Javascript, also 8080 emulator]]
 [[http://www.mike-worth.com/2013/03/31/baking-a-hello-world-cake/][Baking a Hello World Cake | Products of Mike&amp;#39;s Mind]]
 [[https://niklasfasching.github.io/go-org/#blocks.org][https://niklasfasching.github.io/go-org/#blocks.org]]
-[[https://esolangs.org/wiki/Chef][Chef - Esolang]]
 [[https://www.dangermouse.net/esoteric/piet.html][DM&amp;#39;s Esoteric Programming Languages - Piet]]
-[[https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html][A sort-middle architecture for 2D graphics | Raph Levien’s blog]]
 [[https://benwiser.com/blog/I-think-I%E2%80%99ve-accidentally-created-a-fully-encrypted-social-media-app.html][Ben Wiser | I think I’ve accidentally created a fully encrypted social medi]]
-[[https://benwiser.com/blog/Saving-todos-to-my-calendar.html][Ben Wiser | Saving todos to my calendar]]
 [[https://m.youtube.com/watch?v=Ho6nMWGtepY][Writing PPT with org-mode and beamer in Emacs - YouTube]]
 [[https://m.youtube.com/watch?v=dljNabciEGg][Literate Devops with Emacs - YouTube]]
-[[https://egpu.io/][eGPU.io - Your Go-to Destination for All Things eGPU]]
-[[https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54][iiSM.org]]
 [[https://m.youtube.com/watch?v=u2KZJzoz-qI][Super Advanced Python - YouTube]]
-[[https://www.jimcollins.com/concepts/the-flywheel.html][Jim Collins - Concepts - The Flywheel Effect]]
-[[https://jamesclear.com/atomic-habits][Atomic Habits: Tiny Changes, Remarkable Results by James Clear]]
-[[https://lublin.se/][lublin.se]]
-[[https://madewithtea.com/][Made with Tea: Jendrik Poloczek]]
-[[https://iko.soy/][ilyakooo0]]
-[[https://www.healthline.com/nutrition/water-kefir][What Is Water Kefir? Benefits, Uses and Recipe]]
 [[https://www.reddit.com/r/ErgoDoxEZ/][reddit: the front page of the internet]]
-[[https://www.instagram.com/jordankritz/][Jördæn K®¡➕⚡ (@jordankritz) • Instagram photos and videos]]
-[[https://www.portlandmercury.com/portland/the-best-of-3-am/Content?oid=48767][The Best of 3 AM - Feature - Portland Mercury]]
-[[https://en.m.wikipedia.org/wiki/File:Sun_Tzu_Chinese_remainder_theorem.svg][File:Sun Tzu Chinese remainder theorem.svg - Wikipedia]]
-[[http://math.stanford.edu/~ryzhik/STANFORD/STANF63CM-20/math63cm-20.html][Math 63CM Winter 2020]]
-[[http://neuralnetworksanddeeplearning.com/][Neural networks and deep learning]]
 [[https://aur.archlinux.org/packages/whatsapp-nativefier/][AUR (en) - whatsapp-nativefier]]
 [[https://vim.fandom.com/wiki/Editing_remote_files_via_scp_in_vim][Editing remote files via scp in vim | Vim Tips Wiki | Fandom]]
 [[https://benkettle.xyz/][https://benkettle.xyz/]]
-[[https://users.cs.northwestern.edu/~jesse/][Jesse A. Tov]]
 [[https://forum.colemak.com/topic/2147-limiting-keyboard-use-to-only-easytoreach-keys/][Limiting keyboard use to only easy-to-reach keys - General - Colemak forum]]
 [[https://forum.colemak.com/topic/2206-planck/][Planck - General - Colemak forum]]
-[[https://en.m.wikipedia.org/wiki/Simula][Simula - Wikipedia]]
-[[https://www.math.upenn.edu/~wilf/DownldGF.html][Download generatingfunctionology]]
-[[http://pages.cs.wisc.edu/~remzi/OSTEP/][Operating Systems: Three Easy Pieces]]
-[[https://cse.buffalo.edu/~rapaport/510.html][PHILOSOPHY OF COMPUTER SCIENCE]]
-[[https://en.m.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach][Gödel, Escher, Bach - Wikipedia]]
 [[http://homepages.inf.ed.ac.uk/libkin/fmt/fmt.pdf][http://homepages.inf.ed.ac.uk/libkin/fmt/fmt.pdf]]
 [[https://www.theredhandfiles.com/do-u-have-any-spare-lyrics/][Nick Cave - The Red Hand Files - Issue #43 - I&amp;#39;m a songwriter. I&amp;#39;m ]]
 [[https://github.com/glaretechnologies/winter][glaretechnologies/winter: High-performance functional programming language]]
-[[https://taylorpearson.me/interesting/][Why History’s Greatest Innovators Optimized for Interesting -]]
-[[https://www.gwern.net/Faces][Making Anime Faces With StyleGAN · Gwern.net]]
 [[https://m.youtube.com/watch?feature=youtu.be&amp;v=uxi7BP9ppoQ][]【小穎美食】豆腐裡加2個雞蛋，挑食孩子都愛吃，一周吃4次都嫌少，營養解饞 - YouTube]]
 [[https://www.d3vur.com/product-category/templeos-collection/][TempleOS Archives | D3VUR]]
 [[http://craftinginterpreters.com/][Crafting Interpreters]]
 [[https://www.edx.org/course/compilers][Compilers | edX]]
 [[https://en.m.wikipedia.org/wiki/Chekhov%27s_gun][Chekhov&amp;#39;s gun - Wikipedia]]
 [[https://teenage.engineering/products/op-1][teenage engineering – OP-1 ]]
-[[https://synthstrom.com/product/deluge/][Deluge - Synthstrom Audible]]
-[[https://numenta.com/blog/2019/08/30/case-for-sparsity-in-neural-networks-part-1-pruning][The case for sparsity in neural networks, Part 1: Pruning]]
-[[https://wiki.hackerspaces.org/Portland,_OR][Portland, OR - HackerspaceWiki]]
 [[https://pdxhackerspace.org/][PDX Hackerspace]]
 [[https://en.m.wikipedia.org/wiki/Recurse_Center][Recurse Center - Wikipedia]]
 [[https://en.m.wikipedia.org/wiki/Rubik&#039;s_Cube_group][Rubik&amp;#39;s Cube group - Wikipedia]]
-[[https://ghidra-sre.org/][Ghidra]]
 [[https://metager3.de/en/][MetaGer: Privacy Protected Search &amp;amp; Find]]
-[[https://itch.io/b/520/bundle-for-racial-justice-and-equality][Bundle for Racial Justice and Equality by itch.io and 1361 others - itch.io]]
-[[https://github.com/tevador/RandomX][tevador/RandomX: Proof of work algorithm based on random code execution]]
-[[https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html][Fast 2D rendering on GPU | Raph Levien’s blog]]
 [[https://daily.jstor.org/in-han-dynasty-china-bisexuality-was-the-norm/][In Han Dynasty China, Bisexuality Was the Norm | JSTOR Daily]]
-[[https://news.ycombinator.com/item?id=23516751][Storytelling Tips for Technical Interviews | Hacker News]]
-[[https://www.ekioh.com/acid.html][Flow browser passes the Acid tests - Ekioh]]
 [[https://en.m.wikipedia.org/wiki/InterPlanetary_File_System][InterPlanetary File System - Wikipedia]]
-[[https://alexschroeder.ch/wiki/2020-06-04_Gemini_Upload][Alex Schroeder: 2020-06-04 Gemini Upload]]
-[[https://hologram.io/][Cellular Connectivity for the Internet of Things | Hologram]]
-[[https://www.informit.com/store/art-of-computer-programming-volumes-1-4a-boxed-set-9780321751041][Art of Computer Programming, Volumes 1-4A Boxed Set, The | InformIT]]
-[[https://20xx.io/nxc/#login][20XX]]
-[[https://dev.gourami.social/?page=1][gourami]]
 [[https://news.ycombinator.com/item?id=23515504][The privilege of boredom: How philosophy can happen in isolation | Hacker N]]
 [[https://steveklabnik.com/writing/today-is-my-first-day-at-oxide-computer-company][Steve Klabnik&amp;#39;s website]]
 [[https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler][]@adlrocha - How I built an IPFS crawler with libp2p - @adlrocha Weekly News]]
-[[https://news.ycombinator.com/item?id=23515997][I built an IPFS crawler with libp2p | Hacker News]]
-[[https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/][How do you create a video chat application?]]
-[[https://xxiivv.com/][Echorridoors]]
-[[https://en.m.wikipedia.org/wiki/The_Wire][The Wire - Wikipedia]]
-[[https://en.m.wikipedia.org/wiki/Fargo_(TV_series)][Fargo (TV series) - Wikipedia]]
 [[https://github.com/MichaelMure/git-bug][MichaelMure/git-bug: Distributed, offline-first bug tracker embedded in git]]
-[[http://qual.net/][qual.net]]
-[[https://m.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A][The Audio Programmer - YouTube]]
-[[https://spreadprivacy.com/linux-privacy-tips/][How to Protect Your Privacy on Linux]]
-[[https://camd.northeastern.edu/news/assistive-technology-new-course-for-spring-2019/][Assistive Technology: New Course for Spring 2019 - Northeastern CAMD]]
-[[https://mtg.cardsrealm.com/combo-infinite/][Infinite combos search Page - Magic: the Gathering mtg]]
-[[https://github.com/jmgrosen/shorai][jmgrosen/shorai: A super-amazing OS that will bring world peace.]]
 [[https://www.rhelmer.org/blog/][rhelmer&amp;#39;s blog]]
 [[https://en.m.wikipedia.org/wiki/Zooko&#039;s_triangle][Zooko&amp;#39;s triangle - Wikipedia]]
-[[https://m.youtube.com/watch?v=hKcOkWzj0_s][Caml Trading - YouTube]]
 [[http://xahlee.info/kbd/most_efficient_keyboard_layout.html][What&amp;#39;s the Most Efficient Keyboard Layout?]]
 [[https://www.casio.com/products/watches/classic/ae1200wh-1a][AE1200WH-1A Classic | Casio USA]]
-[[https://hackaday.com/2019/03/23/show-your-skills-with-a-bootable-cv/][Show Your Skills With A Bootable CV | Hackaday]]
-[[https://stackoverflow.com/questions/5869825/when-should-one-use-a-spinlock-instead-of-mutex#5870415][When should one use a spinlock instead of mutex? - Stack Overflow]]
-[[https://en.m.wikipedia.org/wiki/Hard-Boiled_Wonderland_and_the_End_of_the_World][Hard-Boiled Wonderland and the End of the World - Wikipedia]]
-[[https://store.moma.org/kids/games-puzzles/jason-freeny-brick-man-anatomical-puzzle/5123.html][Jason Freeny Brick Man Anatomical Puzzle | MoMA Design Store]]
 [[https://zserge.com/posts/tmux/][Tmux for mere mortals]]
 [[https://www.qubes-os.org/][Qubes OS: A reasonably secure operating system]]
 [[https://www.ipredia.org/os/][IprediaOS | Ipredia]]
-[[https://pijul.org/][Pijul]]
-[[https://github.com/gfredericks/quinedb][gfredericks/quinedb: QuineDB is a quine that is also a key-value store.]]
-[[http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/][Debugging compilers with optimization fuel : Inside 245-5D]]
-[[http://www.cs.fsu.edu/~whalley/][David Whalley]]
 [[https://aaronguo1996.github.io/project/hoogleplus/][Hoogle  | Zheng Guo]]
-[[https://github.com/masaeedu/ulc][masaeedu/ulc: Untyped lambda calculus]]
-[[https://github.com/nickbjohnson4224/rhombus][nickbjohnson4224/rhombus: a hobby operating system written in C]]
-[[http://www.starseedpilgrim.com/][Starseed Pilgrim]]
 [[https://spotify.design/article/making-the-brand-asian-american-and-pacific-islander-heritage-month][Making the Brand: Asian American and Pacific Islander Heritage Month | Spot]]
-[[https://pactflow.io/][Pactflow | Contract Testing with Pact at Scale]]
 [[https://www.theguardian.com/books/2016/mar/04/six-four-hideo-yokoyama-review-crime-thriller-phenomenon-japan][Six Four by Hideo Yokoyama – the crime thriller that is a publishing phenom]]
 [[https://github.com/alexwennerberg/gourami][alexwennerberg/gourami: An intentionally small, community-focused decentral]]
-[[https://github.com/alexwennerberg/gourami/issues][Issues · alexwennerberg/gourami]]
-[[https://mobile.twitter.com/indexsy][Jacky Chou @ Indexsy (@indexsy) / Twitter]]
-[[https://www.bloomberg.com/opinion/articles/2020-02-26/reddit-posters-pick-the-stocks-now?sref=1kJVNqnU][Reddit Posters Pick the Stocks Now - Bloomberg]]
-[[https://collectednotes.com/][Collected Notes.]]
-[[https://www.textrazor.com/][TextRazor - The Natural Language Processing API]]
-[[https://marcus-obst.de/wiki/Notetaking][Marcus Obst]]
 [[https://www.fossil-scm.org/home/doc/trunk/www/index.wiki][Fossil: Home]]
-[[https://chiselapp.com/user/avalos/repository/portafolio-io/doc/trunk/index.wiki][Portafolio IO: Documentation]]
-[[https://github.com/fchollet/ARC][fchollet/ARC: The Abstraction and Reasoning Corpus]]
-[[http://webdemo.myscript.com/][MyScript Webdemo]]
 [[https://web.archive.org/web/20191125141522/http://www.070shake.net/][https://web.archive.org/web/20191125141522/http://www.070shake.net/]]
 [[https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm][How to Build a Universe That Doesn&amp;#39;t Fall Apart Two Days Later]]
 [[https://news.ycombinator.com/item?id=23500462][Best practices for managing and storing secrets like API keys and credentia]]
 [[https://en.m.wikipedia.org/wiki/Valis_(novel)][https://en.m.wikipedia.org/wiki/Valis_(novel)]]
-[[https://history.hanover.edu/courses/excerpts/165havel.html][Havel, Power of the Powerless, 1978]]
-[[https://www.pine64.org/pinephone/][PINEPHONE | PINE64]]
-[[https://en.m.wikipedia.org/wiki/PinePhone][PinePhone - Wikipedia]]
-[[https://matrix.org/docs/projects/bridge/mx-puppet-instagram][mx-puppet-instagram | Matrix.org]]
-[[https://news.ycombinator.com/item?id=17031306][A Year Using Matrix and Riot | Hacker News]]
-[[https://an-vu.com/Dev-Chat][Dev-Chat - An Vu]]
-[[https://www.microsoft.com/en-us/research/people/simonpj/][Simon Peyton Jones at Microsoft Research]]
 [[https://signalboost.info/][Signalboost: Secure Textblasts and Hotlines for Activists | Signalboost: Se]]
-[[https://xj9.io/][All posts | (災害の̴女王)dreamspace]]
-[[https://copiona.com/dise%C3%B1o/2019/10/08/collagetober.html][]~librenauta]]
-[[https://roytang.net/2020/06/when-someone-shows-you-who-they-are-believe-them/][When someone shows you who they are, believe them · Roy Tang]]
-[[https://travisshears.com/micro-blog/][Travis Shears Personal Site | Micro Blog]]
-[[https://www.dampfkraft.com/][Dampfkraft]]
-[[https://mmm.s-ol.nu/][MMM: lunar low-gravity scripting playground]]
-[[https://rezmason.net/projects.html][rezmason.net - Projects]]
 [[https://chrismaughan.com/portfolio/zep/][ChrisMaughan.com]]
-[[https://chrismaughan.com/portfolio/][ChrisMaughan.com]]
-[[http://npisanti.com/][npisanti.com]]
-[[https://tynandebold.com/various][Various · Tynan DeBold]]
-[[http://bildwissenschaft.vortok.info/loops/][Loops | bildwissenschaft.vortok.info]]
-[[https://www.aeriform.io/][ΛERIF°RM]]
 [[https://www.amazon.com/gp/aw/ls/ref=?ie=UTF8&amp;%2AVersion%2A=1&amp;%2Aentries%2A=0&amp;lid=38HKSBK1W6CPU&amp;ty=wishlist][https://www.amazon.com/gp/aw/ls/ref=?ie=UTF8&amp;%2AVersion%2A=1&amp;%2Aentries%2A=0&amp;lid=38HKSBK1W6CPU&amp;ty=wishlist]]
 [[https://chad.is/reading/][Reading List &amp;amp; Book Reviews • Chad Mazzola]]
-[[https://chad.is/writing/][Writing • Chad Mazzola]]
 [[https://m.youtube.com/watch?v=Gzj723LkRJY&amp;feature=youtu.be][Ruby on Rails demo - YouTube]]
-[[https://yiming.dev/][Welcome! - Yiming Chen]]
-[[http://www.miha-co.ca/projects/masslessclouds][miha-co]]
-[[https://azlen.me/wiki/][Wiki]]
-[[https://opinionatedguide.github.io/][Opinionated Guides]]
-[[https://oddworlds.org/gallery/][oddworlds soliloquy]]
-[[https://oddworlds.org/][oddworlds soliloquy]]
-[[https://cass.si/posts/][cass.si — /posts/]]
-[[https://pugjs.org/api/getting-started.html][Getting Started – Pug]]
-[[https://cadmican.neocities.org/][Welcome on my site — cadmican]]
 [[https://tilde.town/~dustin/projects/tilde-social][https://tilde.town/~dustin/projects/tilde-social]]
 [[https://tilde.town/~dustin/wiki/library][https://tilde.town/~dustin/wiki/library]]
-[[https://tilde.town/~dustin/][Dustin]]
 [[http://www.jameschip.io/software.html][http://www.jameschip.io/software.html]]
-[[https://peppe.rs/][peppe.rs]]
-[[https://intrfc.com/][INTRFC]]
-[[https://www.are.na/][Are.na]]
 [[https://www.are.na/raul-altosaar][https://www.are.na/raul-altosaar]]
 [[https://github.com/ipfs/][IPFS]]
-[[https://crlf.site/log/articles/190712-software-ecosystems/][Software ecosystems: XXIIVV - Cr;Lf;]]
-[[https://crlf.site/log/notes/200530-links/][Notebooks and paper reviews - Cr;Lf;]]
-[[https://www.johannesg.com/projects.html][Projects - The Portfolio of Jóhannes G. Þorsteinsson]]
-[[https://github.com/dylanaraps/pure-sh-bible/blob/master/README.md][pure-sh-bible/README.md at master · dylanaraps/pure-sh-bible]]
-[[https://eti.tf/bookmarks][bookmarks : eti.tf]]
-[[https://eti.tf/][index : eti.tf]]
 [[https://paysonwallach.com/][I&amp;#39;d Rather Be Coding]]
-[[https://natwelch.com/][Nat Welch]]
-[[https://parkimminent.com/][Park Imminent]]
-[[https://paulglushak.com/][Paul Glushak]]
 [[https://simone.computer/#/][Simone&amp;#39;s Computer]]
-[[https://q.pfiffer.org/][q.pfiffer.org - Home]]
-[[https://ashpex.neocities.org/2020/01/my-degoogled-phone/][My Degoogled Phone | ~/ashpex]]
-[[https://zvava.org/media.html][media @ zvava.org]]
 [[https://proycon.anaproy.nl/post/colibri/][Context as Linguistic Bridges [PhD thesis] | Proycon&amp;#39;s Website]]
-[[https://www.marginchronicles.com/site/blurb/index.html][Margin Chronicles]]
-[[https://www.materialfuture.net/][]@MaterialFuture]]
-[[https://hex22.org/][Hunor Karamán | hex22]]
-[[https://boffosocko.com/][Chris Aldrich]]
-
 [[https://s.ai/ppa/][Sai - Privacy Protection Act stickers]]
-[[https://drisc.io/self][Self]]
-[[https://m.youtube.com/watch?v=mPn2AdMH7UQ][Surreal Numbers (writing the first book) - Numberphile - YouTube]]
 [[https://careers.jpmorgan.com/global/en/students/programs][Jobs, Student Programs &amp; Internships | JPMorgan Chase &amp; Co.]]
 [[https://careers.jpmorgan.com/global/en/students/programs?search=&amp;tags=location__Americas__UnitedStatesofAmerica][Jobs, Student Programs &amp; Internships | JPMorgan Chase &amp; Co.]]
 [[https://www.greylock.org/careers.html][Careers - Greylock Federal Credit Union]]
@@ -2217,16 +1201,13 @@ sweden
 [[https://www.oilshell.org/blog/2016/12/11.html#its-used-to-describe-the-structure-of-python][What is Zephyr ASDL?]]
 [[https://github.com/NatTuck/Twiddler][NatTuck/Twiddler: Files for Twiddler one hand chording keyboard]]
 [[https://ashpex.neocities.org/][]~/ashpex]]
-[[https://futuristan.io/][index | futuristan.io :: contemporary and digital art]]
 [[https://www.reddit.com/r/MFPMPPJWFA][Niche as fuck]]
-[[https://wiki.xxiivv.com/site/longtermism.html][XXIIVV — longtermism]]
 [[https://wiki.xxiivv.com/site/now.html][XXIIVV — now]]
 [[https://wiki.xxiivv.com/site/zoe_format.html][XXIIVV — zoe format]]
 [[https://wiki.xxiivv.com/site/calendar.html][XXIIVV — calendar]]
 [[https://github.com/merveilles/Time-Travelers][merveilles/Time-Travelers: List of artists and hackers using homegrown time]]
 [[https://craze.co.uk/][Rutherford Craze]]
 [[https://nomand.co/#gba][Legacy: Home]]
-[[https://wiki.xxiivv.com/site/nataniev.html][XXIIVV — nataniev]]
 [[https://wiki.xxiivv.com/site/tools.html][XXIIVV — tools]]
 [[https://wiki.xxiivv.com/site/about.html][XXIIVV — about]]
 [[https://emersion.fr/][emersion]]
@@ -2255,7 +1236,6 @@ sweden
 [[https://web.dev/one-line-layouts/][Ten modern layouts in one line of CSS]]
 [[https://en.m.wikipedia.org/wiki/Gray_code][Gray code - Wikipedia]]
 [[http://www.jamesoconnor.xyz/][http://www.jamesoconnor.xyz/]]
-[[https://www.yctct.com/][about - yctct]]
 [[https://twtxt.readthedocs.io/en/stable/][Welcome to twtxt! — twtxt 1.2.3 documentation]]
 [[https://www.baty.net/2019/twtxt/][twtxt - Jack Baty&#039;s weblog]]
 [[https://beepb00p.xyz/hpi.html][Human Programming Interface | beepb00p]]
@@ -2274,7 +1254,6 @@ sweden
 [[https://azlen.me/projects/][Projects]]
 [[https://azlen.me/projects/micro_learning_futures/][Micro Learning Futures]]
 [[https://github.com/azlen/roam-themes][azlen/roam-themes]]
-[[https://azlen.me/][Home]]
 [[https://notes.azlen.me/g3tibyfv/][About these notes]]
 [[https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma][About these notes | §What’s top of mind]]
 [[https://notes.andymatuschak.org/About_these_notes][About these notes]]
@@ -2307,7 +1286,6 @@ sweden
 [[https://bearblog.dev/][ʕ•ᴥ•ʔ Bear Blog]]
 [[https://docs.google.com/forms/d/e/1FAIpQLScLrQDRwMPDNd48tlaichAfO-ahwvway3Vp7cuoJHzInzQ2EQ/viewform][PennApps XXI Application]]
 [[https://developer.github.com/v3/guides/building-a-ci-server/][Building a CI server | GitHub Developer Guide]]
-[[https://www.edwinwenink.xyz/][Edwin Wenink]]
 [[https://news.ycombinator.com/item?id=19127605][Exwm – Emacs X Window Manager | Hacker News]]
 [[https://technomancy.us/184][in which a path is charted through the coming apocalypse - Technomancy]]
 [[https://t.co/G9PQ1UaIeq][Marcin Ignac on Twitter: &quot;I&#039;m fascinated by @andy_matuschak digital garden ]]
@@ -2635,7 +1613,6 @@ sweden
 [[https://blog.patchgirl.io/about/][About · PatchGirl]]
 [[https://blog.patchgirl.io/haskell/2020/07/13/static-haskell-binary.html][Building static Haskell binary with Nix on Linux · PatchGirl]]
 [[https://everestpipkin.github.io/image-scrubber/][Image Scrubber]]
-[[https://ertdfgcvb.xyz/][ertdfgcvb]]
 [[https://mcwhirter.io/][mcwhirter.io]]
 [[https://lambdablob.com/series/just-enough-nix-for-programming/][Just Enough Nix For Programming | Lambda-Blob]]
 [[https://nix.dev/tutorials/declarative-and-reproducible-developer-environments.html][Declarative and reproducible developer environments — nix.dev documentation]]
@@ -2847,8 +1824,6 @@ sweden
 [[https://github.com/richardanaya/pinephone-cairo-game-starter][richardanaya/pinephone-cairo-game-starter: Example of a game for PinePhone ]]
 [[https://github.com/richardanaya/mochi][richardanaya/mochi: A simple game engine using Gtk &amp; Cairo]]
 [[https://galois.com/blog/2018/07/vellvm-verifying-the-llvm/][Vellvm - Verifying the LLVM - Galois, Inc.]]
-[[https://thesephist.com/][thesephist.com]]
-[[https://thesephist.com/projects/][Projects | thesephist.com]]
 [[https://github.com/rntz/datafun][rntz/datafun: Research on integrating datalog &amp; lambda calculus via monoton]]
 [[https://github.com/nkomirisetti/UNCPurityTest/blob/master/index.html][UNCPurityTest/index.html at master · nkomirisetti/UNCPurityTest]]
 [[https://mobile.twitter.com/dennybritz/status/1290204344281780225][Denny Britz on Twitter: &quot;Thinking about writing up a post about Hierarchica]]
@@ -3098,7 +2073,6 @@ sweden
 [[https://monadplus.pro][monadplus.pro]]
 [[https://github.com/vlaci/nix-doom-emacs/issues/13][&#039;Package not available: company-org-roam&#039; #13]]
 [[https://reddit.com/r/emacs/comments/64qwq5/emacs_orgbable_mysql_no_longer_working][Emacs Org-Bable MySQL no longer working]]
-[[https://neo-layout.org/index_en.html][Neo – Keyboard Layout]]
 [[https://grahamc.com/blog/nixos-on-dell-9560][NixOS on a Dell 9560]]
 [[https://johnbcoughlin.com/posts/nix-dynamic-linking][Jack Coughlin]]
 [[https://direnv.net][direnv - unclutter your .profile]]
@@ -3232,21 +2206,18 @@ sweden
 [[https://en.wikipedia.org/wiki/SystemC][SystemC]]
 [[https://ui.adsabs.harvard.edu/abs/2019arXiv190801324T/abstract][CREST: Hardware Formal Verification with ANSI-C Reference Specifications]]
 [[https://geeksforgeeks.org/ieee-standard-754-floating-point-numbers][IEEE Standard 754 Floating Point Numbers]]
-[[https://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html][The E Theorem Prover]]
 [[https://hol-theorem-prover.org][HOL Interactive Theorem Prover]]
 [[https://en.wikipedia.org/wiki/IEEE_754][IEEE 754]]
 [[https://github.com/browserdotsys/vecchio][browserdotsys/vecchio]]
 [[https://bdougie.live][bdougie.live]]
 [[https://github.com/acoglio][Report or block acoglio]]
 [[http://acl2s.ccs.neu.edu/acl2s/doc][ACL2s Home page/Documentation]]
-[[https://shop.gandi.net/en/domain/suggest?search=chvatal.digital][Domain name registration - Gandi.net]]
 [[https://lily.digital][Home]]
 [[https://stevelosh.com/blog/2011/09/writing-vim-plugins][Writing Vim Plugins]]
 [[https://blog.256bit.org][256bit.org Blog]]
 [[https://github.com/vabal/vabal][Vabal - The Cabal Companion]]
 [[https://medium.com/@aidungeon/ai-dungeon-dragon-model-upgrade-7e8ea579abfe][AI Dungeon: Dragon Model Upgrade]]
 [[https://amp.reddit.com/r/AIDungeon/comments/hpkqij/using_the_dragon_module_i_just_generated_what_is#click=https://t.co/io3jW7sgJm][Using the Dragon Module, I just generated what is hands-down the best AI Dungeon adventure I’ve ever read]]
-[[http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html][Giving GPT-3 a Turing Test]]
 [[https://gwern.net/GPT-3][GPT-3 Creative Fiction · Gwern.net]]
 [[https://int10h.org/blog/2020/07/oldschool-pc-font-pack-v2][Ultimate Oldschool PC Font Pack v2.0 Released]]
 [[https://cafepress.com/mf/8655963/vhemt-ringer-t_tshirt?productId=31085795][VHEM Light T-Shirt]]
@@ -3270,7 +2241,6 @@ sweden
 [[https://emacsthemes.com/themes/spolsky-theme.html][Spolsky Theme]]
 [[https://gist.github.com/xeals/23ecee56bdaf14d5298a8dc15a0d8170][agila-theme.el]]
 [[https://github.com/NerdyPepper/agila.vim][NerdyPepper/agila.vim]]
-[[https://i.imgur.com/vORnkTl.png][vORnkTl.png (PNG Image, 1920 × 1080 pixels) - Scaled (89%)]]
 [[https://github.com/caffo/monotropic-theme][caffo/monotropic-theme]]
 [[https://gitlab.com/tasmo/emacs-humanoid-themes][Projects · Tasmo / Emacs Humanoid Themes]]
 [[https://github.com/NicolasPetton/zerodark-theme][NicolasPetton/zerodark-theme]]
@@ -3278,7 +2248,6 @@ sweden
 [[https://github.com/arcticicestudio/nord-emacs][arcticicestudio/nord-emacs]]
 [[https://peach-melpa.org/themes/white-theme][white-theme]]
 [[https://peach-melpa.org][PeachMelpa | Emacs themes from MELPA]]
-[[https://raw.githubusercontent.com/freetonik/castlemacs/master/screenshots/main2.png][main2.png (PNG Image, 1600 × 1044 pixels) - Scaled (92%)]]
 [[https://github.com/emacs-jp/replace-colorthemes/blob/master/blue-mood-theme.el][emacs-jp/replace-colorthemes]]
 [[http://clrs.cc][A nicer color palette for the web.]]
 [[https://journal.jackmcdade.com][Jack McDade&#039;s Secret Public Journal]]
@@ -3296,8 +2265,6 @@ sweden
 [[https://pjrvs.com][Hi, I’m Paul Jarvis. I help people &amp;amp; businesses do more with less.]]
 [[https://samgildea.space][Sam Gildea]]
 [[https://dajin.dev][I&#039;m a student, software engineer, and problem solver.]]
-[[https://leonardschuetz.ch/about][Leonard Schuetz]]
-[[https://leonardschuetz.ch/blog][Leonard Schuetz]]
 [[https://benfickes.dev][Ben Fickes]]
 [[https://github.com/Smithay/smithay][Smithay/smithay]]
 [[https://github.com/wsddn/go-ecdh][ECDH]]
@@ -3321,11 +2288,7 @@ sweden
 [[https://ambrevar.xyz/emacs][Emacs Pro-tips]]
 [[https://karl-voit.at/orgmode][Organize Your Life With Org-Mode]]
 [[https://karl-voit.at/2017/09/23/orgmode-as-markup-only][Org-Mode Is One of the Most Reasonable Markup Languages to Use for Text]]
-[[https://ambrevar.xyz/homogeneous/index.html][Homogeneous Coordinates]]
-[[https://ambrevar.xyz/blog-architecture/index.html][A blog in pure Org/Lisp]]
 [[https://github.com/bowbahdoe/elm-history][elm-history]]
-[[https://github.com/dmelcer9/coq-lunch-learn][dmelcer9/coq-lunch-learn]]
-[[https://ambrevar.xyz/articles.html][Articles]]
 [[https://reddit.com/r/emacs/comments/hm9sn8/inline_arbitrary_latex_snippets_as_pngs_in_emacs][Inline arbitrary LaTeX snippets as PNGs in Emacs (•̀ᴗ•́)و]]
 [[https://reddit.com/r/emacs/comments/hafn69/drawings_in_org_mode_with_ipad][Drawings in Org mode with iPad]]
 [[https://reddit.com/r/emacs/comments/hnf3cw/my_orgmode_agenda_much_better_now_with_category][My org-mode agenda, much better now with category icons!]]
@@ -3334,7 +2297,6 @@ sweden
 [[https://markmanson.net/how-to-grow-up][How to Grow the Fuck Up: A Guide to Humans]]
 [[https://alimirio.com/posts/advice][My humble advice to 22 year olds]]
 [[https://ottomated.net][{ }]]
-[[https://github.com/ottomated/portfolio][ottomated/portfolio]]
 [[https://acha.ninja][acha.ninja]]
 [[https://en.wikichip.org/wiki/intel/loihi][Loihi - Intel]]
 [[https://en.m.wikipedia.org/wiki/Physics_of_the_Future][Physics of the Future]]
@@ -3361,7 +2323,6 @@ sweden
 [[https://m.youtube.com/watch?v=shrS2Go2dJk][[August 2019] Travelling Light 7kg (15lbs) Backpack Tour Packing List with Laptop, Camera and GoPro]]
 [[http://mkbehr.com/posts/a-research-workflow-with-zotero-and-org-mode][A research workflow with Zotero and Org mode]]
 [[https://reddit.com/r/emacs/comments/hltl69/org_roam_for_academics_demo][Org Roam for Academics Demo]]
-[[https://leeadams.dev/blog/i-use-emacs-for-android-development-ama][I use emacs for Android development, AMA]]
 [[http://gregorygrubbs.com/development/tips-on-android-development-using-emacs][Tips on Android Development Using Emacs]]
 [[https://en.wikipedia.org/wiki/Ansible_(software)][Ansible (software)]]
 [[https://reddit.com/r/emacs/comments/hq6ni4/new_tool_for_faster_emacs_startup_on_linux][New tool for faster emacs startup (on linux)]]
@@ -3372,7 +2333,6 @@ sweden
 [[https://github.com/dustinlacewell/dotfiles][What’s this?]]
 [[https://github.com/jorenvo/simple-mpc][jorenvo/simple-mpc]]
 [[https://lbry.com][Your Favorite Content]]
-[[http://doc.rix.si/cce/cce-browsers.html#32a64968-9490-41b0-a41f-309b988597ce][Complete Computing Environment: Web Browsing]]
 [[https://medium.com/@jethroksy/the-mythical-man-month-is-the-tour-de-force-of-fred-brooks-a-software-engineer-and-architect-who-b56f0a72019d][The Mythical Man Month]]
 [[https://github.com/NixOS/nixpkgs/issues/26067][Make a service abstraction layer #26067]]
 [[https://github.com/cleverca22/not-os][cleverca22/not-os]]
@@ -3396,7 +2356,6 @@ sweden
 [[https://t.co/c9CWUtCx77][Ava]]
 [[https://t.co/w8JkrZO4lk][Sharif Shameem on Twitter: &amp;quot;This is mind blowing. With GPT-3, I built a lay]]
 [[https://youtube.com/watch?v=3oHldF35FgA&amp;t=23][Breaking the 100 bits per second barrier with Matrix An entirely new transport for Matrix for reall…]]
-[[https://codepen.io/michellebarker/pen/abdKLLz][Zig-zag gradient lab]]
 [[https://youtube.com/watch?v=RBBiri3CD6w&amp;t=114][Coding in Stenography, Quick Demo]]
 [[https://github.com/SimulaVR/Simula][Text Quality]]
 [[https://witandfolly.co/sony-a6500-weather-sealed][Is the Sony a6500 Weather Sealed? My 2+ Years Experience with the Camera]]
@@ -3431,10 +2390,6 @@ sweden
 [[https://jonathanabennett.github.io/blog/2019/05/28/emacs.org-~-may-2019][Emacs.org ~ May 2019]]
 [[https://ianjones.us/2020-05-05-doom-emacs#org7ef714a][🧠 Own Your Second Brain: Set Up org-roam on Your Own Machine]]
 [[https://blog.jethro.dev/posts/capturing_inbox][Org-mode Workflow Part 1: Capturing in the Inbox]]
-[[https://wiki.xxiivv.com/site/directory.html][XXIIVV — directory]]
-[[https://wiki.xxiivv.com/site/readings.html][XXIIVV — readings]]
-[[https://wiki.xxiivv.com/site/routine.html][XXIIVV — routine]]
-[[https://wiki.xxiivv.com/site/essentials.html][XXIIVV — essentials]]
 [[https://tug.org/utilities/texconv/textopc.html][Converters from LaTeX to PC Textprocessors - Overview]]
 [[https://healeycodes.com/creating-randomness][Creating Randomness Without Math.random]]
 [[https://m.youtube.com/watch?v=3Q6Fzbgs_Lg][The Internet&#039;s Own Boy: The Story of Aaron Swartz (Must Watch Documentary 2014)]]
@@ -3449,14 +2404,11 @@ sweden
 [[https://leosaenger.com][Leo Saenger]]
 [[https://github.com/xiaohanyu/understanding-modern-frontend][xiaohanyu/understanding-modern-frontend]]
 [[https://linkedin.com/mwlite/in/leosaenger][Make the most of your professional life]]
-[[https://github.com/xiaohanyu/understanding-modern-frontend][xiaohanyu/understanding-modern-frontend]]
-[[https://linkedin.com/mwlite/in/leosaenger][Make the most of your professional life]]
 [[https://orgmode.org/manual/LaTeX-header-and-sectioning.html#LaTeX-header-and-sectioning][The Org Manual: LaTeX header and sectioning]]
 [[https://ianjones.us/2020-05-05-doom-emacs][🧠 Own Your Second Brain: Set Up org-roam on Your Own Machine]]
 [[https://cestlaz.github.io/post/using-emacs-70-org-protocol][Using Emacs 70 Org Protocol]]
 [[https://fsynth.com][Fragment Synthesizer]]
 [[https://rgoswami.me/posts/colemak-dots-refactor][Refactoring Dotfiles For Colemak]]
-[[https://notes.andymatuschak.org/About_these_notes][About these notes]]
 [[https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma][About these notes]]
 [[https://notes.azlen.me/g3tibyfv][About these notes]]
 [[https://azlen.me][Home]]
@@ -3488,9 +2440,7 @@ sweden
 [[https://github.com/bphenriques/knowledge-base][Knowledge Base]]
 [[https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled][How to detect if JavaScript is disabled?]]
 [[https://emacswiki.org/emacs/DirectoryVariables][Directory Variables]]
-[[https://dotdoom.rgoswami.me/config.html][Literate doom-emacs config]]
 [[https://blog.jethro.dev/posts/processing_inbox][Org-mode Workflow Part 2: Processing the Inbox]]
-[[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
 [[https://github.com/zaeph/.emacs.d][zaeph/.emacs.d]]
 [[https://github.com/Kungsgeten/org-brain][org-brain]]
 [[https://github.com/alphapapa/org-rifle][alphapapa/org-rifle]]
@@ -3498,7 +2448,6 @@ sweden
 [[https://t-ravis.com#r=start&amp;c=look][travis a. everett]]
 [[https://cs.princeton.edu/research/techreps/TR-554-97][The Zephyr Abstract Syntax Description Language]]
 [[https://github.com/google-research/torchsde][PyTorch Implementation of Differentiable SDE Solvers]]
-[[https://wiki.xxiivv.com/site/everyday.html][XXIIVV — everyday]]
 [[https://mobile.twitter.com/cybersygh/status/1281445769124261889][sotonye]]
 [[https://github.com/chessai/pump][pump (the brakes)]]
 [[https://github.com/alex-shpak/hugo-book][alex-shpak/hugo-book]]
@@ -3506,15 +2455,12 @@ sweden
 [[https://github.com/bphenriques][Report or block bphenriques]]
 [[https://man.sr.ht/installation.md#packages][Installation]]
 [[https://emersion.fr][시몽]]
-[[https://wiki.xxiivv.com/site/about.html][XXIIVV — about]]
 [[https://wiki.xxiivv.com/site/tools.html][tools]]
 [[https://wiki.xxiivv.com/site/nataniev.html][nataniev]]
 [[https://nomand.co#gba][Legacy]]
 [[https://craze.co.uk][Index ⋅ Craze]]
 [[https://github.com/merveilles/Time-Travelers][merveilles/Time-Travelers]]
 [[https://wiki.xxiivv.com/site/calendar.html][calendar]]
-[[https://wiki.xxiivv.com/site/zoe_format.html][XXIIVV — zoe format]]
-[[https://wiki.xxiivv.com/site/now.html][XXIIVV — now]]
 [[https://wiki.xxiivv.com/site/inventory.html][XXIIVV — inventory]]
 [[https://wiki.xxiivv.com/site/longtermism.html][longtermism]]
 [[https://reddit.com/r/MFPMPPJWFA][r/MFPMPPJWFA]]
@@ -3549,7 +2495,6 @@ sweden
 [[https://careers.jpmorgan.com/global/en/students/programs?search=&amp;tags=location__Americas__UnitedStatesofAmerica][Jobs, Student Programs &amp;amp; Internships]]
 [[https://careers.jpmorgan.com/global/en/students/programs][Jobs, Student Programs &amp;amp; Internships]]
 [[https://t.co/6zPVNVmRXS][François Chollet]]
-[[https://vickitan.com/contact][Vicki Tan — Contact]]
 [[https://deepmind.com/blog/article/Towards-understanding-glasses-with-graph-neural-networks][Towards understanding glasses with graph neural networks]]
 [[https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus][A generalised solution to distributed consensus]]
 [[https://teller.io][Teller - The API for your bank account]]
@@ -3583,7 +2528,6 @@ sweden
 [[https://remis.io][Luis Remis]]
 [[https://reddit.com/r/ProgrammingLanguages/comments/hyhc7b/which_languages_have_weak_references][Which languages have weak references?]]
 [[https://reddit.com/r/socialskills/comments/hyl9oh/200_interesting_questions_to_get_to_know_anyone][200 Interesting questions to get to know anyone on a deeper level]]
-[[http://retiary.org/ls/writings.html][Laurie Spiegel - Published Writings]]
 [[https://causalflows.com/introductory][Introductory]]
 [[http://conal.net][Conal Elliott]]
 [[https://reddit.com/r/threejs/comments/hx147i/create_a_fluid_3d_liquid_bubble_with_dispersion][Create a fluid 3D liquid bubble with dispersion in threejs]]
@@ -3593,11 +2537,9 @@ sweden
 [[https://reddit.com/r/learnmachinelearning/comments/hxxtik/ai_application_python_implementation_of_proximal][[AI application]]
 [[https://reddit.com/r/digitalnomad/comments/hy2af3/those_with_full_time_remote_jobs_how_did_you][Those with full time remote jobs, how did you convince your employers to allow you to work abroad?]]
 [[https://colab.research.google.com/drive/1MuiawKpVIZ12MWwyYuzZHmbKThdM5wNJ?usp=sharing#scrollTo=-JhJMAXM7j-X][Google Colaboratory]]
-[[https://explog.in/notes/writingsetup.html][My Writing Setup]]
 [[https://explog.in/notes/walk.html][[wip]]
 [[https://reddit.com/r/declutter/comments/hxsi7e/decluttering_is_most_effective_if_we_work_on][Decluttering is most effective if we work on ourselves to break free of consumerism.]]
 [[https://gt-flexa.com][GT Flexa]]
-[[https://codepen.io/jda0/pen/ZEQwBNy][CC]]
 [[https://cylgom.net/index.html#body_div][About me and my projects]]
 [[https://github.com/cylgom/ly][cylgom/ly]]
 [[https://github.com/hlissner/emacs-doom-themes#features][hlissner/emacs-doom-themes]]
@@ -3611,14 +2553,10 @@ sweden
 [[https://github.com/demikernel/demikernel][Demikernel]]
 [[https://ruslanspivak.com/lsbasi-part1][Let’s Build A Simple Interpreter. Part 1.]]
 [[https://github.com/ZibingZhang/racket-interpreter][Racket Interpreter]]
-[[https://drive.google.com/drive/mobile/folders/1PCR9pCnbBNvaUovVo8IM2R2-13icbB0Q][sgtredbeard - Google Drive]]
 [[https://amazon.com/dp/B00XMYCVJ4?ref=ppx_pop_mob_ap_share][Amazon.com: Andoer 3PCS Guitar Knobs Chromed Metal Dome Knurled Barrel for]]
-[[https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf][Appendix to Software Design in Haskell]]
-[[https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1][Haskeller competency matrix]]
 [[https://postgresql.org/docs/9.1/backup-dump.html][24.1. SQL Dump]]
 [[https://reddit.com/r/onebag/comments/hwp1z5/laundry_checkin_whats_your_onebag_laundry_routine][Laundry check-in. What&#039;s your onebag laundry routine?]]
 [[https://mobile.twitter.com/DarknetForever][Tweets with replies by Darknet (@DarknetForever) | Twitter]]
-[[https://t.co/XF74SmKOnH?amp=1][http://irenezhang.net/papers/CatOS.pdf]]
 [[https://irreal.org/blog?p=8950][Elfeed for Videos]]
 [[https://hypebeast.com/2020/7/alk-phenix-fall-winter-2020-collection-lookbook][alk phenix FW20 Is Packed With Hidden Technology]]
 [[https://mobile.twitter.com/racketlang/status/1286020900660404232][Racket]]
@@ -3629,21 +2567,17 @@ sweden
 [[https://blog.cyberpunk.net.ar][=&amp;gt; bitacora.lmn.md]]
 [[https://cyberpunk.net.ar][cyberpunk.net.ar]]
 [[https://github.com/lvm/build-supercollider][build-supercollider]]
-[[https://m.youtube.com/watch?feature=youtu.be&amp;t=4674&amp;v=ZkDC4aizsqQ][Verification Mentoring Workshop: Session 1 - YouTube]]
 [[https://github.com/kormyen/memex][kormyen/memex]]
 [[https://slab.org][Alex McLean]]
 [[https://libarynth.org/start][start [the libarynth]]
-[[https://gist.github.com/kindohm/9388957][tidal.emacs]]
 [[https://github.com/benley/dotfiles][benley/dotfiles]]
 [[https://en.m.wikipedia.org/wiki/Data_Plane_Development_Kit][Data Plane Development Kit]]
-[[http://instrumentslab.org/research/craft][Craft in digital lutherie: practice, process, method]]
 [[https://nexus.mutek.us][MUTEK.SF - NEXUS Experience]]
 [[http://henge.glitch.me][H E N G E]]
 [[https://github.com/mirsella/dotfiles/blob/master/.config/vim/vimrc][mirsella/dotfiles]]
 [[https://github.com/dktr0/estuary][dktr0/estuary]]
 [[https://reddit.com/r/haskell/comments/hv7prz/effet_an_effect_system_based_on_type_classes][effet: An Effect System based on Type Classes]]
 [[https://m.youtube.com/watch?v=TK1mBqKvIyU][Programming as Performance | Sam Aaron | TEDxNewcastle]]
-[[https://tidalcycles.org/index.php/Welcome][TidalCycles userbase]]
 [[https://algorave.com][Algorave]]
 [[https://thumbsup.github.io][thumbsup · Static gallery generator]]
 [[https://reddit.com/r/MachineLearning/comments/huyp4d/n_the_lisbon_ml_school_starts_tomorrow_talks_will][[N]]
@@ -3653,7 +2587,6 @@ sweden
 [[https://reddit.com/r/getdisciplined/comments/hv6wio/advice_my_notes_from_cant_hurt_me_by_david_goggins][[Advice]]
 [[https://reddit.com/r/osdev/comments/husrzq/looking_for_a_specific_tutorial_from_10_years_ago][Looking for a specific tutorial from ~10 years ago]]
 [[https://reddit.com/r/onebag/comments/hv6o2s/ran_across_a_quote_from_henry_stanley_that_i][Ran across a quote from Henry Stanley that I thought this sub might enjoy.]]
-[[https://mobile.nixos.org/devices/index.html][Devices List — Mobile NixOS]]
 [[https://reddit.com/r/unixporn/comments/hlby1b/pinephone_phosh_meets_yaru][[PinePhone]]
 [[https://reddit.com/r/emacs/comments/hv5m0z/muwizard_easily_setup_mu4e_accounts_on_emacs][mu-wizard: Easily setup mu4e accounts on Emacs]]
 [[https://reddit.com/r/techwearclothing/comments/e53mtk/outfit][Outfit]]
@@ -3673,7 +2606,6 @@ sweden
 [[https://reddit.com/r/LaTeX/comments/huxwwy/what_do_you_think_of_my_latex_home_bar_menu][What do you think of my LaTeX home bar menu?]]
 [[https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41][Designing a New Old Home: Part 1]]
 [[https://jdublu10.github.io][Joseph Cutler]]
-[[https://docs.racket-lang.org/my-cond/index.html][my-cond]]
 [[https://hyper.is][Hyper™]]
 [[https://github.com/everestpipkin/tools-list][Open source, experimental, and tiny tools roundup]]
 [[https://mobile.twitter.com/jackiehluo/status/1285199233398734848][jackie luo]]
@@ -3700,7 +2632,6 @@ sweden
 [[https://github.com/uvNikita/snek][SNEK-A System for Making Generative Systems]]
 [[https://github.com/inconvergent/weir][WEIR-A System for Making Generative Systems]]
 [[https://m.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX][System Design]]
-[[https://t.co/pwPhLUUoaM?amp=1][https://arxiv.org/pdf/2005.14165.pdf]]
 [[https://geeksforgeeks.org/persistent-segment-tree-set-1-introduction][Persistent Segment Tree | Set 1 (Introduction)]]
 [[https://github.com/elikir/resume/blob/master/EliKirmayerResume.pdf][elikir/resume]]
 [[https://parentheticallyspeaking.org/articles/fat-nums][FatNums: An Alternate Representation for School Arithmetic]]
@@ -3711,14 +2642,11 @@ sweden
 [[https://reddit.com/r/NixOS/comments/g8cdfa/my_nixos_desktop_flow][My NixOS Desktop Flow]]
 [[https://tweag.io/blog/2019-03-28-introducing-lorri][Introducing lorri, your project&#039;s nix-env]]
 [[https://grahamc.com/blog/erase-your-darlings][immutable infrastructure for mutable systems]]
-[[https://elvishjerricco.github.io/2018/12/07/multiple-linux-systems-on-one-zfs-pool.html][Multiple Linux Systems on One ZFS Pool]]
 [[https://christine.website/blog/i-was-wrong-about-nix-2020-02-10][I was Wrong about Nix]]
-[[https://nix.dev/tutorials/declarative-and-reproducible-developer-environments.html][Declarative and reproducible developer environments — nix.dev documentation]]
 [[https://lambdablob.com/series/just-enough-nix-for-programming][Just Enough Nix For Programming]]
 [[https://mcwhirter.io][mcwhirter.io]]
 [[https://ertdfgcvb.xyz][ertdfgcvb]]
 [[https://everestpipkin.github.io/image-scrubber][Image Scrubber]]
-[[https://blog.patchgirl.io/haskell/2020/07/13/static-haskell-binary.html][Building static Haskell binary with Nix on Linux · PatchGirl]]
 [[https://blog.patchgirl.io/about][About · PatchGirl]]
 [[https://reddit.com/r/NixOS/comments/hosjnk/declarative_and_reproducible_developer][Declarative and reproducible developer environments]]
 [[https://kaushikc.org/posts/matrix-jitsi-nixos.html][Declarative, Decentralised, and Secure communication via Matrix, Jitsi, &amp;amp; NixOS ●]]
@@ -3735,323 +2663,10 @@ sweden
 [[https://hugoreeves.com/posts/2019/continuously-delivering-this-blog-with-nix-hugo-and-circleci][Continuously Delivering this Blog with Nix, Hugo and CircleCI]]
 [[https://github.com/NixOS/nixops][NixOS/nixops]]
 [[https://splintah.gitlab.io/posts/2020-04-13-emacs-local-nix-environment.html][Using Emacs in a local Nix environment]]
-[[http://norvig.com/21-days.html][Teach Yourself Programming in Ten Years]]
 [[https://github.com/nushackers/notes-to-cs-freshmen-from-the-future][nushackers/notes-to-cs-freshmen-from-the-future]]
 [[https://sandervanderburg.blogspot.com/2020/06/using-disnix-as-simple-and-minimalistic.html?m=1][Using Disnix as a simple and minimalistic dependency-based process manager]]
 [[https://rust-embedded.github.io/book][The Embedded Rust Book]]
 [[https://hooniversity.org][hooniversity.org – Tools for learning Hoon, the language that runs Urbit.]]
-[[https://planet.nixos.org][NixOS Planet]]
-[[https://nixos.wiki/wiki/Nix_Cookbook][Nix Cookbook]]
-[[https://getzola.org][Your one-stop static site engine]]
-[[https://hugoreeves.com/atom.xml][Untitled]]
-[[https://rycee.net][Home]]
-[[https://ubuntu.com/tutorials/using-zfs-snapshots-clones#1-overview][Using ZFS Snapshots and Clones]]
-[[https://monadplus.pro][monadplus.pro]]
-[[https://github.com/vlaci/nix-doom-emacs/issues/13][&#039;Package not available: company-org-roam&#039; #13]]
-[[https://reddit.com/r/emacs/comments/64qwq5/emacs_orgbable_mysql_no_longer_working][Emacs Org-Bable MySQL no longer working]]
-[[https://m.youtube.com/watch?v=30FiQ8m4aoo&index=23&list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd][Session 19 June 0800 Synthesis 3 - YouTube]]
-[[https://m.youtube.com/watch?v=09w54uhb1TE&list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd&index=17][Session 18 June 1040 Machine Learning II - YouTube]]
-[[https://m.youtube.com/watch?v=EjuetJ00Z0M&t=3m17s][Session 17 June 0620 Networking and Hardware - YouTube]]
-[[https://m.youtube.com/watch?v=mPn2AdMH7UQ][Surreal Numbers (writing the first book) - Numberphile - YouTube]]
-[[http://wintermute.org/brendan/][Brendan howelL - Brendan howelL]]
-[[https://library.oapen.org/handle/20.500.12657/39371][Engines of Order]]
-[[https://nathanwentworth.co/projects/writers-flock/][Writer&#39;s Flock — nathan wentworth ✨]]
-[[https://v-os.ca/superMORPH][V · SuperMORPH]]
-[[https://v-os.ca/i-tema][V · I-tema]]
-[[https://2d4.dev/][mrvs :: mrvs]]
-[[https://ameyama.com/blog/de-googling][雨山]]
-[[https://www.reddit.com/r/LineageOS/comments/ez6vd0/how_to_install_google_play_store/][How to install Google play store? - LineageOS]]
-[[https://nanolx.org/nanolx/nanodroid][NanoDroid 22.6.20200208 – Nanolx]]
-[[https://resynth1943.net/2020/05/16/Optimising-the-Web.html][Optimising the Web | Resynth]]
-[[https://drisc.io/self][Self]]
-[[https://controls.ee/links/][]]]
-[[https://inns.studio/][Inns]]
-[[https://ameyama.com/][雨山]]
-[[https://wake.st/2020/][Liaizon Wakest]]
-[[http://jakofranko.github.io/2019/01/30/Post-Mortem-Part-2.html][Post Mortem Part 2 - What Went Poorly]]
-[[https://xn--u4h.ml/][☭.ml  Communism via Machine Learning]]
-[[http://xn--mp8h.ml/][xn--mp8h.ml]]
-[[https://underscorediscovery.ca/#oscean][_discovery — Oscean]]
-[[https://underscorediscovery.ca/#home][_discovery — Home]]
-[[https://ricky.codes/][Ricky&#39;s WWWebsite]]
-[[https://maxdeviant.com/posts/2019/implementing-a-case-conversion-library-in-fsharp-and-haskell/][Implementing a Case Conversion Library in F# and Haskell · maxdeviant.com]]
-[[https://maxdeviant.com/posts/2017/default-dead-or-alive/][Default Dead or Alive · maxdeviant.com]]
-[[https://smidgeo.com/bots/][Bots!]]
-[[https://daily.bandcamp.com/features/motohiko-hamase-interview][]“Technodrome” Is Motohiko Hamase’s Post-Apocalyptic Soundtrack | Bandcamp Daily]]
-[[https://memex.naughtons.org/][Memex 1.1 | John Naughton&#39;s online diary]]
-[[https://jimkang.com/][jimkang.com]]
-[[https://jimkang.com/weblog/articles/miscellaneous-findings-002/][Miscellaneous Findings II - jimkang.com]]
-[[https://iko.soy/dotrix][Dotrix]]
-[[https://magoz.studio/][]]]
-[[https://gndclouds.cc/][hello | gndclouds]]
-[[https://tinyfactories.space/][Tiny Factories]]
-[[https://rosano.ca/][Rosano]]
-[[https://s.ai/iaq][Sai - Infrequently Asked Questions]]
-[[https://www.artima.com/intv/simplest.html][The Simplest Thing that Could Possibly Work]]
-[[https://phse.net/values/][Values | Stephen Lindberg]]
-[[http://000024.org/][Some things of Alex Fink]]
-[[https://github.com/saizai/cssfingerprint][saizai/cssfingerprint: a research project to see how well the CSS history hack can fingerprint a user]]
-[[https://gytis.co/][Gytis Daujotas]]
-[[https://flow-control.io/][flow/control — interdisciplinary research &amp; development studio]]
-[[https://szymonkaliski.com/][Szymon Kaliski]]
-[[https://phse.net/now/][Now | Stephen Lindberg]]
-[[https://boffosocko.com/][Chris Aldrich]]
-[[https://hex22.org/][Hunor Karamán | hex22]]
-[[https://hex22.org/blog/stakit/][Stakit ― a modular toolkit for building static websites | hex22]]
-[[https://arvdsn.co/work][Work — Patrik Arvidsson]]
-[[https://mboxed.github.io/sodatsu/#home][育つ - home]]
-[[https://tom.so/projects/][Projects – Tom Hackshaw]]
-[[https://www.madewithtea.com/][Made with Tea: Jendrik Poloczek]]
-[[https://amorris.ca/links][Links | Aaron Morris]]
-[[https://www.reddit.com/r/neography/][Neography: constructed writing systems]]
-[[https://buzzert.net/posts/][buzzert.net - posts]]
-[[https://notes.stuartpb.com/][notes.stuartpb.com | All my notes]]
-[[https://kor.nz/projects][kor]]
-[[https://eli.li/][Oatmeal]]
-[[https://blog.jse.li/posts/software/][Where Did Software Go Wrong? | Jesse Li]]
-[[https://gueorgui.net/][Gueorgui Tcherednitchenko]]
-[[https://solquemal.com/][Sol Sarratea]]
-[[https://resevoir.net/webring/][Webring]]
-[[https://www.materialfuture.net/][]@MaterialFuture]]
-[[https://www.marginchronicles.com/site/blurb/index.html][Margin Chronicles]]
-[[https://proycon.anaproy.nl/post/colibri/][Context as Linguistic Bridges [PhD thesis] | Proycon&#39;s Website]]
-[[https://www.mentalnodes.com/a-gardening-guide-for-your-mind][A gardening guide for your mind • Mental Nodes]]
-[[https://www.mentalnodes.com/the-only-way-to-learn-in-public-is-to-build-in-public][The only way to learn in public is to build in public • Mental Nodes]]
-[[https://www.mentalnodes.com/keep-your-levels-of-consumption-and-creation-balanced][Keep your levels of consumption and creation balanced • Mental Nodes]]
-[[https://www.mentalnodes.com/about][About • Mental Nodes]]
-[[https://www.edwinwenink.xyz/][Edwin Wenink]]
-[[https://www.edwinwenink.xyz/posts/48-vim_fast_creating_and_linking_notes/][Creating and linking Zettelkasten notes in Vim]]
-[[https://www.edwinwenink.xyz/posts/41-function_creep_encryption/][On function creep, privacy and encryption]]
-[[https://www.edwinwenink.xyz/posts/47-tilde_server/][Setting up your own tilde club (UNIX)]]
-[[http://tilde.town/][tilde.town]]
-[[http://tilde.club/][Welcome to ~tilde.club~]]
-[[https://zvava.org/media.html][media @ zvava.org]]
-[[https://ashpex.neocities.org/2020/01/my-degoogled-phone/][My Degoogled Phone | ~/ashpex]]
-[[https://q.pfiffer.org/][q.pfiffer.org - Home]]
-[[https://simone.computer/#/][Simone&#39;s Computer]]
-[[https://paulglushak.com/][Paul Glushak]]
-[[https://parkimminent.com/][Park Imminent]]
-[[https://natwelch.com/][Nat Welch]]
-[[https://paysonwallach.com/][I&#39;d Rather Be Coding]]
-[[https://eti.tf/][index : eti.tf]]
-[[https://eti.tf/bookmarks][bookmarks : eti.tf]]
-[[https://github.com/dylanaraps/pure-sh-bible/blob/master/README.md][pure-sh-bible/README.md at master · dylanaraps/pure-sh-bible]]
-[[https://www.johannesg.com/projects.html][Projects - The Portfolio of Jóhannes G. Þorsteinsson]]
-[[https://crlf.site/log/notes/200530-links/][Notebooks and paper reviews - Cr;Lf;]]
-[[https://crlf.site/log/articles/190712-software-ecosystems/][Software ecosystems: XXIIVV - Cr;Lf;]]
-[[https://www.are.na/raul-altosaar][]]]
-[[https://www.are.na/][Are.na]]
-[[https://intrfc.com/][INTRFC]]
-[[https://icyphox.sh/blog/pi/][Migrating to the RPi]]
-[[https://peppe.rs/][peppe.rs]]
-[[http://www.jameschip.io/software.html][]]]
-[[https://tilde.town/~dustin/][Dustin]]
-[[https://tilde.town/~dustin/wiki/library][]]]
-[[https://tilde.town/~dustin/projects/tilde-social][]]]
-[[https://cadmican.neocities.org/][Welcome on my site — cadmican]]
-[[https://pugjs.org/api/getting-started.html][Getting Started – Pug]]
-[[https://cass.si/posts/][cass.si — /posts/]]
-[[https://oddworlds.org/][oddworlds soliloquy]]
-[[https://oddworlds.org/gallery/][oddworlds soliloquy]]
-[[https://opinionatedguide.github.io/][Opinionated Guides]]
-[[https://azlen.me/wiki/][Wiki]]
-[[https://azlen.me/][Home]]
-[[http://www.miha-co.ca/projects/masslessclouds][miha-co]]
-[[https://yiming.dev/][Welcome! - Yiming Chen]]
-[[https://chad.is/writing/][Writing • Chad Mazzola]]
-[[https://chad.is/reading/][Reading List &amp; Book Reviews • Chad Mazzola]]
-[[https://www.aeriform.io/][ΛERIF°RM]]
-[[http://bildwissenschaft.vortok.info/loops/][Loops | bildwissenschaft.vortok.info]]
-[[https://tynandebold.com/various][Various · Tynan DeBold]]
-[[https://nomand.co/#home][Legacy: Home]]
-[[https://nomand.co/#merlin+fob][Legacy: Merlin Fob]]
-[[https://nomand.co/#gba][Legacy: Gba]]
-[[http://npisanti.com/][npisanti.com]]
-[[https://chrismaughan.com/portfolio/][ChrisMaughan.com]]
-[[https://rezmason.net/projects.html][rezmason.net - Projects]]
-[[https://mmm.s-ol.nu/][MMM: lunar low-gravity scripting playground]]
-[[https://www.dampfkraft.com/][Dampfkraft]]
-[[https://travisshears.com/micro-blog/][Travis Shears Personal Site | Micro Blog]]
-[[https://roytang.net/2020/06/when-someone-shows-you-who-they-are-believe-them/][When someone shows you who they are, believe them · Roy Tang]]
-[[https://futuristan.io/][index | futuristan.io :: contemporary and digital art]]
-[[https://copiona.com/dise%C3%B1o/2019/10/08/collagetober.html][]~librenauta]]
-[[https://xj9.io/][All posts | (災害の̴女王)dreamspace]]
-[[https://www.yctct.com/][about - yctct]]
-[[https://signalboost.info/][Signalboost: Secure Textblasts and Hotlines for Activists | Signalboost: Secure Textblasts and Hotlines for Activists]]
-[[https://www.microsoft.com/en-us/research/people/simonpj/][Simon Peyton Jones at Microsoft Research]]
-[[https://an-vu.com/Dev-Chat][Dev-Chat - An Vu]]
-[[https://news.ycombinator.com/item?id=17031306][A Year Using Matrix and Riot | Hacker News]]
-[[https://matrix.org/docs/projects/bridge/mx-puppet-instagram][mx-puppet-instagram | Matrix.org]]
-[[https://en.m.wikipedia.org/wiki/PinePhone][PinePhone - Wikipedia]]
-[[https://www.pine64.org/pinephone/][PINEPHONE | PINE64]]
-[[https://history.hanover.edu/courses/excerpts/165havel.html][Havel, Power of the Powerless, 1978]]
-[[https://karpathy.github.io/2020/06/11/biohacking-lite/][Biohacking Lite]]
-[[https://en.m.wikipedia.org/wiki/Valis_(novel)][]]]
-[[https://news.ycombinator.com/item?id=23500462][Best practices for managing and storing secrets like API keys and credentials | Hacker News]]
-[[https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm][How to Build a Universe That Doesn&#39;t Fall Apart Two Days Later]]
-[[https://web.archive.org/web/20191125141522/http://www.070shake.net/][]]]
-[[http://webdemo.myscript.com/][MyScript Webdemo]]
-[[https://github.com/fchollet/ARC][fchollet/ARC: The Abstraction and Reasoning Corpus]]
-[[https://piratelab.com/collections/card-games/products/charcoal-large-card-case#description][Charcoal Large Card Case – PirateLab]]
-[[https://chiselapp.com/user/avalos/repository/portafolio-io/doc/trunk/index.wiki][Portafolio IO: Documentation]]
-[[https://marcus-obst.de/wiki/Notetaking][Marcus Obst]]
-[[https://www.textrazor.com/][TextRazor - The Natural Language Processing API]]
-[[https://collectednotes.com/][Collected Notes.]]
-[[https://www.bloomberg.com/opinion/articles/2020-02-26/reddit-posters-pick-the-stocks-now?sref=1kJVNqnU][Reddit Posters Pick the Stocks Now - Bloomberg]]
-[[https://mobile.twitter.com/indexsy][Jacky Chou @ Indexsy (@indexsy) / Twitter]]
-[[https://github.com/alexwennerberg/gourami/issues][Issues · alexwennerberg/gourami]]
-[[https://github.com/alexwennerberg/gourami][alexwennerberg/gourami: An intentionally small, community-focused decentralized microblogging service]]
-[[https://www.theguardian.com/books/2016/mar/04/six-four-hideo-yokoyama-review-crime-thriller-phenomenon-japan][Six Four by Hideo Yokoyama – the crime thriller that is a publishing phenomenon in Japan | Books | The Guardian]]
-[[https://pactflow.io/][Pactflow | Contract Testing with Pact at Scale]]
-[[https://spotify.design/article/making-the-brand-asian-american-and-pacific-islander-heritage-month][Making the Brand: Asian American and Pacific Islander Heritage Month | Spotify Design]]
-[[http://www.starseedpilgrim.com/][Starseed Pilgrim]]
-[[https://github.com/nickbjohnson4224/rhombus][nickbjohnson4224/rhombus: a hobby operating system written in C]]
-[[https://github.com/masaeedu/ulc][masaeedu/ulc: Untyped lambda calculus]]
-[[http://www.cs.fsu.edu/~whalley/][David Whalley]]
-[[http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/][Debugging compilers with optimization fuel : Inside 245-5D]]
-[[https://github.com/gfredericks/quinedb][gfredericks/quinedb: QuineDB is a quine that is also a key-value store.]]
-[[https://pijul.org/][Pijul]]
-[[https://store.moma.org/kids/games-puzzles/jason-freeny-brick-man-anatomical-puzzle/5123.html][Jason Freeny Brick Man Anatomical Puzzle | MoMA Design Store]]
-[[https://en.m.wikipedia.org/wiki/Hard-Boiled_Wonderland_and_the_End_of_the_World][Hard-Boiled Wonderland and the End of the World - Wikipedia]]
-[[https://stackoverflow.com/questions/5869825/when-should-one-use-a-spinlock-instead-of-mutex#5870415][When should one use a spinlock instead of mutex? - Stack Overflow]]
-[[https://hackaday.com/2019/03/23/show-your-skills-with-a-bootable-cv/][Show Your Skills With A Bootable CV | Hackaday]]
-[[https://m.youtube.com/watch?v=hKcOkWzj0_s][Caml Trading - YouTube]]
-[[https://en.m.wikipedia.org/wiki/Zooko's_triangle][Zooko&#39;s triangle - Wikipedia]]
-[[https://www.rhelmer.org/blog/][rhelmer&#39;s blog]]
-[[https://github.com/jmgrosen/shorai][jmgrosen/shorai: A super-amazing OS that will bring world peace.]]
-[[https://mtg.cardsrealm.com/combo-infinite/][Infinite combos search Page - Magic: the Gathering mtg]]
-[[https://camd.northeastern.edu/news/assistive-technology-new-course-for-spring-2019/][Assistive Technology: New Course for Spring 2019 - Northeastern CAMD]]
-[[https://spreadprivacy.com/linux-privacy-tips/][How to Protect Your Privacy on Linux]]
-[[https://m.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A][The Audio Programmer - YouTube]]
-[[http://qual.net/][qual.net]]
-[[https://github.com/MichaelMure/git-bug][MichaelMure/git-bug: Distributed, offline-first bug tracker embedded in git, with bridges]]
-[[https://en.m.wikipedia.org/wiki/Fargo_(TV_series)][Fargo (TV series) - Wikipedia]]
-[[https://en.m.wikipedia.org/wiki/The_Wire][The Wire - Wikipedia]]
-[[https://xxiivv.com/][Echorridoors]]
-[[https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/][How do you create a video chat application?]]
-[[https://news.ycombinator.com/item?id=23515997][I built an IPFS crawler with libp2p | Hacker News]]
-[[https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler][]@adlrocha - How I built an IPFS crawler with libp2p - @adlrocha Weekly Newsletter]]
-[[https://steveklabnik.com/writing/today-is-my-first-day-at-oxide-computer-company][Steve Klabnik&#39;s website]]
-[[https://news.ycombinator.com/item?id=23515504][The privilege of boredom: How philosophy can happen in isolation | Hacker News]]
-[[https://dev.gourami.social/?page=1][gourami]]
-[[http://paulgraham.com/hs.html][What You&#39;ll Wish You&#39;d Known]]
-[[https://20xx.io/nxc/#login][20XX]]
-[[https://www.informit.com/store/art-of-computer-programming-volumes-1-4a-boxed-set-9780321751041][Art of Computer Programming, Volumes 1-4A Boxed Set, The | InformIT]]
-[[https://hologram.io/][Cellular Connectivity for the Internet of Things | Hologram]]
-[[https://alexschroeder.ch/wiki/2020-06-04_Gemini_Upload][Alex Schroeder: 2020-06-04 Gemini Upload]]
-[[https://www.ekioh.com/acid.html][Flow browser passes the Acid tests - Ekioh]]
-[[https://news.ycombinator.com/item?id=23516751][Storytelling Tips for Technical Interviews | Hacker News]]
-[[https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html][Fast 2D rendering on GPU | Raph Levien’s blog]]
-[[https://github.com/tevador/RandomX][tevador/RandomX: Proof of work algorithm based on random code execution]]
-[[https://itch.io/b/520/bundle-for-racial-justice-and-equality][Bundle for Racial Justice and Equality by itch.io and 1361 others - itch.io]]
-[[https://metager3.de/en/][MetaGer: Privacy Protected Search &amp; Find]]
-[[https://ghidra-sre.org/][Ghidra]]
-[[https://en.m.wikipedia.org/wiki/Rubik's_Cube_group][Rubik&#39;s Cube group - Wikipedia]]
-[[https://wiki.hackerspaces.org/Portland,_OR][Portland, OR - HackerspaceWiki]]
-[[https://numenta.com/blog/2019/08/30/case-for-sparsity-in-neural-networks-part-1-pruning][The case for sparsity in neural networks, Part 1: Pruning]]
-[[https://synthstrom.com/product/deluge/][Deluge - Synthstrom Audible]]
-[[https://en.m.wikipedia.org/wiki/Chekhov%27s_gun][Chekhov&#39;s gun - Wikipedia]]
-[[http://nathancorbyn.com/][Nathan Corbyn]]
-[[https://m.youtube.com/watch?feature=youtu.be&v=uxi7BP9ppoQ][]【小穎美食】豆腐裡加2個雞蛋，挑食孩子都愛吃，一周吃4次都嫌少，營養解饞 - YouTube]]
-[[https://www.gwern.net/Faces][Making Anime Faces With StyleGAN · Gwern.net]]
-[[https://www.reddit.com/r/unixporn/comments/gquv49/bspwm_monochromatic/][[bspwm] monochromatic - unixporn]]
-[[https://taylorpearson.me/interesting/][Why History’s Greatest Innovators Optimized for Interesting -]]
-[[https://www.theredhandfiles.com/do-u-have-any-spare-lyrics/][Nick Cave - The Red Hand Files - Issue #43 - I&#39;m a songwriter. I&#39;m seriously blocked. Do u have any spare lyrics I can have? : The Red Hand Files]]
-[[http://homepages.inf.ed.ac.uk/libkin/fmt/fmt.pdf][]]]
-[[https://en.m.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach][Gödel, Escher, Bach - Wikipedia]]
-[[https://cse.buffalo.edu/~rapaport/510.html][PHILOSOPHY OF COMPUTER SCIENCE]]
-[[http://pages.cs.wisc.edu/~remzi/OSTEP/][Operating Systems: Three Easy Pieces]]
-[[https://www.math.upenn.edu/~wilf/DownldGF.html][Download generatingfunctionology]]
-[[https://en.m.wikipedia.org/wiki/Simula][Simula - Wikipedia]]
-[[https://users.cs.northwestern.edu/~jesse/][Jesse A. Tov]]
-[[https://benkettle.xyz/][]]]
-[[http://neuralnetworksanddeeplearning.com/][Neural networks and deep learning]]
-[[http://math.stanford.edu/~ryzhik/STANFORD/STANF63CM-20/math63cm-20.html][Math 63CM Winter 2020]]
-[[https://en.m.wikipedia.org/wiki/File:Sun_Tzu_Chinese_remainder_theorem.svg][File:Sun Tzu Chinese remainder theorem.svg - Wikipedia]]
-[[https://www.portlandmercury.com/portland/the-best-of-3-am/Content?oid=48767][The Best of 3 AM - Feature - Portland Mercury]]
-[[https://www.instagram.com/jordankritz/][Jördæn K®¡➕⚡ (@jordankritz) • Instagram photos and videos]]
-[[https://www.healthline.com/nutrition/water-kefir][What Is Water Kefir? Benefits, Uses and Recipe]]
-[[https://iko.soy/][ilyakooo0]]
-[[https://madewithtea.com/][Made with Tea: Jendrik Poloczek]]
-[[https://lublin.se/][lublin.se]]
-[[https://jamesclear.com/atomic-habits][Atomic Habits: Tiny Changes, Remarkable Results by James Clear]]
-[[https://www.jimcollins.com/concepts/the-flywheel.html][Jim Collins - Concepts - The Flywheel Effect]]
-[[https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54][iiSM.org]]
-[[https://egpu.io/][eGPU.io - Your Go-to Destination for All Things eGPU]]
-[[https://benwiser.com/blog/Saving-todos-to-my-calendar.html][Ben Wiser | Saving todos to my calendar]]
-[[https://benwiser.com/blog/I-think-I%E2%80%99ve-accidentally-created-a-fully-encrypted-social-media-app.html][Ben Wiser | I think I’ve accidentally created a fully encrypted social media app]]
-[[https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html][A sort-middle architecture for 2D graphics | Raph Levien’s blog]]
-[[https://esolangs.org/wiki/Chef][Chef - Esolang]]
-[[https://dhh.dk/][David Heinemeier Hansson (DHH)]]
-[[https://hackaday.com/2020/01/28/factory-laptop-with-ime-disabled/][Factory Laptop With IME Disabled | Hackaday]]
-[[https://github.com/patio11/wrightverification/blob/master/README.md][wrightverification/README.md at master · patio11/wrightverification]]
-[[https://mobile.twitter.com/tobydoyhowell/status/1272674455681024000][Toby ☕️ on Twitter: &quot;I&#39;ve been running @morningbrew&#39;s social media for the past ~2 months here&#39;s a thread of a few things i&#39;ve learned Twitter strategy only for now Insta later&quot; / Twitter]]
-[[https://radicale.org/master.html][Radicale &quot;master&quot; Documentation]]
-[[https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/][Containers the hard way: Gocker: A mini Docker written in Go - Unixism]]
-[[https://www.workatastartup.com/?utm_source=hn_jobs][Y Combinator&#39;s Work at a Startup]]
-[[https://blog.regehr.org/archives/1796][The Saturation Effect in Fuzzing – Embedded in Academia]]
-[[http://movies2.nytimes.com/books/first/k/kranz-failure.html][Failure Is Not an Option]]
-[[https://openai.com/blog/image-gpt/][]]]
-[[https://www.maxlaumeister.com/articles/how-i-removed-my-own-face-from-my-head/][How I Removed My Own Face From My Head - Maximillian Laumeister]]
-[[https://pmihaylov.com/go-generics-draft-design/][A Concise Guide to the Latest Go Generics Draft Design | Preslav Mihaylov]]
-[[https://about.flipboard.com/inside-flipboard/rss-feed-on-flipboard/][How and Why You Should Add Your RSS Feed to Flipboard]]
-[[https://www.classes.cs.uchicago.edu/archive/2020/spring/32001-1/][]]]
-[[https://aaron.ng/][Aaron Ng]]
-[[https://software.intel.com/content/www/us/en/develop/articles/pin-a-dynamic-binary-instrumentation-tool.html][Pin - A Dynamic Binary Instrumentation Tool]]
-[[https://wiki.xxiivv.com/site/nataniev.html][XXIIVV — nataniev]]
-[[https://wiki.xxiivv.com/site/systems.html][XXIIVV — systems]]
-[[https://wiki.xxiivv.com/site/blindfolk.html][XXIIVV — blindfolk]]
-[[https://wiki.xxiivv.com/site/neon_hermetism.html][XXIIVV — neon hermetism]]
-[[https://wiki.xxiivv.com/site/lietal.html][XXIIVV — lietal]]
-[[https://v-os.ca/][V · Home]]
-[[https://v-os.ca/minimalism][V · Minimalism]]
-[[http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/][Productivity hints, tips, hacks and tricks for graduate students and professors]]
-[[https://wiki.xxiivv.com/site/bifurcan.html][XXIIVV — bifurcan]]
-[[https://wiki.xxiivv.com/site/the_sartre_mechanism.html][XXIIVV — the sartre mechanism]]
-[[https://wiki.xxiivv.com/site/juni.html][XXIIVV — juni]]
-[[https://wiki.xxiivv.com/site/lard_shader.html][XXIIVV — lard shader]]
-[[https://wiki.xxiivv.com/site/eschatolor.html][XXIIVV — eschatolor]]
-[[https://wiki.xxiivv.com/site/the_will_the_wisp.html][XXIIVV — the will the wisp]]
-[[http://matt.might.net/articles/tenure/][HOWTO: Get tenure]]
-[[http://matt.might.net/articles/red-black-delete/][Missing method: How to delete from Okasaki&#39;s red-black trees]]
-[[https://github.com/HackathonHackers/personal-sites][HackathonHackers/personal-sites: List of Hackathon Hackers&#39; personal sites.]]
-[[https://mobile.twitter.com/cybersoybean/status/1256140146660925440][nina m 🗡️ #JunkTerrorBillNow on Twitter: &quot;hi - i&#39;ve made a picrew where you can make the back of your head. enjoy 🌞 https://t.co/T3nptOp5v6 https://t.co/RO31pFfut5&quot; / Twitter]]
-[[https://wiki.xxiivv.com/site/language.html][XXIIVV — language]]
-[[https://wiki.xxiivv.com/site/superworker.html][XXIIVV — superworker]]
-[[https://benjamincongdon.me/tools][Tools | Ben Congdon]]
-[[https://libbyapp.com/][]]]
-[[https://www.kill-the-newsletter.com/][Kill the Newsletter!]]
-[[https://wiki.xxiivv.com/site/rotonde.html][XXIIVV — rotonde]]
-[[https://github.com/Rotonde][Rotonde Network]]
-[[https://dat.foundation/][Dat Protocol Foundation]]
-[[https://github.com/seenaburns/isolate/blob/master/README.md][isolate/README.md at master · seenaburns/isolate]]
-[[https://en.m.wikipedia.org/wiki/Antifragile][Antifragile - Wikipedia]]
-[[https://wiki.xxiivv.com/site/computer.html][XXIIVV — computer]]
-[[https://alternativebit.fr/posts/ultimate-writer/][Ultimate Writer: an Open Digital Typewriter]]
-[[https://en.m.wikipedia.org/wiki/HyperCard][HyperCard - Wikipedia]]
-[[https://github.com/merveilles/Time-Travelers][merveilles/Time-Travelers: List of artists and hackers using homegrown time-tracking tools]]
-[[https://alternativebit.fr/posts/ultimate-writer/#what-s-next][Ultimate Writer: an Open Digital Typewriter]]
-[[http://seenaburns.com/][Seena Burns]]
-[[https://github.com/seenaburns/dotfiles][seenaburns/dotfiles: Personal config files]]
-[[https://ertdfgcvb.xyz/][ertdfgcvb]]
-[[https://wiki.xxiivv.com/site/talk.html][XXIIVV — talk]]
-[[https://github.com/bcongdon/corral][bcongdon/corral: 🐎 A serverless MapReduce framework written for AWS Lambda]]
-[[https://input-output-hk.github.io/haskell.nix/tutorials/getting-started/][Getting Started - Alternative Haskell Infrastructure for Nixpkgs]]
-[[https://wiki.xxiivv.com/site/rafinograde.html][XXIIVV — rafinograde]]
-[[https://wiki.xxiivv.com/site/telekinesis.html][XXIIVV — telekinesis]]
-[[https://wiki.xxiivv.com/site/brane.html][XXIIVV — brane]]
-[[https://wiki.xxiivv.com/site/alphavetist.html][XXIIVV — alphavetist]]
-[[https://wiki.xxiivv.com/site/methascope.html][XXIIVV — methascope]]
-[[https://wiki.xxiivv.com/site/vast.html][XXIIVV — vast]]
-[[https://attilammagyar.github.io/][athos[hun]]]
-[[https://www.debian.org/vote/2019/vote_002#timeline][General Resolution: Init systems and systemd]]
-[[https://wiki.xxiivv.com/site/notebook.html][XXIIVV — notebook]]
-[[https://wiki.xxiivv.com/site/to_the_aeons_hell.html][XXIIVV — to the aeons hell]]
-[[https://steveblank.com/secret-history/][Steve Blank Secret History]]
-[[https://en.m.wikipedia.org/wiki/Muqaddimah][Muqaddimah - Wikipedia]]
-[[https://nwat.xyz/][Noah Watkins]]
-[[https://wiki.xxiivv.com/site/oquonie.html][XXIIVV — oquonie]]
-[[http://matt.might.net/articles/practicing-privacy-encryption/][Practicing privacy with encryption]]
 https://github.com/tycrek/degoogle/blob/master/README.md
 http://subjectguides.lib.neu.edu/awd
 https://ai.googleblog.com/2018/07/improving-connectomics-by-order-of.html?m=1
@@ -4098,11 +2713,9 @@ linalg
 [[https://bartoszmilewski.com/2020/05/27/guitar-decomposed-5-mutating-the-third/][guitar in haskell]]
 [[https://git.sr.ht/~ft/9pro][tools for sourcehut!]]
 [[https://wiki.xxiivv.com/site/discourse.html][on discourse.]]
-
 #+TITLE: things to learn
 * signal processing/compression
 https://github.com/PyWavelets/pywt
-
 * people
 https://en.m.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r
 http://www1.ece.neu.edu/~eyeh/
@@ -4110,8 +2723,6 @@ http://www.ccs.neu.edu/home/hlnguyen/
 http://www.ccs.neu.edu/home/rancohen/
 https://christine.website/contact
 https://jswrenn.comhttp://www.ccs.neu.edu/home/hlnguyen/
-http://www.ccs.neu.edu/home/rancohen/
-https://christine.website/contact
 https://jswrenn.com//
 http://people.cs.uchicago.edu/~jhr/
 https://www.ccs.neu.edu/home/ryanc/
@@ -4171,14 +2782,12 @@ http://www.mshah.io/conf/18/cppcon/index.html debugging with the gui
 cpp, llvm and all that.
 https://docs.google.com/presentation/d/1jps3KpD2zbsBwwApDnsU9LsgpXX-8ttmwtwEKoNKHt8/mobilepresent#slide=id.g358c9a0181_0_7
 https://docs.google.com/presentation/d/1gkVFtXpXcySlu7qiPaaACIMAXBT0Cfn_p_yBn1NFrOs/mobilepresent#slide=id.g17dd02dfa8_4_16
-
 ** olin shivers
 http://www.ccs.neu.edu/home/shivers/autoweapons.html
 his thesis is incredible
 https://news.ycombinator.com/item?id=2382531
 stuff about olin
 comedy:
-http://www.ccs.neu.edu/home/shivers/autoweapons.html
 https://www.wanderings.net/notebook/Main/BitterAcknowledgmentsOfOlinShivers
 http://www.ccs.neu.edu/home/shivers/newstyle.html
 http://www.ccs.neu.edu/home/shivers/scribblings.html
@@ -4189,7 +2798,6 @@ https://www-cs-faculty.stanford.edu/~knuth/taocp.html
 https://www-cs-faculty.stanford.edu/~knuth/retd.html
 https://www-cs-faculty.stanford.edu/~knuth/vita.html
 https://www-cs-faculty.stanford.edu/~knuth/cp.html
-
 ** sam stites : prob programming, ml
 https://stites.io/ -- great writing on neural networks
 ** jake kinsella
@@ -4200,26 +2808,21 @@ https://jakekinsella.com/projects/intel8080/ -- emulator for intel 8080
 processor - emulation could be cool
 * sus links
 https://web.archive.org/web/20130507230947/http://www.heise.de/tp/artikel/2/2898/1.html
-https://web.archive.org/web/20130507230947/http://www.heise.de/tp/artikel/2/2898/1.html
 https://meet.jit.si/ -- free meetings and stuff
 http://www.catb.org/hacker-emblem/?utm_source=Hackaday.com&utm_campaign=ec4864ced1-EMAIL_CAMPAIGN_2020_02
 http://www.jsfuck.com/
-
 ** category theory
 https://en.wikibooks.org/wiki/Haskell/Category_theory -- haskell and categories!
 https://en.wikipedia.org/wiki/Monad_(category_theory)#Algebras_for_a_monad
 https://en.wikipedia.org/wiki/Kleisli_category -- category for monads
 Does every monad arise from an adjunction?
 http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html
-https://en.wikipedia.org/wiki/Monad_(category_theory)#Algebras_for_a_monad
 https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem
 http://comonad.com/reader/
 https://ncatlab.org/nlab/show/comonad#definition
  http://comonad.com/reader/ -- curry howard lambek currespondence guides researchers into computation. rea    ding a logic like type theory is a definitional trick as it is just reinterpretation of syntax. syntactic     categories are difficult to connect to categorical semantics
-
 * systems
 http://people.cs.pitt.edu/~jacklange/teaching/cs2510-f17/
-
 https://github.com/NatTuck/pancake -- this looks kinda wild, figure out what
 it's doing!
 * physical
@@ -4240,12 +2843,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4289634/
 http://worrydream.com/#!/LearnableProgramming designing a programming system for
 understanding programs
 https://www.maa.org/news/interview-tony-derose  -- from computer graphics pioneer
-
 https://catalog.princeton.edu/catalog/SCSB-8534958 -- b
 https://kk.org/thetechnium/68-bits-of-unsolicited-advice/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter
 * math
 https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/
-
 * talks
 https://www.reddit.com/r/ProgrammingLanguages/comments/fxc504/do_you_know_any_interesting_talks_about_pl/
 https://www.youtube.com/watch?v=yy8jQgmhbAU&app=desktop
@@ -4259,7 +2860,6 @@ https://www.youtube.com/watch?v=P1ww1IXRfTA&t=&app=desktop
 * funny
 https://aphyr.com/posts/342-typing-the-technical-interview excellent article
 on navigating the technical interview
-
 https://github.com/lampepfl/dotty/issues/7598 -- on the equality operator
 http://matt.might.net/articles/electric-meat/ -- his whole blog is incredible
 * designing code
@@ -4267,7 +2867,6 @@ http://gamesfromwithin.com/data-oriented-design
 https://overreacted.io/goodbye-clean-code/
 https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/
 https://brianmckenna.org/blog/softwerewolves
-
 * being a developer
 https://www.youtube.com/watch?v=M1t0egTZY44&app=desktop
 https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html
@@ -4275,7 +2874,6 @@ https://kk.org/thetechnium/68-bits-of-unsolicited-advice/
 https://billwadge.wordpress.com/2020/04/25/the-secret-of-software-success/
 https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it
 https://www.reddit.com/r/MachineLearning/comments/6l2esd/d_why_cant_you_guys_comment_your_fucking_code/
-
 * etc
 https://outline.com/gdqBaR
 https://h313.info/ i like this site
@@ -4294,7 +2892,6 @@ https://varkor.github.io/blog/2018/11/10/monadic-do-notation-in-rust-part-i.html
 https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
 https://www.philosophicalhacker.com/post/data-point-for-job-seeking-devs/
 https://benwiser.com/blog/My-blog-is-now-generated-by-Google-Docs.html
-https://www.philosophicalhacker.com/post/data-point-for-job-seeking-devs/
 https://macwright.org/2020/05/10/spa-fatigue.html
 https://www.quantamagazine.org/how-to-design-a-perpetual-energy-machine-20200401/
 http://www.catb.org/esr/structure-packing/
@@ -4315,7 +2912,6 @@ https://mobile.twitter.com/sylefeb/status/1258808333265514497
 https://m.youtube.com/watch?v=rq1DRuB9p7w
 https://m.youtube.com/watch?v=TH9VCN6UkyQ
 https://m.youtube.com/watch?v=4t1K66dMhWk
-https://varkor.github.io/blog/2018/11/10/monadic-do-notation-in-rust-part-i.html
 https://gcc.gnu.org/onlinedocs/gcc/Static-Analyzer-Options.html
 https://marctenbosch.com/news/2020/05/siggraph-2020-technical-paper-n-dimensional-rigid-body-dynamics/
 https://nikic.github.io/2020/05/10/Make-LLVM-fast-again.html
@@ -4340,9 +2936,7 @@ https://rachelbythebay.com/w/2020/04/30/dev/
 https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/
 https://www.gnu.org/fun/jokes/eternal-flame.html
 https://nesslabs.com/science-of-curiosity
-
 https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug.html
-
 https://johnkerl.org/doc/ortho/ortho.html writing math well
 https://medium.com/@anilkoonath/my-son-was-locked-in-his-body-for-27-years-then-he-found-his-voice-f9a4bedb1d0e
 powerful
@@ -4359,7 +2953,6 @@ https://ciechanow.ski/gears/ incredibly well done article on gears -- learn
 the topic, but more importantly learn how to develop such good articles
 https://qnkxsovc.gitlab.io/prob-vis/ another incredible writeup
 https://macwright.org/
-https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/
 http://norvig.com/21-days.html
 https://github.com/mist64
 https://www.instupendo.com/about
@@ -4394,11 +2987,9 @@ https://nullprogram.com/blog/2020/04/30/
 https://en.m.wikipedia.org/wiki/OODA_loop
 https://esphome.io/
 https://afnan.io/posts/lambda-calculus/
-
 * living
 https://www.gwern.net/In-Defense-Of-Inclusionism
 https://hiepph.github.io/post/2017-11-24-emacs-org-syncthing/
-https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49
 https://rachelbythebay.com/w/2020/05/07/serv/
 machiavelli what we got wrong
 https://aeon.co/ideas/hypocognition-is-a-censorship-tool-that-mutes-what-we-can-feel
@@ -4425,7 +3016,6 @@ http://www.call-with-current-continuation.org/
 https://news.ycombinator.com/item?id=23057411
 https://www.palabra.io/index.html
 https://emacs.stackexchange.com/questions/5359/how-can-i-troubleshoot-a-very-slow-emacs
-https://www.gwern.net/In-Defense-Of-Inclusionism
 https://sarahguo.com/
 https://blogs.scientificamerican.com/guest-blog/john-conway-reminiscences-about-dr-matrix-and-bourbaki/
 https://en.m.wikipedia.org/wiki/Real_projective_plane
@@ -4445,7 +3035,6 @@ https://mondaynote.com/old-square-discovers-psychedelic-valley-e38d1ef5bc0f
 https://blog.metaobject.com/2020/04/maybe-visual-programming-is-answer.html?m=1
 https://towardsdatascience.com/the-unreasonable-ineffectiveness-of-deep-learning-on-tabular-data-fd784ea29c33
 https://nitros12.github.io/writing-a-discord-library-using-polysemy/
-https://nesslabs.com/science-of-curiosity
 http://beza1e1.tuxen.de/lore/tubes.html
 http://bling.github.io/blog/2016/01/18/why-are-you-changing-gc-cons-threshold/
 https://people.kernel.org/metan/how-to-trigger-races-reliably
@@ -4453,8 +3042,6 @@ https://news.ycombinator.com/item?id=23098090
 https://heartbeat.fritz.ai/how-lidar-detection-works-8db24556a8d9
 https://news.ycombinator.com/item?id=23095190
 https://pywavelets.readthedocs.io/en/latest/
-https://en.m.wikipedia.org/wiki/OODA_loop
-https://www.youtube.com/watch?v=yy8jQgmhbAU&app=desktop
 https://www.principles.com/the-changing-world-order/#introduction
 https://www.tomshardware.com/news/amd-radeon-gpu-steal-data-radio-transmission-cybersecurity
 http://c9x.me/articles/gthreads/intro.html
@@ -4462,9 +3049,7 @@ https://markan.me/the-delight-of-development/
 https://rmsol.de/2020/04/25/v4l2/
 https://divinations.substack.com/p/inside-the-clubhouse
 https://www.youtube.com/watch?v=Sb0-I8FkUWU&app=desktop
-https://www.youtube.com/watch?v=Sb0-I8FkUWU&app=desktop
 http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/
-https://airtable.com/shrzJxrXCaJwwJO2T/tblMZ48gq36WojgtE
 https://airtable.com/shrzJxrXCaJwwJO2T/tblMZ48gq36WojgtE
 https://en.m.wikipedia.org/wiki/Monster_group
 http://www.delorie.com/djgpp/doc/rbinter/it/06/0.html -- windows scan codes
@@ -4487,10 +3072,8 @@ http://mikhailkhoury.com/
 https://zapier.com/blog/how-to-build-chat-bot/#how
 https://byorgey.wordpress.com/2020/02/23/what-would-dijkstra-do-proving-the-associativity-of-min/
 https://rhelmer.org/blog/
-https://www.youtube.com/watch?v=M1t0egTZY44&app=desktop
 https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html
 https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm
-
 * tutorials
 https://alex-hhh.github.io/2020/03/a-game-of-tetris.html
 https://www.youtube.com/playlist?list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs&app=desktop
@@ -4512,8 +3095,6 @@ https://jae.moe/
 https://www.paritybit.ca/
 https://hackaday.com/2016/05/03/volkswagen-beetle-the-most-hackable-car/ the
 hackable car!
-
-
 https://imgur.com/a/fQJqc
 https://gerrit.googlesource.com/git-repo/+/refs/heads/master/README.md
 https://mitadmissions.org/blogs/entry/the-last-all-nighter/#disqus_thread
@@ -4524,11 +3105,9 @@ https://people.csail.mit.edu/karger/
 https://en.wikipedia.org/wiki/David_Karger
 https://www.stephanboyer.com/post/17/my-electric-unicycle
 https://www.stephanboyer.com/
-
 * check out live coding with oculus and racket
 [[https://www.youtube.com/watch?v=ydyztGZnbNs&app=desktop][carmack live]]
 [[https://merveilles.town/@rek][figure out what this is]]
-
 [[https://news.ycombinator.com/item?id=23211184][learning strategy]]
 [[https://www.youtube.com/watch?v=kEB11PQ9Eo8&app=desktop][non euc engine]]
 [[https://www.kernel.org/doc/html/latest/driver-api/fpga/index.html][linux fpga subsystem]]
@@ -4544,7 +3123,6 @@ https://www.stephanboyer.com/
 [[http://www.brendangregg.com/][coolguy]]
 [[https://marian42.itch.io/wfc][proced gen for linux]]
 [[https://github.com/kylesferrazza/ansible][what is ansible]]
-
 [[https://wiki.archlinux.org/index.php/Realtime_kernel_patchset][realtime kernel patch for 0 latency]]
 [[https://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part1.html][loom]]:loom
 is all about doing threads right!
@@ -4563,26 +3141,22 @@ is all about doing threads right!
 [[https://www.hillelwayne.com/post/alloydocs/][alloy: the neat formal method]]
 [[http://alloytools.org/][alloy - os lang and analyzer for software modeling]]
 [[https://www.hillelwayne.com/post/influential-dead-languages/][on influential dead languages]]
-
 configure mpd !
 mpv video player or somethign
 tox client for secure messaging?
 qutebrowser will have to wait
 [[https://rclone.org/drive/#making-your-own-client-id][rclone or smth]]
-
 * cool topics to study
 [[http://matt.might.net/articles/what-cs-majors-should-know/][what every cs major should know]]
 [[https://thebreadbook.org/][the bread book :: a free society for everyone!]]
 [[http://www.ccs.neu.edu/home/pete/courses/Computer-Aided-Reasoning/2018-Fall/][computer aided reasoning: cool topic]]
 [[https://www.cs.cornell.edu/people/egs/beehive/codons.php][cocodns: new name service to replace dns for the internet!]]
-
 [[https://verifcomp.dbp.io/][verifcomp]]
 [[https://en.wikipedia.org/wiki/The_Dragon_Prince][made by the avatar ppl]]
 [[https://en.wikipedia.org/wiki/Public_Opinion_(book)][public opinion]]
 [[https://github.com/rickellis/ArchMatic][arch setup scripts]]
 [[https://quasarbright.github.io/MachineLearning/README][gan work]]
 [[https://www.everything2.com/index.pl?node_id=892542][the polyphasic sleep cycle]]
-
 * Working Effectively
 [[https://www.stevestreeting.com/2010/09/04/work-2-0/][article]]
 - Problem: staying 'in the zone' is just not healthy or effective for a
@@ -4590,15 +3164,12 @@ qutebrowser will have to wait
   programmer to better understand their code and succeed. This crazy
   dedication helps develop unhealthy habits and can prevent you from
   properly focusing.
-
 - Concentration periods are the most important part of programming. Losing
   concentration means losing all context, and losing all context means that
   you'll spend lots of time reorienting yourself and entering a stronger
   period of focus.
-
 - It's difficult to adjust, and this leads to substantially decreased
   productivity.
-
 To improve:
 1. Embrace interruptions. Learn to accept interruptions and avoid giving up
 through them.
@@ -4618,7 +3189,6 @@ task that will have the most negative outcome first.
 6. Recognize the benefits of breaks. Breaks have great benefits, encourage
 better health, and can offer a new context from which the problem can be
 tackled!
-
 * around the internet
 [[https://wiki.xxiivv.com/site/devine_lu_linvega.html][the generalist.]]
 [[https://wiki.xxiivv.com/site/about.html][digital playground]]
@@ -4780,7 +3350,6 @@ Rule of Parsimony: write a big program only when it is clear by
 demonstration that nothing else will do.
 Build as simple as possible, but no simple. Do not allow the composition of
 these parts to assemble a tightly integrated system.
-
 * abandoned places
 [[https://portal.mozz.us/gemini/gemini.circumlunar.space/software/][northwest]]
 [[https://portal.mozz.us/gemini/gemini.circumlunar.space/software/][secret locs]]
@@ -4824,7 +3393,6 @@ these parts to assemble a tightly integrated system.
 [[https://news.ycombinator.com/item?id=20916749][ask company during interview]]
 [[https://news.ycombinator.com/item?id=22124489][managing emotions]]
 [[https://en.wikipedia.org/wiki/Webring][webring]]
-
 [[https://audiomass.co/][sonic smth]]
 [[https://news.ycombinator.com/item?id=23340031][reading online content]]
 [[https://ertdfgcvb.xyz/][wow]]
@@ -4833,11 +3401,9 @@ these parts to assemble a tightly integrated system.
 [[https://roamresearch.com/#/app/selentelechia/page/cdp0rUo9S][hell yea]]
 [[http://akkartik.name/about][on building mechanisms for good code]]
 [[https://controls.ee/links/][beats and sound]]
-
 [[https://www.mattblaze.org/blog/p25][johnny can't encrypt!]]
 [[https://zulipchat.com/][chat for distributed teams]]
 [[https://cancel.fm/ripcord/][desktop chat clinet]]
-
 * good dotfiles
 [[https://github.com/adi1090x/CustomArch/tree/version-2.0][custom arch iso]]
 [[https://github.com/akshat46/FlyingFox][great firefox config]]
@@ -4848,12 +3414,10 @@ these parts to assemble a tightly integrated system.
 - dwm
 - frankenwm
 - herbstluftwm
-
 * emacs
 [[https://github.com/sulami/dotfiles/blob/master/emacs/.emacs/README.org][great,
 literate custom emacs config]] -- come back to this if/when you decide to use
 emacs again!
-
 * other links
 [[https://whitequark.org/][whitequark]]
 [[https://lab.whitequark.org/][whitequark blog]]
@@ -4864,13 +3428,10 @@ make sure to check out qutebrowser. it does not seem quite there yet, but
 navigating via only keyboard seems very good.
 [[https://ideatrash.net/2013/03/scripts-and-utilities-to-make.html][scripting for newsbeuter to make it better than google reader]]
 [[https://ideatrash.net/2013/03/scripts-and-utilities-to-make.html][tui everything]]
-
 [[https://taskwarrior.org/docs/taskserver/setup.html][setting up taskwarrior server]]
-
 idea! vim plugin to reduce plugin usage. removes random lines from vimrc on
 load, and continues to remove them every time vim starts up until you
 manually override
-
 * becoming an influencer
 put the camera down
 pick something you want to learn about
@@ -4878,23 +3439,15 @@ spend the next 10 years mastering your craft
 pick the camera back up
 tell people what you have learned
 kill it
-
 https://www.karenx.com/blog/how-to-become-a-designer-without-going-to-design-school/
-
 * 'general inspiration'
-
 #+TITLE: General Inspiration
-
 Assorted inspiration for various topics.
 This should all be better sorted when it is reviewed.
-
 * ETC
-
 [[https://ertdfgcvb.xyz/][inspirational site]]
 [[https://constraint.systems/][creative image constraints]]
-
 * web hostility
-
 [[https://neustadt.fr/essays/against-a-user-hostile-web/][article]]
 "Facebook is at odds with the open web that I love and defend..."
 Netscape Navigator (small internet) -> big internet!
@@ -4902,44 +3455,30 @@ The modern web is being destroyed -- personalized content, growth hacking,
 social media activation, CMS and user experience. These websites are not
 built to appreciate the visitor -- they are constructed to make the user a
 customer. Cookies bad! Small blogging good!
-
 [[https://builtwithnix.org/][nix!]]
 [[https://shouldiblockads.com/#ha][what is wrong with ads?]]
 [[https://revealjs.com/#/][create stunning presentations on the web]]
-
 [[https://svelte.dev/][autocreate websites. what.]]
-
 [[https://amorphous.itch.io/][strange narrative games, good mono font]]
 [[https://scuttlebutt.nz][scuttlebutt : the decentralized, social web.
 localized but distribued.]]
-
 * setting up weechat as frontend for everything
-
 [[https://github.com/thefinn93/signal-weechat/blob/master/README.md][signal weechat]]
 [[https://github.com/wee-slack/wee-slack][slack weechat]]
-
 [[https://cineshader.com/][cellular noise]]
-
 [[https://www.olivevideoeditor.org/][free video edition]]
 also look into editing with blender
-
 code as a creative medium :: MIT book
-
 tildegit :: git for the tildeverse!
-
 [[https://dev.upvote.blog/][seems like an organic place to spend time on the internet]]
-
 * blogging for free
-
 [[https://bearblog.dev/][bear blog]]
 [[https://pluma.cloud/][pluma free blog]]
 [[https://write.as/][focused writing place]]
 [[http://txti.es/][convenient, fast web pages]]
-
 [[https://telegra.ph/why-am-i-here-05-29][express yourself quickly]]
 [[https://txt.fyi/+/22b9f246/][raw expression]]
 [[https://txt.fyi/+/6ce898cf/][the cask ]]
-
 [[https://txt.fyi/about/][quick publishing on the web.]]
 [[https://txt.fyi/+/57688c94]][real shit]]
 [[/#/][another one of these]]
@@ -4949,21 +3488,16 @@ tildegit :: git for the tildeverse!
 [[https://write.as/][focused writing.]]
 [[https://discourse.nixos.org/t/is-there-much-difference-between-using-nix-shell-and-docker-for-local-development/807][nix vs docker]]
 [[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][configuring infra in nix]]
-
 [[https://gopher.tildeverse.org/tildeverse.org][tilde. in gopher.]]
 [[https://pleroma.tilde.zone/main/all][federated social media is the future.]]
 [[https://en.m.wikipedia.org/wiki/Duff%27s_device][compiler neat thing]]
 [[https://dotdotdash.io/][collective.]]
 [[https://moonscript.org/][moonscript: better lua programming!]]
-
 * camera
-
 buy fuji x t 2 !!
 [[https://www.bestsevenreviews.com/fujifilm-xt2-review/][fuji best camers]]
 [[https://online-go.com/][an excellent client for playing go]]
-
 * Do I need to go to university?
-
 [[http://colah.github.io/posts/2020-05-University/][article]]
 it's hard to know who should take nontraditional paths, and many people are
 looking for validation not to do so. realistically, this is the best option
@@ -4977,52 +3511,37 @@ Some questions:
   structure?
 - Do I have or can I learn the skills I need to work on this project
   independently?
-- Do I have or can I learn the skills I need to work on this project
 independently?
 - Do I have sources of community, peer support or mentorship for what I want
   to do?
-
 Those who leave university may be disparaging their efforts to make friends.
 However, the ability to focus independently for an extended period of time
 before heading to college is ideal for many people to flourish.
-
 * Tools for Better Thinking
-
 [[https://news.ycombinator.com/item?id=23339830][thread]]
 The most underrated problem solving tool is to type out and explain your
 thought process.
 Start writing down questions to ask others; as you explain what you have
 tried, you will begin to realize that there are more things left to try --
 some of which being potential solutions.
-
 Type your question into StackOverflow to submit; you'll be fearful of asking
 the question.
-
 Rank factors; always express factors as positive attributes. After generating
 the table, the longest continuous line of check marks for each factor
 determines the choice (though this can be gamed...)
-
 State charts: easy to reason about state changes without the explosion of
 state machines. These are hierarchical state machines, in a sense.
-
 The Inversion Methods: The solution to many hard problems can be clarified by
 re-expressing them in inverse form.
-
 Crossline: structure your thoughts as you type and make cross-references.
-
 [[https://fs.blog/mental-models/][mental models for making intelligent decisions]]
-
 [[https://medium.com/disruptive-design/search?q=tools%20for%20systems%20thinkers][tools for systems thinkers]]
 [[https://news.ycombinator.com/item?id=22747409][state machines for complex systmes]]
 [[https://www.wiley.com/en-us/TRIZ+for+Engineers%3A+Enabling+Inventive+Problem+Solving-p-9780470741887][enabling inventive problem solving]]
 [[https://en.m.wikipedia.org/wiki/TRIZ][analyzing and forecasting tool]]
-
 [[https://untools.co/][tools for better thinking .]]
-
 [[https://www.youtube.com/watch?v=de8Ak0nY1hA&app=desktop][improving compiler correctness using formal methods]]
-
 * today's js
-
 https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/
 article
 THe modern web is painful. Interfacing with js and node results in conflitts
@@ -5030,9 +3549,7 @@ between es and js versions, node incompatibilities, differnet import syntax
 in different circumstances, etc. it's painful. How do you import with node?
 without node? <script> tag or not to script? Where did the node modules go?
 This is a good rant of questions and things to feature on the wbesite
-
 * record of a living being
-
 https://cinemasojourns.com/2020/03/29/akira-kurosawas-record-of-a-living-being/
 source
 watch the film :: one of the first to directly address the fear of nuclear
@@ -5040,26 +3557,20 @@ holocaust and the implications of the atom bomb.  an introspective, cerebral
 work regarding japan after the bomb and moving forward, away from fallout.
 inspired by conversations with otuers regarding what may -- or may not be --
 in store for us tomorrow, if tomorrow is in store at all.
-
 * anxiety in product development
-
 https://andreschweighofer.com/agile/anxiety-in-product-development/
 anxiety can emerge easily from stress, resulting in anger, frustration and
 other unhealthy forms of exerting such stress. this impacts other people,
 organizations and processes as well.
 we have fear driven development : a concrete idea encouraging us to avoid
 certain practices depending upon the specific approach
-
 play to win, don't play not to lose; developing a unique selling proposition
 means that you are no longer fighting with others, but rather striving to
 come out ahead
-
 awareness of such anxiety is the first step to take. with this awareness
 comes conscious decision making, and with such decisions come wiser product
 crafting and, in the end, better, more creative work
-
 * bootstrappable builds
-
 http://bootstrappable.org/
 http://bootstrappable.org/projects.html good projects to work on
 this is a general build philosophy addressing the chicken and egg problem --
@@ -5068,10 +3579,8 @@ do not have access to the source of compiled code when we run it against the
 language they are compiling!
 http://bootstrappable.org/ on trusting trust. ken thompson talk linked at the
 bottom is great, as are the other articles. great compilers literature
-
 * general ideas
 ** 50 ideas that changed my life
-
 https://www.perell.com/blog/50-ideas-that-changed-my-life
 inversion :: avoiding stupidity is easier and better than being brilliant
 doublespeak :: saying the opposite of what one means
@@ -5082,11 +3591,8 @@ opinion at the time
 mimetic teory of desire: rather than having our own desires, we imitate the
 desires of others and pursue their ideas
 mimetic theory of conflict :: similar = fight
-
 left off on 10!
-
 * cool cs
-
 https://github.com/browserdotsys/vecchio ray tracing in one weekend :: looks
 fun to do
 https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html
@@ -5098,25 +3604,18 @@ https://www.cs.cmu.edu/~janh/courses/411/16/ compiler design course at cmu.
 supposedly good material
 https://gist.github.com/cellularmitosis/1f55f9679f064bcff02905acb44ca510#simple-compiler-codebases-to-study
 crazy compilers good stuff
-
  http://gokcehan.github.io/ has some idea what he is doing; wrote lf, which
  seems to be a better ranger
 https://bellard.org/otcc/
 https://bellard.org/tcc/ fun
-
 http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html cool project for a
 tiny compiler in python!
-
 * idea
-
 https://thetechonomics.com/2020/06/03/how-we-automated-99-of-our-newsletter-business/
 automated aggregation and newsletter generation for headlines, article links,
 etc
-
 [[https://derivationmap.net/}[deriation graph of all of math physics!]]
-
 * books
-
 https://en.m.wikipedia.org/wiki/Words_of_Radiance
 https://www.amazon.com/Dark-Matter-Novel-Blake-Crouch/dp/1101904240
 https://en.m.wikipedia.org/wiki/Range:_Why_Generalists_Triumph_in_a_Specialized_World
@@ -5124,12 +3623,9 @@ https://m.imdb.com/title/tt1737747/
 https://www.powells.com/book/little-typer-9780262536431
 https://blog.rogs.me/2020/05/de-google-my-blog-how-to-blog-in-2020-without-google/
 de google the blog
-
 https://en.m.wikipedia.org/wiki/Literate_programming -- practice literate
 programming in daily life.
-
 https://moviebarcode.tumblr.com/ cool looks
-
 [[http://lisperator.net/blog/queen-chess-fast-lisp/][queens]]
 [[http://lisperator.net/blog/a-little-javascript-problem/][js problem]]
 [[http://lisperator.net/blog/pull-request-based-development-sucks/][pr based dev]]
@@ -5137,53 +3633,36 @@ https://moviebarcode.tumblr.com/ cool looks
 [[http://lisperator.net/blog/the-left-pad-case/][leftpad]]
 [[http://lisperator.net/blog/minesweeper-and-interviewing/][minesweeper and interviewing]]
 https://www.datprotocol.com/ hypermedia protocol!
-
 * Pi
-
 https://github.com/redkyn software for teaching programming
 [[https://wiki.xxiivv.com/site/raspberry.html][wow!]]
 [[https://notmuchmail.org/frontends/][notmuch clients]]
 [[http://willcrichton.net/notes/][type level programming]]
-[[https://wiki.xxiivv.com/site/discourse.html][on discourse.]]
-[[https://en.m.wikipedia.org/wiki/Ricci_calculus][rules and indices for tensor and tensor fields!]]
 [[https://homelabos.com/][self hosting at home.]]
 [[https://alot.readthedocs.io/en/latest/][alot tutorial]]
 [[https://www.youtube.com/watch?v=kgVz4-SEhbE&app=desktop][clustering with the raspi]]
-
 https://raspberrypi.stackexchange.com/questions/86/how-can-i-run-the-pi-on-solar-power
 pi on solar power
 https://100r.co/site/raspberry_pi.html
 https://www.lifehacker.com.au/2012/12/make-a-raspberry-pi-solar-powered-ftp-server/
 https://www.instructables.com/id/Solar-Powered-Raspberry-Pi/
-
-[[https://bartoszmilewski.com/2020/05/27/guitar-decomposed-5-mutating-the-third/][guitar in haskell]]
-[[https://git.sr.ht/~ft/9pro][tools for sourcehut!]]
 [[https://link.springer.com/book/10.1007/978-1-4302-5990-9?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=BBKK_1_DL01_GL_twitterorganic&sf234521345=1][book by rahul khanna]]
 [[https://obsidian.md/][obsidian md knowledge base]]
-
 https://electro.pizza/2020/05/selfhosting-cloudshell2/ NAS self host with
 documentation
-
-https://aperiodical.com/2020/06/review-immersive-linear-algebra/ review for
-linalg
-
-* etc
 [[https://news.ycombinator.com/item?id=18120322][on automating out of work]]
 The best work is done when you do it for yourself.
 you sign your brains away when you go to work for a big company, and these
 people will likely be B players -- no matter how many great people they hire.
 most A players have more important things to do with their own time. without
 ownership, there is a high chance that you will not be at your best.
-
 non-technical business :: sometimes daily tasks do not end up driving
 revenue! the others are driving the revenue, you are maintaining thigns for
 them. their capacity to define tasks for you may not ever outpace your
 ability to deliver.
-
 automating yourself out of a job could be a goal, but this doesn't work:
 - system complexity means something can always break!
 - markets rapidly evolve and parts cease to work in the future!
-
 [[https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/?single_page=true][is self-automation ethical?]]
 - automation and the 15 hour work week from keynes
 - though automation continues, humans find ourselves working longer and
@@ -5191,7 +3670,6 @@ automating yourself out of a job could be a goal, but this doesn't work:
   and those who owned automated products.
 - Automation still has the power to reduce the amount of boring work we do.
 [[https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017][automating with nodejs]]
-
 * QAnon lol and starting cult
 [[https://conspiracypsychology.com/2018/04/15/internet-prophecy-cults-101-qanon-and-his-predecessors/][qanon]]
 QAnon
@@ -5202,35 +3680,27 @@ QAnon
   by the people these people revere
 - Tell people that they will succeed if they believe you!
 - set a date for when {big event} will happen.
-
 * why lisp is good
 [[https://www.dreamsongs.com/WIB.html][the lisp song]]
 [[https://twobithistory.org/2018/10/14/lisp.html][more lisp song and history]]
 [[https://www.gnu.org/software/mit-scheme/][mit scheme]]
 [[http://marktarver.com/bipolar.html][the bipolar lisp programmer]] arrogant
-
-* etc
 [[https://kingjamesprogramming.tumblr.com/][sicp and king james generation]]
 from markov chain
-
 [[http://www.impredicative.com/ur/][ur programming languages - web dev w this!]]
-
 * small pl for your friends
 https://runyourown.social/
 you control the softare and you make the policies
 can have hyperspecific norms!
 can be the party host!
 can welcome people kindly to the server!
-
 https://runyourown.social/#places-where-we-need-better-tech -- need better
 tech:
 - form of centralization that allows people to migrate their accounts
 - let people choose to keep things in the community
 https://www.rhelmer.org/blog/ the browser monoculture. and why this is bad!
 https://lwn.net/Articles/741218/ on the small internet .
-
 https://en.m.wikipedia.org/wiki/Anonymous_remailer hosting mail!
-
 https://alexschroeder.ch/wiki/2020-06-04_Gemini_Upload the small internet and
 gemini uplaod
 https://alexschroeder.ch/wiki/2020-06-05_Gemini_Write
@@ -5238,14 +3708,11 @@ https://alexschroeder.ch/wiki/Diary
 https://alexschroeder.ch/wiki/2019-06-21_Solderpunk's_Gemini_Protocol more on
 the gemini protocol :: and why it may not be liked
 https://github.com/pitr/gig/blob/master/README.md gemini dev framework
-
 https://git.carcosa.net/jmcbray/gemini.el gemini emacs mode
-
 https://portal.mozz.us/gemini/gem.limpet.net/agate/ agate server for static
 files over gemini
 https://news.ycombinator.com/item?id=16222478 decentralized social networking
 protocol!
-
 https://github.com/jakechv/twitterpub twitter activity gateway
 https://activitypub.rocks/ explanation of the activity pub prococol and how
 it can be used
@@ -5254,7 +3721,6 @@ the internet
 https://github.com/schollz/extract_recipe
 https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#lets-destroy-c
 breaking c code
-
 https://write.as/matt/our-activitypub-projects neat ActivityPub projects
 https://spiegelmock.com/2020/05/28/decentralizing-social-media/ more on
 decentralization
@@ -5266,11 +3732,8 @@ https://bitwarden.com/ bitwarden :; self hosted password management
 https://bitwarden.com/help/article/import-from-lastpass/ move from lastpass
 https://www.talkyard.io/ best way to share info?
 https://github.com/drichard/mindmaps mindmapping tech
-
 https://joplinapp.org/ open source notes with joplin
-
 https://blynk.io/ iot mobile platform
-
 https://github.com/semi-technologies/weaviate search graphql
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
 the history of http
@@ -5711,7 +4174,6 @@ https://www.welcometothejungle.com/en/collections/behind-the-code podcast on peo
 [[https://github.com/NationalSecurityAgency/ghidra][hidra is a software reverse engineering (SRE) framework]]
 [[https://amalbansode.com/pages/projects/data/index.html][Data Things]]
 [[https://github.com/mit-pdos/noria][Noria: data-flow for high-performance web applications]]
-[[https://github.com/aalolexx/stemkoski.github.com][aalolexx/stemkoski.github.com]]
 [[https://github.com/aalolexx/vue-three-basic-boilerplate][vue-three-basic-boilerplate]]
 [[https://shifrakhan.com][👋🏽 I&#039;m Shifra.]]
 [[https://t.co/HXpKP2xf6C][Dom2D ? on Twitter]]
@@ -5729,13 +4191,9 @@ https://www.welcometothejungle.com/en/collections/behind-the-code podcast on peo
 [[https://vrients.com/usa/designers/kuboraum/v1-bm-sunglasses-black-08887][V1 BM sunglasses from Kuboraum collection]]
 [[https://akitasoftware.com/blog/2020/7/29/the-secret-to-building-better-software-get-in-control-of-your-apis][The secret to building better software? Get in control of your APIs]]
 [[https://github.com/hugomd/parrot.live][hugomd/parrot.live]]
-[[https://m.youtube.com/watch?feature=youtu.be&amp;v=dHo_EUyShOg][The Haskell Elephant in the Room - YouTube]]
 [[https://tlon.io][Tlon]]
 [[https://instagram.com/p/CDFAcjnps4h][I Am Bunny on Instagram: “• • • Bunny is frequently alarmed by noises in an]]
-[[https://vale.dev/blog/zero-cost-refs-regions][Zero Cost References with Regions - Vale]]
 [[https://reddit.com/r/emacs/comments/i0qf5i/just_having_fun_playing_with_emacs][Just having fun playing with emacs 🏄 🏄 🏄]]
 [[https://ocharles.org.uk][ocharles.hs]]
 [[https://en.m.wikipedia.org/wiki/Eckhart_Tolle][Eckhart Tolle]]
 [[https://stoichuman.com/dopamine-detox-konmari-style][I didn’t abandon dopamine altogether: Dopamine detox Konmari style]]
-[[http://nh2.me][nh2]]
-[[https://reddit.com/r/vim/comments/i08w2t/quicker_saving_and_saving_habits][Quicker saving and saving habits]]
