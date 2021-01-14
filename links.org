@@ -1,5 +1,3 @@
-#+TITLE: Links: Links I haven't looked at
-
 [[https://flowcrypt.com/][FlowCrypt: PGP Encryption for Gmail]]
 [[https://extremeistan.wordpress.com/][extremeistan | thoughts about computer graphics, game engine programming]]
 [[https://samzdat.com/the-uruk-series/][The Uruk Series – sam[ ]zdat]]
