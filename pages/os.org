@@ -34,6 +34,8 @@ https://www.ipredia.org/os/
 - [[https://www.whonix.org/][WhoNix]] :: An operating system designed to completely sandbox your activity inside of a virtual machine.
 - Plan9 :: Defer to [[https://wiki.xxiivv.com/site/plan9.html][Devine's notes on the subject]].
   - Plan9 resources: http://www.9gridchan.org/
+  - [[http://aiju.de/plan_9/plan9-syscalls][Plan 9 System Calls]]
+  - [[https://git.sr.ht/~ft/9pro][plan9 tools for unix operating systems]]
 - [[https://en.m.wikipedia.org/wiki/Junos_OS][Junos OS]]
 - [[https://spectrum-os.org/][Spectrum]] :: An OS modeled after Qubes, but making full use of the Nix reproducible build system, and dedicated to supporting mainstream x86-64 hardware.
 - SmartOS :: combines opensolaris tech with linux kvm virtualization. has zfs. contributed to illumos project

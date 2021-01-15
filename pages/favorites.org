@@ -262,3 +262,5 @@ Ideas:
 - usbc to micro usb for charging (for now)
 - charging brick that allows you to plug in thunderbolt cable (more flexible than having usbc cable tightly coupled to power brick; the mac one may be the best here)
   
+* Try
+darn tough socks

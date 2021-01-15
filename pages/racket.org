@@ -3,3 +3,19 @@
 #+TITLE: Racket
 [[https://github.com/Bogdanp/marionette][Control Firefox via the Marionette protocol]]
 [[https://github.com/greghendershott/fear-of-macros][practical guide to racket macros]]
+
+[[https://mobile.twitter.com/racketlang/status/1286020900660404232][Racket on Twitter: &quot;If you could have a wish granted, what would you like t]]
+[[https://github.com/ZibingZhang/racket-interpreter][Racket Interpreter]]
+[[https://mobile.twitter.com/racketlang/status/1286020900660404232][Racket]]
+
+[[https://github.com/kylesferrazza/slack-racketbot?files=1][racket bot for slack]]
+https://redex.racket-lang.org/
+
+[[https://www.youtube.com/watch?v=ydyztGZnbNs&app=desktop][carmack live]]
+
+[[https://github.com/lexi-lambda/hackett][IP implementation of a Haskell-like Lisp in Racket]]
+
+[[https://github.com/takikawa/drracket-vim-tool][im-like editing for DrRacket]]
+[[https://github.com/bennn/zordoz][anipulating racket bytecode]]
+
+[[https://github.com/charlescearl/DeepRacket][ simple starting point for doing deep learning in Racket]]

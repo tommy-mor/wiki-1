@@ -11,3 +11,10 @@ https://www.reddit.com/r/FirefoxCSS/comments/hneh2u/a_blurred_transparent_and_mo
 * Other Options
 https://github.com/midori-browser/core fast webkit browser
 https://www.reddit.com/r/vim/comments/hyzfgd/what_vim_firefox_plugin_are_you_using/ vim firefox keybindings
+
+[[https://github.com/Timvde/UserChrome-Tweaks][ community maintained repository of userChrome.css tweaks for Firefox]]
+
+[[https://www.reddit.com/r/FirefoxCSS/comments/hneh2u/a_blurred_transparent_and_modern_looking_theme/][A b̶l̶u̶r̶r̶e̶d̶ transparent and modern looking theme - FirefoxCSS]]
+
+[[https://github.com/MrOtherGuy/firefox-csshacks][MrOtherGuy/firefox-csshacks: Collection of userstyles affecting the browser]]
+[[https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome][firefox-csshacks/chrome at master · MrOtherGuy/firefox-csshacks]]

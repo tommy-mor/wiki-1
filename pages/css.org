@@ -106,7 +106,25 @@ https://shoelace.style/ a minimal css starter kit
 
 https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Fhundredrabbits%2FThemes 100 rabbits theme framework
 
+[[https://latex.now.sh/][latex in css!]]
+[[https://tachyons.io/][responsive css framework]]
+[[https://every-layout.dev/][relearn css layout]]
 
+[[https://github.com/mcnuttandrew/cssql]["""Esoteric"" ""Programming"" ""Language"" transpiler for converting SQL to CSS "]]
+** fun css
+[[https://codepen.io/chrisgannon/pen/oNjqpLy][slider]]
+[[https://codepen.io/chrisgannon/pen/oNjqpLy][inherit!]]
+[[https://codepen.io/chrisgannon/pen/oNjqpLy][wow animation!]]
+[[https://github.com/lionheart/pinboard.py][pinboard]]
+
+[[https://github.com/brainrape/win95.css][Win95.CSS]]
+[[https://github.com/brainrape/windows-95-ui-kit][Windows 95 UI Kit]]
+[[https://themesberg.com/product/ui-kit/windows-95-ui-kit][Windows 95 UI Kit]]
+[[https://www.reddit.com/r/opensource/comments/hvabir/til_you_can_style_your_github_readme_with_css/][TIL: You can style your GitHub readme with CSS - opensource]]
+[[https://github.com/sindresorhus/css-in-readme-like-wat][sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this ]]
+[[https://github.com/brainrape/win95.css][brainrape/win95.css: Responsive Bootstrap 4 windows 95/98 theme &amp; landing t]]
+[[https://web.dev/one-line-layouts/][Ten modern layouts in one line of CSS]]
+[[https://www.tailwindtoolbox.com/][Tailwind Toolbox - Free Starter Templates and Components for Tailwind CSS]]
 * Convention
 ** Don't use Margin
 [[https://www.amazon.com/dp/B0771V3SSP/?tag=wtpl-20][Don't use Margin]]
@@ -114,3 +132,5 @@ Margin breaks component encapsulation because components impact everything surro
 It also makes reusability difficult and impacts external components.
 The stack component, similar to other spacer components,
 is useful for adding arbitrary spaces internal to and external from different components. THese help define discrete units for space as well which can be standardized across the application.
+* vulnerabilities
+[[https://github.com/saizai/cssfingerprint][saizai/cssfingerprint: a research project to see how well the CSS history hack can fingerprint a user]]

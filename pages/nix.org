@@ -14,12 +14,14 @@ Nix is a functional package manager that isolates and sandboxes dependencies.
 [[https://www.reddit.com/r/emacs/comments/hniz19/using_nix_to_manage_emacs_packages/][Using Nix to manage Emacs packages]] ([[file:emacs.org][Emacs]]). [[https://gitlab.com/rycee/configurations/-/blob/master/user/emacs.nix][Rycee's configuration]] is a good start or source of inspiration for this.
 [[https://christine.website/blog/i-was-wrong-about-nix-2020-02-10][Why Nix: Cachix, niv and nix-build overview]]
 [[https://spartanengineer.com/nixos/2017/09/25/basic-git-server-with-nixos.html][Set up a basic git server with NixOS]]
+[[https://rbf.dev/blog/2020/05/custom-nixos-build-for-raspberry-pis/][Set up Nix with preconfigured SSH]]
 [[https://github.com/justinwoo/nix-shorts][Nix shorts]]: Lots of quick and helpful Nix tips to check out.
 - Building derivations at the Nix REPL
 - Installing packages from files and derivation expressions
 - Working with Nix shells
 - Creating derivations
 ** NixOps
+[[https://sandervanderburg.blogspot.com/2015/03/on-nixops-disnix-service-deployment-and.html?m=1][An evaluation of and tutorial for Disnix and NixOps]]
 [[https://github.com/nh2/nixops-tutorial][nixops-tutorial]]: development with NixOps
 [[https://hydra.nixos.org/build/115931128/download/1/manual/manual.html#idm140737322673584][Hydra (and nixops) manual]]
 [[https://hydra.nixos.org/build/115931128/download/1/manual/manual.html#chap-introduction][nixops user guide]]
@@ -132,3 +134,24 @@ You may have to manually start the SSH daemon: `sudo systemctl start sshd`
 [[https://github.com/bjornfor/nixos-config/blob/master/cfg/software-defined-radio.nix][set up software defined radio!]]
 Run programs in systemd cgroups (check out grahamc's config)
 [[https://github.com/RaitoBezarius/nix-scripts/blob/master/autoinstall/justdoit.nix][this does some crazy things with subvolumes to automatically set up a btrfs system with nixos, including initial mounts]]
+* Nix tools
+[[https://github.com/Mic92/nix-update][Swiss knife for updating nix packages.]]
+[[https://github.com/spwhitt/nix-zsh-completions][SSH Completions for Nix]]
+[[https://github.com/chisui/zsh-nix-shell][ssh plugin that lets you use zsh in nix-shell shell.]]
+[[https://github.com/cleverca22/not-os][cleverca22/not-os: An operating system generator, based on NixOS, that, giv]]
+[[https://github.com/NixOS/nixpkgs/issues/26067][Make a service abstraction layer · Issue #26067 · NixOS/nixpkgs]]: Abstract over systemd
+[[https://github.com/dustinlacewell/dotfiles][dustinlacewell/dotfiles: Nix configuration for all my workstations and serv]] workstation ux
+[[https://github.com/brainrape/nixform][brainrape/nixform: define terraform infrastructure in nix]]
+[[https://github.com/brainrape/nixos-tutorial][brainrape/nixos-tutorial: one hour, hands-on]]
+[[https://sandervanderburg.blogspot.com/2020/06/using-disnix-as-simple-and-minimalistic.html?m=1][Sander van der Burg&#039;s blog: Using Disnix as a simple and minimalistic depen]]
+[[https://blog.patchgirl.io/haskell/2020/07/13/static-haskell-binary.html][Building static Haskell binary with Nix on Linux · PatchGirl]]
+[[https://www.reddit.com/r/haskell/comments/hzeued/neuron_06_released_futureproof_notetaking_tool/][Neuron 0.6 released: future-proof note-taking tool written in Haskell, Nix ]]
+[[https://www.reddit.com/r/NixOS/comments/i2gaul/searching_and_installing_packages_in_nixos/][Searching and installing packages in NixOS - NixOS]]
+[[https://github.com/stites/haskell.nix-niv][stites/haskell.nix-niv]]
+[[https://www.reddit.com/r/NixOS/comments/htoxea/setting_up_ghcnix_with_lorri/][setting up ghc.nix with lorri - NixOS]]
+[[https://nixos.wiki/wiki/NixOS_on_ZFS][NixOS on ZFS - NixOS Wiki]]
+[[https://elvishjerricco.github.io/2018/12/06/encrypted-boot-on-zfs-with-nixos.html][Encrypted /boot on ZFS with NixOS]]
+[[https://github.com/brainrape/nixform][brainrape/nixform]]
+[[https://sevdev.hu/posts/2017-12-26-discovering-nix-deploying-a-simple-nginx-with-nixops.html][Discovering Nix: Provisioning a static webserver with NixOps]]
+[[https://hugoreeves.com/posts/2019/continuously-delivering-this-blog-with-nix-hugo-and-circleci][Continuously Delivering this Blog with Nix, Hugo and CircleCI]]
+[[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][configuring infra in nix]]

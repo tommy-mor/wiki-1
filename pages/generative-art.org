@@ -1,0 +1,5 @@
+#+TITLE: Generative Art
+https://wiki.xxiivv.com/site/methascope.html
+https://wiki.xxiivv.com/site/vast.html
+https://wiki.xxiivv.com/site/lard_shader.html lard shader automation
+https://wiki.xxiivv.com/site/brane.html digital fabrics

@@ -15,3 +15,11 @@ Lisp is an elegant programming language referred to as 'better than blub'.
 [[http://lisperator.net/blog/the-left-pad-case/][leftpad]]
 [[http://lisperator.net/blog/minesweeper-and-interviewing/][minesweeper and interviewing]]
 https://www.datprotocol.com/ hypermedia protocol!
+
+[[https://www.dreamsongs.com/ArtOfLisp.html][The Art of Lisp &amp; Writing]]
+
+[[http://www.marktarver.com/bipolar.html][The Bipolar Lisp Programmer]]
+
+[[https://ambrevar.xyz/blog-architecture/index.html][A blog in pure Org/Lisp]]
+
+http://pkotrcka.inlisp.org/

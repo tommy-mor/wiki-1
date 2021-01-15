@@ -15,3 +15,10 @@ Information about self-hosting.
 - [[https://electro.pizza/2020/05/selfhosting-cloudshell2/][Selfhosting Cloudshell]] :: A NAS self host with documentation.
 * Resources
 - [[https://github.com/awesome-selfhosted/awesome-selfhosted][Awesome Self-Hosted Projects]]
+
+* Good server hosting
+
+- [[https://www.gandi.net/en-US][gandi.net]] :: good web hosting
+- [[https://njal.la/][njal.la]] :: completely anon dns hosting server, comes with secure vps in sweden
+- [[vultr.com][vultr]] :: the one i'm currently using, best specs for a $10 vps I could find
+- digitalocean :: also a great cloud service

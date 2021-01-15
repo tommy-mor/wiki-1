@@ -230,3 +230,12 @@ wrap dough around some sausage in facny way
 bread rolls with leftover!!
 (tangzhong milk breat)
 
+* some links
+[[https://www.ica.se/recept/appelkladdkaka-med-kanelfrosting-725976/][Äppelkladdkaka med kanelfrosting | Recept ICA.se]]
+[[https://www.healthline.com/nutrition/water-kefir][What Is Water Kefir? Benefits, Uses and Recipe]]
+[[https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies][BA&#039;s Best Chocolate Chip Cookies Recipe | Bon Appetit]]
+[[https://github.com/grocy/grocy/issues/210][scraping Online food Recipes #210]]
+https://www.benawad.com/scraping-recipe-websites/
+https://github.com/schollz/ingredients extract ingredients from any recipe on the internet
+https://github.com/schollz/extract_recipe
+[[https://github.com/schollz/ingredients][Extract recipe ingredients from any recipe website on the internet.]]

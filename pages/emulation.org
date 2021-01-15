@@ -23,3 +23,4 @@ https://www.reddit.com/r/VFIO/comments/hyerum/problem_with_pci_passthrough_in_kv
 https://dominicm.com/gpu-passthrough-qemu-arch-linux/
 [[https://github.com/mattrberry/CryBoy][game boy em]]
 [[https://github.com/mattrberry/chip-8_nim][chip8 em in nim]]
+https://wiki.xxiivv.com/site/gyo.html

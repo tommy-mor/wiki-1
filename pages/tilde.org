@@ -1,0 +1,20 @@
+#+TITLE: Tilde
+
+Tilde servers are a callback to an old internet - one of interactive unix servers!
+
+* Tech
+- [[https://tilde.town/~dustin/projects/tilde-social/][tilde social]] :: 'A flat-file social network'
+[[https://tilde.town/~dustin/wiki/library/][tilde library ]][[file:books.org][Books]]
+
+[[https://www.edwinwenink.xyz/posts/47-tilde_server/][Setting up your own tilde club (UNIX)]]
+
+[[http://tilde.town/][tilde.town]]
+[[http://tilde.club/][Welcome to ~tilde.club~]]
+
+[[https://tilde.town/~dustin/projects/tilde-social][https://tilde.town/~dustin/projects/tilde-social]]
+[[https://tilde.town/~dustin/wiki/library][https://tilde.town/~dustin/wiki/library]]
+
+tildegit :: git for the tildeverse!
+[[https://dev.upvote.blog/][seems like an organic place to spend time on the internet]]
+
+[[https://gopher.tildeverse.org/tildeverse.org][tilde. in gopher.]]

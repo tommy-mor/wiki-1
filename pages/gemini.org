@@ -69,3 +69,28 @@ https://withknown.com/ neat publishing engine that may include gemini code
 stunnel and xinetd for gemini. gemini is a great content oriented portable
 thing and community
 https://portal.drewdevault.com/x/rawtext.club/social_contract.gmi the social contract of rawtext.club, a prominent gemini community! cool inspiration
+
+[[https://alexschroeder.ch/cgit/gemini-wiki/about/?h=main][gemini-wiki - A Gemini and Titan wiki]]
+
+[[https://proxy.vulpes.one/gemini/tanelorn.city/~vidak/epicurics-manifesto.gemini][tanelorn.city/~vidak/epicurics-manifesto.gemini - Gemini proxy]]
+
+[[https://github.com/mbrubeck/agate][mbrubeck/agate: Very simple server for the Gemini hypertext protocol]]
+
+[[https://gemini.circumlunar.space/docs/best-practices.html][Gemini best practices]]
+[[https://portal.mozz.us/gemini/gemini.circumlunar.space/software/][gemini software!!]]
+https://alexschroeder.ch/wiki/2020-06-04_Gemini_Upload the small internet and
+gemini uplaod
+
+https://alexschroeder.ch/wiki/2020-06-05_Gemini_Write
+
+https://alexschroeder.ch/wiki/2019-06-21_Solderpunk's_Gemini_Protocol more on the gemini protocol :: and why it may not be liked
+
+https://github.com/pitr/gig/blob/master/README.md gemini dev framework
+https://portal.mozz.us/gemini/gem.limpet.net/agate/ agate server for static
+files over gemini
+
+https://git.sr.ht/~yotam/shavit configurable gemini server
+
+[[https://alexschroeder.ch/wiki/2020-06-04_Gemini_Upload][Alex Schroeder: 2020-06-04 Gemini Upload]]
+
+[[https://portal.mozz.us/gemini/gemini.circumlunar.space/docs/specification.gmi][Gemini Gateway]]

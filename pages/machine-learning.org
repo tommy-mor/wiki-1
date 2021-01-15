@@ -15,6 +15,20 @@ https://github.com/joseph-zhong/LipReading yes
 https://github.com/RasaHQ/rasa ml framework for automating text conversations
 
 * ETC
+
+[[https://numenta.com/blog/2019/08/30/case-for-sparsity-in-neural-networks-part-1-pruning][The case for sparsity in neural networks, Part 1: Pruning]]
+[[https://github.com/karpathy/micrograd][ tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API]]
+https://stites.io/ -- great writing on neural networks
+[[https://pjreddie.com/darknet/][Darknet: Open Source Neural Networks in C]]
+[[https://karpathy.github.io/2019/04/25/recipe/][A Recipe for Training Neural Networks]]
+[[https://deepmind.com/blog/article/Towards-understanding-glasses-with-graph-neural-networks][Towards understanding glasses with graph neural networks | DeepMind]]
+[[http://neuralnetworksanddeeplearning.com/][Neural networks and deep learning]]
+https://machinelearningmastery.com/learn-add-numbers-seq2seq-recurrent-neural-networks/
+https://www.reddit.com/r/MachineLearning/comments/6l2esd/d_why_cant_you_guys_comment_your_fucking_code/
+[[https://forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp?__twitter_impression=true][Meet The Stanford AI Lab Alums That Raised $15 Million To Optimize Machine Learning]]
+[[https://www.reddit.com/r/MachineLearning/comments/i1aafb/p_i_trained_a_gan_to_generate_photorealistic_fake/][[P] I trained a GAN to generate photorealistic fake penises - MachineLearni]]
+[[https://github.com/h2oai/h2o-3][h2oai/h2o-3: Open Source Fast Scalable Machine Learning Platform For Smarte]]
+[[https://www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp/?__twitter_impression=true][https://www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp/?__twitter_impression=true]]
 [[https://link.springer.com/book/10.1007/978-1-4302-5990-9?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=BBKK_1_DL01_GL_twitterorganic&sf234521345=1][book by rahul khanna]]
 [[https://news.ycombinator.com/item?id=23345379][gpt 3]]
 https://www.reddit.com/r/MachineLearning/comments/i1aafb/p_i_trained_a_gan_to_generate_photorealistic_fake/ fun with generating gans

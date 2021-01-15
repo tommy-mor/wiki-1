@@ -75,3 +75,8 @@ https://deianeira.co : great web design. wow
 vertically aligned logos, cool font, 'alter ego', quick journal
 https://neil.computer/notes/the-design-of-diskprices-com/ amazing minimal site with a few notes on making it the best it can be
 http://ericmotil.com/
+[[http://clrs.cc/][default web colors for sites optimized for the browser]]
+https://web.archive.org/web/20191125141522/http://www.070shake.net/ an incredible site!
+
+[[https://themesberg.com/product/ui-kit/windows-95-ui-kit][Windows 95 UI Kit - Themesberg]]
+[[https://github.com/brainrape/windows-95-ui-kit][brainrape/windows-95-ui-kit: ? Windows 95 UI Kit made with Bootstrap 4 comp]]

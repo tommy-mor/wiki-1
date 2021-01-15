@@ -14,3 +14,16 @@ https://github.com/RSS-Bridge/rss-bridge
 https://github.com/bcongdon/rssfilter/blob/master/README.md filter rss feeds
 https://freshrss.org/ self hosted rss
 [[https://kill-the-newsletter.com/][convert email newsletters to rss feeds!]]
+
+[[https://twtxt.readthedocs.io/en/stable/][Welcome to twtxt! — twtxt 1.2.3 documentation]]
+[[https://www.baty.net/2019/twtxt/][twtxt - Jack Baty&#039;s weblog]]
+[[https://baty.net/2019/twtxt][twtxt]]
+[[https://github.com/buckket/twtxt][buckket/twtxt: Decentralised, minimalist microblogging service for hackers.]]
+[[https://benjamincongdon.me/blog/2020/01/14/Tips-for-Customizing-Hugo-RSS-Feeds/][Tips for Customizing Hugo RSS Feeds | Ben Congdon]]
+[[https://codarium.substack.com/p/returning-the-killed-rss-of-reuters][Returning the &quot;killed&quot; RSS of Reuters from the dead - CODARIUM]]
+[[https://github.com/bcongdon/rssfilter/blob/master/README.md][rssfilter/README.md at master · bcongdon/rssfilter]]
+[[https://github.com/DIYgod/RSSHub][DIYgod/RSSHub: ? Everything is RSSible]]
+[[https://webring.xxiivv.com/#rss][rss!]]
+[[https://about.flipboard.com/inside-flipboard/rss-feed-on-flipboard/][How and Why You Should Add Your RSS Feed to Flipboard]]
+[[https://addons.mozilla.org/en-US/firefox/addon/awesome-rss/][Awesome RSS – Get this Extension for ? Firefox (en-US)]]
+[[https://www.petefreitag.com/item/384.cfm][How to add RSS Autodiscovery to your site]]

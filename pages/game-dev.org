@@ -11,3 +11,11 @@ Notes on game development.
 The Doom black book.
 https://www.reddit.com/r/madeinhaskell/comments/hzwg2b/mallrl_a_grocery_shopping_roguelike_created_in_7/ a grocery shopping roguelike!
 dwarf fortress
+
+[[https://extremeistan.wordpress.com/][extremeistan | thoughts about computer graphics, game engine programming]]
+
+[[https://www.reddit.com/r/videos/comments/hm9zeb/guy_makes_a_game_engine_that_works_in_a_very/][Guy makes a game engine that works in a very different way - videos]]
+
+[[https://love2d.org/][LÖVE - Free 2D Game Engine]]
+
+[[https://m.youtube.com/watch?v=hbKN-9o5_Z0][Mary Live Codes A JavaScript Game From Scratch – Mary Rose Cook / Front-Tre]]

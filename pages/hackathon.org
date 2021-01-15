@@ -292,3 +292,6 @@ this should be for nontechnical users that want to use linux, so they don't have
 
 * generative music
 yes
+* Generative poems
+inspiration:
+- https://wiki.xxiivv.com/site/the_will_the_wisp.html

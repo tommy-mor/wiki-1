@@ -309,8 +309,21 @@ https://ramaworks.store/products/grid-set-b?variant=31922049318990 neat
 keycaps
 
 [[https://docs.splitkb.com/hc/en-us/articles/360011091759][get elite c, sockets]]
-
+[[https://keyboard-design.com/best-keyboard-layouts.html][Keyboard-Design.com - Current Best Keyboard Layouts]]
 [[https://vlukash.com/2019/01/15/trackpad-in-keycap-corne-crkbd-keyboard/#more-544][kb trackpad]]
+
+[[https://github.com/crsnbrt/keysim][Design and test virtual 3d keyboards.]]
+[[https://github.com/hsgw/plaid][2x4 ortholinear usb keyboard made by Through Hole components ONLY.]]
+
+[[https://github.com/osls/code-layout][osls/code-layout: `CODE` keyboard layout --- for all computer users]]
+[[https://www.reddit.com/r/MechanicalKeyboards/comments/hgqwwu/rpi_cyberdeck_with_raspberry_pi_4/][RPI Cyberdeck with Raspberry Pi 4. - MechanicalKeyboards]]
+[[https://github.com/ItayGarin/ktrl][ItayGarin/ktrl: A Supercharged Keyboard Programming Daemon ⌨️]]
+[[http://xahlee.info/kbd/ergonomic_keyboards_index.html][Ergonomic Keyboard Reviews]]
+[[http://nikolay.rocks/2016-10-22-keyboard-analytics][Nikolay.Rocks » Optimal Keyboard]]
+[[https://forum.colemak.com/topic/2147-limiting-keyboard-use-to-only-easytoreach-keys/][Limiting keyboard use to only easy-to-reach keys - General - Colemak forum]]
+[[http://xahlee.info/kbd/most_efficient_keyboard_layout.html][What&amp;#39;s the Most Efficient Keyboard Layout?]]
+[[https://forum.colemak.com/topic/2206-planck/][Planck - General - Colemak forum]]
+[[https://neo-layout.org/index_en.html][Neo – Keyboard Layout]]
 
 ** IDEA: configuration has two types of keymappings.
 one is relative to the
@@ -321,3 +334,9 @@ http://xahlee.info/kbd/most_efficient_keyboard_layout.html the most efficient ke
 https://forum.colemak.com/topic/2206-planck/
 https://forum.colemak.com/topic/2147-limiting-keyboard-use-to-only-easytoreach-keys/
 [[http://thedarnedestthing.com/rolling%20qmk%20modifiers%20revisited][keyboard modifiers for qmk]]
+* one handed keyboards
+https://wiki.xxiivv.com/site/juni.html
+
+[[https://github.com/NatTuck/Twiddler][NatTuck/Twiddler: Files for Twiddler one hand chording keyboard]]
+* colemak
+[[https://rgoswami.me/posts/colemak-dots-refactor][Refactoring Dotfiles For Colemak]]

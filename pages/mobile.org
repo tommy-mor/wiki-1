@@ -5,3 +5,9 @@ Resources for mobile devices.
 
 https://www.thelightphone.com/ :: a minimal mobile device
 mimic much of this design in an android launcher! i love how minimal it is and the black would look as perfect on AMOLED as it does on e-ink, if not better
+[[https://nanolx.org/nanolx/nanodroid][debloat the android rom, nanodroid]]
+[[https://www.reddit.com/r/degoogle/comments/gu2kk9/lineageos_vs_e_vs_alternatives/][LineageOS vs /e/ vs alternatives - degoogle]]
+[[https://code.tutsplus.com/tutorials/create-a-custom-keyboard-on-android--cms-22615][Create a Custom Keyboard on Android]]
+[[https://www.androidauthority.com/lets-build-custom-keyboard-android-832362/][Let&#039;s build a custom keyboard for Android - Android Authority]]
+[[https://m.youtube.com/watch?v=Y3O6m3otNO0][Tensegrity Lamp Running ColorChord on Android with USB in C - YouTube]]
+[[https://www.amazon.com/BOOX-Nova2-ePaper-Android-Reader/dp/B085NQV3NF/ref=sr_1_3?dchild=1&amp;keywords=eink+tablet&amp;qid=1594099132&amp;sr=8-3][Amazon.com: BOOX Nova2 7.8 ePaper Eink Tablet, 300 DPI Android 9.0 Front Li]]

@@ -12,3 +12,11 @@ https://github.com/MetaCoq/metacoq metaprogramming
 https://github.com/atharvashukla/coq-tactics-index index of coq tactics and their meanings
 https://github.com/UniMath/UniMath coq and math?
 https://github.com/codyroux/name-the-biggest-number proving the biggest number in coq constructively
+
+[[https://github.com/dmelcer9/coq-lunch-learn][dmelcer9/coq-lunch-learn]]
+[[https://reddit.com/r/ProgrammingLanguages/comments/hx442x/a_formally_verified_highlevel_synthesis_tool][A formally verified high-level synthesis tool based on CompCert and written in Coq]]
+[[https://www.cs.princeton.edu/~ckorkut/][cs guy working on certicoq]]
+[[https://github.com/cpitclaudel/alectryon][A collection of tools for writing technical documents that mix Coq code and prose.]]
+[[https://github.com/pedrotst/coquedille][Coq to Cedille compiler written in Coq]]
+[[https://github.com/jwiegley/category-theory][An axiom-free formalization of category theory in Coq for personal study and practical work]]
+[[https://softwarefoundations.cis.upenn.edu][Software Foundations]]

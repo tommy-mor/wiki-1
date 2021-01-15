@@ -57,3 +57,10 @@ If you need to change commit history:
 This did change the commit time for my latest commit, which is something to watch out for.
 * How Git Works
 [[https://blog.jcoglan.com/2017/09/19/the-patience-diff-algorithm/][Neat writeup on the Git patience diff algorithm]]
+[[https://github.com/MichaelMure/git-bug]["Distributed, offline-first bug tracker embedded in git, with bridges"]]
+
+[[https://github.com/jskjott/git-for-filmmakers][Prototype Git GUI for Filmmaking]]
+
+[[https://github.com/ralphbean/bugwarrior]["Pull github, bitbucket, and trac issues into taskwarrior"]]
+
+[[https://github.com/jonas/tig][Text-mode interface for git]]

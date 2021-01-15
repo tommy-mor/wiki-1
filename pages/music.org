@@ -141,10 +141,9 @@ https://www.youtube.com/watch?v=JZ5yPdoPooU
 https://www.youtube.com/watch?v=x-1_TEETVOA
 https://www.reddit.com/r/synthesizers/comments/fxhogj/im_a_bassist_and_producer_and_i_love_synths_i/
 
-
 * music
+https://www.youtube.com/watch?v=SqayDnQ2wmw
 [[https://www.youtube.com/watch?v=ONloOhDLrFU&app=desktop][inspiration: turning ideas into tracks]]
-[[https://www.bitwig.com/en/bitwig-studio.html][bitwig: linux daw]]
 [[https://keithclark.github.io/ZzFXM/tracker/?url=https://raw.githubusercontent.com/keithclark/ZzFXM/master/examples/songs/sanxion.js][ZzFXM Tracker synthesizer]]
 https://codepen.io/kucerajacob/pen/GRqBQNV drum sequencer with sample pad
 [[https://m.youtube.com/watch?feature=youtu.be&v=OP8bsXbJlpw][devine using orca well]]
@@ -161,3 +160,29 @@ baile and drip - vhoor
 https://wiki.xxiivv.com/site/listening.html
 https://www.reddit.com/r/aphextwin/comments/k4c42v/songs_like_avril_14th/
 https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992 cool textbook for algorithmic music
+* Generative music
+** SuperCollider
+https://www.emacswiki.org/emacs/SuperCollider
+[[http://ccrma.stanford.edu/planetccrma/software/supercollider-en/][How to make SuperCollider go &quot;beep&quot;]]
+[[https://m.youtube.com/watch?v=YUIPcXduR8E][Jessica Garson - Making Music with Python, SuperCollider and FoxDot - PyCon]]
+[[https://github.com/lvm/build-supercollider][build-supercollider]]
+[[https://github.com/theseanco/howto_co34pt_liveCode]["A repository of readmes, techniques, notes and other materials about how i live code in SuperCollider. A (sorta) companion repository to co34pt_livecode "]]
+[[https://www.reddit.com/r/vim/comments/hwdehp/vim_osc_livecoding/][Vim   OSC = Livecoding - vim]]
+** TidalCycles
+https://gist.github.com/kindohm/9388957
+[[http://pages.tidalcycles.org/getting_started.html#linux][Tidal - Getting Started]]
+[[https://news.ycombinator.com/item?id=13947537][TidalCycles – A language for the Live Coding pattern | Hacker News]]
+[[https://tidalcycles.org/index.php/Linux_installation][Linux installation - TidalCycles userbase]]
+[[https://tidalcycles.org/index.php/Welcome][TidalCycles userbase]]
+[[https://news.ycombinator.com/item?id=13947537][TidalCycles – live music coding : Hacker News]]
+** Overtone
+[[https://github.com/overtone/overtone/][overtone/overtone: Collaborative Programmable Music]]
+
+[[https://github.com/overtone/overtone][Collaborative Programmable Music ]]
+** Orca
+[[https://llllllll.co/t/orca/22492][Orca - Library - lines]]
+[[https://metasyn.github.io/learn-orca/#percussion][LEARN ORCΛ~]]
+[[https://github.com/hundredrabbits/Pilot][hundredrabbits/Pilot: Orca&#039;s best friend.]]
+[[https://futureofcoding.org/episodes/045][45 • Devine Lu Linvega • Orca | Future of Coding]]
+* Physical generative devices
+[[https://wiki.xxiivv.com/site/telekinesis.html][telekinetic music from devine]]
