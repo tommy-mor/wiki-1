@@ -12,7 +12,14 @@ https://github.com/k-vernooy/tetris simple example tetris terminal app
 
 * 100R
 Program fluently with C89 + SDL (standard library) even GUI applications?
+[[https://networkencyclopedia.com/ansi-c-c/][ANSI C/C   – Network Encyclopedia]]
 * C Style
 https://aiju.de/misc/c-style
 https://ftrv.se/3
 [[https://stackoverflow.com/questions/17014835/where-can-one-find-the-c89-c90-standards-in-pdf-format#17015061][links to the C standards]]; inb4 undefined behavior
+* Tiny compilers
+https://bellard.org/otcc/
+[[https://bellard.org/tcc/ ][tiny c compiler]]
+
+http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html cool project for a
+tiny compiler in python!

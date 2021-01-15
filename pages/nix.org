@@ -32,13 +32,14 @@ Nix is a functional package manager that isolates and sandboxes dependencies.
 
 * Evaluation
 ** Why NixOS?
-[[https://medium.com/@jethroksy/a-year-with-nixos-113b534f446b][src]] [[https://myme.no/posts/2020-01-26-nixos-for-development.html][src2]]
+[[https://medium.com/@jethroksy/a-year-with-nixos-113b534f446b][src]] [[https://myme.no/posts/2020-01-26-nixos-for-development.html][src2]] [[https://engineering.shopify.com/blogs/engineering/what-is-nix][what is nix?]]
 - It's the simplest way to quickly iterate and try new programs. From `nix-shell` to `nix-env` to configuration options like `windowManager.xmonad.enable`, it's incredibly easy to swap parts of your system in very few lines of code. A lot of the grunt work has been done already to ensure that common configurations are perfectly functional and reproducible out of the box.
 - It's trivial to revert the state of your system. All it takes is booting to a previous NixOS interation.
 - Declaring SystemD services happens in one place and is incredibly simple! No more managing configuration files scattered throughout your computer - you can 'metaprogram' them in Nix and serialize the files out to disk. This applies to lots of other types of files, too; I use templates to manage color schemes for all of my applications, for example.
 - It's incredibly simple to set up reproducible build environments for writing and running code, especially in sandboxes when you don't want to confuse your globally installed programs.
 ** Nix vs. Docker
 [[https://discourse.nixos.org/t/is-there-much-difference-between-using-nix-shell-and-docker-for-local-development/807][src]] [[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][src2]] [[https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix][src3 (has good NixOps tutorial too)]]
+[[https://discourse.nixos.org/t/is-there-much-difference-between-using-nix-shell-and-docker-for-local-development/807][Nix vs Docker for local development]]
 - Docker image is a snapshot of a machine that was assembled by running commands in a particular fashion
 - Making changes to the machine introduces nondeterminism; shell commands typically fetch information from outside sources that aren't pinned, so they change over time, and the functionality of your container will change as time progresses. Builds in Nix when properly pinned will not diverge the same way other deployment systems do.
 - There is no absolute guarantee that your Docker image produces the same image every rebuild
