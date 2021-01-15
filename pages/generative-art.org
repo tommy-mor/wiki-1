@@ -11,5 +11,6 @@ https://wiki.xxiivv.com/site/moogle.html wireframe editor
 https://constraint.systems/ [[file:text-editors.org][Text Editors]]
 [[https://etch.constraint.systems/][Etch]]
 [[https://mobile.twitter.com/alexandrosM/status/1314383329894912000][Alexandros Marinos on Twitter: &quot;Machines are making beautiful things without even trying to. We ask them to make something that optimizes for our requirements, they give us something back that looks surprisingly like nature. What is going on? A Thread https://t.co/809cWhc4ft&quot; / Twitter]]
+[[https://futuristan.io][index | futuristan.io :: contemporary and digital art]]
 [[https://hex.constraint.systems/][Hex]]
 [[https://constraint.systems/mobile/][Constraint Systems]]

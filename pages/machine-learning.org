@@ -120,3 +120,7 @@ https://github.com/semi-technologies/weaviate vector search engine for scaling m
 [[https://github.com/h2oai/h2o-3][h2oai/h2o-3]]
 [[https://colah.github.io/posts/2015-08-Understanding-LSTMs][Understanding LSTM Networks]]
 [[https://jim-stone.staff.shef.ac.uk/BookBayes2012/books_by_jv_stone/index.html][Artificial Intellgence Engines]]
+[[https://web.stanford.edu/class/cs330/][CS 330 Deep Multi-Task and Meta Learning]]
+[[https://github.com/mdroste/stata-pylearn][mdroste/stata-pylearn: Supervised learning algorithms in Stata]]
+
+[[https://course.fullstackdeeplearning.com/][Full Stack Deep Learning - Full Stack Deep Learning]]

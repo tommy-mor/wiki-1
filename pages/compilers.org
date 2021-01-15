@@ -90,3 +90,5 @@ https://github.com/doctorn/micro-mitten
 [[https://skillsmatter.com/skillscasts/14803-what-s-in-a-functional-compiler][What&#039;s in a Functional Compiler? | SkillsCast | 30th July 2020]]
 [[https://mobile.twitter.com/wilbowma/status/1314723979693682688][William J. Bowman @wilbowma@mastodon.social on Twitter: &quot;I generated language validators from my compiler course assignment specifications, turned them into contracts for my reference solution, and it&#39;s just finding bug after bug after bug. Bugs in specs, bugs in tests, bugs in implementation.&quot; / Twitter]]
 [[http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/][Debugging compilers with optimization fuel : Inside 245-5D]]
+
+[[https://generalproblem.net/lets_build_a_compiler/01-starting-out/][The General Problem]]

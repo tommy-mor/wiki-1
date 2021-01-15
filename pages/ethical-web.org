@@ -151,3 +151,5 @@ this is a general build philosophy addressing the chicken and egg problem --
 to trust platforms, we must see how each part is produced from source, but we
 do not have access to the source of compiled code when we run it against the
 language they are compiling!
+
+[[https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled][How to detect if JavaScript is disabled?]]

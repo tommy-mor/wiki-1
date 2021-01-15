@@ -238,4 +238,5 @@ bread rolls with leftover!!
 https://www.benawad.com/scraping-recipe-websites/
 https://github.com/schollz/ingredients extract ingredients from any recipe on the internet
 https://github.com/schollz/extract_recipe
+https://www.youtube.com/watch?app=desktop&feature=youtu.be&v=uxi7BP9ppoQ
 [[https://github.com/schollz/ingredients][Extract recipe ingredients from any recipe website on the internet.]]

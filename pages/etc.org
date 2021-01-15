@@ -43,7 +43,6 @@ https://github.com/joeycastillo/The-Open-Book open book project; open source dev
 [[https://github.com/papers-we-love/papers-we-love][papers we love in cs]]
 [[https://github.com/ocharles/papers][git annex repo of papers]]
 
-https://github.com/aepsilon/turing-machine-viz visualize turing machines and dfas
-https://github.com/ArchiveBox/ArchiveBox open source self hosted web archive
 
 https://apps.ankiweb.net/
+http://matt.might.net/articles/electric-meat/

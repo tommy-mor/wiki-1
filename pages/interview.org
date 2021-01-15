@@ -11,3 +11,7 @@ Advice and content for programming interviews and interview prep.
 - [[https://github.com/viraptor/reverse-interview][Reverse interview]] :: good questions to ask the company during your interview
 https://github.com/harshibar/common-intern
 [[https://news.ycombinator.com/item?id=20916749][questions to ask during the job interview]]
+[[https://news.ycombinator.com/item?id=23516751][Storytelling Tips for Technical Interviews | Hacker News]]
+[[https://usesthis.com/interviews/rachel.demy/][great interviews and website]]
+https://www.maa.org/news/interview-tony-derose  -- from computer graphics pioneer
+https://aphyr.com/posts/342-typing-the-technical-interview excellent article

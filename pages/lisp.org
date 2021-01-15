@@ -30,6 +30,9 @@ https://github.com/chr15m/flk
 https://github.com/barak/oaklisp oo scheme
 
 * why lisp is good
+[[https://scsh.net/about/about.html][The Scheme Shell]]
+
+https://wespiser.com/writings/wyas/home.html write you a scheme
 [[https://www.dreamsongs.com/WIB.html][the lisp song]]
 [[https://twobithistory.org/2018/10/14/lisp.html][more lisp song and history]]
 [[https://www.gnu.org/software/mit-scheme/][mit scheme]]

@@ -48,7 +48,6 @@
 [[https://www.independent.co.uk/arts-entertainment/theatre-dance/features/is-tom-stoppards-arcadia-the-greatest-play-of-our-age-1688852.html][Is Tom Stoppard&#39;s Arcadia the greatest play of our age? | The Independent]]
 [[https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727]]
 [[https://medium.com/message/networks-without-networks-7644933a3100][The Sixth Stage of Grief Is Retro-computing | by Paul Ford | The Message | Medium]]
-[[https://mobile.twitter.com/wilbowma/status/1306446403439177730][William J. Bowman @wilbowma@mastodon.social on Twitter: &quot;Last time, asked students to prove the empty set is not equal to the set containing the empty set. This time, I asked them to prove 1 is not equal to 0. This was by mistake. Thankfully, has resulted in a most pedantic discussion about whether we know conjunction is commutative.&quot; / Twitter]]
 [[https://cryptpad.fr/][CryptPad: Zero Knowledge, Collaborative Real Time Editing]]
 [[https://en.m.wikipedia.org/wiki/Boltzmann_machine][Boltzmann machine - Wikipedia]]
 [[https://bismuth.garden/now][Now — Bismuth Garden]]
@@ -70,7 +69,6 @@
 [[https://slatestarcodex.com/2020/04/20/the-amish-health-care-system/][The Amish Health Care System | Slate Star Codex]]
 [[https://ccrma.stanford.edu/~jos/][JOS Home Page]]
 [[https://sydgibs.com/][Sydney Gibson]]
-[[https://www.mass-driver.com/][Mass-Driver™]]
 [[https://www.blobmaker.app/][Blobmaker - Make organic SVG shapes for your next design]]
 [[https://zcreativelabs.com/][z creative labs – a creative coding and data visualisation studio]]
 [[https://raymii.org/s/][Homepage - Raymii.org]]
@@ -95,7 +93,6 @@
 [[https://blakeir.com/][Blake Robbins]]
 [[https://li.substack.com/p/unbundling-work-from-employment][Unbundling Work from Employment  - Li&#39;s Newsletter]]
 [[https://ziv.codes/][Ziv Scully]]
-[[http://www.impredicative.com/wiki/index.php/Code_Samples][Code Samples - Impredicative Wiki]]
 [[https://mobile.twitter.com/wcrichton/status/1309288667609874432][Will Crichton on Twitter: &quot;Really cool idea -- combining dynamic program slicing, unit tests, and source diffs to identify the purpose of particular pieces of code. Slicing is one of those obviously good ideas that never panned out b/c the human factors are tricky (see also: software visualization). https://t.co/Q798yj9byW&quot; / Twitter]]
 [[https://mynrd.co.uk/][Mynrd - Visual and Interaction Designer]]
 [[https://research.swtch.com/acme][research!rsc: A Tour of Acme]]
@@ -226,7 +223,6 @@
 [[https://oddworlds.org/][oddworlds soliloquy]]
 [[https://oddworlds.org/gallery/][oddworlds soliloquy]]
 [[https://opinionatedguide.github.io/][Opinionated Guides]]
-[[https://azlen.me/wiki/][Wiki]]
 [[https://azlen.me/][Home]]
 [[http://www.miha-co.ca/projects/masslessclouds][miha-co]]
 [[https://yiming.dev/][Welcome! - Yiming Chen]]
@@ -274,8 +270,6 @@
 [[http://www.cs.fsu.edu/~whalley/][David Whalley]]
 [[https://pijul.org/][Pijul]]
 [[https://store.moma.org/kids/games-puzzles/jason-freeny-brick-man-anatomical-puzzle/5123.html][Jason Freeny Brick Man Anatomical Puzzle | MoMA Design Store]]
-[[https://en.m.wikipedia.org/wiki/Hard-Boiled_Wonderland_and_the_End_of_the_World][Hard-Boiled Wonderland and the End of the World - Wikipedia]]
-[[https://stackoverflow.com/questions/5869825/when-should-one-use-a-spinlock-instead-of-mutex#5870415][When should one use a spinlock instead of mutex? - Stack Overflow]]
 [[https://m.youtube.com/watch?v=hKcOkWzj0_s][Caml Trading - YouTube]]
 [[https://en.m.wikipedia.org/wiki/Zooko's_triangle][Zooko&#39;s triangle - Wikipedia]]
 [[https://github.com/jmgrosen/shorai][jmgrosen/shorai: A super-amazing OS that will bring world peace.]]
@@ -293,7 +287,6 @@
 [[https://20xx.io/nxc/#login][20XX]]
 [[https://hologram.io/][Cellular Connectivity for the Internet of Things | Hologram]]
 [[https://www.ekioh.com/acid.html][Flow browser passes the Acid tests - Ekioh]]
-[[https://news.ycombinator.com/item?id=23516751][Storytelling Tips for Technical Interviews | Hacker News]]
 [[https://github.com/tevador/RandomX][tevador/RandomX: Proof of work algorithm based on random code execution]]
 [[https://itch.io/b/520/bundle-for-racial-justice-and-equality][Bundle for Racial Justice and Equality by itch.io and 1361 others - itch.io]]
 [[https://metager3.de/en/][MetaGer: Privacy Protected Search &amp; Find]]
@@ -303,15 +296,11 @@
 [[https://synthstrom.com/product/deluge/][Deluge - Synthstrom Audible]]
 [[https://en.m.wikipedia.org/wiki/Chekhov%27s_gun][Chekhov&#39;s gun - Wikipedia]]
 [[http://nathancorbyn.com/][Nathan Corbyn]]
-[[https://m.youtube.com/watch?feature=youtu.be&v=uxi7BP9ppoQ][]【小穎美食】豆腐裡加2個雞蛋，挑食孩子都愛吃，一周吃4次都嫌少，營養解饞 - YouTube]]
 [[https://taylorpearson.me/interesting/][Why History’s Greatest Innovators Optimized for Interesting -]]
 [[https://www.theredhandfiles.com/do-u-have-any-spare-lyrics/][Nick Cave - The Red Hand Files - Issue #43 - I&#39;m a songwriter. I&#39;m seriously blocked. Do u have any spare lyrics I can have? : The Red Hand Files]]
-[[http://homepages.inf.ed.ac.uk/libkin/fmt/fmt.pdf][]]]
 [[https://cse.buffalo.edu/~rapaport/510.html][PHILOSOPHY OF COMPUTER SCIENCE]]
 [[https://www.math.upenn.edu/~wilf/DownldGF.html][Download generatingfunctionology]]
-[[https://en.m.wikipedia.org/wiki/Simula][Simula - Wikipedia]]
 [[https://users.cs.northwestern.edu/~jesse/][Jesse A. Tov]]
-[[https://benkettle.xyz/][]]]
 [[http://math.stanford.edu/~ryzhik/STANFORD/STANF63CM-20/math63cm-20.html][Math 63CM Winter 2020]]
 [[https://en.m.wikipedia.org/wiki/File:Sun_Tzu_Chinese_remainder_theorem.svg][File:Sun Tzu Chinese remainder theorem.svg - Wikipedia]]
 [[https://www.portlandmercury.com/portland/the-best-of-3-am/Content?oid=48767][The Best of 3 AM - Feature - Portland Mercury]]
@@ -524,7 +513,6 @@
 [[https://en.m.wikipedia.org/wiki/Plan_9_from_Bell_Labs][Plan 9 from Bell Labs - Wikipedia]]
 [[https://www.techmobis.com/hack-samsung-smart-tv-jailbreak-root/][Jailbreak Samsung Smart TV - ????? ?? ???? ???? [ 100% Working ] ??]]
 [[http://www.paulgraham.com/vb.html][Life is Short]]
-[[https://m.youtube.com/watch?v=RVDCRlW1f1Y][William E Byrd - Relational Interpreters, Program Synthesis, and Barliman -]]
 [[https://gist.github.com/MaiaVictor/350cd2e318ad884c7c491c3dad7e3b1d][Formality-Core tutorial]]
 [[https://en.m.wikipedia.org/wiki/GNUnet][GNUnet - Wikipedia]]
 [[https://wayland-book.com/][Introduction - The Wayland Protocol]]
@@ -780,7 +768,6 @@
 [[https://en.m.wikipedia.org/wiki/Valis_(novel)][https://en.m.wikipedia.org/wiki/Valis_(novel)]]
 [[https://signalboost.info/][Signalboost: Secure Textblasts and Hotlines for Activists | Signalboost: Se]]
 [[https://chrismaughan.com/portfolio/zep/][ChrisMaughan.com]]
-[[https://www.amazon.com/gp/aw/ls/ref=?ie=UTF8&amp;%2AVersion%2A=1&amp;%2Aentries%2A=0&amp;lid=38HKSBK1W6CPU&amp;ty=wishlist][https://www.amazon.com/gp/aw/ls/ref=?ie=UTF8&amp;%2AVersion%2A=1&amp;%2Aentries%2A=0&amp;lid=38HKSBK1W6CPU&amp;ty=wishlist]]
 [[https://m.youtube.com/watch?v=Gzj723LkRJY&amp;feature=youtu.be][Ruby on Rails demo - YouTube]]
 [[http://www.jameschip.io/software.html][http://www.jameschip.io/software.html]]
 [[https://www.are.na/raul-altosaar][https://www.are.na/raul-altosaar]]
@@ -794,47 +781,30 @@
 [[https://blog.trailofbits.com/2020/05/22/emerging-talent-winternship-2020-highlights/][Emerging Talent: Winternship 2020 Highlights | Trail of Bits Blog]]
 [[https://blog.trailofbits.com/][Trail of Bits Blog]]
 [[https://blog.trailofbits.com/page/2/][Trail of Bits Blog | Page 2]]
-[[https://scsh.net/about/about.html][Scsh - The Scheme Shell]]
 [[http://www.deinprogramm.de/sperber/contact.html][Michael Sperber → Contact]]
 [[https://github.com/a1exdandy/ipwndfu-haywire][a1exdandy/ipwndfu-haywire: checkm8 for haywire]]
 [[https://panic.com/blog/the-lightning-digital-av-adapter-surprise/][Panic Blog » The Lightning Digital AV Adapter Surprise]]
 [[https://www.channelfireball.com/all-strategy/articles/analyzing-150-card-modern-scapeshift/][Analyzing 150-Card Modern Scapeshift - ChannelFireball - Magic: The Gatheri]]
-[[https://github.com/mdroste/stata-pylearn][mdroste/stata-pylearn: Supervised learning algorithms in Stata]]
 [[https://zsavvas.github.io/][Savvas Zannettou]]
-[[https://henry.codes/][Henry Desroches | Creative Developer &amp; UX Engineer]]
-[[https://web.stanford.edu/class/cs330/][CS 330 Deep Multi-Task and Meta Learning]]
 [[https://keras.io/examples/audio/speaker_recognition_using_cnn/][Speaker Recognition]]
 [[https://aaronweiss.us/posts/2014-06-04-write-up-l1.html][Aaron Weiss / Write-Up: λ1]]
-[[https://course.fullstackdeeplearning.com/][Full Stack Deep Learning - Full Stack Deep Learning]]
 [[http://mikhailkhoury.com/][Mikhail Khoury]]
 [[http://mikhailkhoury.com/woodworking/][Mikhail Khoury » Woodworking]]
 [[https://blog.jethro.dev/posts/remembrance_agents/][Experimenting with Remembrance Agents · Jethro Kuan]]
 [[https://www.oilshell.org/blog/2016/12/11.html#its-used-to-describe-the-structure-of-python][What is Zephyr ASDL?]]
 [[https://ashpex.neocities.org/][]~/ashpex]]
 [[https://www.reddit.com/r/MFPMPPJWFA][Niche as fuck]]
-[[https://github.com/merveilles/Time-Travelers][merveilles/Time-Travelers: List of artists and hackers using homegrown time]]
 [[https://craze.co.uk/][Rutherford Craze]]
 [[https://nomand.co/#gba][Legacy: Home]]
-[[https://emersion.fr/][emersion]]
 [[https://github.com/bphenriques][bphenriques (Bruno Henriques)]]
-[[https://notes.andymatuschak.org/zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma][]§What’s top of mind]]
-[[https://github.com/alex-shpak/hugo-book][alex-shpak/hugo-book: Hugo documentation theme as simple as plain book]]
 [[https://github.com/chessai/pump][chessai/pump: reverse dependency build matrix generator]]
-[[https://mobile.twitter.com/cybersygh/status/1281445769124261889][sotonye on Twitter: &quot;Reading the transcript for the arrest of George Floyd,]]
 [[https://github.com/google-research/torchsde][google-research/torchsde: Differentiable SDE solvers with GPU support and e]]
 [[https://www.cs.princeton.edu/research/techreps/TR-554-97][The Zephyr Abstract Syntax Description Language | Computer Science Departme]]
 [[https://t-ravis.com/#r=start&amp;c=look][The entrance to a small personal site]]
-[[https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled][html - How to detect if JavaScript is disabled? - Stack Overflow]]
-[[https://github.com/bphenriques/knowledge-base][bphenriques/knowledge-base: Personal Wiki]]
-[[https://wiki.nikitavoloboev.xyz/][Introduction - Everything I know]]
-[[http://okmij.org/ftp/][This FTP site]]
 [[https://mobile.twitter.com/jaltma/status/1281441060510552064][Jack Altman on Twitter: &quot;What’s something your parents did that you think w]]
 [[https://en.m.wikipedia.org/wiki/Gray_code][Gray code - Wikipedia]]
 [[http://www.jamesoconnor.xyz/][http://www.jamesoconnor.xyz/]]
 [[https://beepb00p.xyz/hpi.html][Human Programming Interface | beepb00p]]
-[[https://github.com/nikitavoloboev/knowledge/blob/master/other/wiki-workflow.md#similar-wikis-i-liked][knowledge/wiki-workflow.md at master · nikitavoloboev/knowledge]]
-[[https://tomcritchlow.com/2019/02/17/building-digital-garden/][Building a digital garden]]
-[[https://tomcritchlow.com/][Tom Critchlow. Move. Think. Create.]]
 [[https://www.brendanschlagel.com/2017/11/05/canonize-creating-personal-canon-template/][Canonize: Creating a Personal Canon Template – Brendan Schlagel]]
 [[http://worrydream.com/#!/quotes][Bret Victor, beast of burden]]
 [[https://numinous.productions/ttft/][How can we develop transformative tools for thought?]]
@@ -853,30 +823,16 @@
 [[https://leosaenger.com/][Leo Saenger]]
 [[https://legacy.cs.indiana.edu/dfried_celebration.html][Daniel P Friedman: A Celebration]]
 [[https://github.com/cassidoo/getting-a-gig][cassidoo/getting-a-gig: Guide for getting a gig as a tech major.]]
-[[https://parentheticallyspeaking.org/articles/pls-nature/][Programming Languages as Objects in Nature]]
 [[https://contact.framasoft.org/en/#help][Contact Framasoft]]
 [[https://www.1517fund.com/post/invisible-college][The Invisible College: $50k Investments - 1517 Fund]]
 [[https://m.youtube.com/watch?v=3Q6Fzbgs_Lg][The Internet&#039;s Own Boy: The Story of Aaron Swartz (Must Watch Documentary 2]]
 [[https://healeycodes.com/creating-randomness/][Creating Randomness Without Math.Random — Andrew Healey]]
-[[https://bearblog.dev/][ʕ•ᴥ•ʔ Bear Blog]]
 [[https://developer.github.com/v3/guides/building-a-ci-server/][Building a CI server | GitHub Developer Guide]]
 [[https://technomancy.us/184][in which a path is charted through the coming apocalypse - Technomancy]]
-[[https://t.co/G9PQ1UaIeq][Marcin Ignac on Twitter: &quot;I&#039;m fascinated by @andy_matuschak digital garden ]]
-[[https://snufk.in/blog/ssg-1.html][Writing a Static Site Generator in Nim (PART 1: How to Structure Content) |]]
 [[https://hao-w.github.io/][Hao Wu | hao-w.github.io]]
-[[https://systemoverlord.com/2020/06/25/stop-earn-it-and-laed.html][Stop EARN IT and LAED · System Overlord]]
 [[https://weasyprint.org/][Home Page - WeasyPrint]]
-[[https://generalproblem.net/][The General Problem]]
-[[https://github.com/mobile-shell/mosh][mobile-shell/mosh: Mobile Shell]]
-[[https://guix.gnu.org/][GNU&#039;s advanced distro and transactional package manager — GNU Guix]]
-[[https://stumpwm.github.io/][https://stumpwm.github.io/]]
-[[https://generalproblem.net/lets_build_a_compiler/01-starting-out/][The General Problem]]
-[[https://github.com/SimulaVR/Simula][SimulaVR/Simula: Linux VR Desktop]]
-[[https://www.youtube.com/watch?v=RBBiri3CD6w&amp;t=114][Coding in Stenography, Quick Demo]]
 [[https://codepen.io/michellebarker/pen/abdKLLz][Zig-zag gradient lab]]
-[[https://www.youtube.com/watch?v=3oHldF35FgA&amp;t=23][Breaking the 100 bits per second barrier with Matrix An entirely new transp]]
 [[https://t.co/c9CWUtCx77][Ava on Twitter: &quot;deeply soothed by this always https://t.co/c9CWUtCx77&quot; / T]]
-[[https://etherscan.io/apis][Ethereum Developers APIs | Etherscan]]
 [[https://t.co/UwuHHJAWW6][Ava on Twitter: &quot;mating by norman rush is incredibly funny https://t.co/Uwu]]
 [[https://mobile.twitter.com/TaliaRinger/status/1282769227498192896][Talia Ringer on Twitter: &quot;Every so often people complain that I post politi]]
 [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.456.5077&amp;rep=rep1&amp;type=pdf][http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.456.5077&amp;rep=rep1&amp;type=pdf]]
@@ -885,20 +841,15 @@
 [[https://medium.com/@jethroksy/the-mythical-man-month-is-the-tour-de-force-of-fred-brooks-a-software-engineer-and-architect-who-b56f0a72019d][The Mythical Man Month. The Mythical Man Month is the tour de… | by Jethro ]]
 [[http://doc.rix.si/cce/cce-browsers.html#32a64968-9490-41b0-a41f-309b988597ce][Complete Computing Environment: Web Browsing]]
 [[https://lbry.com/][LBRY - Content Freedom]]
-[[https://medium.com/@jethroksy/building-weight-bd0dcf9d09ea][Building “Weight”. A while back, Vishnu, Kevan and I… | by Jethro Kuan | Me]]
-[[https://ambrevar.xyz/articles.html][Articles]]
 [[https://ambrevar.xyz/homogeneous/index.html][Homogeneous Coordinates]]
-[[https://an-vu.com/Notes-on-Life][Notes on Life - An Vu]]
 [[https://limpet.net/mbrubeck/][Matt Brubeck]]
 [[https://github.com/Metabolix/HackBGRT][Metabolix/HackBGRT: Windows boot logo changer for UEFI systems]]
 [[https://github.com/jfecher/bidirectional/blob/master/bidi.ml][bidirectional/bidi.ml at master · jfecher/bidirectional]]
-[[https://github.com/Ahnfelt/funk][Ahnfelt/funk: PROTOTYPE: A minimal scripting language - OOP via lambda func]]
 [[https://github.com/wsddn/go-ecdh][wsddn/go-ecdh: Golang implementation of the elliptical curve diffie-hellman]]
 [[https://github.com/Smithay/smithay][Smithay/smithay: A smithy for rusty wayland compositors]]
 [[https://www.gatesnotes.com/2020-Annual-Letter][Why we swing for the fences | Bill Gates]]
 [[https://benfickes.dev/][Ben Fickes]]
 [[https://leonardschuetz.ch/blog][Leonard Schuetz]]
-[[https://leonardschuetz.ch/about][Leonard Schuetz]]
 [[https://pjrvs.com/][Paul Jarvis, author of Company of One and cofounder of Fathom Analytics]]
 [[https://rosswintle.uk/][Ross Wintle - Freelance technology, code and consultancy - Ross Wintle]]
 [[https://davidalindahl.com/][David A. Lindahl]]
@@ -922,7 +873,6 @@
 [[https://blog.kaufer.org/][Matt&#039;s Blog · Watch me try and solve problems with math]]
 [[https://capnproto.org/otherlang.html][Cap&#039;n Proto: Other Languages]]
 [[https://capnproto.org/cxx.html][Cap&#039;n Proto: C   Serialization]]
-[[https://www.p-ai.org/][P-ai]]
 [[http://www.vhemt.org/aboutvhemt.htm#novelties][ABOUT THE MOVEMENT]]
 [[https://int10h.org/blog/2020/07/oldschool-pc-font-pack-v2/][Ultimate Oldschool PC Font Pack v2.0 Released]]
 [[https://github.com/vabal/vabal][vabal/vabal: cabal in Valle]]
@@ -934,7 +884,6 @@
 [[http://acl2s.ccs.neu.edu/acl2s/doc/][ACL2s Home page/Documentation]]
 [[https://github.com/acoglio][acoglio (Alessandro Coglio)]]
 [[https://www.bdougie.live/][bdougie.live]]
-[[https://github.com/browserdotsys/vecchio][browserdotsys/vecchio: Rust implementation of Ray Tracing in One Weekend]]
 [[https://en.wikipedia.org/wiki/IEEE_754][IEEE 754 - Wikipedia]]
 [[https://hol-theorem-prover.org/][HOL Interactive Theorem Prover]]
 [[https://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html][The E Theorem Prover]]
@@ -1081,17 +1030,10 @@
 [[https://irreal.org/blog/?p=8950][Elfeed for Videos | Irreal]]
 [[https://t.co/XF74SmKOnH?amp=1][http://irenezhang.net/papers/CatOS.pdf]]
 [[https://www.reddit.com/r/onebag/comments/hwp1z5/laundry_checkin_whats_your_onebag_laundry_routine/][Laundry check-in. What&#039;s your onebag laundry routine? - onebag]]
-[[https://drive.google.com/drive/mobile/folders/1PCR9pCnbBNvaUovVo8IM2R2-13icbB0Q][sgtredbeard - Google Drive]]
-[[https://ruslanspivak.com/lsbasi-part1/][Let’s Build A Simple Interpreter. Part 1. - Ruslan&#039;s Blog]]
-[[https://github.com/demikernel/demikernel][demikernel/demikernel: Demikernel OS]]
-[[https://www.postgresql.org/docs/current/gin-intro.html][PostgreSQL: Documentation: 12: 66.1. Introduction]]
-[[https://www.reddit.com/r/opengl/comments/hwntc1/following_learnopenglcom_but_my_triangles_being/][Following learnopengl.com but my triangles being culled weirdly. Code in co]]
-[[https://unix.stackexchange.com/questions/474502/how-to-set-the-background-color-of-the-linux-console-screen][How to set the background color of the Linux console screen? - Unix &amp; Linux]]
+[[https://drive.google.com/drive/mobile/folders/1PCR9pCnbBNvaUovVo8IM2R2-13icbB0Q][sgtredbeard a Google Drive]]
 [[https://www.reddit.com/r/ProgrammingLanguages/comments/hx442x/a_formally_verified_highlevel_synthesis_tool/][A formally verified high-level synthesis tool based on CompCert and written]]
 [[https://xuset.github.io/planktos/][Planktos]]
-[[https://github.com/cylgom/ly][cylgom/ly: TUI (ncurses-like) display manager]]
 [[https://www.cylgom.net/index.html#body_div][cylgom - projects index and portfolio]]
-[[https://codepen.io/jda0/pen/ZEQwBNy][CC]]
 [[https://www.reddit.com/r/declutter/comments/hxsi7e/decluttering_is_most_effective_if_we_work_on/][Decluttering is most effective if we work on ourselves to break free of con]]
 [[https://explog.in/notes/walk.html][[wip] A Random Walk]]
 [[https://explog.in/notes/writingsetup.html][My Writing Setup]]
@@ -1103,20 +1045,12 @@
 [[https://www.causalflows.com/introductory/][Introductory | Causal Flows]]
 [[http://retiary.org/ls/writings.html][Laurie Spiegel - Published Writings]]
 [[https://www.reddit.com/r/socialskills/comments/hyl9oh/200_interesting_questions_to_get_to_know_anyone/][200 Interesting questions to get to know anyone on a deeper level - socials]]
-[[https://www.reddit.com/r/ProgrammingLanguages/comments/hyhc7b/which_languages_have_weak_references/][Which languages have weak references? - ProgrammingLanguages]]
 [[https://remis.io/][remis.io]]
-[[https://www.hillelwayne.com/post/frink/?utm_source=hillelwayne&amp;utm_medium=email][The Frink is Good, the Unit is Evil • Hillel Wayne]]
 [[https://www.reddit.com/r/selfimprovement/comments/hym0c2/live_consciously_it_changes_you_from_within/][Live consciously. It changes you from within - selfimprovement]]
-[[https://github.com/atharvashukla/koans][atharvashukla/koans: clojure koans]]
 [[https://www.reddit.com/r/selfimprovement/comments/hyq6jm/i_completed_60_days_of_meditation_for_1_hourday/][I Completed 60 Days of Meditation for 1 Hour/day and it cut my Anxiety away]]
-[[https://www.guerrilla-group.co/products/19s-es-pl04][19S-ES-PL04 | Guerrilla-Group]]
-[[https://www.instagram.com/canonsballs/][canon (@canonsballs) • Instagram photos and videos]]
-[[https://github.com/a327ex/BYTEPATH][a327ex/BYTEPATH: A replayable arcade shooter with a focus on build theorycr]]
 [[https://m.youtube.com/watch?v=NHIs9A6o4UM][How I&#039;m Earning MONEY Selling BROADBAND to People in 2020 ? - YouTube]]
 [[https://github.com/angrybacon/gitaxian-probability][angrybacon/gitaxian-probability]]
 [[https://github.com/callum-oakley/gotta-go-fast][callum-oakley/gotta-go-fast: A command line utility for practicing typing a]]
-[[https://www.reddit.com/r/ProgrammingLanguages/comments/hz2mcw/a_few_questions_about_parser_design/][A few questions about parser design - ProgrammingLanguages]]
-[[http://www.minimak.org/][Minimak - Home]]
 [[https://www.reddit.com/r/emacs/comments/hywxef/visually_differentiate_between_links_to_files_and/][Visually differentiate between links to files and links to websites in org-]]
 [[https://cs-syd.eu/posts/2020-07-28-how-to-deal-with-money-in-software][CS Syd - How to deal with money in software]]
 [[https://trevorstenson.dev/][Trevor Stenson]]
@@ -1125,10 +1059,7 @@
 [[https://acha.ninja/][acha.ninja]]
 [[https://github.com/ottomated/portfolio][ottomated/portfolio]]
 [[https://ottomated.net/][Ottomated]]
-[[https://www.alimirio.com/posts/advice][My humble advice to 22 year olds | Blog]]
-[[https://markmanson.net/how-to-grow-up][How to Grow Up and Be More Mature | Mark Manson]]
 [[http://nh2.me/][nh2]]
-[[http://frinklang.org/][Frink]]
 [[https://stoichuman.com/dopamine-detox-konmari-style/][I didn’t abandon dopamine altogether: Dopamine detox Konmari style]]
 [[https://en.m.wikipedia.org/wiki/Eckhart_Tolle][Eckhart Tolle - Wikipedia]]
 [[https://ocharles.org.uk/][ocharles.org.uk]]
@@ -1481,27 +1412,16 @@
 [[http://okmij.org/ftp][This FTP site]]
 [[https://wiki.nikitavoloboev.xyz][Introduction]]
 [[https://github.com/bphenriques/knowledge-base][Knowledge Base]]
-[[https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled][How to detect if JavaScript is disabled?]]
 [[https://emacswiki.org/emacs/DirectoryVariables][Directory Variables]]
 [[https://t-ravis.com#r=start&amp;c=look][travis a. everett]]
 [[https://cs.princeton.edu/research/techreps/TR-554-97][The Zephyr Abstract Syntax Description Language]]
 [[https://github.com/google-research/torchsde][PyTorch Implementation of Differentiable SDE Solvers]]
 [[https://mobile.twitter.com/cybersygh/status/1281445769124261889][sotonye]]
 [[https://github.com/chessai/pump][pump (the brakes)]]
-[[https://github.com/alex-shpak/hugo-book][alex-shpak/hugo-book]]
 [[https://notes.andymatuschak.org/zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma][§What’s top of mind]]
 [[https://github.com/bphenriques][Report or block bphenriques]]
 [[https://man.sr.ht/installation.md#packages][Installation]]
-[[https://emersion.fr][시몽]]
-[[https://wiki.xxiivv.com/site/tools.html][tools]]
-[[https://wiki.xxiivv.com/site/nataniev.html][nataniev]]
-[[https://nomand.co#gba][Legacy]]
-[[https://craze.co.uk][Index ⋅ Craze]]
-[[https://github.com/merveilles/Time-Travelers][merveilles/Time-Travelers]]
-[[https://wiki.xxiivv.com/site/calendar.html][calendar]]
-[[https://wiki.xxiivv.com/site/longtermism.html][longtermism]]
 [[https://reddit.com/r/MFPMPPJWFA][r/MFPMPPJWFA]]
-[[https://futuristan.io][index | futuristan.io :: contemporary and digital art]]
 [[https://ashpex.neocities.org][~/ashpex]]
 [[https://github.com/NatTuck/Twiddler][Twiddler files]]
 [[https://oilshell.org/blog/2016/12/11.html#its-used-to-describe-the-structure-of-python][What is Zephyr ASDL?]]
@@ -1515,12 +1435,10 @@
 [[https://henry.codes/about][About—]]
 [[https://henry.codes][Henry Desroches]]
 [[https://zsavvas.github.io][Savvas Zannettou]]
-[[https://github.com/mdroste/stata-pylearn][pylearn]]
 [[https://channelfireball.com/all-strategy/articles/analyzing-150-card-modern-scapeshift][Analyzing 150-Card Modern Scapeshift]]
 [[https://panic.com/blog/the-lightning-digital-av-adapter-surprise][The Lightning Digital AV Adapter Surprise]]
 [[https://github.com/a1exdandy/ipwndfu-haywire][Open-source jailbreaking tool for many iOS devices]]
 [[http://deinprogramm.de/sperber/contact.html][Michael Sperber → Contact]]
-[[https://scsh.net/about/about.html][The Scheme Shell]]
 [[https://blog.trailofbits.com/page/2][Trail of Bits Blog]]
 [[https://blog.trailofbits.com/2020/05/22/emerging-talent-winternship-2020-highlights][Emerging Talent: Winternship 2020 Highlights]]
 [[https://tox.chat][A New Kind of Instant Messaging]]
@@ -1529,7 +1447,6 @@
 [[https://t.co/6zPVNVmRXS][François Chollet]]
 [[https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus][A generalised solution to distributed consensus]]
 [[https://teller.io][Teller - The API for your bank account]]
-[[https://wiki.archlinux.org/index.php/Cgit][cgit]]
 [[https://nplusonemag.com/issue-37/essays/the-bad-feature][The Bad Feature]]
 [[https://networkencyclopedia.com/ansi-c-c][Network Encyclopedia]]
 [[https://github.com/jantic/DeOldify][DeOldify]]
@@ -1538,17 +1455,10 @@
 [[https://nitter.net/benswift][benswift (@benswift)]]
 [[https://nitter.net/digego][Andrew Sorensen (@digego)]]
 [[https://extemporelang.github.io/docs][Extempore documentation]]
-[[https://extemporelang.github.io][Extempore docs]]
 [[https://github.com/sleexyz/hylogen][sleexyz/hylogen]]
-[[http://eulerroom.com][EulerRoom #6]]
-[[https://invidio.us/watch?nojs=1&amp;v=3HXcb5_RuNg][Eulerroom Live Stream]]
-[[https://github.com/overtone/overtone][overtone/overtone]]
-[[https://github.com/a327ex/BYTEPATH][a327ex/BYTEPATH]]
-[[https://bonappetit.com/recipe/bas-best-chocolate-chip-cookies][BA&#039;s Best Chocolate Chip Cookies]]
 [[https://reddit.com/r/selfimprovement/comments/hyq6jm/i_completed_60_days_of_meditation_for_1_hourday][I Completed 60 Days of Meditation for 1 Hour/day and it cut my Anxiety away. I&#039;m Now Making an App.]]
 [[https://github.com/atharvashukla/koans][koans]]
 [[https://reddit.com/r/selfimprovement/comments/hym0c2/live_consciously_it_changes_you_from_within][Live consciously. It changes you from within]]
-[[https://hillelwayne.com/post/frink?utm_source=hillelwayne&amp;utm_medium=email][The Frink is Good, the Unit is Evil]]
 [[https://remis.io][Luis Remis]]
 [[https://reddit.com/r/ProgrammingLanguages/comments/hyhc7b/which_languages_have_weak_references][Which languages have weak references?]]
 [[https://reddit.com/r/socialskills/comments/hyl9oh/200_interesting_questions_to_get_to_know_anyone][200 Interesting questions to get to know anyone on a deeper level]]
@@ -1566,8 +1476,6 @@
 [[https://reddit.com/r/opengl/comments/hwntc1/following_learnopenglcom_but_my_triangles_being][Following learnopengl.com but my triangles being culled weirdly. Code in comments]]
 [[https://postgresql.org/docs/current/gin-intro.html][Documentation : 11 : 66.1. Introduction]]
 [[https://github.com/demikernel/demikernel][Demikernel]]
-[[https://ruslanspivak.com/lsbasi-part1][Let’s Build A Simple Interpreter. Part 1.]]
-[[https://amazon.com/dp/B00XMYCVJ4?ref=ppx_pop_mob_ap_share][Amazon.com: Andoer 3PCS Guitar Knobs Chromed Metal Dome Knurled Barrel for]]
 [[https://postgresql.org/docs/9.1/backup-dump.html][24.1. SQL Dump]]
 [[https://mobile.twitter.com/DarknetForever][Tweets with replies by Darknet (@DarknetForever) | Twitter]]
 [[https://irreal.org/blog?p=8950][Elfeed for Videos]]
@@ -1658,7 +1566,6 @@ https://philip.greenspun.com/blog/
 [[https://blog.akinori.org/][self indulgence]]
 [[https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki][fossil!]]
 [[https://blog.nil.im/?78][what is objfw>]]
-[[https://usesthis.com/interviews/rachel.demy/][great interviews and website]]
 https://aperiodical.com/2020/06/review-immersive-linear-algebra/ review for
 linalg
 [[https://en.m.wikipedia.org/wiki/Ricci_calculus][rules and indices for tensor and tensor fields!]]
@@ -1782,7 +1689,6 @@ https://www.nature.com/articles/nchem.2889
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4289634/
 http://worrydream.com/#!/LearnableProgramming designing a programming system for
 understanding programs
-https://www.maa.org/news/interview-tony-derose  -- from computer graphics pioneer
 https://catalog.princeton.edu/catalog/SCSB-8534958 -- b
 https://kk.org/thetechnium/68-bits-of-unsolicited-advice/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter
 * math
@@ -1796,10 +1702,7 @@ https://www.youtube.com/watch?v=P1ww1IXRfTA&t=&app=desktop
 [[https://www.hillelwayne.com/hate-your-tools/][hate your tools]]
 [[http://bangbangcon.com/livestream][fun, 10 min fast talks!]]
 * funny
-https://aphyr.com/posts/342-typing-the-technical-interview excellent article
-on navigating the technical interview
 https://github.com/lampepfl/dotty/issues/7598 -- on the equality operator
-http://matt.might.net/articles/electric-meat/ -- his whole blog is incredible
 * designing code
 https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/
 https://brianmckenna.org/blog/softwerewolves
@@ -1844,22 +1747,18 @@ https://nikic.github.io/2020/05/10/Make-LLVM-fast-again.html
 https://m.youtube.com/watch?feature=youtu.be&v=oTMuzM_-_0M
 https://arxiv.org/abs/1805.09501
 https://ban.ai/multics/
-https://www.multicians.org/simulator.html
 https://cs-syd.eu/posts/2020-04-28-genvalidity-improvements
 https://metacademy.org/
 https://news.ycombinator.com/item?id=23032243
 https://medium.com/@thezedwards/the-2020-url-querystring-data-leaks-millions-of-user-emails-leaking-from-popular-websites-to-39a09d2303d2
-https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/
 https://thedesignsquiggle.com/
 http://www.julianzucker.com/
 https://hasura.io/
-https://www.planetminecraft.com/project/harry-potter-adventure-map-3347878
 https://caseymuratori.com/blog_0038
 https://rachelbythebay.com/w/2020/04/30/dev/
 https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/
 https://www.gnu.org/fun/jokes/eternal-flame.html
 https://nesslabs.com/science-of-curiosity
-https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug.html
 https://johnkerl.org/doc/ortho/ortho.html writing math well
 https://mobile.twitter.com/naval/status/1002103360646823936 how to get rich or smth
 https://www.newyorker.com/magazine/2017/06/05/the-work-you-do-the-person-you-are
@@ -1879,20 +1778,12 @@ https://en.m.wikipedia.org/wiki/Wikipedia_Seigenthaler_biography_incident
 https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window
 https://acoup.blog/2020/04/24/fireside-friday-april-24-2020/
 * employment/work/practical
-https://erikbern.com/2019/02/21/headcount-targets-feature-factories-and-when-to-hire-those-mythical-10x-people.html
-https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html
-https://erikbern.com/2020/03/10/never-attribute-to-stupidity-that-which-is-adequately-explained-by-opportunity-cost.html
-https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon -- hating
-amazon
 https://erikbern.com/2018/08/16/business-secrets-from-terrible-people.html
 https://www.newgrad.tech/
-https://www.cs.princeton.edu/~bwk/advice.html being productive by yourself in
-cs
+https://www.cs.princeton.edu/~bwk/advice.html being productive by yourself in cs
 https://mtlynch.io/solo-developer-year-2/ working solo
 https://news.ycombinator.com/item?id=22050802 getting job through hn!
-jobs in pl!
-https://news.ycombinator.com/item?id=22990872 -- inspirational thread about
-joirneys
+https://news.ycombinator.com/item?id=22990872 -- inspirational thread about journeys
 https://www.reddit.com/r/ProgrammingLanguages/comments/9ffiky/how_to_get_a_job_in_programming_languages/
 https://en.m.wikipedia.org/wiki/Horn_clause
 https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49
@@ -1984,10 +1875,8 @@ https://www.youtube.com/playlist?list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs&app=des
 https://grahamc.com/blog/erase-your-darlings
 http://www.marktarver.com/bipolar.html
 https://www.reddit.com/r/artificial/comments/gxrnhq/d_paper_explained_synthetic_petri_dish_a_novel/
-https://wespiser.com/writings/wyas/home.html write you a scheme
 https://sivers.org/ cool entreprenuer
 https://secondbreakfast.co/patio11-s-law
-https://github.com/schollz/cowyo neat, encrypted wiki!
 https://tinysubversions.com/
 https://jae.moe/
 https://www.paritybit.ca/

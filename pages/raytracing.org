@@ -7,3 +7,5 @@ https://github.com/disconcision/depthop
 
 https://github.com/browserdotsys/vecchio ray tracing in one weekend :: looks fun to do [[file:rust.org][Rust]]
 https://github.com/athas/raytracers
+
+[[https://www.reddit.com/r/opengl/comments/hwntc1/following_learnopenglcom_but_my_triangles_being/][Following learnopengl.com but my triangles being culled weirdly. Code in co]]

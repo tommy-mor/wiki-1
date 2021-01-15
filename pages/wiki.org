@@ -146,3 +146,16 @@ https://github.com/jsjoeio/joeprevite.com
 [[https://wiki.js.org/][open source wiki]]
 [[https://eugeneyan.com/writing/note-taking-zettelkasten/][Stop Taking Regular Notes; Use a Zettelkasten Instead]]
 [[https://t.co/CZ0pMsCKae][Kate on Twitter: &quot;Making regexp -&amp;gt; NFA compilation faster by constructin]]
+
+https://github.com/schollz/cowyo neat, encrypted wiki!
+[[http://www.impredicative.com/wiki/index.php/Code_Samples][Code Samples - Impredicative Wiki]]
+[[https://azlen.me/wiki/][Wiki]]
+[[https://github.com/bphenriques/knowledge-base][bphenriques/knowledge-base: Personal Wiki]]
+[[https://wiki.nikitavoloboev.xyz/][Introduction - Everything I know]]
+
+[[http://okmij.org/ftp/][This FTP site]]
+[[https://github.com/nikitavoloboev/knowledge/blob/master/other/wiki-workflow.md#similar-wikis-i-liked][knowledge/wiki-workflow.md at master · nikitavoloboev/knowledge]]
+[[https://tomcritchlow.com/2019/02/17/building-digital-garden/][Building a digital garden]]
+[[https://tomcritchlow.com/][Tom Critchlow. Move. Think. Create.]]
+
+[[https://t.co/G9PQ1UaIeq][Marcin Ignac on Twitter: &quot;I&#039;m fascinated by @andy_matuschak digital garden ]]

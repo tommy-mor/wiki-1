@@ -16,3 +16,5 @@ https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-
 https://blog.plover.com/misc/half-baked.html tired answers to half baked
 questions !! both article on category theory but commentary on stack exchange
 [[https://parentheticallyspeaking.org/articles/fat-nums/][FatNums: An Alternate Representation for School Arithmetic]]
+
+[[https://mobile.twitter.com/wilbowma/status/1306446403439177730][William J. Bowman @wilbowma@mastodon.social on Twitter: &quot;Last time, asked students to prove the empty set is not equal to the set containing the empty set. This time, I asked them to prove 1 is not equal to 0. This was by mistake. Thankfully, has resulted in a most pedantic discussion about whether we know conjunction is commutative.&quot; / Twitter]]

@@ -59,3 +59,6 @@ http://songseed.org/dinghy/concept.html reenvisioning the os
 https://www.reddit.com/r/osdev/comments/husrzq/looking_for_a_specific_tutorial_from_10_years_ago/
 [[https://github.com/darlinghq/darling][macos emulation layer for linux]]
 [[https://github.com/akkartik/mu][toy os]]
+
+https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug.html
+[[https://github.com/demikernel/demikernel][demikernel/demikernel: Demikernel OS]]

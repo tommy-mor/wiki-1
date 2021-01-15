@@ -96,3 +96,7 @@ https://teetotality.blog/posts/how-this-blog-was-made/ this works off of IPFS
 [[https://news.ycombinator.com/item?id=23205588][blog hack to bring back]]
 [[https://github.com/mathieudutour/medium-to-own-blog][dont use medium]]
 https://vanschneider.com/a-love-letter-to-personal-websites
+
+[[https://bearblog.dev/][ʕ•ᴥ•ʔ Bear Blog]]
+
+[[https://snufk.in/blog/ssg-1.html][Writing a Static Site Generator in Nim (PART 1: How to Structure Content) |]]

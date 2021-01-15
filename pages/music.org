@@ -209,6 +209,8 @@ https://github.com/s-ol/themer themer
 [[https://github.com/f-f/CASSALPOPOLO][f-f/CASSALPOPOLO: More open source 4/4 beats for the peoples]]
 [[https://arcade.makecode.com/][games in the browser!]]
 
+[[http://eulerroom.com][EulerRoom #6]]
+[[https://invidio.us/watch?nojs=1&amp;v=3HXcb5_RuNg][Eulerroom Live Stream]]
 [[https://m.youtube.com/watch?v=30FiQ8m4aoo&index=23&list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd][Session 19 June 0800 Synthesis 3 - YouTube]]
 [[https://m.youtube.com/watch?v=09w54uhb1TE&list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd&index=17][Session 18 June 1040 Machine Learning II - YouTube]]
 [[https://m.youtube.com/watch?v=EjuetJ00Z0M&t=3m17s][Session 17 June 0620 Networking and Hardware - YouTube]]

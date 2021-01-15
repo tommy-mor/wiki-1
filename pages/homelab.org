@@ -23,3 +23,4 @@ Information about self-hosting.
 - [[vultr.com][vultr]] :: the one i'm currently using, best specs for a $10 vps I could find
 - digitalocean :: also a great cloud service
 [[https://github.com/johackim/docker-hacklab][personally hosted hacklab]]
+https://github.com/ArchiveBox/ArchiveBox open source self hosted web archive

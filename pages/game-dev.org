@@ -28,3 +28,4 @@ http://gamesfromwithin.com/data-oriented-design
 http://www.sizecoding.org/wiki/Game_of_Life_32b
 https://alex-hhh.github.io/2020/03/a-game-of-tetris.html
 [[https://joon.be/][wild independent game designer]]
+[[https://github.com/a327ex/BYTEPATH][a327ex/BYTEPATH: A replayable arcade shooter with a focus on build theorycr]]

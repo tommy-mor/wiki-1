@@ -30,3 +30,4 @@ tiny compiler in python!
 [[https://news.ycombinator.com/item?id=23281542][tem commandments of c programmers]]
 [[https://github.com/cylgom/ghck][cylgom/ghck: The C code typed by Dr. Willis in Ghost in the Shell (1995)]]
 [[https://github.com/LukasJoswiak/draft][LukasJoswiak/draft: A C   serialization library.]]
+[[https://stackoverflow.com/questions/5869825/when-should-one-use-a-spinlock-instead-of-mutex#5870415][When should one use a spinlock instead of mutex? - Stack Overflow]]

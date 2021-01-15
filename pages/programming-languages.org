@@ -31,6 +31,11 @@ https://dhall-lang.org/ langauge for system configuration
 https://microformats.io/ html dsl in classes to add meaning
 https://www.puzzlescript.net/ langauge for puzzles!
 https://frinklang.org/ frink
+
+[[http://frinklang.org/][Frink]]
+[[https://hillelwayne.com/post/frink?utm_source=hillelwayne&amp;utm_medium=email][The Frink is Good, the Unit is Evil]]
+[[https://github.com/Ahnfelt/funk][Ahnfelt/funk: PROTOTYPE: A minimal scripting language - OOP via lambda func]]
+[[https://parentheticallyspeaking.org/articles/pls-nature/][Programming Languages as Objects in Nature]]
 https://www.colm.net/open-source/ragel/ state machine compiler
 https://www.openpolicyagent.org/docs/latest/policy-language/ policy lang
 http://inform7.com/ dsl for text based adventures
@@ -575,3 +580,9 @@ https://news.ycombinator.com/item?id=23252448
 [[https://www.hillelwayne.com/post/influential-dead-languages/][on influential dead languages]]
 https://www.reddit.com/r/cscareerquestions/comments/9ujawa/programming_language_theory_jobs/
 [[https://github.com/masaeedu/ulc][masaeedu/ulc: Untyped lambda calculus]]
+[[https://ruslanspivak.com/lsbasi-part1][Let’s Build A Simple Interpreter. Part 1.]]
+[[https://m.youtube.com/watch?v=RVDCRlW1f1Y][William E Byrd - Relational Interpreters, Program Synthesis, and Barliman -]]
+[[https://ruslanspivak.com/lsbasi-part1/][Let’s Build A Simple Interpreter. Part 1. - Ruslan&#039;s Blog]]
+[[https://www.reddit.com/r/ProgrammingLanguages/comments/hyhc7b/which_languages_have_weak_references/][Which languages have weak references? - ProgrammingLanguages]]
+[[https://www.hillelwayne.com/post/frink/?utm_source=hillelwayne&amp;utm_medium=email][The Frink is Good, the Unit is Evil • Hillel Wayne]]
+[[https://www.reddit.com/r/ProgrammingLanguages/comments/hz2mcw/a_few_questions_about_parser_design/][A few questions about parser design - ProgrammingLanguages]]

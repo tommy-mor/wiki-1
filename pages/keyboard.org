@@ -343,4 +343,6 @@ https://wiki.xxiivv.com/site/juni.html
 [[https://rgoswami.me/posts/colemak-dots-refactor][Refactoring Dotfiles For Colemak]]
 [[https://deskthority.net/wiki/BEAKL][BEAKL - Deskthority wiki]]
 [[https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/][Introducing the RSTHD layout – meus recogitare et excogitare]]
+[[http://www.minimak.org/][Minimak - Home]]
+[[https://www.youtube.com/watch?v=RBBiri3CD6w&amp;t=114][Coding in Stenography, Quick Demo]]
 [[https://github.com/abstracthat/dactyl-manuform][dactyl manuform keyboard]]

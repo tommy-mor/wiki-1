@@ -4,3 +4,7 @@ What's your company size?
 https://app.getpocket.com/read/2836850076
 A good read on organizational design and culture.
 [[https://github.com/ksindi/managers-playbook][manager's playbook: heuristics for effective management]]
+
+https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html
+https://erikbern.com/2019/02/21/headcount-targets-feature-factories-and-when-to-hire-those-mythical-10x-people.html
+https://erikbern.com/2020/03/10/never-attribute-to-stupidity-that-which-is-adequately-explained-by-opportunity-cost.html
