@@ -44,3 +44,36 @@ https://www.edx.org/course/compilers
 
 http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html cool project for a
 tiny compiler in python!
+
+[[https://reddit.com/r/Compilers/comments/hufog0/object_lifetimes_how_can_a_compiler_determine][Object Lifetimes - how can a compiler determine when to call the destructor of an object returned from a function?]]
+
+[[http://number-none.com/blow/][jon blow, game dev and compiler guy]]
+
+http://homes.sice.indiana.edu/samth/ -- sam tobin something, student of matthias
+https://www.reddit.com/r/ProgrammingLanguages/comments/9bft4d/do_you_know_of_compilerish_job_opportunities_for/
+[[https://github.com/rmccullagh/letsbuildacompiler][lets build a compiler book]]
+[[https://en.m.wikipedia.org/wiki/Duff%27s_device][compiler neat thing]]
+[[https://www.youtube.com/watch?v=de8Ak0nY1hA&app=desktop][improving compiler correctness using formal methods]]
+
+http://bootstrappable.org/ on trusting trust. ken thompson talk linked at the
+bottom is great, as are the other articles. great compilers literature
+
+https://www.cs.cmu.edu/~janh/courses/411/16/ compiler design course at cmu.
+https://gist.github.com/cellularmitosis/1f55f9679f064bcff02905acb44ca510#simple-compiler-codebases-to-study
+
+https://zserge.com/posts/jvm/ how to write a toy jvm -- try this and put it
+on github! fun small thing to mess around with. add more to it, add new
+things, mess aroundand have fun!
+supposedly good material
+
+[[https://github.com/seanbaxter/circle][he compiler is available for download. Get it!]]
+[[https://github.com/lampepfl/dotty][research compiler that will become Scala 3]] [[https://github.com/aditya-grover/node2vec][]]
+
+[[https://github.com/barak/stalin]["stalin brutally optimizing Scheme compiler, with Debianization patches"]]
+[[https://github.com/plasma-umass/Stopify][ JS-to-JS compiler that makes it easier to build Web IDEs and compile to JS.]]
+[[https://github.com/adam-mcdaniel/free][n esoteric programming language with an unusual compiler backend]]
+[[https://github.com/xoreaxeaxeax/movfuscator][he single instruction C compiler]]
+[[https://github.com/aalhour/awesome-compilers][":sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes"]]
+https://www.reddit.com/r/ProgrammingLanguages/comments/i1s8m0/functional_programming_and_reference_counting/
+https://github.com/nanocaml/nanocaml
+https://github.com/doctorn/micro-mitten

@@ -64,3 +64,7 @@ This did change the commit time for my latest commit, which is something to watc
 [[https://github.com/ralphbean/bugwarrior]["Pull github, bitbucket, and trac issues into taskwarrior"]]
 
 [[https://github.com/jonas/tig][Text-mode interface for git]]
+
+[[https://github.com/bcongdon/git-trophy][bcongdon/git-trophy: ? Create a 3D Printed Model of Your Github Contributio]]
+* StarHub
+[[https://github.com/abhisheknaiidu/awesome-github-profile-readme][ A curated list of awesome Github Profile READMEs 📝]]

@@ -63,3 +63,43 @@ https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html
 discovering optimal rolling shape in pytorch!
 https://minimaxir.com/2020/01/twitter-gpt2-bot/
 https://github.com/alimir1/ml/blob/master/index.md framework for learning machine learning and self studying
+* GPT
+[[https://github.com/minimaxir/aitextgen][A robust Python tool for text-based AI training and generation using GPT-2.]]
+[[https://t.co/w8JkrZO4lk][Sharif Shameem on Twitter: &quot;This is mind blowing. With GPT-3, I built a lay]]
+[[https://www.gwern.net/GPT-3][GPT-3 Creative Fiction · Gwern.net]]
+[[http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html][Giving GPT-3 a Turing Test]]
+[[https://github.com/thesofakillers/GPTrue-or-False][A browser extension that displays the GPT-2 Log Probability of selected text]]
+[[https://t.co/w8JkrZO4lk][Sharif Shameem on Twitter: &amp;quot;This is mind blowing. With GPT-3, I built a lay]]
+* AI
+[[https://amp.reddit.com/r/AIDungeon/comments/hpkqij/using_the_dragon_module_i_just_generated_what_is/#click=https://t.co/io3jW7sgJm][Reddit - AIDungeon - Using the Dragon Module, I just generated what is hand]]
+[[https://medium.com/@aidungeon/ai-dungeon-dragon-model-upgrade-7e8ea579abfe][AI Dungeon: Dragon Model Upgrade. You can now play AI Dungeon with one of… ]]
+* GAN
+[[https://www.gwern.net/Faces][Making Anime Faces With StyleGAN · Gwern.net]]
+[[https://github.com/tmlabonte/tendies]["TensorFlow Distributed Image Serving - A lightweight, RESTful remote inference library for decoupling deep learning development and deployment. Example usage cases with CycleGAN and Faster R-CNN. Includes tutorial ipynbs."]]
+
+[[https://reddit.com/r/MachineLearning/comments/huyp4d/n_the_lisbon_ml_school_starts_tomorrow_talks_will]]
+https://www.reddit.com/r/learnmachinelearning/comments/hxxtik/ai_application_python_implementation_of_proximal/
+https://www.reddit.com/r/magicTCG/comments/ht0o1f/oc_lands_painted_by_an_artificial_intelligence/
+https://github.com/evhub/minecraft-deep-learning
+https://github.com/jasonmayes/Real-Time-Person-Removal
+https://github.com/facebookresearch/Hanabi_SPARTA
+https://github.com/OpenMined/PySyft
+https://github.com/koursaros-ai/nboost
+[[https://github.com/strib/scigen][an automatic paper generator]]
+
+https://github.com/evvo-labs/evvo distributed evolutionary algorithms
+[[https://github.com/huggingface/transformers][nlp transformer model]]
+https://github.com/una-dinosauria/human-motion-prediction human motion prediction
+https://github.com/KartikChugh/Otto
+
+[[https://github.com/facebookresearch/detr][End-to-End Object Detection with Transformers]]
+https://github.com/HumanCompatibleAI/evaluating-rewards
+https://github.com/paruby/snake-face [[file:web_design.org][Web Design]]
+[[https://github.com/ajaynagesh/mean-teacher][semi-supervised learning architecture]]
+https://github.com/facebookresearch/dlrm deep learning recommendation model
+https://github.com/chiphuyen/machine-learning-systems-design machine learning systems design
+[[https://github.com/byungsook/neural-flow-style][Neural Style Transfer for Fluids]]
+
+[[https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html][discovering optimal rolling shape in pytorch!]]
+
+[[https://news.ycombinator.com/item?id=23250379][openai langauge model used for code generation]]

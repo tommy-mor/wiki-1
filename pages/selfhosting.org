@@ -1,0 +1,6 @@
+#+TITLE: Selfhosting
+
+[[file:nix.org][Nix]]
+
+[[https://homelabos.com/][self hosting at home.]]
+https://electro.pizza/2020/05/selfhosting-cloudshell2/ NAS self host with

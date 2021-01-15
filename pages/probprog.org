@@ -1,0 +1,3 @@
+#+TITLE: Probprog
+https://github.com/rmculpepper/gamble
+https://github.com/sampsyo/ppl-intro probabilistic programming introduction

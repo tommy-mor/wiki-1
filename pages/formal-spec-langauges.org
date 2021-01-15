@@ -21,3 +21,5 @@ There are a lot more, but I'll investigate them further as I learn more.
 - Temporal logic :: Extending standard mathematical notation to allow temporal logic to change over time.
   Temporal logic of actions is a subset of this concept that scales to real world systems.
 - Liveness properties :: Similar to the definition in the compiler sphere, liveness properties are properties of systems that must /eventually/ be true for the spec to be valid.
+* etc
+https://github.com/wimmers/munta

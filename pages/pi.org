@@ -1,0 +1,12 @@
+#+TITLE: Pi
+
+https://www.lifehacker.com.au/2012/12/make-a-raspberry-pi-solar-powered-ftp-server/
+https://www.instructables.com/id/Solar-Powered-Raspberry-Pi/
+[[https://www.tomshardware.com/uk/amp/news/nvidia-engineer-vulkan-driver-raspberry-pi-quake-iii-100-fps][Nvidia Engineer&#039;s Vulkan Driver For Raspberry Pi Runs Quake III over 100 FP]]
+[[https://www.element14.com/community/thread/60695/l/using-a-kindle-epaper-screen-with-raspberry-pi][Using a Kindle ePaper screen with RaspBerry Pi ? | element14 | Raspberry Pi]]
+[[https://hackaday.io/project/16194-himnull-a-raspberry-pi-e-reader][Himnull - A Raspberry Pi E-Reader | Hackaday.io]]
+[[https://www.techmuzz.com/how-to/raspberrypi/connect-raspberry-pi-to-wifi-via-the-command-line/][Connect Raspberry Pi To WiFi Via The Command Line - TechMuzz]]
+[[https://github.com/cylgom/passware][cylgom/passware: Hardware password manager for Raspberry Pi zero]]
+[[https://www.youtube.com/watch?v=kgVz4-SEhbE&app=desktop][clustering with the raspi]]
+https://raspberrypi.stackexchange.com/questions/86/how-can-i-run-the-pi-on-solar-power
+https://100r.co/site/raspberry_pi.html

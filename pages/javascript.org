@@ -69,6 +69,12 @@ https://github.com/typeorm/typeorm/blob/master/README.md super flexible js and t
 phantomjs browser control
 [[https://github.com/gajus/gajus.com-blog/blob/master/posts/the-definitive-guide-to-the-javascript-generators/index.md][excellent article on javascript generators]]
 https://ionicframework.com/react apps everywhere with single react code base? seems too good to be true
+https://github.com/kach/nearley javascript parser toolkit
 
 * CRDTs
 [[https://crdt.tech/][an excellent resource on conflict-free replicated datatypes]]
+https://github.com/sweet-js/sweet-core
+https://github.com/replit/clui build quick cli apps with js
+https://github.com/atom/node-spellchecker
+* node
+[[https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017][automating with nodejs]]

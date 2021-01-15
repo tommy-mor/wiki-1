@@ -24,3 +24,10 @@ https://dominicm.com/gpu-passthrough-qemu-arch-linux/
 [[https://github.com/mattrberry/CryBoy][game boy em]]
 [[https://github.com/mattrberry/chip-8_nim][chip8 em in nim]]
 https://wiki.xxiivv.com/site/gyo.html
+
+[[https://reddit.com/r/osdev/comments/hud8y2/i_got_my_gameboy_emulator_running_in_my_os][I got my Gameboy emulator running in my OS!]]
+https://github.com/michelhe/rustboyadvance-ng
+https://github.com/vascofazza/8bit-cpu
+https://github.com/Two9A/jsGB
+
+[[https://copetti.org/projects/consoles/nintendo-64/][nintendo arch]]itecture breakdown

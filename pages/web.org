@@ -105,3 +105,11 @@ https://neocities.org/: support for creating cool websites with free hosting!
 [[https://www.currentaffairs.org/2020/12/how-seo-is-gentrifying-the-internet][how seo is ruining the web]]
 [[https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf][Google's vaguely worded SEO advice hadnbook]]
 reverse engineer seo by sampling search results? is this done?
+* Fun utilities
+** terminal on the website
+https://github.com/xtermjs/xterm.js
+https://github.com/nitin42/terminal-in-react
+https://github.com/jcubic/jquery.terminal
+** aah
+https://github.com/gridsome/gridsome
+https://github.com/artagnon/clayoven static site generator, supports math, code and fun articles

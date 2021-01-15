@@ -8,3 +8,5 @@ LaTeX is a document typesetting language that compiles to other useful document 
 https://github.com/tecosaur/BMC multipurpose class for latex use
 https://github.com/kjhealy/pandoc-templates latex pandoc templates
 https://github.com/odashi/latexify_py create latex math formulas from python functions
+* etc
+https://colab.research.google.com/drive/1MuiawKpVIZ12MWwyYuzZHmbKThdM5wNJ?usp=sharing#scrollTo=-JhJMAXM7j-X

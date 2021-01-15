@@ -1,0 +1,8 @@
+#+TITLE: Social
+small scale social media
+[[file:activitypub.org][ActivityPub]]
+
+https://runyourown.social/#places-where-we-need-better-tech
+[[https://lwn.net/Articles/741218/][federation in social networks: linux kernel blog]]
+
+https://spiegelmock.com/2020/05/28/decentralizing-social-media/

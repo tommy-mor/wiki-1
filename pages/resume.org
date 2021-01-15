@@ -23,3 +23,4 @@ To do so, you can do the following in any browser with dev tools:
    You should see a 'parseResume' HTTP POST request.
    Double-click the request and you can view your resume as parsed
    along with a discription and some preliminary analytics information.
+https://dev.to/vivirenremoto/how-i-made-my-cv-based-on-age-of-empires-game-1ade

@@ -135,3 +135,57 @@ https://reasonablypolymorphic.com/blog/towards-tactics/index.html navigating the
 
 https://www.srid.ca/haskell-new-project.html creating a new haskell project with ide support and nix
 https://hoogleplus.goto.ucsd.edu/
+* etc...
+
+[[https://github.com/facebook/Haxl]["A Haskell library that simplifies access to remote data, such as databases or web-based services. "]]
+[[https://github.com/tathougies/hos][The functional Haskell kernel]]
+[[https://www.reddit.com/r/haskell/comments/it7ohv/developing_multiple_local_packages_at_once_in_repl/][Developing multiple local packages at once in repl? - haskell]]
+[[https://blog.cloudflare.com/cloudflare-worker-with-webassembly-and-haskell/][Let&#39;s build a Cloudflare Worker with WebAssembly and Haskell]]
+[[https://maxdeviant.com/posts/2019/implementing-a-case-conversion-library-in-fsharp-and-haskell/][Implementing a Case Conversion Library in F# and Haskell · maxdeviant.com]]
+[[https://github.com/sleexyz/hylogen][sleexyz/hylogen: GLSL embedded in Haskell]]
+[[https://github.com/kwannoel/kattis][kwannoel/kattis: Kattis problems in Haskell (maybe Rust? we&#039;ll see)]]
+[[https://github.com/kwannoel/haskell_tutorials][kwannoel/haskell_tutorials]]
+[[https://github.com/kwannoel/fingerd][kwannoel/fingerd: Final haskell project, a finger daemon.]]
+[[https://kwannoel.xyz/22050263.html][Zippers in Haskell and Javascript - My Zettelkasten]]
+[[https://www.reddit.com/r/haskell/comments/hhiqaa/other_influential_disciplines_or_challenges/][Other influential disciplines or challenges? - haskell]]
+[[http://conal.net/blog/posts/everything-is-a-function-in-haskell][Conal Elliott » “Everything is a function” in Haskell?]]
+
+[[https://www.reddit.com/r/haskell/comments/hv7prz/effet_an_effect_system_based_on_type_classes/][effet: An Effect System based on Type Classes - haskell]]
+[[https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1][Haskeller competency matrix]]
+[[https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf][Appendix to Software Design in Haskell]]
+[[https://medium.com/@cdsmithus/solving-a-puzzle-in-haskell-8216a683555][Solving a puzzle in Haskell. This post isn’t particularly deep or… | by Chr]]
+[[https://www.reddit.com/r/haskell/comments/hzh1rq/do_people_here_actually_build_useful_programs/][Do people here actually build useful programs with Haskell? - haskell]]
+[[http://www.haskellforall.com/2020/07/the-golden-rule-of-software-quality.html?m=1][Haskell for all: The golden rule of software quality]]
+[[https://m.youtube.com/watch?feature=youtu.be&amp;v=dHo_EUyShOg][The Haskell Elephant in the Room - YouTube]]
+[[https://mpickering.github.io//ide/posts/2020-08-04-measuring-memory-size.html][IDE 2020: Measuring memory usage of Haskell values and patching GHC]]
+[[https://m.youtube.com/watch?v=5QQdI3P7MdY][]&quot;Hackett: a metaprogrammable Haskell&quot; by Alexis King - YouTube]]
+[[https://blog.sigplan.org/2019/12/16/runtime-support-for-multicore-haskell-a-retrospective/][Runtime Support for Multicore Haskell: a Retrospective | SIGPLAN Blog]]
+[[https://www.reddit.com/r/haskell/comments/i1wojq/do_you_guys_think_haskell_is_the_best_language_if/][Do you guys think Haskell is the best language if my intent is to develop a]]
+[[https://linux.die.net/man/1/ghc][ghc(1): Glasgow Haskell Compiler - Linux man page]]
+[[https://www.reddit.com/r/haskell/comments/hvt8h1/job_work_with_me_in_the_fully_remote_org_as_a/][[Job] Work with me in the fully remote org as a Haskell infra engineer - ha]]
+[[https://www.reddit.com/r/haskell/comments/hz4sec/the_golden_rule_of_software_quality/][The golden rule of software quality - haskell]]
+[[https://github.com/raviksharma/bartosz-basics-of-haskell][raviksharma/bartosz-basics-of-haskell: Code and exercises from Bartosz Mile]]
+[[https://downloads.haskell.org/~ghc/8.10.1/docs/html/users_guide/glasgow_exts.html#extension-MagicHash][9.1. Language options — Glasgow Haskell Compiler 8.10.1 User&#039;s Guide]]
+[[https://www.reddit.com/r/haskell/comments/hy8bdd/announcementcall_for_contributors_monpad/][Announcement/call for contributors: Monpad - haskell]]
+[[http://haskellforall.com/2020/07/the-golden-rule-of-software-quality.html?m=1][The golden rule of software quality]]
+[[https://reddit.com/r/haskell/comments/hzh1rq/do_people_here_actually_build_useful_programs][Do people here actually build useful programs with Haskell?]]
+[[https://medium.com/@cdsmithus/solving-a-puzzle-in-haskell-8216a683555][Solving a puzzle in Haskell]]
+[[https://das.li/articles/linear.html][Graphics in Haskell: linear algebra]]
+[[https://www.reddit.com/r/madeinhaskell/comments/hzuk08/magic_the_gathering_in_your_terminal/][Magic: The Gathering in your terminal - madeinhaskell]]
+[[https://bartoszmilewski.com/2020/05/27/guitar-decomposed-5-mutating-the-third/][guitar in haskell]]
+
+https://lexi-lambda.github.io/resume.html -- alexis king -- brilliant racket and
+haskell programmer
+
+https://www.reddit.com/r/haskell/comments/fyyia7/which_major_code_bases_should_i_study_to_better/
+https://en.wikibooks.org/wiki/Haskell/Category_theory -- haskell and categories!
+http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html
+[[https://github.com/davdar/parsing-with-derivatives-haskell][he original parsing with derivatives haskell implementation]]
+[[https://github.com/tommythorn/Reduceron]["FPGA Haskell machine with game changing performance. Reduceron is Matthew Naylor, Colin Runciman and Jason Reich's high performance FPGA softcore for running lazy functional programs, including hardware garbage collection.  Reduceron has been implemented on various FPGAs with clock frequency ranging from 60 to 150 MHz depending on the FPGA.  A high degree of parallelism allows Reduceron to implement graph evaluation very efficiently. This fork aims to continue development on this, with a view to practical applications. Comments, questions, etc are welcome."]]
+[[https://github.com/hamler-lang/hamler][askell-style functional programming language running on Erlang VM.]]
+[[https://github.com/luc-tielen/souffle-haskell][askell bindings for the Souffle datalog language]]
+[[https://github.com/thma/WhyHaskellMatters][n this article I try to explain why Haskell keeps being such an important language by presenting some of its most important and distinguishing features and detailing them with working code examples.  The presentation aims to be self-contained and does not require any previous knowledge of the language. ]]
+[[https://github.com/goldfirere/effects][ Haskell translation of Idris's original algebraic effects library]]
+
+[[https://free.cofree.io/2020/07/20/perform-io][How Accursed and Unutterable is accursedUnutterablePerformIO?]]
+https://ocharles.org.uk/

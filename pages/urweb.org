@@ -22,3 +22,7 @@ Of course, once you're familiar with using the ecosystem, go back to the referen
 [[http://www.impredicative.com/ur/demo/][the main demo as provided in the repo]]
 [[http://frigoeu.github.io/urweb1.html][a great writeup on why urweb is worth trying]]
 http://expdev.net/urtutorial/ decent tutorial
+
+[[https://github.com/bazqux/bazqux-urweb][ur/Web part of BazQux Reader sources]]
+[[https://github.com/vizziv/UrLib][Useful Ur/Web functions.]]
+[[http://www.impredicative.com/ur/][ur programming languages - web dev w this!]]

@@ -23,3 +23,4 @@ https://bellard.org/otcc/
 
 http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html cool project for a
 tiny compiler in python!
+[[https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#lets-destroy-c][let's destroy c]]

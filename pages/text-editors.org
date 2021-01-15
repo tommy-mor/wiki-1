@@ -53,3 +53,5 @@ https://ash-k.itch.io/textreme an energetic text editor
 https://parentheticallyspeaking.org/articles/pedagogic-ide/#%28part._.At_the_.Beginning%29
 
 sriram krishnamurthi's work on developing editors for education to help students learn without overwhelming them - at the same time helping them 'unlearn' bad habits from utilities like visual studio and intellij
+
+[[https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html][xi-editor retrospective | Raph Levien’s blog]]

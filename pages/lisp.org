@@ -23,3 +23,17 @@ https://www.datprotocol.com/ hypermedia protocol!
 [[https://ambrevar.xyz/blog-architecture/index.html][A blog in pure Org/Lisp]]
 
 http://pkotrcka.inlisp.org/
+https://github.com/vyzo/gerbil scheme for systems programming
+https://github.com/fare/gerbil-utils
+https://github.com/quchen/articles
+https://github.com/chr15m/flk
+https://github.com/barak/oaklisp oo scheme
+
+* why lisp is good
+[[https://www.dreamsongs.com/WIB.html][the lisp song]]
+[[https://twobithistory.org/2018/10/14/lisp.html][more lisp song and history]]
+[[https://www.gnu.org/software/mit-scheme/][mit scheme]]
+from markov chain
+
+[[http://marktarver.com/bipolar.html][the bipolar lisp programmer]] arrogant
+[[https://kingjamesprogramming.tumblr.com/][sicp and king james generation]]

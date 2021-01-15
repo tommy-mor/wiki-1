@@ -128,3 +128,6 @@ learn to build small software! a wiki is the best way to do this.
 ** experiments
 - figure out the best way to do project management. learn more about the mailing list strategy adn see how that compares to a `TODO.org` approach that I've been using in a few of my projects to take notes and ideas.
 - build hyper specific tools to interact with my wiki in different ways to enforce certain ways of integrating with it: adding a new idea, journal entry, or something similar for example. emacs is a nice interface and should be worked on, but it shouldn't be the only one. small, portable `.sh` scripts could be fun to experiment with here.
+* ideas
+
+[[https://github.com/merveilles/Time-Travelers][List of artists and hackers using homegrown time-tracking tools]]

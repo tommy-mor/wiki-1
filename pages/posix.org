@@ -1,0 +1,6 @@
+#+TITLE: Posix
+
+https://github.com/dylanaraps/pure-sh-bible
+https://github.com/gigamonkey/monorepoize
+
+[[https://ideatrash.net/2013/03/scripts-and-utilities-to-make.html][tui everything]]

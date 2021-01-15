@@ -23,3 +23,12 @@ https://raft.github.io/
 https://jackdoerner.net/research/
 
 https://vx-underground.org/
+[[https://github.com/NationalSecurityAgency/ghidra][hidra is a software reverse engineering (SRE) framework]]
+https://github.com/s1gh/ctf-literature
+
+* cryptography
+https://github.com/DimitarPetrov/stegify
+https://github.com/adjoint-io/bulletproofs
+https://github.com/Magentron/chkrootkit
+
+https://github.com/openwall/john john the ripper password cracker

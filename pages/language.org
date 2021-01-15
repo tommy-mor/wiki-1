@@ -10,3 +10,5 @@ https://wiki.xxiivv.com/site/alphavetist.html a tool to learn new alphabets
 https://wiki.xxiivv.com/site/lietal.html an experimental synthetic language
 
 [[https://www.instagram.com/p/CDFAcjnps4h/][cat learning how to speak]]
+https://github.com/legesher/legesher-translations
+https://github.com/bjascob/LemmInflect [[file:python.org][Python]]

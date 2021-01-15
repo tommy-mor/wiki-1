@@ -14,3 +14,10 @@ Python is a small, self-consistent general-purpose programming language.
 - [[https://github.com/clarete/forbiddenfruit][forbidden fruit]] :: allow python to extend built in types
 - [[https://docs.hylang.org/en/stable/][hy]] :: a lisp embedded in python
 https://m.youtube.com/watch?v=u2KZJzoz-qI
+https://github.com/evhub/coconut
+https://github.com/pyca/bcrypt [[file:cybersecurity.org][Cybersecurity]]
+https://github.com/mkilgore/protura
+https://github.com/jspahrsummers/adt
+https://github.com/skulpt/skulpt [[file:javascript.org][JavaScript]] implementation of python
+https://github.com/nmigen/nmigen python toolkit for hardware
+https://github.com/leoneckert/masks-and-hats  apply masks and hats to faces [[file:machine-learning.org][Machine Learning]]

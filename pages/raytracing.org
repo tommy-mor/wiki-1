@@ -1,0 +1,8 @@
+#+TITLE: Raytracing
+https://www.rykap.com/2020/09/23/distance-fields/
+
+https://www.realtimerendering.com/raytracinggems/
+[[https://github.com/cnlohr/noeuclid][Non-euclidean GPU Raytraced Game]]:[[file:game-dev.org][Game Dev]]
+https://github.com/disconcision/depthop
+
+https://github.com/browserdotsys/vecchio ray tracing in one weekend :: looks fun to do [[file:rust.org][Rust]]

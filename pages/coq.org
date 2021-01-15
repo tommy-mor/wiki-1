@@ -20,3 +20,6 @@ https://github.com/codyroux/name-the-biggest-number proving the biggest number i
 [[https://github.com/pedrotst/coquedille][Coq to Cedille compiler written in Coq]]
 [[https://github.com/jwiegley/category-theory][An axiom-free formalization of category theory in Coq for personal study and practical work]]
 [[https://softwarefoundations.cis.upenn.edu][Software Foundations]]
+https://github.com/hwayne/lets-prove-leftpad
+[[https://github.com/mit-frap/spring20]["Problem Sets for MIT 6.822 Formal Reasoning About Programs, Spring 2020"]]
+https://github.com/achlipala/frapapp formal reasoning about programs website

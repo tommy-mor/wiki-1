@@ -45,3 +45,4 @@ https://activitypub.rocks/ explanation of the activity pub prococol and how
 https://write.as/matt/our-activitypub-projects neat ActivityPub projects
 
 [[https://github.com/alexwennerberg/gourami]["A decentralized social network for the small web, implemented in ActivityPub"]]
+[[https://news.ycombinator.com/item?id=16222478][hn thread]]

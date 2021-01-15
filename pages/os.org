@@ -51,3 +51,7 @@ https://news.ycombinator.com/item?id=23100713
 - Wii-Linux ::
 https://mirror.dernuntius.de/projects/wii-linux/
 http://songseed.org/dinghy/concept.html reenvisioning the os
+
+[[http://pages.cs.wisc.edu/~remzi/OSTEP/][Operating Systems: Three Easy Pieces ]] [[file:books.org][Books]]
+
+[[https://github.com/nickbjohnson4224/rhombus][ hobby operating system written in C]]

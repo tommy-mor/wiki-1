@@ -1,0 +1,4 @@
+#+TITLE: Etc
+
+[[https://github.com/gfredericks/quinedb][quinedb that's a key value store]]
+[[https://github.com/veggiedefender/open-and-shut][type in morse code by slamming your laptop]]

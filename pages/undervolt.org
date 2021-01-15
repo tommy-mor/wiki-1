@@ -1,0 +1,3 @@
+#+TITLE: Undervolt
+
+[[https://github.com/mihic/linux-intel-undervolt][intel undervolting guide]]

@@ -186,3 +186,11 @@ https://gist.github.com/kindohm/9388957
 [[https://futureofcoding.org/episodes/045][45 • Devine Lu Linvega • Orca | Future of Coding]]
 * Physical generative devices
 [[https://wiki.xxiivv.com/site/telekinesis.html][telekinetic music from devine]]
+
+[[https://m.youtube.com/watch?v=TK1mBqKvIyU][Programming as Performance | Sam Aaron | TEDxNewcastle]]
+[[https://algorave.com][Algorave]]
+[[https://m.youtube.com/watch?v=VW_SFmS17ao][Yann Tomita and the Doopees - How Does It Feel - YouTube]]
+[[https://www.unminus.com/][free premium music for your projects]]
+https://wiki.xxiivv.com/site/eschatolor.html
+https://github.com/googlecreativelab/chrome-music-lab [[file:web_design.org][Web Design]]
+https://github.com/nukeop/nuclear

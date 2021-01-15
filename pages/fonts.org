@@ -9,6 +9,7 @@ Notes on fonts and font design.
 * Cool Fonts
 ** Prose
 - [[https://gt-flexa.com][GT Flexa]]
+- [[https://github.com/froyotam/ferrite-core][Ferrite Core]]
 - Didot: :: 'Timeless elegance'; old and sophisticated.
 - Warnock :: Powerful with a lot of glyphs. It's an Adobe font and is probably expensive.
 - Trajan :: based on roman typography!

@@ -10,3 +10,4 @@ I use ext4 at the moment, but a future install of my operating system will make 
 - https://github.com/ipfs/awesome-ipfs interplanetary file system configuration
 - https://github.com/edolstra/dwarffs allows debug tools to automatically look up debug information over the internet
 - ZFS: Killer
+https://github.com/littlefs-project/littlefs

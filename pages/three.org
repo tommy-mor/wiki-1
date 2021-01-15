@@ -1,0 +1,9 @@
+#+TITLE: Three
+
+[[https://reddit.com/r/threejs/comments/hx147i/create_a_fluid_3d_liquid_bubble_with_dispersion][Create a fluid 3D liquid bubble with dispersion in threejs]]
+[[https://github.com/aalolexx/vue-three-basic-boilerplate][vue-three-basic-boilerplate]]
+[[https://mrdoob.com/#/158/threejs_sketches][Mr.doob | Three.js Sketches]]
+[[https://github.com/aalolexx/vue-three-basic-boilerplate][aalolexx/vue-three-basic-boilerplate: A basic boilerplate for a three js sc]]
+https://www.reddit.com/r/threejs/comments/i1vaqk/uv_map_problem_i_need_help_im_trying_to_add_a/
+https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
+https://github.com/airbnb/visx low level visualization components
