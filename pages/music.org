@@ -214,3 +214,12 @@ https://github.com/s-ol/themer themer
 [[https://m.youtube.com/watch?v=30FiQ8m4aoo&index=23&list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd][Session 19 June 0800 Synthesis 3 - YouTube]]
 [[https://m.youtube.com/watch?v=09w54uhb1TE&list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd&index=17][Session 18 June 1040 Machine Learning II - YouTube]]
 [[https://m.youtube.com/watch?v=EjuetJ00Z0M&t=3m17s][Session 17 June 0620 Networking and Hardware - YouTube]]
+
+[[https://algorave.com/][https://algorave.com/]]
+[[https://m.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A][The Audio Programmer - YouTube]]
+[[https://m.youtube.com/watch?v=TK1mBqKvIyU][Programming as Performance | Sam Aaron | TEDxNewcastle - YouTube]]
+[[https://github.com/dktr0/estuary][dktr0/estuary: Platform for collaboration and learning through live coding]]
+
+[[https://m.youtube.com/watch?v=ev3vENli7wQ][Autechre - Gantz Graf (Official Music Video) 1080p HD - YouTube]]
+
+[[https://news.ycombinator.com/item?id=23232268][how distortion works in music]]

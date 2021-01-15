@@ -32,4 +32,5 @@ https://www.reddit.com/r/FirefoxCSS/comments/hf97kk/my_take_on_hiding_as_much_as
 [[https://github.com/karlicoss/promnesia][extended mind firefox extension]]: track visited sites etc.
 [[https://github.com/mindedsecurity/behave][monitoring browser extension]]
 * other browsers
-https://github.com/atlas-engineer/nyxt
+[[https://github.com/atlas-engineer/nyxt][atlas-engineer/nyxt: Nyxt - Be productive.]]
+[[https://www.ekioh.com/acid.html][Flow browser passes the Acid tests - Ekioh]]

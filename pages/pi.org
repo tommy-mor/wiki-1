@@ -13,3 +13,5 @@ https://100r.co/site/raspberry_pi.html
 https://wiki.xxiivv.com/site/raspberry.html
 https://github.com/Yours3lf/rpi-vk-driver
 https://github.com/pimusicbox/pimusicbox
+
+[[https://www.element14.com/community/thread/47758/l/pi-zero-e-reader][Pi-Zero E-Reader | element14 | Ben Heck Featured Content]]

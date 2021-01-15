@@ -586,3 +586,26 @@ https://www.reddit.com/r/cscareerquestions/comments/9ujawa/programming_language_
 [[https://www.reddit.com/r/ProgrammingLanguages/comments/hyhc7b/which_languages_have_weak_references/][Which languages have weak references? - ProgrammingLanguages]]
 [[https://www.hillelwayne.com/post/frink/?utm_source=hillelwayne&amp;utm_medium=email][The Frink is Good, the Unit is Evil • Hillel Wayne]]
 [[https://www.reddit.com/r/ProgrammingLanguages/comments/hz2mcw/a_few_questions_about_parser_design/][A few questions about parser design - ProgrammingLanguages]]
+
+[[https://chapel-lang.org/][Chapel: Productive Parallel Programming]]
+[[https://www.jsoftware.com/#/][Jsoftware]]
+
+[[https://www.dangermouse.net/esoteric/piet.html][DM&amp;#39;s Esoteric Programming Languages - Piet]]
+
+[[https://mobile.twitter.com/sarahjeong/status/1313876899546898434][sarah jeong on Twitter: &quot;If they think declaring code is creative enough to merit copyright protection, aren&#39;t we left with the conclusion that *languages* are protectable?&quot; / Twitter]]
+[[https://github.com/gluon-lang/gluon][gluon-lang/gluon: A static, type inferred and embeddable language written i]]
+
+[[https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X][Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming L]]
+
+[[https://www.reddit.com/r/ProgrammingLanguages/comments/hm700t/underappreciated_programming_language_concepts_or/][Underappreciated programming language concepts or features? : ProgrammingLa]]
+
+[[https://raku.org/][Raku Programming Language]]
+https://www.classes.cs.uchicago.edu/archive/2020/spring/32001-1/
+[[https://synthese.wordpress.com/2010/08/21/prologs-death/][the death of prolog]]
+https://en.m.wikipedia.org/wiki/Simula
+[[https://dl.acm.org/doi/10.1145/2034773.2034801][Parsing with derivatives | Proceedings of the 16th ACM SIGPLAN international conference on Functional programming]]
+[[https://m.youtube.com/watch?feature=youtu.be&v=aO9nOCqNdfQ][Robby Findler: Concolic Testing with Higher-Order Inputs - YouTube]]
+[[https://arxiv.org/abs/1911.04523][[1911.04523] A Simple Differentiable Programming Language]]
+[[https://dl.acm.org/doi/10.1145/268946.268976][The SLam calculus | Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages]]
+[[https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html][Val on Programming: What makes a good REPL?]]
+[[https://digitalmars.com/articles/b90.html][on writing a pl]]

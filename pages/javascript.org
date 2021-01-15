@@ -88,3 +88,10 @@ https://github.com/vercel/serve static file listing and serving
 [[https://github.com/purescript-halogen/purescript-halogen][type safe ui library for purescript]]
 
 [[https://github.com/jondashkyle/nanocontent][read directory content into an object]]
+[[https://tomassetti.me/parsing-in-javascript/#antlr][Parsing in JavaScript: all the tools and libraries you can use]]
+[[https://tomassetti.me/parsing-in-javascript#antlr][Parsing in JavaScript: Tools and Libraries]]
+[[https://nativescript.org/][Native mobile apps with Angular, Vue.js, TypeScript, JavaScript - NativeScr]]
+[[https://exploringjs.com/deep-js/][Deep JavaScript: Theory and techniques]]
+[[https://nanochess.org/][Chess programs in C, Java and Javascript, also 8080 emulator]]
+[[https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/][javascript is so hard to use now!]]
+https://nh2.me/ host gpg key on my website like this person does. i also like the 'tell me something' button with the hidden (black on black) text!

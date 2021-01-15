@@ -124,3 +124,20 @@ https://github.com/semi-technologies/weaviate vector search engine for scaling m
 [[https://github.com/mdroste/stata-pylearn][mdroste/stata-pylearn: Supervised learning algorithms in Stata]]
 
 [[https://course.fullstackdeeplearning.com/][Full Stack Deep Learning - Full Stack Deep Learning]]
+
+[[https://colah.github.io/posts/2015-08-Understanding-LSTMs/][Understanding LSTM Networks -- colah&#039;s blog]]
+[[https://github.com/jantic/DeOldify][jantic/DeOldify: A Deep Learning based project for colorizing and restoring]]
+https://openai.com/blog/image-gpt/
+[[[[https://raw.githubusercontent.com/jethrokuan/braindump/master/org/actor_critic.org][https://raw.githubusercontent.com/jethrokuan/braindump/master/org/actor_critic.org]]] [actor-critic methods]]
+
+[[https://qnkxsovc.github.io/concepts/2018/06/25/EPR-Strange-Paradox.html][EPR: The Strange Paradox of Distance and Observation | qnkxsovc Blog]]
+[[https://qnkxsovc.github.io/projects/2018/04/30/Explanation-Convolutions-Multi-Feature-Maps.html][Explanation: Convolutions on Feature Maps With Multiple Channels | qnkxsovc]]
+[[https://qnkxsovc.github.io/concepts/2018/03/23/Word2Vec-Part-2-Color-Vectors.html][Word2Vec Part 2: Color Vectors | qnkxsovc Blog]]
+[[https://qnkxsovc.github.io/concepts/2018/02/18/Word-Vectors-From-the-Ground-Up.html][Word Vectors, From the Ground Up | qnkxsovc Blog]]
+
+[[https://reddit.com/r/opengl/comments/hwntc1/following_learnopenglcom_but_my_triangles_being][Following learnopengl.com but my triangles being culled weirdly. Code in comments]]
+https://blogs.nvidia.com/blog/2020/05/22/gamegan-research-pacman-anniversary/
+https://people.cs.umass.edu/~arjun/main/home/
+https://jelv.is/
+
+https://www.aquicarattino.com/blog/how-write-programming-book/

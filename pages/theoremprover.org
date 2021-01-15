@@ -8,3 +8,16 @@ https://github.com/gallais/generic-syntax agda repo for a type safe universe of 
 https://github.com/crypto-agda/protocols shallow embedding of protocols with agda dependent types
 https://github.com/cedille/cedille
 https://github.com/vasilisp/inez constraint solver
+
+[[https://hol-theorem-prover.org/][HOL Interactive Theorem Prover]]
+[[https://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html][The E Theorem Prover]]
+[[https://softwarefoundations.cis.upenn.edu/][Software Foundations]]
+[[https://galois.com/blog/2018/07/vellvm-verifying-the-llvm/][Vellvm - Verifying the LLVM - Galois, Inc.]]
+[[https://github.com/rntz/datafun][rntz/datafun: Research on integrating datalog &amp; lambda calculus via monoton]]
+[[https://github.com/patio11/wrightverification/blob/master/README.md][wrightverification/README.md at master · patio11/wrightverification]]
+[[https://m.youtube.com/watch?feature=youtu.be&amp;t=4674&amp;v=ZkDC4aizsqQ][Verification Mentoring Workshop: Session 1 - YouTube]]
+
+[[https://github.com/lvm/build-supercollider][lvm/build-supercollider: A dead simple script that builds and installs Supe]]
+[[https://www.reddit.com/r/ProgrammingLanguages/comments/hx442x/a_formally_verified_highlevel_synthesis_tool/][A formally verified high-level synthesis tool based on CompCert and written]]
+[[https://arxiv.org/abs/2010.00774][[2010.00774] Proof Repair Across Type Equivalences]]
+[[https://github.com/tevador/RandomX][tevador/RandomX: Proof of work algorithm based on random code execution]]

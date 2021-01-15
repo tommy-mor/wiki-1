@@ -46,3 +46,10 @@ https://github.com/joeycastillo/The-Open-Book open book project; open source dev
 
 https://apps.ankiweb.net/
 http://matt.might.net/articles/electric-meat/
+https://explog.in/notes/walk.html
+http://matt.might.net/articles/what-cs-majors-should-know/
+http://matt.might.net/articles/how-to-blog-as-an-academic/
+[[https://en.wikipedia.org/wiki/List_of_cognitive_biases][list of cognitive biases]]
+
+[[https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727]]
+[[https://medium.com/message/networks-without-networks-7644933a3100][The Sixth Stage of Grief Is Retro-computing | by Paul Ford | The Message | Medium]]

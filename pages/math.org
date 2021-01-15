@@ -18,3 +18,13 @@ questions !! both article on category theory but commentary on stack exchange
 [[https://parentheticallyspeaking.org/articles/fat-nums/][FatNums: An Alternate Representation for School Arithmetic]]
 
 [[https://mobile.twitter.com/wilbowma/status/1306446403439177730][William J. Bowman @wilbowma@mastodon.social on Twitter: &quot;Last time, asked students to prove the empty set is not equal to the set containing the empty set. This time, I asked them to prove 1 is not equal to 0. This was by mistake. Thankfully, has resulted in a most pedantic discussion about whether we know conjunction is commutative.&quot; / Twitter]]
+
+[[http://math.stanford.edu/~ryzhik/STANFORD/STANF63CM-20/math63cm-20.html][Math 63CM Winter 2020]]
+
+[[https://www.math.upenn.edu/~wilf/DownldGF.html][Download generatingfunctionology]]
+[[https://www.amazon.com/Functional-Differential-Geometry-Sussman-Hardcover/dp/B011SJW1H6/ref=sr_1_1?dchild=1&amp;keywords=sussman+differential+geometry&amp;qid=1594059938&amp;sr=8-1][Functional Differential Geometry by Sussman, Gerald Jay, Wisdom, Jack (2013]]
+https://arxiv.org/abs/1808.02923
+
+https://byorgey.wordpress.com/2020/02/23/what-would-dijkstra-do-proving-the-associativity-of-min/
+
+https://www.3blue1brown.com/about

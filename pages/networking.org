@@ -1,0 +1,4 @@
+#+TITLE: Networking
+
+[[https://blog.acolyer.org/2019/11/18/formal-foundations-of-serverless-computing/][Formal foundations of serverless computing | the morning paper]]
+[[https://m.youtube.com/watch?v=cSntRGAjPiM][Reitit, the Ancient Art of Routing - Tommi Reiman - YouTube]]

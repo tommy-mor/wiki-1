@@ -158,3 +158,6 @@ Run programs in systemd cgroups (check out grahamc's config)
 https://davedellacosta.com/posts/2019-03-29-why-nixos-is-hard-and-how-to-fix.html
 https://github.com/dustinlacewell/dotfiles
 https://github.com/nix-community/nixos-generators image builders for nix
+
+
+https://lemire.me/blog/2020/05/22/programming-inside-a-container/ programming inside of containers

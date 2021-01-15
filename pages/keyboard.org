@@ -346,3 +346,18 @@ https://wiki.xxiivv.com/site/juni.html
 [[http://www.minimak.org/][Minimak - Home]]
 [[https://www.youtube.com/watch?v=RBBiri3CD6w&amp;t=114][Coding in Stenography, Quick Demo]]
 [[https://github.com/abstracthat/dactyl-manuform][dactyl manuform keyboard]]
+
+[[https://incoherency.co.uk/blog/stories/3pct-keyboard.html][James Stanley - I made a macro keypad with 3d-printed switches]]
+[[http://www.mike-worth.com/2013/03/31/baking-a-hello-world-cake/][Baking with the Chef programming language]]
+[[http://www.paulgraham.com/hundred.html][The Hundred-Year Language]]
+[[https://en.m.wikipedia.org/wiki/Forth_(programming_language)][Forth (programming language) - Wikipedia]]
+[[https://vlang.io/][The V Programming Language]]
+[[https://odin-lang.org/][Odin Programming Language]]
+[[https://www.perl.org/][The Perl Programming Language - www.perl.org]]
+[[https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext][A Programmable Programming Language | March 2018 | Communications of the AC]]
+[[https://github.com/glaretechnologies/winter][glaretechnologies/winter: High-performance functional programming language]]
+[[https://www.cs.princeton.edu/research/techreps/TR-554-97][The Zephyr Abstract Syntax Description Language | Computer Science Departme]]
+[[https://dhall-lang.org/][The Dhall configuration language]]
+[[https://docs.dhall-lang.org/howtos/How-to-integrate-Dhall.html][How to integrate Dhall — Dhall documentation]]
+
+[[https://youtube.com/watch?v=RBBiri3CD6w&amp;t=114][Coding in Stenography, Quick Demo]]

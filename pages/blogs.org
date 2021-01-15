@@ -100,3 +100,11 @@ https://vanschneider.com/a-love-letter-to-personal-websites
 [[https://bearblog.dev/][ʕ•ᴥ•ʔ Bear Blog]]
 
 [[https://snufk.in/blog/ssg-1.html][Writing a Static Site Generator in Nim (PART 1: How to Structure Content) |]]
+
+[[https://github.com/learn-anything/blogs#readme][blogs for learning anything]]
+[[https://github.com/frankmcsherry/blog ][blog maintained entirely on git]]
+https://jxnblk.com/blog/
+http://mrmrs.cc/writing/
+https://joearms.github.io/oldindex.html [[file:erlang.org][Erlang]] [[file:elixir.org][Elixir]]
+https://rauchg.com/
+https://jozefg.github.io/

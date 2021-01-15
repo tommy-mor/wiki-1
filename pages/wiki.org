@@ -159,3 +159,7 @@ https://github.com/schollz/cowyo neat, encrypted wiki!
 [[https://tomcritchlow.com/][Tom Critchlow. Move. Think. Create.]]
 
 [[https://t.co/G9PQ1UaIeq][Marcin Ignac on Twitter: &quot;I&#039;m fascinated by @andy_matuschak digital garden ]]
+https://wiki.xxiivv.com/site/about.html
+https://billdemirkapi.me/
+
+https://git.sr.ht/~sircmpwn/openring a webring for static site generators, allows for generating a webring from a list of RSS feeds to join the sites together

@@ -70,3 +70,4 @@ This did change the commit time for my latest commit, which is something to watc
 [[https://github.com/abhisheknaiidu/awesome-github-profile-readme][ A curated list of awesome Github Profile READMEs 📝]]
 [[https://github.com/git-series/git-series][track changes to a patch over time]]
 [[https://github.com/nvie/gitflow][git flow]]: git extensions for high level repository operations
+[[https://github.com/itsrainingmani/gitexplore][explore git cli with natural language search]]

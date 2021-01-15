@@ -29,3 +29,6 @@ http://www.sizecoding.org/wiki/Game_of_Life_32b
 https://alex-hhh.github.io/2020/03/a-game-of-tetris.html
 [[https://joon.be/][wild independent game designer]]
 [[https://github.com/a327ex/BYTEPATH][a327ex/BYTEPATH: A replayable arcade shooter with a focus on build theorycr]]
+[[https://itch.io/b/520/bundle-for-racial-justice-and-equality][Bundle for Racial Justice and Equality by itch.io and 1361 others - itch.io]]
+[[https://hundredrabbits.itch.io/][Rekka &amp; Devine - itch.io]]
+https://marian42.itch.io/wfc

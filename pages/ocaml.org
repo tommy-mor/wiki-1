@@ -2,3 +2,4 @@
 
 https://github.com/ezyang/ocaml-cminsketch
 https://github.com/NathanReb/ocaml-afl-examples [[file:cybersecurity.org][Cybersecurity]]
+[[https://m.youtube.com/watch?v=hKcOkWzj0_s][Caml Trading - YouTube]]

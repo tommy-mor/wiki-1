@@ -92,3 +92,5 @@ this is just one study but nature is huge.
 [[https://github.com/ejain/body-temperature][tracking body temperature]]
 [[https://github.com/ensc/tk][some fun time keeping and tracking utilities]]
 https://github.com/seanbreckenridge/HPI
+
+[[https://ouraring.com/][Oura Ring: the most accurate sleep and activity tracker]]

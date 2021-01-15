@@ -92,3 +92,8 @@ https://github.com/doctorn/micro-mitten
 [[http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/][Debugging compilers with optimization fuel : Inside 245-5D]]
 
 [[https://generalproblem.net/lets_build_a_compiler/01-starting-out/][The General Problem]]
+
+[[https://hassamuddin.com/blog/reg-alloc/][A Quick Introduction to Register Allocation — Hassam Uddin | Developer]]
+[[https://www.reddit.com/r/ProgrammingLanguages/comments/i1s8m0/functional_programming_and_reference_counting/][Functional Programming and Reference Counting - ProgrammingLanguages]]
+
+[[https://gist.github.com/cellularmitosis/1f55f9679f064bcff02905acb44ca510#tutorials][lots of compilers resources]]

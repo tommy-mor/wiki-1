@@ -153,3 +153,7 @@ do not have access to the source of compiled code when we run it against the
 language they are compiling!
 
 [[https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled][How to detect if JavaScript is disabled?]]
+
+[[https://www.garron.blog/posts/no-javascript-sites.html][Create No-JavaScript friendly sites]]
+[[https://news.ycombinator.com/item?id=23246170][Why is this website port scanning me?]]
+[[https://jeffhuang.com/designed_to_last/][designing webpages to last]]

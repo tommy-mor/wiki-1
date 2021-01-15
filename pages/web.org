@@ -103,7 +103,7 @@ https://www.are.na/everest-pipkin/on-vocal-cloning on vocal cloning: beautiful p
 https://neocities.org/: support for creating cool websites with free hosting!
 * SEO
 [[https://www.currentaffairs.org/2020/12/how-seo-is-gentrifying-the-internet][how seo is ruining the web]]
-[[https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf][Google's vaguely worded SEO advice hadnbook]]
+[[https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf][Google's vaguely worded SEO advice handbook]]
 reverse engineer seo by sampling search results? is this done?
 * Fun utilities
 ** terminal on the website
@@ -142,3 +142,20 @@ https://github.com/pion/ion distributed rtc system
 [[https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/][free time series db on postgres - relevant for work?]]
 [[https://e-ec.co/][ECCO2K - E]]
 
+https://www.cs.cornell.edu/people/egs/beehive/codons.php
+https://www.cyberpunk.net.ar/
+[[http://xanadu.com/][Project Xanadu®]]
+[[http://motherfuckingwebsite.com/][Motherfucking Website]]
+[[https://xuset.github.io/planktos/][p2p websites in the browser]]
+[[https://ipj.dreamhosters.com/][the internet protocol journal]]
+
+[[https://utcc.utoronto.ca/~cks/space/blog/web/HTTPSNoOldServers][HTTPS has no place for old web servers]]
+
+
+[[https://www.inkandswitch.com/local-first.html][local-first software]]
+https://en.wikipedia.org/wiki/Webring
+
+https://blog.mainframe.dev/?m=1 mainframes!
+
+
+[[https://raw.githubusercontent.com/LukeSmithxyz/etc/master/ips][add to /networking/hosts to block a lot of information]]

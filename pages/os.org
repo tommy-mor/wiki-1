@@ -62,3 +62,9 @@ https://www.reddit.com/r/osdev/comments/husrzq/looking_for_a_specific_tutorial_f
 
 https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug.html
 [[https://github.com/demikernel/demikernel][demikernel/demikernel: Demikernel OS]]
+
+[[https://github.com/nickbjohnson4224/rhombus][nickbjohnson4224/rhombus: a hobby operating system written in C]]
+[[https://github.com/jmgrosen/shorai][jmgrosen/shorai: A super-amazing OS that will bring world peace.]]
+[[https://github.com/demikernel/demikernel][Demikernel]]
+
+[[https://github.com/cleverca22/not-os][cleverca22/not-os]]

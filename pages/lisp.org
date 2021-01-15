@@ -40,3 +40,5 @@ from markov chain
 
 [[http://marktarver.com/bipolar.html][the bipolar lisp programmer]] arrogant
 [[https://kingjamesprogramming.tumblr.com/][sicp and king james generation]]
+
+[[https://www.dreamsongs.com/index.html][Dreamsongs]]

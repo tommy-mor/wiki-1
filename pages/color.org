@@ -1,0 +1,6 @@
+#+TITLE: Color
+
+https://github.com/robinovitch61/color-controversy
+[[https://codepen.io/jackiezen/pen/vYGPQZK][Pantone Color Chips]]
+[[http://vrl.cs.brown.edu/color][Colorgorical]]
+[[https://richzhang.github.io/colorization/][Colorful Image Colorization]]

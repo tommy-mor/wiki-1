@@ -10,3 +10,5 @@ https://spiegelmock.com/2020/05/28/decentralizing-social-media/
 
 [[https://scuttlebutt.nz][scuttlebutt : the decentralized, social web. localized but distribued.]]
 [[https://github.com/alexwennerberg/gourami][alexwennerberg/gourami: An intentionally small, community-focused decentralized microblogging service]]
+
+[[https://kevq.uk/how-to-create-an-indieweb-profile/][How To Create An IndieWeb Profile - Kev Quirk]]
