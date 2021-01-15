@@ -133,7 +133,7 @@ https://github.com/purcell/emacs.d
 https://github.com/zaeph/.emacs.d
 https://github.com/munen/emacs.d
 ** Org mode
-
+[[https://github.com/karlicoss/orger][convert data into interactive org mode views]]
 [[https://blog.jethro.dev/posts/zettelkasten_with_org/][Org-mode Workflow Part 3: Zettelkasten with Org-mode · Jethro Kuan]]
 [[https://forum.zettelkasten.de/discussion/100/zettels-and-org-mode][Zettels and Org-mode — Zettelkasten Forum]]
 [[http://www.cachestocaches.com/2016/9/my-workflow-org-agenda/][My Workflow with Org-Agenda]]
@@ -178,6 +178,7 @@ https://www.eliasstorms.net/zetteldeft/
 https://hiepph.github.io/post/2017-11-24-emacs-org-syncthing/ emacs, org and syncthing
 https://rgoswami.me/posts/colemak-dots-refactor/
 https://github.com/manateelazycat/emacs-application-framework
+[[https://github.com/progfolio/wikinforg][wikinfo convert wikipedia infoboxes into org mode entries]]
 ** Mail
 [[file:mail.org][Mail]]
 https://emacs.stackexchange.com/questions/12927/reading-and-writing-email-with-emacs
@@ -204,3 +205,4 @@ https://github.com/benley/dotfiles/blob/master/overlays/emacs.nix
 https://blog.jethro.dev/posts/nix_buffer_emacs/
 https://github.com/purcell/nix-emacs-ci nix emacs ci
 https://www.reddit.com/r/emacs/comments/ekr5ek/experimenting%5Fwith%5Fremembrance%5Fagents/
+https://github.com/zachcurry/emacs-anywhere use emacs anywhere

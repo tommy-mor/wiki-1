@@ -78,3 +78,13 @@ https://github.com/replit/clui build quick cli apps with js
 https://github.com/atom/node-spellchecker
 * node
 [[https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017][automating with nodejs]]
+[[https://github.com/google/closure-compiler][advanced javascript optimizer]]
+https://github.com/calmm-js/partial.lenses lenses in javascript
+
+[[https://github.com/lerna/lerna][manage js project with multiple packages]]
+[[https://github.com/alloy-js/sterling][alloyjs browser based visualizations]]
+https://github.com/vercel/serve static file listing and serving
+[[https://github.com/denoland/deno][deno]]:secure js runtime
+[[https://github.com/purescript-halogen/purescript-halogen][type safe ui library for purescript]]
+
+[[https://github.com/jondashkyle/nanocontent][read directory content into an object]]

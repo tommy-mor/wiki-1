@@ -12,3 +12,5 @@ Notes on algorithms that don't fit another particular category.
 - https://dynamic-programming.debkbanerji.com/select-problem visualization of dp problems
 - https://www.youtube.com/watch?v=xP5-iIeKXE8&utm_source=Hackaday.com&utm_campaign=ec4864ced1-EMAIL_CAMPAIG -- figure out how this works!
 - https://dynamic-programming.debkbanerji.com/select-problem -- dp visualization
+
+[[https://github.com/scandum/wolfsort][stable hybrid radix merge sort]]

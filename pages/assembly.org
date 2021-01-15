@@ -3,3 +3,11 @@
 https://github.com/aalhour/Assembler.hack
 https://github.com/mat-sz/pongloader
 https://github.com/dbp/funtal mix functional programming with assembly language
+[[https://github.com/8l/ff][forth system for linux on arm]]
+[[https://github.com/justinmeiners/lc3-vm][write virtual machine for lc3 computer!]]
+[[https://hackaday.com/2019/03/23/show-your-skills-with-a-bootable-cv/][Show Your Skills With A Bootable CV | Hackaday]]
+[[https://christine.website/blog/super-bootable-64-2020-05-06][Super Bootable 64]]
+[[https://github.com/spacerace/romfont][ROM font extractor]]
+
+[[https://github.com/quantumlib/Cirq][python framework for editing noisy intermediate scale quantum circuits]]
+[[https://github.com/myusuf3/delorean][cleaning up inconvenient truths of python]]

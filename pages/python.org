@@ -21,3 +21,18 @@ https://github.com/jspahrsummers/adt
 https://github.com/skulpt/skulpt [[file:javascript.org][JavaScript]] implementation of python
 https://github.com/nmigen/nmigen python toolkit for hardware
 https://github.com/leoneckert/masks-and-hats  apply masks and hats to faces [[file:machine-learning.org][Machine Learning]]
+[[https://github.com/google/python-fire][generate python cli from any python object]]
+[[https://github.com/clarete/forbiddenfruit][forbidden fruit]]: patch built in python objects
+[[https://github.com/dry-python/returns][make python programs functional and type safe!]]
+[[https://github.com/joshiemoore/snakeware][linux distribution with a python userspace]],[[file:os.org][Operating Systems]]
+
+[[https://dragonquest64.blogspot.com/2020/05/python-generated-sequence-diagrams.html?m=1][python sequence diagrams]]
+[[https://github.com/rocky/python-uncompyle6][rocky/python-uncompyle6: A cross-version Python bytecode decompiler]][[file:cybersecurity.org][Cybersecurity]]
+[[https://github.com/odashi/latexify_py][odashi/latexify_py: Generates LaTeX math description from Python functions.]]
+[[https://m.youtube.com/watch?v=u2KZJzoz-qI][Super Advanced Python - YouTube]]
+[[https://github.com/chriskiehl/Gooey/][chriskiehl/Gooey: Turn (almost) any Python command line program into a full]]
+[[https://github.com/construct/construct][construct/construct: Construct: Declarative data structures for python that]]
+[[https://github.com/alec-tschantz/predcoding][alec-tschantz/predcoding: A Python Implementation of Predictive Coding (Whi]]
+[[https://www.reddit.com/r/learnmachinelearning/comments/hxxtik/ai_application_python_implementation_of_proximal/][[AI application] Python implementation of Proximal Policy Optimization (PPO]]
+http://dontfragment.com/using-python-yaml-and-jinja2-to-generate-config-files/
+[[https://github.com/The-Tree/LangtonsAnt][The-Tree/LangtonsAnt: A simple implementation of Langston&#039;s Ant in Python.]]

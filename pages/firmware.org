@@ -1,3 +1,10 @@
 #+TITLE: Firmware
 
 https://github.com/NiklasFauth/hoverboard-firmware-hack
+[[https://github.com/Ralim/IronOS][open source soldering iron]]
+https://github.com/bettercap/bettercap swiss army knife for bluetooth and network recon
+
+[[https://github.com/auxoncorp/modality-probe][causal tracing system for embedded use]]
+[[https://github.com/free5gc/free5gc][open source 5g network]]
+https://github.com/kitschpatrol/Brain arduino eeg brainwave data
+[[https://en.wikipedia.org/wiki/Pentium_FDIV_bug][Pentium FDIV bug]]

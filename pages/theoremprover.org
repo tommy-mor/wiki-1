@@ -1,3 +1,10 @@
 #+TITLE: Theorem prover
 
 https://github.com/wilbowma/cur
+[[https://github.com/project-oak/oak-hardware][formal specification and verification of hardware]]
+[[https://github.com/u2zv1wx/neut][dependently typed programming language with compile time malloc/free]]
+https://github.com/GaloisInc/lean-llvm llvm support for lean theorem prover
+https://github.com/gallais/generic-syntax agda repo for a type safe universe of syntaxes
+https://github.com/crypto-agda/protocols shallow embedding of protocols with agda dependent types
+https://github.com/cedille/cedille
+https://github.com/vasilisp/inez constraint solver

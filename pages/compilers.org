@@ -77,3 +77,16 @@ supposedly good material
 https://www.reddit.com/r/ProgrammingLanguages/comments/i1s8m0/functional_programming_and_reference_counting/
 https://github.com/nanocaml/nanocaml
 https://github.com/doctorn/micro-mitten
+
+[[https://ucsd-cse131-f19.github.io/][Compiler Construction – CSE 131 F19]]
+[[https://www.reddit.com/r/ProgrammingLanguages/comments/hvs79e/tracing_jit_vs_method_jit_what_to_choose/][Tracing JIT vs Method JIT: What to choose? - ProgrammingLanguages]]
+[[https://technomancy.us/192][in which a compiler takes steps towards strapping its boots - Technomancy]]
+[[https://www.edx.org/course/compilers][Compilers | edX]]
+[[http://craftinginterpreters.com/][Crafting Interpreters]]
+[[https://github.com/barak/stalin][barak/stalin: stalin brutally optimizing Scheme compiler, with Debianizatio]]
+[[https://www.reddit.com/r/Compilers/comments/hufog0/object_lifetimes_how_can_a_compiler_determine/][Object Lifetimes - how can a compiler determine when to call the destructor]]
+[[https://m.youtube.com/watch?feature=emb_title&amp;v=hTWmU9IJBSI][Console #9: An Intro to Compilers - YouTube]]
+[[https://dl.acm.org/doi/abs/10.1145/512927.512941][Advice on structuring compilers and proving them correct | Proceedings of t]]
+[[https://skillsmatter.com/skillscasts/14803-what-s-in-a-functional-compiler][What&#039;s in a Functional Compiler? | SkillsCast | 30th July 2020]]
+[[https://mobile.twitter.com/wilbowma/status/1314723979693682688][William J. Bowman @wilbowma@mastodon.social on Twitter: &quot;I generated language validators from my compiler course assignment specifications, turned them into contracts for my reference solution, and it&#39;s just finding bug after bug after bug. Bugs in specs, bugs in tests, bugs in implementation.&quot; / Twitter]]
+[[http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/][Debugging compilers with optimization fuel : Inside 245-5D]]

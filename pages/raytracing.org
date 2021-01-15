@@ -6,3 +6,4 @@ https://www.realtimerendering.com/raytracinggems/
 https://github.com/disconcision/depthop
 
 https://github.com/browserdotsys/vecchio ray tracing in one weekend :: looks fun to do [[file:rust.org][Rust]]
+https://github.com/athas/raytracers

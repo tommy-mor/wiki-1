@@ -41,6 +41,7 @@ https://packhacker.com/travel-gear/matador/nanodry-towel/
 [[https://rosen-store.com/collections/rosen-x/products/rosen-x-minerva-2-overshirt-in-2l-nylon?variant=30231428857915][rosen minerva overshirt]] both min. and futuristic!
 
 * recorder
+[[https://www.ourlegacy.se/mens/shirting][Shirting - Long and shortsleeve shirts - Our Legacy]]
 
 https://m.youtube.com/watch?v=SgMteaMbZi8 -- best lav mic recorder?
 [[https://m.youtube.com/watch?v=-L1EtAdgwww][how to mount h1n on camera]]
@@ -72,3 +73,17 @@ https://outlier.illposed.com/ outlier archive
 https://m.youtube.com/watch?v=rMoig3kQr3Y descente allterrain show
 https://www.reddit.com/r/onebag/comments/hzqxk2/lightweight_compact_travel_blanket/
 https://web.archive.org/web/19980115120006/http://www.asarian.org/~vickis/continuum.html yes
+
+* anxiety in product development
+https://andreschweighofer.com/agile/anxiety-in-product-development/
+anxiety can emerge easily from stress, resulting in anger, frustration and
+other unhealthy forms of exerting such stress. this impacts other people,
+organizations and processes as well.
+we have fear driven development : a concrete idea encouraging us to avoid
+certain practices depending upon the specific approach
+play to win, don't play not to lose; developing a unique selling proposition
+means that you are no longer fighting with others, but rather striving to
+come out ahead
+awareness of such anxiety is the first step to take. with this awareness
+comes conscious decision making, and with such decisions come wiser product
+crafting and, in the end, better, more creative work

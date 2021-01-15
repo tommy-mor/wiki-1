@@ -23,3 +23,6 @@ There are a lot more, but I'll investigate them further as I learn more.
 - Liveness properties :: Similar to the definition in the compiler sphere, liveness properties are properties of systems that must /eventually/ be true for the spec to be valid.
 * etc
 https://github.com/wimmers/munta
+https://melcer.dev/projects.html
+
+[[https://mobile.twitter.com/EremondiJoey/status/1314319848592216064][Joey Eremondi on Twitter: &quot;Has anyone seen a &quot;reference&quot; implementation of an SMT solver? Not one that is fast like Z3 or CVC4, but one that implements the algorithm in a fairly straightforward way that&#39;s slow but grokkable. I&#39;m particularly interested in how it handles uninterpreted functions (UF).&quot; / Twitter]]

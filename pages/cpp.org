@@ -24,3 +24,9 @@ https://bellard.org/otcc/
 http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html cool project for a
 tiny compiler in python!
 [[https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#lets-destroy-c][let's destroy c]]
+[[https://github.com/grz0zrg/fas][c pixels-based audio synthesizer]] [[file:music.org][Music]]
+[[https://github.com/Theldus/wsServer][tiny websocket server written in C]]
+
+[[https://news.ycombinator.com/item?id=23281542][tem commandments of c programmers]]
+[[https://github.com/cylgom/ghck][cylgom/ghck: The C code typed by Dr. Willis in Ghost in the Shell (1995)]]
+[[https://github.com/LukasJoswiak/draft][LukasJoswiak/draft: A C   serialization library.]]

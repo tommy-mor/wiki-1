@@ -29,3 +29,7 @@ https://www.reddit.com/r/vim/comments/hyzfgd/what_vim_firefox_plugin_are_you_usi
 [[https://github.com/jbmartinez/speed-readerff][ speed reading extension for Firefox based on OpenSpritz]]
 [[https://github.com/akshat46/FlyingFox][n opinionated set of configurations for firefox.]]
 https://www.reddit.com/r/FirefoxCSS/comments/hf97kk/my_take_on_hiding_as_much_as_possible/
+[[https://github.com/karlicoss/promnesia][extended mind firefox extension]]: track visited sites etc.
+[[https://github.com/mindedsecurity/behave][monitoring browser extension]]
+* other browsers
+https://github.com/atlas-engineer/nyxt

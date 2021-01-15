@@ -4,3 +4,13 @@ https://github.com/dylanaraps/pure-sh-bible
 https://github.com/gigamonkey/monorepoize
 
 [[https://ideatrash.net/2013/03/scripts-and-utilities-to-make.html][tui everything]]
+[[https://github.com/Genivia/ugrep][interactive grep with query ui and fuzzy search]]
+[[https://github.com/tomnomnom/gron][make JSON greppable]]
+[[https://github.com/sharkdp/hexyl][command line hex viewer]]
+[[https://github.com/sharkdp/hyperfine][command line benchmarking tool]]
+[[https://github.com/imager-io/imager][automated image compression for distributing images]]
+[[https://github.com/KorySchneider/wikit][wikipedia summaries from the command line]]
+
+[[https://github.com/learnbyexample/Command-line-text-processing][automate command line text processing]]
+[[https://github.com/casey/just][just: simple command runner]]
+[[https://github.com/gokcehan/lf][terminal file manager]]

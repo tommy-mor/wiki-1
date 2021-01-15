@@ -26,7 +26,7 @@ https://www.ipredia.org/os/
 - [[https://collapseos.org/][CollapseOS]] :: An OS written entirely in the Forth programming language.
 - Fuscia https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html
 - Gentoo :: An operating system that prides itself on building everything from source.
-  https://ocharles.org.uk/posts/2012-07-09-leaving-gentoo.html
+  [[https://ocharles.org.uk/posts/2012-07-09-leaving-gentoo.html][Leaving Gentoo]]
   https://www.paritybit.ca/blog/my-beginnings-with-gentoo
   https://timboudreau.com/blog/gentoo/read gentoo seems like a great learning exp
   https://wiki.gentoo.org/wiki/Raspberry_Pi#Hardware help loading gentoo onto a pi {might be more helpful to put on qemu}
@@ -54,4 +54,8 @@ http://songseed.org/dinghy/concept.html reenvisioning the os
 
 [[http://pages.cs.wisc.edu/~remzi/OSTEP/][Operating Systems: Three Easy Pieces ]] [[file:books.org][Books]]
 
-[[https://github.com/nickbjohnson4224/rhombus][ hobby operating system written in C]]
+[[https://github.com/nickbjohnson4224/rhombus][hobby operating system written in C]]
+
+https://www.reddit.com/r/osdev/comments/husrzq/looking_for_a_specific_tutorial_from_10_years_ago/
+[[https://github.com/darlinghq/darling][macos emulation layer for linux]]
+[[https://github.com/akkartik/mu][toy os]]

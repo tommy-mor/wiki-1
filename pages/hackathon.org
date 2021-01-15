@@ -295,3 +295,5 @@ yes
 * Generative poems
 inspiration:
 - https://wiki.xxiivv.com/site/the_will_the_wisp.html
+* General Ideas
+[[https://github.com/Rolstenhouse/unofficial-apis][unofficial apis]]

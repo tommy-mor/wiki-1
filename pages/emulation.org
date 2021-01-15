@@ -31,3 +31,5 @@ https://github.com/vascofazza/8bit-cpu
 https://github.com/Two9A/jsGB
 
 [[https://copetti.org/projects/consoles/nintendo-64/][nintendo arch]]itecture breakdown
+[[https://github.com/kesiev/rewtro][papercraft videogame cartridges]]
+[[https://christine.website/blog/super-bootable-64-2020-05-06][Super Bootable 64 - Christine Dodrill]]

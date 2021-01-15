@@ -8,3 +8,8 @@ https://jacob.chvatal.com
 https://github.com/pacocoursey/paco
 https://github.com/azlen/azlen.me
 [[https://ameyama.com/hey][novel design!]] a website that interfaces with a physical device, a pi, and flashes a smiley face whenever someone visits the page. lends some personal, physical characteristics to an otherwise void webspace. they also have very good book recommendations
+https://github.com/zzh8829/zihao
+https://github.com/ottomated/portfolio
+
+https://github.com/kickscondor/fraidycat follow everything from a single page
+[[https://github.com/xdesro/vogue][xdesro/vogue]]

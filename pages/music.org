@@ -194,3 +194,21 @@ https://gist.github.com/kindohm/9388957
 https://wiki.xxiivv.com/site/eschatolor.html
 https://github.com/googlecreativelab/chrome-music-lab [[file:web_design.org][Web Design]]
 https://github.com/nukeop/nuclear
+[[https://audiomass.co/][audio mass]]
+
+[[https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e][spleeter: msuic research engine]]
+
+[[https://github.com/prajwal1121/Portable-Synth][op-1 style portable synthesizer!]]
+[[https://github.com/deepjyoti30/ytmdl][get songs from yt in mp3 format]]
+
+[[https://github.com/toplap/awesome-livecoding][awesome livecoding]]
+https://github.com/beetbox/beets music library manager
+https://github.com/s-ol/themer themer
+
+[[http://labs.phaser.io/][phaser games]]
+[[https://github.com/f-f/CASSALPOPOLO][f-f/CASSALPOPOLO: More open source 4/4 beats for the peoples]]
+[[https://arcade.makecode.com/][games in the browser!]]
+
+[[https://m.youtube.com/watch?v=30FiQ8m4aoo&index=23&list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd][Session 19 June 0800 Synthesis 3 - YouTube]]
+[[https://m.youtube.com/watch?v=09w54uhb1TE&list=PLyrlk8Xaylp5mvxARtX5ncjy9p4X_Ajwd&index=17][Session 18 June 1040 Machine Learning II - YouTube]]
+[[https://m.youtube.com/watch?v=EjuetJ00Z0M&t=3m17s][Session 17 June 0620 Networking and Hardware - YouTube]]

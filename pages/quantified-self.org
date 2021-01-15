@@ -89,3 +89,6 @@ this is just one study but nature is huge.
 [[https://medium.com/aaronn/some-thoughts-on-n-back-and-a-free-sketch-file-din-for-ios-6d82af94359c][notes on n-back]]
 [[https://medium.com/aaronn/cognitive-enhancement-nootropic-stack-october-2017-7232c6b657e4][pill stack]]
 [[https://gitlab.com/joshavanier/cal][gool generated time log]]
+[[https://github.com/ejain/body-temperature][tracking body temperature]]
+[[https://github.com/ensc/tk][some fun time keeping and tracking utilities]]
+https://github.com/seanbreckenridge/HPI

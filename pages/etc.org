@@ -2,3 +2,48 @@
 
 [[https://github.com/gfredericks/quinedb][quinedb that's a key value store]]
 [[https://github.com/veggiedefender/open-and-shut][type in morse code by slamming your laptop]]
+[[https://github.com/schollz/howmanypeoplearearound][count the number of people around you by monitoring wifi signals]]
+[[https://github.com/mxrch/GHunt][investigate google accounts with emails]]
+[[https://github.com/HackMIT/playground][a fun virtual event platform from hack mit]]
+[[https://github.com/ritz078/reference][a tool to help learn to sketch human figures]]
+[[https://github.com/controversial/wikipedia-map][visualize connections between wikipedia pages]]
+[[https://github.com/howonlee/audible-cos][listen to an np complete problem]] [[file:music.org][Music]]
+[[https://github.com/turbomaze/28-hour-day][an experiment with a 28 hour day]] [[file:quantified-self.org][Quantified Self]]
+
+[[https://github.com/hms-dbmi/viv][big word tiny brain]]
+[[https://github.com/Rotonde/People][people and their dat urls]]
+[[https://github.com/Rotonde/rotonde-client][rotonde social media client]]
+
+[[https://github.com/hwayne/rsl][a turing tarpit with many registers!]]
+[[https://github.com/hwayne/awesome-cold-showers][unhype people]]
+[[https://github.com/SBRG/bigg_models][genomics models]]
+[[https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition][FizzBuzz Enterprise Edition]]
+[[https://github.com/hachibu/many-worlds-javascript-interpreter][explore code in 'alternate universes']]
+[[https://github.com/marian42/wavefunctioncollapse][an infinite, procedurally generated city]]
+[[https://github.com/AddictedCS/soundfingerprinting][audio fingerprinting!]]
+[[https://github.com/minimaxir/big-list-of-naughty-strings][the big list of naughty strings]]
+[[https://github.com/jugyo/earthquake][twitter terminal client with streaming support]]
+[[https://github.com/yudai/gotty][share your terminal as a web application]]
+[[https://github.com/achiurizo/consular][automates development workflow setup]]
+[[https://github.com/rvizzz/rotate][create recursive image animations]]
+
+[[https://github.com/0install/0install][decentralized package installation framework]]
+[[https://github.com/modfy/modfy.video][video transcoder in the browser]]
+[[https://github.com/varnishcache/varnish-cache][varnish cache]]
+[[https://github.com/stargate/stargate][api framework for data]]
+
+[[https://github.com/Roenbaeck/anchor][dbms for the fifth normal form]]
+[[https://github.com/learn-anything/learn-anything][learn anything]]
+
+
+https://github.com/markledwich2/Recfluence analysis of youtube political influence via recommendations
+
+https://github.com/gilbertchen/duplicacy lock free duplication backup tool
+https://github.com/joeycastillo/The-Open-Book open book project; open source device for reading
+[[https://github.com/papers-we-love/papers-we-love][papers we love in cs]]
+[[https://github.com/ocharles/papers][git annex repo of papers]]
+
+https://github.com/aepsilon/turing-machine-viz visualize turing machines and dfas
+https://github.com/ArchiveBox/ArchiveBox open source self hosted web archive
+
+https://apps.ankiweb.net/

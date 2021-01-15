@@ -10,3 +10,4 @@ Advice and content for programming interviews and interview prep.
 - [[https://seanprashad.com/leetcode-patterns/][Leetcode Patterns]] :: The most common Leetcode questions with links to the corresponding problems. Useful for interview studying and preparation.
 - [[https://github.com/viraptor/reverse-interview][Reverse interview]] :: good questions to ask the company during your interview
 https://github.com/harshibar/common-intern
+[[https://news.ycombinator.com/item?id=20916749][questions to ask during the job interview]]

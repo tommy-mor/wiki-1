@@ -17,3 +17,14 @@ dwarf fortress
 [[https://m.youtube.com/watch?v=hbKN-9o5_Z0][Mary Live Codes A JavaScript Game From Scratch – Mary Rose Cook / Front-Tre]]
 https://github.com/schlae/scopetrex
 https://github.com/OpenDiablo2/OpenDiablo2
+
+[[https://amorphous.itch.io/][strange narrative games, good mono font]]
+http://jakofranko.github.io/2019/01/30/Post-Mortem-Part-2.html
+[[https://github.com/Cardshifter/Cardshifter][Cardshifter/Cardshifter: A flexible and highly moddable Trading Card Game]]
+[[https://dev.to/vivirenremoto/how-i-made-my-cv-based-on-age-of-empires-game-1ade][How I made my CV, based on Age of Empires game - DEV]]
+[[https://github.com/richardanaya/mochi][richardanaya/mochi: A simple game engine using Gtk &amp; Cairo]]
+[[https://www.reddit.com/r/madeinhaskell/comments/hzwg2b/mallrl_a_grocery_shopping_roguelike_created_in_7/][mallRL - a grocery shopping roguelike created in 7 days for the 7drl game j]]
+http://gamesfromwithin.com/data-oriented-design
+http://www.sizecoding.org/wiki/Game_of_Life_32b
+https://alex-hhh.github.io/2020/03/a-game-of-tetris.html
+[[https://joon.be/][wild independent game designer]]

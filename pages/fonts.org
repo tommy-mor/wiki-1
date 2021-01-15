@@ -22,9 +22,9 @@ Notes on fonts and font design.
 - Open Sans :: The new sans font with a neutral, flat design.
 - Gill Snas :: warm british, a bit tall, crisp lines
 - Gotham :: New York signage lettering style.
+- [[https://www.downloadfonts.io/akzidenz-grotesk-font-family-free/][Akzidenz Grotesk Font Free - Download Fonts]]
 https://www.indesignskills.com/inspiration/best-fonts-graphic-designers/
-
-** - Bodoni :: luxe, aspirational look font. more compressed and exaggerated
+- Bodoni :: luxe, aspirational look font. more compressed and exaggerated
 
 - Univers :: 'the ultimate modernist font' - incredibly legible, clean, and functiona
 - Lombok :: very cool angular sans-serif font  https://www.behance.net/gallery/17179851/Lombok-typeface

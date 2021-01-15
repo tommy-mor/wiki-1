@@ -22,3 +22,4 @@ Information about self-hosting.
 - [[https://njal.la/][njal.la]] :: completely anon dns hosting server, comes with secure vps in sweden
 - [[vultr.com][vultr]] :: the one i'm currently using, best specs for a $10 vps I could find
 - digitalocean :: also a great cloud service
+[[https://github.com/johackim/docker-hacklab][personally hosted hacklab]]

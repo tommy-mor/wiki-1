@@ -4,3 +4,8 @@ Elixir is a modern Erlang. It's build to run quickly and concurrently.
 
 * Resources
 [[https://getpocket.com/redirect?url=https%3A%2F%2Felixirschool.com%2Fblog%2Fphoenix-live-view%2F][A Walkthrough of Phoenix LiveView]]
+
+[[https://news.ycombinator.com/item?id=23283675][elixir]]
+[[https://work.margo.com/posts/why-elixir/][why elixir]]
+https://www.ramblingcode.dev/posts/lovely_week_with_elixir/
+[[https://elixirschool.com/blog/phoenix-live-view/][Walk-Through of Phoenix LiveView · Elixir School]]

@@ -10,3 +10,6 @@ https://www.instructables.com/id/Solar-Powered-Raspberry-Pi/
 [[https://www.youtube.com/watch?v=kgVz4-SEhbE&app=desktop][clustering with the raspi]]
 https://raspberrypi.stackexchange.com/questions/86/how-can-i-run-the-pi-on-solar-power
 https://100r.co/site/raspberry_pi.html
+https://wiki.xxiivv.com/site/raspberry.html
+https://github.com/Yours3lf/rpi-vk-driver
+https://github.com/pimusicbox/pimusicbox

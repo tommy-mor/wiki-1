@@ -189,3 +189,6 @@ http://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html
 
 [[https://free.cofree.io/2020/07/20/perform-io][How Accursed and Unutterable is accursedUnutterablePerformIO?]]
 https://ocharles.org.uk/
+
+
+[[https://github.com/davdar/maam][state analysis with monads]]

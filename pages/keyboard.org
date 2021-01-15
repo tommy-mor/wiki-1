@@ -341,3 +341,6 @@ https://wiki.xxiivv.com/site/juni.html
 [[https://github.com/NatTuck/Twiddler][NatTuck/Twiddler: Files for Twiddler one hand chording keyboard]]
 * colemak
 [[https://rgoswami.me/posts/colemak-dots-refactor][Refactoring Dotfiles For Colemak]]
+[[https://deskthority.net/wiki/BEAKL][BEAKL - Deskthority wiki]]
+[[https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/][Introducing the RSTHD layout – meus recogitare et excogitare]]
+[[https://github.com/abstracthat/dactyl-manuform][dactyl manuform keyboard]]

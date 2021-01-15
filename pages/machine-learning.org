@@ -103,3 +103,20 @@ https://github.com/chiphuyen/machine-learning-systems-design machine learning sy
 [[https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html][discovering optimal rolling shape in pytorch!]]
 
 [[https://news.ycombinator.com/item?id=23250379][openai langauge model used for code generation]]
+https://github.com/semi-technologies/weaviate vector search engine for scaling ml models
+
+[[https://github.com/aigagror/discriminator-style-transfer][discriminator style transfer]]
+[[https://github.com/johnwmillr/Facer][face averaging]]
+
+[[https://github.com/NeuroTechX/eeg-notebooks][eeg experiments in python and jupyter notebooks]]
+[[https://github.com/benedekrozemberczki/role2vec][role2vec]]
+[[https://github.com/openai/gym][OpenAI Gym]]
+[[https://github.com/gengjia0214/jai]['Lego style' pytorch deep learning model for CNNs]]
+[[https://github.com/google-research/lag][latent adversarial generation of high resolution images]]
+[[https://github.com/openai/gpt-3][gpt-3]]
+[[https://github.com/commaai/openpilot][open source driver assistance system, openpilot]]
+[[https://github.com/werner-duvaud/muzero-general][muzero paper]]
+[[https://quasarbright.github.io/MachineLearning/README][gan work]]
+[[https://github.com/h2oai/h2o-3][h2oai/h2o-3]]
+[[https://colah.github.io/posts/2015-08-Understanding-LSTMs][Understanding LSTM Networks]]
+[[https://jim-stone.staff.shef.ac.uk/BookBayes2012/books_by_jv_stone/index.html][Artificial Intellgence Engines]]

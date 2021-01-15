@@ -32,3 +32,6 @@ https://github.com/adjoint-io/bulletproofs
 https://github.com/Magentron/chkrootkit
 
 https://github.com/openwall/john john the ripper password cracker
+[[https://www.mattblaze.org/blog/p25][johnny cant encrypt]]
+https://github.com/The-Art-of-Hacking/h4cker
+[[https://github.com/cassidoo/scrapers][web scrapers]]

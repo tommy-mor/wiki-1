@@ -121,3 +121,33 @@ There are obvious performance improvements to some actions as well:
 * Organizations
 [[https://disroot.org/en][Disroot]]: an organization that stands for internet freedom and provides free services for git, hosting, mail and many others.
 https://opensource.builders/: open source alternatives to your favorite tools (Primarily web-based!)
+
+[[https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP][The evolution of HTTP]]
+[[https://rogs.me/2020/05/de-google-my-blog-how-to-blog-in-2020-without-google/][de-google your blog]]
+
+* web hostility
+[[https://neustadt.fr/essays/against-a-user-hostile-web/][article]]
+"Facebook is at odds with the open web that I love and defend..."
+Netscape Navigator (small internet) -> big internet!
+The modern web is being destroyed -- personalized content, growth hacking,
+social media activation, CMS and user experience. These websites are not
+built to appreciate the visitor -- they are constructed to make the user a
+customer. Cookies bad! Small blogging good!
+[[https://shouldiblockads.com/#ha][what is wrong with ads?]]
+
+* today's js
+https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/
+article
+THe modern web is painful. Interfacing with js and node results in conflitts
+between es and js versions, node incompatibilities, differnet import syntax
+in different circumstances, etc. it's painful. How do you import with node?
+without node? <script> tag or not to script? Where did the node modules go?
+This is a good rant of questions and things to feature on the wbesite
+
+[[https://news.ycombinator.com/item?id=20323246][choose boring tech.]]
+
+http://bootstrappable.org/projects.html good projects to work on
+this is a general build philosophy addressing the chicken and egg problem --
+to trust platforms, we must see how each part is produced from source, but we
+do not have access to the source of compiled code when we run it against the
+language they are compiling!

@@ -10,3 +10,8 @@ https://github.com/kjhealy/pandoc-templates latex pandoc templates
 https://github.com/odashi/latexify_py create latex math formulas from python functions
 * etc
 https://colab.research.google.com/drive/1MuiawKpVIZ12MWwyYuzZHmbKThdM5wNJ?usp=sharing#scrollTo=-JhJMAXM7j-X
+[[https://www.reddit.com/r/LaTeX/comments/huxwwy/what_do_you_think_of_my_latex_home_bar_menu/][What do you think of my LaTeX home bar menu? - LaTeX]]
+[[https://colab.research.google.com/drive/1MuiawKpVIZ12MWwyYuzZHmbKThdM5wNJ?usp=sharing#scrollTo=-JhJMAXM7j-X][latexify_example.ipynb - Colaboratory]]
+[[https://www.reddit.com/r/LaTeX/comments/hyuhtf/short_tikz_tutorials_can_be_presented_as_a_story/][Short TikZ tutorials can be presented as a story (Check my first attempt ?)]]
+[[https://tex.stackexchange.com/questions/18943/how-to-add-an-invisible-watermark-to-pdf-documents][How to add an invisible watermark to PDF documents? - TeX - LaTeX Stack Exc]]
+[[https://tug.org/utilities/texconv/textopc.html][Converters from LaTeX to PC Textprocessors - Overview]]

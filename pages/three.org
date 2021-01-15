@@ -7,3 +7,4 @@
 https://www.reddit.com/r/threejs/comments/i1vaqk/uv_map_problem_i_need_help_im_trying_to_add_a/
 https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
 https://github.com/airbnb/visx low level visualization components
+https://cineshader.com/ cinematic real tiem shader in webgl. incredible.

@@ -19,3 +19,4 @@ https://redex.racket-lang.org/
 [[https://github.com/bennn/zordoz][anipulating racket bytecode]]
 
 [[https://github.com/charlescearl/DeepRacket][ simple starting point for doing deep learning in Racket]]
+[[https://github.com/dys-bigwig/Bidirectional-Lambda-Calculus][bidirectional lambda calculus in racket]]

@@ -6,3 +6,7 @@ https://runyourown.social/#places-where-we-need-better-tech
 [[https://lwn.net/Articles/741218/][federation in social networks: linux kernel blog]]
 
 https://spiegelmock.com/2020/05/28/decentralizing-social-media/
+[[https://github.com/rogeriochaves/feedless][a feedless social network]]
+
+[[https://scuttlebutt.nz][scuttlebutt : the decentralized, social web. localized but distribued.]]
+[[https://github.com/alexwennerberg/gourami][alexwennerberg/gourami: An intentionally small, community-focused decentralized microblogging service]]

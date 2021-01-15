@@ -95,3 +95,4 @@ https://teetotality.blog/posts/how-this-blog-was-made/ this works off of IPFS
 [[https://news.ycombinator.com/item?id=23206259][hard tech]]
 [[https://news.ycombinator.com/item?id=23205588][blog hack to bring back]]
 [[https://github.com/mathieudutour/medium-to-own-blog][dont use medium]]
+https://vanschneider.com/a-love-letter-to-personal-websites

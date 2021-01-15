@@ -113,3 +113,32 @@ https://github.com/jcubic/jquery.terminal
 ** aah
 https://github.com/gridsome/gridsome
 https://github.com/artagnon/clayoven static site generator, supports math, code and fun articles
+https://github.com/lpereira/lwan high performance http server
+https://github.com/pion/ion distributed rtc system
+[[https://github.com/XXIIVV/webring][webring]]
+
+[[https://github.com/chartjs/Chart.js][simple html5 charts]]
+[[https://github.com/caddyserver/caddy][caddy web server]]
+[[https://github.com/jbochi/gifstreaming][live video streaming service using animated gifs]]
+[[https://github.com/thumbsup/thumbsup][generate static html photo and video galleries]]
+[[https://github.com/graninas/Hydra][full framework for building web services]]
+[[https://github.com/Xe/olin][webassembly event sources]]
+
+[[https://github.com/amitozdeol/awesome-dev-websites][awesome developer websites]]
+[[https://github.com/probmods/webppl][probabilistic programming for the web]]
+[[https://github.com/ossu/computer-science][free education in computer science]]
+
+* webdev
+[[https://news.ycombinator.com/item?id=17910069][which functional language for web development??]]
+[[https://news.ycombinator.com/item?id=23231361][usefulness of declarative programming]]
+[[https://github.com/Rolstenhouse/unofficial-apis][unofficial apis]]
+[[https://tinyprojects.dev/posts/tiny_websites_are_great][build tiny websites.]]
+[[https://newcss.net/][use only html.]]
+[[https://codepen.io/lynnandtonic/pen/NWGLMMO][3d cube]]
+[[https://lemire.me/blog/2020/05/22/programming-inside-a-container/][one word domains]]
+[[https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb][serverless architecture]]
+[[https://www.netlify.com/blog/2020/05/08/improve-your-seo-and-social-sharing-cards-with-next.js/?utm_source=twitter&utm_medium=next-seo-cs&utm_campaign=devex][improving seo]]
+[[https://defn.io/2019/04/07/web-continuations/][continuations for web dev]]
+[[https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/][free time series db on postgres - relevant for work?]]
+[[https://e-ec.co/][ECCO2K - E]]
+

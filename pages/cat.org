@@ -1,3 +1,4 @@
 #+TITLE: Category theory
 
 [[https://github.com/hmemcpy/milewski-ctfp-pdf][category theory for programmers]]
+[[http://conal.net/papers/compiling-to-categories/][Compiling to categories]]
