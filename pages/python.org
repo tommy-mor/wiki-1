@@ -42,3 +42,6 @@ http://dontfragment.com/using-python-yaml-and-jinja2-to-generate-config-files/
 https://aperiodical.com/2020/06/review-immersive-linear-algebra/ review for linalg
 [[https://en.m.wikipedia.org/wiki/Ricci_calculus][rules and indices for tensor and tensor fields!]]
 [[https://en.m.wikipedia.org/wiki/Rubik's_Cube_group][Rubik&#39;s Cube group - Wikipedia]]
+
+https://github.com/construct/construct data structures in python for symmetric parsing and building
+https://weasyprint.org/

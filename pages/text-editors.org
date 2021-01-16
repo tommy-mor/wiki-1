@@ -60,3 +60,5 @@ sriram krishnamurthi's work on developing editors for education to help students
 [[https://mobile.twitter.com/wcrichton/status/1309288667609874432][Will Crichton on Twitter: &quot;Really cool idea -- combining dynamic program slicing, unit tests, and source diffs to identify the purpose of particular pieces of code. Slicing is one of those obviously good ideas that never panned out b/c the human factors are tricky (see also: software visualization). https://t.co/Q798yj9byW&quot; / Twitter]]
 
 [[https://glitch.com/edit/#!/multiuser-sketchpad?path=README.md%3A1%3A0][multi user sketchpad]]
+[[https://blog.metaobject.com/2020/04/maybe-visual-programming-is-answer.html?m=1][visual programming might not be the answer]]
+[[https://research.swtch.com/acme][a tour of the acme text editor]]

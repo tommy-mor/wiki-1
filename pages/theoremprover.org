@@ -21,3 +21,5 @@ https://github.com/vasilisp/inez constraint solver
 [[https://www.reddit.com/r/ProgrammingLanguages/comments/hx442x/a_formally_verified_highlevel_synthesis_tool/][A formally verified high-level synthesis tool based on CompCert and written]]
 [[https://arxiv.org/abs/2010.00774][[2010.00774] Proof Repair Across Type Equivalences]]
 [[https://github.com/tevador/RandomX][tevador/RandomX: Proof of work algorithm based on random code execution]]
+https://hol-theorem-prover.org/
+http://acl2s.ccs.neu.edu/acl2s/doc/

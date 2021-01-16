@@ -49,3 +49,4 @@ https://news.ycombinator.com/item?id=23245724
 [[https://news.ycombinator.com/item?id=23500462][Best practices for managing and storing secrets like API keys and credentials | Hacker News]]
 
 [[https://web.archive.org/web/20130507230947/http://www.heise.de/tp/artikel/2/2898/1.html][Only NSA can listen, so that's ok]]
+[[https://arxiv.org/abs/2005.09535][backstabbers knife collection]]

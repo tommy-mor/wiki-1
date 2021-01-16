@@ -165,3 +165,4 @@ language they are compiling!
 
 [[https://4042302.org/][don't break the web; just make 404s into 302s!]] you can do this in nginx : )
 [[https://macwright.com/2020/05/10/spa-fatigue.html][second-guessing the modern web]]
+[[https://news.ycombinator.com/item?id=23191493][in defense of the modern web]]

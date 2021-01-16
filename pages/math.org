@@ -46,3 +46,7 @@ https://en.wikipedia.org/wiki/Monad_(category_theory)#Algebras_for_a_monad
 https://en.wikipedia.org/wiki/Kleisli_category -- category for monads
 Does every monad arise from an adjunction?
  http://comonad.com/reader/ -- curry howard lambek currespondence guides researchers into computation. rea    ding a logic like type theory is a definitional trick as it is just reinterpretation of syntax. syntactic     categories are difficult to connect to categorical semantics
+https://blog.kaufer.org/ [[file:blogs.org][Blogs]]
+https://en.m.wikipedia.org/wiki/Monster_group
+http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/
+https://en.m.wikipedia.org/wiki/Hamming_weight

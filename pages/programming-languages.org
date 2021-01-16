@@ -628,3 +628,9 @@ https://www.reddit.com/r/ProgrammingLanguages/comments/fxc504/do_you_know_any_in
 [[https://github.com/jfecher/ante][jfecher/ante]]
 
 [[https://github.com/jfecher/simplelang][simplelang]]
+[[https://aidungeon.medium.com/ai-dungeon-dragon-model-upgrade-7e8ea579abfe][ai dungeon dragon program]]
+https://amp.reddit.com/r/AIDungeon/comments/hpkqij/using_the_dragon_module_i_just_generated_what_is
+https://www.p-ai.org/ interdisciplinary applications of artificial intelligence
+https://www.reddit.com/r/ProgrammingLanguages/comments/hz2mcw/a_few_questions_about_parser_design/
+https://github.com/Ahnfelt/funk a fun minimal scripting language
+[[https://arxiv.org/abs/1605.06640][programming with a differentiable forth interpreter]]

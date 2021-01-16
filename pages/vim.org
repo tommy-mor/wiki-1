@@ -77,3 +77,6 @@ manually override
 [[https://www.reddit.com/r/vim/comments/hm6b9d/help_vim_wpm_counter/][wpm counter for vim]]
 [[https://www.reddit.com/r/vim/comments/hz97jh/nerdtree_vs_defx_vs_nnn_which_one_do_you_prefer/][vim file browser recommendations]]
 [[https://www.reddit.com/r/vim/comments/i1p3s9/fernvim_a_modern_asynchronous_file_manager_for_vim/][ferm, an asynchronous file manager]]
+https://vimways.org/2018/death-by-a-thousand-files/
+https://www.reddit.com/r/vim/comments/hzcmcd/personalize_you_dotfiles_with_signit/ create custom header or footer for your dotfiles
+https://news.ycombinator.com/item?id=23091136

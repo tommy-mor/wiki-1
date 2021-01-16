@@ -155,3 +155,8 @@ https://news.ycombinator.com/item?id=23032243 openai jukebox: generative music s
 [[https://blog.jethro.dev/posts/remembrance_agents][Experimenting with Remembrance Agents]]  [[file:emacs.org][Emacs]]
 
 [[https://arxiv.org/abs/1911.01382][Amortized Population Gibbs Samplers with Neural Sufficient Statistics]]
+https://www.reddit.com/r/artificial/comments/gxrnhq/d_paper_explained_synthetic_petri_dish_a_novel/
+https://towardsdatascience.com/the-unreasonable-ineffectiveness-of-deep-learning-on-tabular-data-fd784ea29c33
+https://www.indexventures.com/perspectives/rebirth-robotics-how-covariant-unlocks-power-deep-learning-robots/
+https://codeplay.com/
+https://remis.io/

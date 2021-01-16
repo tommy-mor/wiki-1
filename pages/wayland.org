@@ -10,3 +10,5 @@ if the eyes are moving when you mouse over the app, it's X : ) and running on XW
 * Fixing screensharing on wayland
 [[https://www.reddit.com/r/swaywm/comments/fq1qoe/how_to_use_xdgdesktopportalwlr_to_share_the_screen/][share with wayland package]]
 [[https://www.reddit.com/r/swaywm/comments/ev3ty6/does_anyone_know_a_workaround_to_share_screen_in/][loopback device for screen sharing]]
+[[https://github.com/Smithay/smithay][smithay]]: a tool for [[file:rust.org][Rust]] wayland compositor development
+[[https://rmsol.de/2020/04/25/v4l2/][control video devices like a webcam]]

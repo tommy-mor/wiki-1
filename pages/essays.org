@@ -1,4 +1,46 @@
 #+TITLE: Essays
 
+most of these are essays i have yet to (re)read, unfortunately
 https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance
 https://www.nybooks.com/daily/2011/12/05/goodbye-serenity/
+https://aeon.co/ideas/hypocognition-is-a-censorship-tool-that-mutes-what-we-can-feel
+https://markmanson.net/how-to-grow-up
+https://dbp.io/essays/2012-10-24-programming-literature.html
+https://news.ycombinator.com/item?id=23222424
+https://capitalandgrowth.org/answers/Article/3217401/Become-Abnormal
+https://sloanreview.mit.edu/article/learning-for-a-living/
+https://news.ycombinator.com/item?id=22105229
+https://markan.me/the-delight-of-development/
+https://www.principles.com/the-changing-world-order/#introduction
+https://news.ycombinator.com/item?id=23095190
+https://heartbeat.fritz.ai/how-lidar-detection-works-8db24556a8d9
+https://news.ycombinator.com/item?id=23098090
+
+
+gamecube joycons
+https://www.newyorker.com/magazine/2007/02/12/two-heads
+https://www.svese.de/impact-vs-backlog-frame-in-software-development
+https://www.robinsloan.com/notes/home-cooked-app/
+[[https://surfingcomplexity.blog/2020/05/05/the-hard-parts-about-making-it-look-easy/][the hard parts about making it look easy]]
+https://fs.blog/2012/04/feynman-technique/
+[[http://www.aaronsw.com/weblog/hatethenews][hate the news]]
+https://rachelbythebay.com/w/2020/05/07/serv/
+https://www.gwern.net/In-Defense-Of-Inclusionism
+https://news.ycombinator.com/item?id=22990872
+
+https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49
+[[https://news.ycombinator.com/item?id=22990872][tell me about your life]]
+https://news.ycombinator.com/item?id=22050802
+https://nesslabs.com/too-busy-to-enjoy-life
+https://mobile.twitter.com/naval/status/1002103360646823936
+https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/
+https://brianmckenna.org/blog/softwerewolves
+https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html
+https://billwadge.wordpress.com/2020/04/25/the-secret-of-software-success/
+https://nora.codes/post/names-legal-names-and-fractally-deferred-responsibility/
+https://www.nonviolent-conflict.org/resource/success-nonviolent-civil-resistance/
+https://medium.com/@jesse.singal/planet-of-cops-50889004904d
+
+
+https://mobile.twitter.com/noampomsky/status/1304946095189970944
+https://rabbitpodcast.com/

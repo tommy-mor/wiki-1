@@ -17,3 +17,5 @@ https://github.com/gigamonkey/monorepoize
 
 [[https://mikestone.me/watching-in-linux][watch cmd in linux]]
 https://ban.ai/multics/
+http://shell.cs.pomona.edu/shtepper
+http://wiki.c2.com/?GreenspunsTenthRuleOfProgramming

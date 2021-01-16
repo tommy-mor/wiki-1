@@ -48,3 +48,7 @@ https://gcc.gnu.org/onlinedocs/gcc/Static-Analyzer-Options.html
 [[https://www.youtube.com/watch?v=yy8jQgmhbAU&app=desktop][oop is dead, lon live data oriented design]]
 https://www.dreamsongs.com/RiseOfWorseIsBetter.html
 [[https://nikic.github.io/2020/05/10/Make-LLVM-fast-again.html][make llvm fast again]]
+https://www.researchgate.net/publication/265339509_On_the_Systematic_Creation_of_Faithfully_Rounded_Truncated_Multipliers_and_Arrays
+http://arith2020.arithsymposium.org/programme.html computer arithmetic paper
+https://en.wikipedia.org/wiki/Bfloat16_floating-point_format
+https://capnproto.org/cxx.html

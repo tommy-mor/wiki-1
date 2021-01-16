@@ -206,3 +206,7 @@ https://blog.jethro.dev/posts/nix_buffer_emacs/
 https://github.com/purcell/nix-emacs-ci nix emacs ci
 https://www.reddit.com/r/emacs/comments/ekr5ek/experimenting%5Fwith%5Fremembrance%5Fagents/
 https://github.com/zachcurry/emacs-anywhere use emacs anywhere
+[[https://blog.akinori.org/][m g vs goto line in emacs]]
+
+https://www.reddit.com/r/emacs/comments/hywxef/visually_differentiate_between_links_to_files_and/ differentiate between links to files and links to websites in org
+[[http://bling.github.io/blog/2016/01/18/why-are-you-changing-gc-cons-threshold/][don't change gc-cons-threshold]]: fix constant garbage collection by setting it very high when something happens, and changing afterwards to prevent constant garbage collection and freezing when the heap gets too big

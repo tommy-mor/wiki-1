@@ -57,7 +57,7 @@ http://matt.might.net/articles/how-to-blog-as-an-academic/
 [[https://www.youtube.com/watch?v=P1ww1IXRfTA&t&app=desktop][richard feynman: fun to imagine]]
 https://www.the-tls.co.uk/articles/feynman-making-the-extraordinary-look-easy/
 
-[[[[https://academic.oup.com/migration/article/8/2/228/5163084][Poverty, networks, resistance: The economic sociology of Roma migration for begging | Migration Studies | Oxford Academic]]][Motivations of Roma migration]]
+[[[[https://academic.oup.com/migration/article/8/2/228/5163084][Poverty, networks, resistance: The economic sociology of Roma migration for begging | Migration Studies | Oxford Academic]]]t[Motivations of Roma migration]]
 
 [[https://www.dreamsongs.com/PoetryOfProgramming.html][The poetry of programming]]
 [[https://www.dreamsongs.com/DesignedAsDesigner.html][designed as designer essay, on how art and programming languages are produced]]
@@ -80,3 +80,10 @@ https://blog.plover.com/book/free-hop.html why i make the book available for fre
 [[https://www.quantamagazine.org/how-to-design-a-perpetual-energy-machine-20200401/][designing a perpetual energy machine]]
 [[https://metacademy.org/][metacademy: 'your package manager for knowledge']]
 [[https://ciechanow.ski/gears/][on gears]]: a beautifully exploratory piece of life!
+https://sendcard.us/ fun product!
+https://github.com/angrybacon/gitaxian-probability mtg probabilities
+
+https://observablehq.com/@jakechvatal i forgot what this is but i have an account...
+https://hackaday.com/2016/05/03/volkswagen-beetle-the-most-hackable-car/ hackable car
+http://www.ccs.neu.edu/home/hlnguyen/cs7805/spring20/index.html
+[[https://mobile.twitter.com/david_perell/status/1257484391204352002][one idea that changed your life]] and [[https://news.ycombinator.com/item?id=23092657][hn thread]]

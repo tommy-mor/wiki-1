@@ -72,3 +72,5 @@ https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-lin
 [[https://spreadprivacy.com/linux-privacy-tips/][How to Protect Your Privacy on Linux]]
 [[http://people.cs.pitt.edu/~jacklange/teaching/cs2510-f17/][well known operating systems course at upitt]]
 [[https://github.com/NatTuck/pancake][just in time specialization for opencl kernels]]
+http://c9x.me/articles/gthreads/intro.html
+[[https://people.kernel.org/metan/how-to-trigger-races-reliably][trigger kernel races reliably]]

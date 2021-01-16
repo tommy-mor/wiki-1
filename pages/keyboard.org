@@ -361,3 +361,6 @@ https://wiki.xxiivv.com/site/juni.html
 [[https://docs.dhall-lang.org/howtos/How-to-integrate-Dhall.html][How to integrate Dhall — Dhall documentation]]
 
 [[https://youtube.com/watch?v=RBBiri3CD6w&amp;t=114][Coding in Stenography, Quick Demo]]
+[[https://ieeexplore.ieee.org/abstract/document/8816077][training passive motor skills for stenography]]
+[[https://journal.jackmcdade.com/][a personal site that looks like an old BIOS!]]
+[[https://github.com/callum-oakley/gotta-go-fast][train on the command line]]

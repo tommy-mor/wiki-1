@@ -74,3 +74,4 @@ This did change the commit time for my latest commit, which is something to watc
 * Git alternatives
 https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki
 https://blog.nil.im/?78 ??
+[[https://gerrit.googlesource.com/git-repo/+/refs/heads/master/README.md][repo: a tool built on git for managing monorepos]]

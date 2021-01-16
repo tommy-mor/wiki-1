@@ -42,3 +42,8 @@ from markov chain
 [[https://kingjamesprogramming.tumblr.com/][sicp and king james generation]]
 
 [[https://www.dreamsongs.com/index.html][Dreamsongs]]
+http://www.marktarver.com/bipolar.html pretentious essay about the lisp programmer
+
+https://www.youtube.com/watch?v=OyfBQmvr2Hc&feature=youtu.be&app=desktop the most beautiful program ever written
+https://afnan.io/posts/lambda-calculus/
+https://nullprogram.com/blog/2020/04/30/
