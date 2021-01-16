@@ -28,3 +28,21 @@ https://arxiv.org/abs/1808.02923
 https://byorgey.wordpress.com/2020/02/23/what-would-dijkstra-do-proving-the-associativity-of-min/
 
 https://www.3blue1brown.com/about
+https://en.m.wikipedia.org/wiki/Monster_group
+https://blogs.scientificamerican.com/guest-blog/john-conway-reminiscences-about-dr-matrix-and-bourbaki/
+https://en.m.wikipedia.org/wiki/Real_projective_plane
+[[https://www.youtube.com/watch?app=desktop&v=X3l0fPHZja8][Rayo's number video]]
+
+[[https://www.tessera.li/][mathviz]]
+[[https://parentheticallyspeaking.org/articles/fat-nums][FatNums: An Alternate Representation for School Arithmetic]]
+
+https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/
+https://en.m.wikipedia.org/wiki/Representation_theory
+[[https://derivationmap.net/][derivation graph of all of mathematical physics]]
+[[https://en.m.wikipedia.org/wiki/Horn_clause][horn clause, math]]
+
+** category theory
+https://en.wikipedia.org/wiki/Monad_(category_theory)#Algebras_for_a_monad
+https://en.wikipedia.org/wiki/Kleisli_category -- category for monads
+Does every monad arise from an adjunction?
+ http://comonad.com/reader/ -- curry howard lambek currespondence guides researchers into computation. rea    ding a logic like type theory is a definitional trick as it is just reinterpretation of syntax. syntactic     categories are difficult to connect to categorical semantics

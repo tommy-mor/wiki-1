@@ -20,6 +20,8 @@ marketed "unlimited" data plans that were nonetheless throttled after reaching a
 
 's '"Project Nightingale" [[https://www.bbc.com/news/technology-50388464][included buying sensitive health-related records]] about Americans who were not even notified about their data being up for sale or having been sold. Google promises that this data will not be combined with existing consumer data (presumably for targeting ads), but it surely will, and it will not be the first time Google has bought sensitive private data from another company.
 
+Learn more about degoogling! https://www.reddit.com/r/degoogle/comments/hx7895/success_stories_yes_it_can_be_done/
+
 * Microsoft
 
 - uses confusing UI patterns to [[https://www.zdnet.com/article/windows-10-users-fume-microsoft-wheres-our-local-account-option-gone/][coerce Windows users to create online accounts during installation]]

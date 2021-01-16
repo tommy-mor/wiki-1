@@ -18,3 +18,4 @@ used with bash, dash and sh (as the POSIX standard is unfortunately far from com
 https://github.com/nushell/nushell
 * Configs
 https://github.com/jeremyf/dotzshrc
+[[https://thomask.sdf.org/blog/2019/11/09/take-care-editing-bash-scripts.html][Be careful editing bash scripts]]

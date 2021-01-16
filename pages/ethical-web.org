@@ -157,3 +157,11 @@ language they are compiling!
 [[https://www.garron.blog/posts/no-javascript-sites.html][Create No-JavaScript friendly sites]]
 [[https://news.ycombinator.com/item?id=23246170][Why is this website port scanning me?]]
 [[https://jeffhuang.com/designed_to_last/][designing webpages to last]]
+[[https://github.com/tycrek/degoogle/blob/master/README.md][cutting gooogle out of your life]]
+
+[[https://evenbettermotherfucking.website/][Even Better Motherfucking Website]]
+[[https://underjord.io/is-this-evil.html][Is tracking users with CSS evil?]]
+[[https://www.rfc-editor.org/rfc/rfc8890.txt][The internet is for end users]]
+
+[[https://4042302.org/][don't break the web; just make 404s into 302s!]] you can do this in nginx : )
+[[https://macwright.com/2020/05/10/spa-fatigue.html][second-guessing the modern web]]

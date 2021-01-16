@@ -1,3 +1,5 @@
 #+TITLE: Windows
 https://github.com/neiladit/Windows-Hacks
 https://github.com/lptstr/lcharmap character map utility
+
+http://www.delorie.com/djgpp/doc/rbinter/it/06/0.html -- windows scan codes for keyboard shortcuts

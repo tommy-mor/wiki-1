@@ -6,3 +6,4 @@
 https://www.tomshardware.com/news/amd-radeon-gpu-steal-data-radio-transmission-cybersecurity
 [[https://www.reddit.com/r/VFIO/comments/hyerum/problem_with_pci_passthrough_in_kvmqemu/][Problem with PCI Passthrough in KVM/QEMU - VFIO]]
 [[https://www.kernel.org/doc/html/latest/driver-api/fpga/index.html][linux fpga subsystem]]
+[[https://caseymuratori.com/blog_0038][printing presses are giant gpus]]

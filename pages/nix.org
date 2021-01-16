@@ -161,3 +161,5 @@ https://github.com/nix-community/nixos-generators image builders for nix
 
 
 https://lemire.me/blog/2020/05/22/programming-inside-a-container/ programming inside of containers
+
+https://unix.stackexchange.com/questions/522822/different-methods-to-run-a-non-nixos-executable-on-nixos

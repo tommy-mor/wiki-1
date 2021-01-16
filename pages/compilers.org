@@ -97,3 +97,6 @@ https://github.com/doctorn/micro-mitten
 [[https://www.reddit.com/r/ProgrammingLanguages/comments/i1s8m0/functional_programming_and_reference_counting/][Functional Programming and Reference Counting - ProgrammingLanguages]]
 
 [[https://gist.github.com/cellularmitosis/1f55f9679f064bcff02905acb44ca510#tutorials][lots of compilers resources]]
+
+http://worrydream.com/#!/LearnableProgramming designing a programming system for understanding programs
+[[https://catalog.princeton.edu/catalog/SCSB-8534958][compiling with continuations]] [[file:books.org][Books]]

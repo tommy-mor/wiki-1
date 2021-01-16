@@ -141,3 +141,17 @@ https://people.cs.umass.edu/~arjun/main/home/
 https://jelv.is/
 
 https://www.aquicarattino.com/blog/how-write-programming-book/
+
+[[https://course.fullstackdeeplearning.com][Full Stack Deep Learning]]
+[[https://en.m.wikipedia.org/wiki/Boltzmann_machine][boltzmann machine: recurrent neural networking]]
+[[https://lczero.org/][neural networ chess engine]]
+https://github.com/alec-tschantz/predcoding predictive coding [[file:programming-languages.org][Programming Languages]]
+[[https://ai.googleblog.com/2018/07/improving-connectomics-by-order-of.html?m=1][improving connectonomics]]
+https://news.ycombinator.com/item?id=23032243 openai jukebox: generative music styles![[file:music.org][Music]]
+[[https://arxiv.org/abs/1805.09501][autoaugment: learning augmentation policices from data]]
+[[https://qnkxsovc.gitlab.io/prob-vis/][statistical distances and gan training]]
+
+[[https://github.com/google-research/torchsde][PyTorch Implementation of Differentiable SDE Solvers]]
+[[https://blog.jethro.dev/posts/remembrance_agents][Experimenting with Remembrance Agents]]  [[file:emacs.org][Emacs]]
+
+[[https://arxiv.org/abs/1911.01382][Amortized Population Gibbs Samplers with Neural Sufficient Statistics]]

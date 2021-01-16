@@ -50,3 +50,6 @@ https://www.antonok.com/ -- good work in rust, have talked to him, cool guy
 https://varkor.github.io/blog/2018/11/10/monadic-do-notation-in-rust-part-i.html
 [[https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html][Fast 2D rendering on GPU | Raph Levien’s blog]]
 [[https://github.com/LemmyNet/lemmy][LemmyNet/lemmy: ? Building a federated alternative to reddit in rust]] [[file:social.org][Social]]
+https://gitlab.com/antonok/enum_dispatch#technical-details
+[[https://www.youtube.com/watch?app=desktop&v=4t1K66dMhWk][jon blow against rust]]
+[[https://www.youtube.com/watch?app=desktop&v=TH9VCN6UkyQ][jon blow new game programming languages]]

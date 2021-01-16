@@ -10,3 +10,5 @@
 [[https://github.com/rtfeldman/elm-spa-example][Single Page Application written in Elm]]
 [[https://github.com/bowbahdoe/elm-history][bowbahdoe/elm-history: A History Data Structure for the Elm Programming Lan]]
 [[https://github.com/madsbuch/elm-chat/][madsbuch/elm-chat: Yet another Elm application]]
+[[https://www.youtube.com/watch?app=desktop&v=XpDsk374LDE][elm chat]]
+[[https://www.youtube.com/watch?app=desktop&v=oYk8CKH7OhE][user-focused design in elm]]

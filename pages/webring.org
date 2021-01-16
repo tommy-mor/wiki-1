@@ -8,3 +8,5 @@ A webring is a website designed to aggregate other websites with the same themes
 https://github.com/jackmcdade/weird-wide-webring
 https://resevoir.net/webring/ weird
 https://emreed.net/LowTech_Directory.html low tech stuff
+
+[[https://resevoir.net/webring/][Webring]]

@@ -3,3 +3,5 @@
 #+title: 100 Rabbits
 
 100 Rabbits are a creative technologist duo living on a sailboat.
+
+[[https://crlf.site/log/articles/190712-software-ecosystems/][Software ecosystems: XXIIVV - Cr;Lf;]]

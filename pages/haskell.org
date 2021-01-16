@@ -192,3 +192,11 @@ https://ocharles.org.uk/
 
 
 [[https://github.com/davdar/maam][state analysis with monads]]
+https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem
+http://comonad.com/reader/
+https://ncatlab.org/nlab/show/comonad#definition [[file:math.org][Math]]
+
+[[https://github.com/xingyif/raft][raft consensus protocol implementation]]
+[[https://github.com/chessai/pump][reverse dependency build matrix generator]]
+[[https://www.reddit.com/r/haskell/comments/hv7prz/effet_an_effect_system_based_on_type_classes/][effekt: effect system based on type classes]]
+[[https://cs-syd.eu/posts/2020-04-28-genvalidity-improvements][property testing in depth]]

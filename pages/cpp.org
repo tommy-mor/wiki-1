@@ -32,6 +32,7 @@ tiny compiler in python!
 [[https://stackoverflow.com/questions/5869825/when-should-one-use-a-spinlock-instead-of-mutex#5870415][When should one use a spinlock instead of mutex? - Stack Overflow]]
 [[https://ui.adsabs.harvard.edu/abs/2019arXiv190801324T/abstract][CREST: Hardware Formal Verification with ANSI-C Reference Specifications]]
 [[https://en.wikipedia.org/wiki/SystemC][SystemC]]
+[[http://www.catb.org/esr/structure-packing/][the lost art of structure packing]]
 
 * Floating point, etc.
 [[https://geeksforgeeks.org/ieee-standard-754-floating-point-numbers][IEEE Standard 754 Floating Point Numbers]]
@@ -42,3 +43,8 @@ tiny compiler in python!
 [[https://blog.256bit.org/][The SRE wisdom]]
 [[https://capnproto.org/cxx.html][Cap'n Proto: C   Serialization]]
 [[https://en.wikipedia.org/wiki/IEEE_754][IEEE 754 - Wikipedia]]
+
+https://gcc.gnu.org/onlinedocs/gcc/Static-Analyzer-Options.html
+[[https://www.youtube.com/watch?v=yy8jQgmhbAU&app=desktop][oop is dead, lon live data oriented design]]
+https://www.dreamsongs.com/RiseOfWorseIsBetter.html
+[[https://nikic.github.io/2020/05/10/Make-LLVM-fast-again.html][make llvm fast again]]

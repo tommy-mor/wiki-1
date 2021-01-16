@@ -75,3 +75,151 @@ http://mikhailkhoury.com/
 https://www.reddit.com/r/compsci/comments/69h3vb/rank_polymorphism_for_array_languages/
 https://weiweihuanghuang.github.io/
 http://janvitek.org/whoowns.html
+
+http://rmculpepper.github.io/gamble/
+http://www.call-with-current-continuation.org/ i love the art here!
+https://sarahguo.com/
+https://alexanderlim.io/
+
+https://h313.info/ i like this site
+https://andres.systems/
+http://nathancorbyn.com/
+https://www.perell.com/blog/peter-thiel
+https://craphound.com/
+https://erik.itland.no/
+
+https://en.m.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r
+http://www1.ece.neu.edu/~eyeh/
+http://www.ccs.neu.edu/home/hlnguyen/
+http://www.ccs.neu.edu/home/rancohen/
+https://christine.website/contact
+https://jswrenn.comhttp://www.ccs.neu.edu/home/hlnguyen/
+https://jswrenn.com//
+http://people.cs.uchicago.edu/~jhr/
+https://www.ccs.neu.edu/home/ryanc/
+http://users.umiacs.umd.edu/~hal/cv.html
+https://users.cs.northwestern.edu/~jesse/
+** olin shivers
+http://www.ccs.neu.edu/home/shivers/autoweapons.html
+his thesis is incredible
+https://news.ycombinator.com/item?id=2382531
+stuff about olin
+comedy:
+https://www.wanderings.net/notebook/Main/BitterAcknowledgmentsOfOlinShivers
+http://www.ccs.neu.edu/home/shivers/newstyle.html
+http://www.ccs.neu.edu/home/shivers/scribblings.html
+** knuth
+https://www-cs-faculty.stanford.edu/~knuth/boss.html
+https://www-cs-faculty.stanford.edu/~knuth/news08.html
+https://www-cs-faculty.stanford.edu/~knuth/taocp.html
+https://www-cs-faculty.stanford.edu/~knuth/retd.html
+https://www-cs-faculty.stanford.edu/~knuth/vita.html
+https://docs.google.com/presentation/d/1gkVFtXpXcySlu7qiPaaACIMAXBT0Cfn_p_yBn1NFrOs/mobilepresent#slide=id.g17dd02dfa8_4_16
+https://www-cs-faculty.stanford.edu/~knuth/cp.html
+
+** mike shah
+http://www.mshah.io/pizza/artofpizza.html pizza
+http://www.mshah.io/conf/18/cppcon/index.html debugging with the gui
+https://docs.google.com/presentation/d/1jps3KpD2zbsBwwApDnsU9LsgpXX-8ttmwtwEKoNKHt8/mobilepresent#slide=id.g358c9a0181_0_7
+
+** matthias
+https://felleisen.org/matthias/Thoughts/Referential_Transparency.html
+https://felleisen.org/matthias/Thoughts/Why_How_do_I_get_a_PhD.html -- on grad
+school
+https://link.springer.com/article/10.1007/BF00277387
+https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-20.html#%_idx_2990
+sicp, somehow
+https://www.cis.upenn.edu/~halleyy/ phd student working on generative models
+https://mitpress.mit.edu/sites/default/files/sicp/index.html
+http://ccs.neu.edu/home/types/extras/extras.html -- been greenman, cool guy!
+https://felleisen.org/matthias/4620-s18/index.html
+https://felleisen.org/matthias/7480-s17/lectures.html -- talks from a lot of PL
+people
+https://willcrichton.net/ very very cool website
+
+[[https://electro.pizza][cool person]]
+[[https://slim.computer/][v cool person !! ! ! !]]
+
+[[https://mcwhirter.io][mcwhirter.io]]
+[[https://ertdfgcvb.xyz][ertdfgcvb]]
+https://bennetthardwick.com/ okay site
+[[https://henry.codes/about/][incredible look to this site]]
+https://t-ravis.com/#r=start&amp;c=look terminal based personal website!
+http://worrydream.com/#!/quotes
+
+http://worrydream.com/#!/Bio -- this guy has done a lot and has a lot of
+[[https://www.microsoft.com/en-us/research/people/simonpj/][Simon Peyton Jones at Microsoft Research]]
+interests
+http://cs.brown.edu/research/plt/ -- self explanatory
+http://blog.ezyang.com/about/ -- edward yang, a stanford phd student who works
+with ml and functional languages
+https://ryanjung.dev/ -- in fundies, has great personal website -- work on mine!
+http://justinpombrio.net/ -- pl guy, phd student from brown
+https://shreyaskapur.com/ -- mit undergrad, really on top of it
+https://nicholas-miklaucic.github.io/ -- northeastern guy, great blog
+https://guillaumelegoy.github.io/ -- Boring Data Science blog with lots of cool
+trinkets
+http://herpolhode.com/rob/ -- archer, unix guy who writes about things!
+https://web.stanford.edu/~ouster/cgi-bin/home.php -- behind raft; cool dude
+http://aviral.io/ -- prl phd student who does a lot of cool work
+https://en.wikipedia.org/wiki/Greg_Marinovich -- photographer who has worked at a lot of different places, very well known, he works in BU
+http://willghatch.net/blog/ -- good writing on a bunch of people doing things
+with operating systems
+https://jborichevskiy.com/ideas/ -- this person has a lot of cool ideas r work
+https://www-cs-faculty.stanford.edu/~knuth/retd.html -- of course, knuth
+http://lav.io/ lots of gool 3d and visual art work
+http://madebyevan.com/ -- 3d stuff !
+https://en.wikipedia.org/wiki/Daniel_S._Weld
+http://mumble.net/~jar/ -- this guy works on cool open source things
+https://miles.land/#portfolio -- very cool and entreprenurial !
+https://winston.me/ -- winston seems cool
+https://www.karenx.com/ -- high profile filmmaker and designer
+
+[[http://alyssamcdevitt.me][Alyssa McDevitt - Software Engineer]]
+[[https://github.com/theWebalyst][Mark Hughes (happybeing) theWebalyst]]
+[[https://mobile.twitter.com/jackiehluo/status/1285199233398734848][jackie luo]]
+https://blog.jse.li/
+[[https://jacobjackson.com/][Home | Jacob Jackson]]
+https://thesephist.com/projects/
+https://mynrd.co.uk/
+https://ziv.codes/
+
+[[https://linus.zone/latest][latest | linus.zone]]
+[[https://sharanry.github.io/][Sharan Yalburgi]]
+https://mboxed.github.io/sodatsu/#home
+
+https://v-os.ca/i-tema i love love love this site and its animating glyphs! [[file:language.org][Language]]
+
+https://2d4.dev/ this acts primarily as a resume, but the flow looks incredibly nice on the front page. look into setting up something like this to use as my resume!
+
+[[https://rezmason.net/projects.html][rezmason.net - Projects]]
+https://dhh.dk/
+http://nathancorbyn.com/ pl and systems person
+https://nomand.co/#home i really like the design though its not something i'd personally do! it's too 'clean', the photos too high resolution
+https://azlen.me/ cool[[file:wiki.org][Wiki]]  and personal site
+https://oddworlds.org/  mostly a [[file:blogs.org][Blogs]]
+https://kor.nz/projects A[[file:blogs.org][Blogs]]  of projects, mostly. a sailor!
+
+https://eli.li/ book recommendations!  fun blog theme! i love how this person ties together the responses they make on different social media websites and posts this all publicly on their website. I should look into setting up a centralized 'feed' to do something like this
+https://materialfuture.net/
+https://en.m.wikipedia.org/wiki/Expression_problem notion is kind of plain, but he has some fun ideas
+https://raymii.org/s/ c adn cpp developer with some fun ideas
+https://zcreativelabs.com/ open source development studio
+https://sydgibs.com/ phd student at cmu !
+
+https://ccrma.stanford.edu/~jos/ [[file:music.org][Music]]  work
+
+https://mariaadelaide.com/
+https://www.r2design.pt/ design firm website. beautiful stuff.
+http://conal.net/ [[file:machine-learning.org][Machine Learning]] researcher and [[file:language.org][Language]] work
+https://nora.codes/
+[[http://jamesoconnor.xyz/][pgs in remote sensing, now earth observation data scientist]]
+[[http://henge.glitch.me/][lil data music website: henge]]
+[[https://romainaubert.com/][great personal website, with the premise of the book]]
+[[http://apgwoz.com/][personal website that looks just like a manpage!]]
+[[https://flak.tedunangst.com/post/good-idea-bad-implementation-crosstalk][i love the rendering and loading animations!]]
+
+https://blog.cyberpunk.net.ar/
+ [[http://www.cyberdelia.party/][i love the animated text on this site!]]
+[[https://github.com/TimPut/timput.com][website built with nix and hakyll]]
+https://joshtriplett.org/ phd at [[file:portland.org][Portland]]  state, working on ocol parallel programming projects (or did! everything on the site looks old...)

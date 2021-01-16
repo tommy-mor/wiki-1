@@ -15,3 +15,4 @@ https://github.com/Yours3lf/rpi-vk-driver
 https://github.com/pimusicbox/pimusicbox
 
 [[https://www.element14.com/community/thread/47758/l/pi-zero-e-reader][Pi-Zero E-Reader | element14 | Ben Heck Featured Content]]
+[[https://icyphox.sh/blog/pi/][Migrating to the RPi]]

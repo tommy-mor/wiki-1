@@ -163,3 +163,17 @@ https://wiki.xxiivv.com/site/about.html
 https://billdemirkapi.me/
 
 https://git.sr.ht/~sircmpwn/openring a webring for static site generators, allows for generating a webring from a list of RSS feeds to join the sites together
+
+[[https://github.com/kormyen/memex][kormyen/memex]]
+https://github.com/bphenriques/knowledge-base
+https://wiki.nikitavoloboev.xyz/
+http://okmij.org/ftp/
+[[https://memex.naughtons.org/][Memex 1.1 | John Naughton&#39;s online diary]]
+https://mboxed.github.io/sodatsu/#home
+https://www.madewithtea.com/
+
+[[https://www.mentalnodes.com/a-gardening-guide-for-your-mind][A gardening guide for your mind • Mental Nodes]]
+
+[[https://collectednotes.com/][Collected Notes.]]
+https://bismuth.garden/now another[[file:personal-website.org][Personal Website]]  and wiki
+https://libarynth.org/start

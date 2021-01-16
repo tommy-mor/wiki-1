@@ -45,3 +45,7 @@ https://news.ycombinator.com/item?id=23245724
 [[https://www.theatlantic.com/magazine/archive/2020/06/edward-snowden-operation-firstfruits/610573/][paranoia]]
 [[https://news.ycombinator.com/item?id=23221517][the surveillance story]]
 [[http://www.zifyoip.com/wysiscript/sigbovik.html][programming with syntax highlighting]]
+** !! Important !!
+[[https://news.ycombinator.com/item?id=23500462][Best practices for managing and storing secrets like API keys and credentials | Hacker News]]
+
+[[https://web.archive.org/web/20130507230947/http://www.heise.de/tp/artikel/2/2898/1.html][Only NSA can listen, so that's ok]]

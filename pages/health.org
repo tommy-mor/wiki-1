@@ -2,12 +2,10 @@
 
 [[https://karpathy.github.io/2020/06/11/biohacking-lite/][Biohacking Lite]]
 https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/
-
 [[https://www.everything2.com/index.pl?node_id=892542][biphasic sleeping cycles]]
-
 [[https://stoichuman.com/dopamine-detox-konmari-style/][Dopamine detox]]
-
-
+[[https://www.newyorker.com/magazine/2017/06/05/the-work-you-do-the-person-you-are][the work you do, the person you are]]
+[[https://johnkerl.org/doc/ortho/ortho.html][tips for mathematical handwriting]]
 * The strength of being misunderstood
 https://blog.samaltman.com/
 The most impressive people care a lot about what others think - anyone - but they only care on a long time horizon, as so long as the history books get it right the work is justified.
@@ -15,3 +13,27 @@ The most impressive people care a lot about what others think - anyone - but the
 Trade short term status for long term; most people are unwilling to do this, but it's a sactifice worth making to become successful.
 
 As Mike said: pick up the camera, put down social media, and work for 10 years. Become an expert. Only then can you come out and show your talent to everyone; you'll be most successful that wa; you'll be most successful that way.
+
+[[https://www.nature.com/articles/d41586-019-02638-w][First hint that body’s ‘biological age’ can be reversed]]
+[[https://mobile.twitter.com/jaltma/status/1281441060510552064][something you did that was important for your development]]
+[[https://www.reddit.com/r/getdisciplined/comments/hv6wio/advice_my_notes_from_cant_hurt_me_by_david_goggins/][advice from david goggins: can't hurt me]]
+
+* On discourse
+[[https://wiki.xxiivv.com/site/discourse.html][on discourse]]
+The three gates of speech:
+- is it true?
+- is it necessary?
+- is it kind?
+
+"You should attempt to re-express your target's position so clearly, vividly, and fairly that your target says, "Thanks, I wish I'd thought of putting it that way.""
+—Rapoport's First Rule
+
+"How to apologize: Quickly, specifically, sincerely."
+—Kevin Kelly
+
+"Kings speak for the realm, governors for the state, popes for the church. Indeed, the titled, as titled, cannot speak with annyone."
+—James P. Carse, Finite and Infinite Games
+* Teach yourself programming in 10 years
+http://norvig.com/21-days.html
+* Time is the only real currency we have
+https://blog.theboringtech.io/2020/04/16/time_is_the_real_currency.html

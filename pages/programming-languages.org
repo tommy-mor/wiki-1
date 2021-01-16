@@ -609,3 +609,22 @@ https://en.m.wikipedia.org/wiki/Simula
 [[https://dl.acm.org/doi/10.1145/268946.268976][The SLam calculus | Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages]]
 [[https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html][Val on Programming: What makes a good REPL?]]
 [[https://digitalmars.com/articles/b90.html][on writing a pl]]
+
+https://www.reddit.com/r/ProgrammingLanguages/comments/fxc504/do_you_know_any_interesting_talks_about_pl/
+
+[[https://zserge.com/posts/jvm/][writing a toy jvm]]
+[[https://cs.princeton.edu/research/techreps/TR-554-97][The Zephyr Abstract Syntax Description Language]]
+[[https://oilshell.org/blog/2016/12/11.html#its-used-to-describe-the-structure-of-python][What is Zephyr ASDL?]]
+[[https://github.com/purcell/icfpc2019][ICFP Contest 2019]]
+[[https://pharo.org/?utm_source=hillelwayne&utm_medium=email][Pharo - Welcome to Pharo!]]
+[[https://en.m.wikipedia.org/wiki/Expression_problem][The expression problem]]
+
+[[https://www.reddit.com/r/ProgrammingLanguages/comments/9ffiky/how_to_get_a_job_in_programming_languages/][how to get a job in programming languages]] [[file:employment.org][Employment]]
+
+[[https://parentheticallyspeaking.org/articles/pls-nature][Programming Languages as Objects in Nature]]
+[[https://legacy.cs.indiana.edu/dfried_celebration.html][Daniel P. Friedman: A Celebration]]
+
+[[https://github.com/jfecher/bidirectional][jfecher/bidirectional]]
+[[https://github.com/jfecher/ante][jfecher/ante]]
+
+[[https://github.com/jfecher/simplelang][simplelang]]

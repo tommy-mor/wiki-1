@@ -32,3 +32,7 @@ https://alex-hhh.github.io/2020/03/a-game-of-tetris.html
 [[https://itch.io/b/520/bundle-for-racial-justice-and-equality][Bundle for Racial Justice and Equality by itch.io and 1361 others - itch.io]]
 [[https://hundredrabbits.itch.io/][Rekka &amp; Devine - itch.io]]
 https://marian42.itch.io/wfc
+
+[[https://spritesmods.com/?art=hddhack&page=3][Sprites mods - Hard disk hacking - Hooking up JTAG]]
+
+[[https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html][A sort-middle architecture for 2D graphics | Raph Levien’s blog]]

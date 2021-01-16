@@ -2,3 +2,10 @@
 
 [[https://blog.acolyer.org/2019/11/18/formal-foundations-of-serverless-computing/][Formal foundations of serverless computing | the morning paper]]
 [[https://m.youtube.com/watch?v=cSntRGAjPiM][Reitit, the Ancient Art of Routing - Tommi Reiman - YouTube]]
+
+[[https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus][A generalised solution to distributed consensus]]
+[[https://teller.io][Teller - The API for your bank account]]
+[[https://networkencyclopedia.com/ansi-c-c][Network Encyclopedia]]
+
+[[https://en.m.wikipedia.org/wiki/Zooko's_triangle][Zooko&#39;s triangle - Wikipedia]]
+[[https://www.youtube.com/watch?v=3oHldF35FgA&amp%3Bt=23][breaking the 100 bits per second barrier with matrix messages]]

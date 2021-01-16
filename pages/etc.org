@@ -35,14 +35,11 @@
 [[https://github.com/Roenbaeck/anchor][dbms for the fifth normal form]]
 [[https://github.com/learn-anything/learn-anything][learn anything]]
 
-
 https://github.com/markledwich2/Recfluence analysis of youtube political influence via recommendations
 
-https://github.com/gilbertchen/duplicacy lock free duplication backup tool
 https://github.com/joeycastillo/The-Open-Book open book project; open source device for reading
 [[https://github.com/papers-we-love/papers-we-love][papers we love in cs]]
 [[https://github.com/ocharles/papers][git annex repo of papers]]
-
 
 https://apps.ankiweb.net/
 http://matt.might.net/articles/electric-meat/
@@ -53,3 +50,33 @@ http://matt.might.net/articles/how-to-blog-as-an-academic/
 
 [[https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727]]
 [[https://medium.com/message/networks-without-networks-7644933a3100][The Sixth Stage of Grief Is Retro-computing | by Paul Ford | The Message | Medium]]
+
+[[https://www.youtube.com/watch?app=desktop&v=dS6rCaDSwW8][jon blow's most important talk on programming]]
+
+[[https://www.youtube.com/watch?v=M1t0egTZY44&app=desktop][walter lewin: how to make teaching come alive]]
+[[https://www.youtube.com/watch?v=P1ww1IXRfTA&t&app=desktop][richard feynman: fun to imagine]]
+https://www.the-tls.co.uk/articles/feynman-making-the-extraordinary-look-easy/
+
+[[[[https://academic.oup.com/migration/article/8/2/228/5163084][Poverty, networks, resistance: The economic sociology of Roma migration for begging | Migration Studies | Oxford Academic]]][Motivations of Roma migration]]
+
+[[https://www.dreamsongs.com/PoetryOfProgramming.html][The poetry of programming]]
+[[https://www.dreamsongs.com/DesignedAsDesigner.html][designed as designer essay, on how art and programming languages are produced]]
+[[http://douglas-self.com/MUSEUM/museum.htm][The museum of retro technology]]
+[[https://saffronhuang.com/post/a-sensory-deprivation-flotation-tank-almost-drowned-me/][a sensory deprivation tank almost drowned me]]: on our relationship with technology - it'll always be self-destructive in the end.
+[[http://n-gate.com/hackernews/]['webshit weekly']]: the worst of hacker news
+
+[[https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/?fbclid=IwAR29wNYuXh_R64gXgw7CTN6mVZlFNjrwMdd4YQkYv3lEWZUFZQMvqFq66x0][Why is silicon valley so awful to women?]]
+[[https://github.com/inconvergent/weir][a system for making generative algorithms]]; succeeds [[https://github.com/uvNikita/snek][snek]]
+
+https://blog.plover.com/book/free-hop.html why i make the book available for free
+[[https://www.quantamagazine.org/einstein-symmetry-and-the-future-of-physics-20190626/][ideas behind einstein]]
+[[https://kk.org/thetechnium/68-bits-of-unsolicited-advice/][68 bits of unsolicited advice]]. come back to take notes on this.
+[[https://www.reddit.com/r/MFPMPPJWFA/][uhh what]]
+[[https://www.reddit.com/r/programming/comments/hv16l6/essays_on_programming_i_think_about_a_lot/][good essays about programming]]
+
+
+[[http://opentaxsolver.sourceforge.net/index.html][open source tax solver program! much better to use than turbotax]]
+[[http://seinfeld.co/library/][i'm really not sure what this is; rnadom greco roman, daoist and unix resources]]
+[[https://www.quantamagazine.org/how-to-design-a-perpetual-energy-machine-20200401/][designing a perpetual energy machine]]
+[[https://metacademy.org/][metacademy: 'your package manager for knowledge']]
+[[https://ciechanow.ski/gears/][on gears]]: a beautifully exploratory piece of life!

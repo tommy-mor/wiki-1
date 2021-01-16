@@ -4,3 +4,4 @@
 [[https://github.com/FluxML/Flux.jl/blob/ec16a2c77dbf6ab8b92b0eecd11661be7a62feef/src/layers/recurrent.jl#L131][Flux.jl/recurrent.jl at ec16a2c77dbf6ab8b92b0eecd11661be7a62feef · FluxML/F]]
 [[https://www.algebraicjulia.org/blog/][AlgebraicJulia blog]]
 [[https://news.ycombinator.com/item?id=23489743][Implement your own source transformation AD with Julia | Hacker News]]
+[[https://turing.ml/dev/][Turing.jl - Turing.jl]]

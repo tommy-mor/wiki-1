@@ -55,13 +55,6 @@ https://matthiasott.com/notes/the-thing-with-leading-in-css
 - [[https://www.pentagram.com/work/secondmind][Pentagram]], a design consultancy with a lot of great work. They have lots of mockups and designs to reference.
 
 * Resources
-:PROPERTIES:
-:ID:       919f9e4b-ec6f-404a-9f5c-ee51aa3605d3
-:END:
-
-- [[http://clrs.cc/][clrs.cc]] :: communicative colors for browser prototyping.
-
-Y
 https://cargo.site/
 [[https://www.huffpost.com/entry/complexion-reduction-a-new-trend-in-mobile-design_b_577d828fe4b05b4c02fb8b07?test_ad=taboola_iframe_mw_life][complex reduction]]
 [[https://medium.com/startup-grind/i-got-rejected-by-apple-music-so-i-redesigned-it-b7e2e4dc64bf][apple music redesign case study]]
@@ -70,12 +63,10 @@ https://codepen.io/ge1doot/pen/MWeBPQE very cute pen
 https://matthiasott.com/notes/wicked-design quick thoughts on 'wicked design'
 https://grumpy.website/ a catalogue of terrible user interface design decisions
 https://avanier.now.sh/work.html love this
-https://www.happyhues.co/ helps pick and curate colors
 https://deianeira.co : great web design. wow
 vertically aligned logos, cool font, 'alter ego', quick journal
 https://neil.computer/notes/the-design-of-diskprices-com/ amazing minimal site with a few notes on making it the best it can be
 http://ericmotil.com/
-[[http://clrs.cc/][default web colors for sites optimized for the browser]]
 https://web.archive.org/web/20191125141522/http://www.070shake.net/ an incredible site!
 
 [[https://themesberg.com/product/ui-kit/windows-95-ui-kit][Windows 95 UI Kit - Themesberg]]
@@ -85,3 +76,5 @@ https://github.com/mit-pdos/noria
 [[https://ertdfgcvb.xyz/][inspirational site]]
 
 [[https://www.blobmaker.app/][Blobmaker - Make organic SVG shapes for your next design]]
+[[https://vanschneider.com/finding-consistency-in-your-ux-copy?mc_cid=2a96675e6c&mc_eid=654729b272][consistent microcopy makes for good product ux]]
+[[https://thedesignsquiggle.com/][the design squiggle, emblematic of the design process]]

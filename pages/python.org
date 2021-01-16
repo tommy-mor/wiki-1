@@ -36,3 +36,9 @@ https://github.com/leoneckert/masks-and-hats  apply masks and hats to faces [[fi
 [[https://www.reddit.com/r/learnmachinelearning/comments/hxxtik/ai_application_python_implementation_of_proximal/][[AI application] Python implementation of Proximal Policy Optimization (PPO]]
 http://dontfragment.com/using-python-yaml-and-jinja2-to-generate-config-files/
 [[https://github.com/The-Tree/LangtonsAnt][The-Tree/LangtonsAnt: A simple implementation of Langston&#039;s Ant in Python.]]
+
+[[https://pywavelets.readthedocs.io/en/latest/][wavelet transformations in python]]
+
+https://aperiodical.com/2020/06/review-immersive-linear-algebra/ review for linalg
+[[https://en.m.wikipedia.org/wiki/Ricci_calculus][rules and indices for tensor and tensor fields!]]
+[[https://en.m.wikipedia.org/wiki/Rubik's_Cube_group][Rubik&#39;s Cube group - Wikipedia]]

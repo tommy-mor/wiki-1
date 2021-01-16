@@ -14,3 +14,6 @@ https://github.com/gigamonkey/monorepoize
 [[https://github.com/learnbyexample/Command-line-text-processing][automate command line text processing]]
 [[https://github.com/casey/just][just: simple command runner]]
 [[https://github.com/gokcehan/lf][terminal file manager]]
+
+[[https://mikestone.me/watching-in-linux][watch cmd in linux]]
+https://ban.ai/multics/

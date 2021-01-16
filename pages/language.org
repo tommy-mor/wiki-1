@@ -16,3 +16,6 @@ https://github.com/bjascob/LemmInflect [[file:python.org][Python]]
 [[https://news.ycombinator.com/item?id=20883169][programming without typing; using sound and voice]]
 
 [[https://www.cambridge.org/core/journals/journal-of-child-language/article/abs/early-vocabulary-development-in-danish-and-other-languages-a-cdibased-comparison/D12A283664A8BA4A695D0DDF3378555A][linguistic development in danish relative to other language]]
+
+[[https://www.reddit.com/r/neography/][Neography: constructed writing systems]]
+[[https://proycon.anaproy.nl/post/colibri/][Context as Linguistic Bridges [PhD thesis] | Proycon&#39;s Website]]

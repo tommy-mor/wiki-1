@@ -16,3 +16,5 @@ Notes on algorithms that don't fit another particular category.
 [[https://github.com/scandum/wolfsort][stable hybrid radix merge sort]]
 https://alexschroeder.ch/wiki/Diary - i'm not sure what this means but it's probably cool
 https://marc.info/?l=openbsd-tech&m=158965652915344&w=2
+[[https://www.youtube.com/watch?app=desktop&v=DpXy041BIlA&feature=youtu.be][30 weird chess algorithms]]
+[[https://www.geeksforgeeks.org/persistent-segment-tree-set-1-introduction/][persistent segment tree]]

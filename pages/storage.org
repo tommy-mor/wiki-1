@@ -5,3 +5,5 @@ backup storage stuff
 https://github.com/schollz/croc securely and easily share files between computers
 
 [[https://rclone.org/drive/#making-your-own-client-id][rclone or smth]]
+
+https://github.com/gilbertchen/duplicacy lock free duplication backup tool

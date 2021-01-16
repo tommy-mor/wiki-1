@@ -23,3 +23,4 @@ On MacOS and Windows, this is your standard user interface, just as it is with G
 * experiments
 [[https://www.notion.so/Expanding-UI-OS-e58f65ad81d94fb187cc18275b22f68c][an OS for autonomy]]
 [[https://www.notion.so/Dango-b46c07f3dc224f968c768885abe70e70][single flexible digital document instead of all apps]]
+[[https://stumpwm.github.io][stumpwm]]

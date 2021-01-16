@@ -223,3 +223,11 @@ https://github.com/s-ol/themer themer
 [[https://m.youtube.com/watch?v=ev3vENli7wQ][Autechre - Gantz Graf (Official Music Video) 1080p HD - YouTube]]
 
 [[https://news.ycombinator.com/item?id=23232268][how distortion works in music]]
+
+[[https://m.youtube.com/watch?v=HTSJZcSUiIQ][0F.digital – ╲╲╰╰╹╹ (extended) (Teenage Engineering PO-12 + nanoloop 2.7.8) - YouTube]]
+
+[[https://daily.bandcamp.com/features/motohiko-hamase-interview][]“Technodrome” Is Motohiko Hamase’s Post-Apocalyptic Soundtrack | Bandcamp Daily]]
+[[https://slab.org/][algoithmic music resources!]]
+
+
+ [[https://www.youtube.com/watch?v=FYTZkE5BZ-0&app=desktop][making music with haskell from scratch]] [[file:haskell.org][Haskell]]

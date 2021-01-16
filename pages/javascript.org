@@ -95,3 +95,7 @@ https://github.com/vercel/serve static file listing and serving
 [[https://nanochess.org/][Chess programs in C, Java and Javascript, also 8080 emulator]]
 [[https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/][javascript is so hard to use now!]]
 https://nh2.me/ host gpg key on my website like this person does. i also like the 'tell me something' button with the hidden (black on black) text!
+
+http://www.jsfuck.com/
+[[https://www.cyberpunk.net.ar/despuesdelzoia/][cool scroll!]]
+https://codepen.io/DonKarlssonSan/pen/abNjZaQ

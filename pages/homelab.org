@@ -24,3 +24,4 @@ Information about self-hosting.
 - digitalocean :: also a great cloud service
 [[https://github.com/johackim/docker-hacklab][personally hosted hacklab]]
 https://github.com/ArchiveBox/ArchiveBox open source self hosted web archive
+[[https://esphome.io/][esphome]]: control your home with esp32 chip home automation!

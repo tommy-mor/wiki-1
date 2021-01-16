@@ -108,3 +108,6 @@ http://mrmrs.cc/writing/
 https://joearms.github.io/oldindex.html [[file:erlang.org][Erlang]] [[file:elixir.org][Elixir]]
 https://rauchg.com/
 https://jozefg.github.io/
+https://blog.cyberpunk.net.ar/
+https://write.as/ personal blogging software
+https://macwright.com/
