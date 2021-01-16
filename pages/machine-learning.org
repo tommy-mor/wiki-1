@@ -160,3 +160,5 @@ https://towardsdatascience.com/the-unreasonable-ineffectiveness-of-deep-learning
 https://www.indexventures.com/perspectives/rebirth-robotics-how-covariant-unlocks-power-deep-learning-robots/
 https://codeplay.com/
 https://remis.io/
+https://keras.io/examples/audio/speaker_recognition_using_cnn/
+https://twitter.com/fchollet/status/1280733141980680193

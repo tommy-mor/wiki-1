@@ -160,3 +160,5 @@ https://blog.mainframe.dev/?m=1 mainframes!
 
 [[https://raw.githubusercontent.com/LukeSmithxyz/etc/master/ips][add to /networking/hosts to block a lot of information]]
 https://codepen.io/DonKarlssonSan/pen/abNjZaQ
+
+https://gtmetrix.com/leverage-browser-caching.html

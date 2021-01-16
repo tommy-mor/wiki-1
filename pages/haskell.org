@@ -201,3 +201,6 @@ https://ncatlab.org/nlab/show/comonad#definition [[file:math.org][Math]]
 [[https://www.reddit.com/r/haskell/comments/hv7prz/effet_an_effect_system_based_on_type_classes/][effekt: effect system based on type classes]]
 [[https://cs-syd.eu/posts/2020-04-28-genvalidity-improvements][property testing in depth]]
 [[https://github.com/vabal/vabal]['vabal': the cabal companion]]
+
+[[https://github.com/sleexyz/hylogen][hylogen]]: glsl shaders embedded in haskell
+https://github.com/atharvashukla/koans
