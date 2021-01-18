@@ -1,0 +1,6 @@
+#+TITLE: Licensing
+thoughts on software licenses
+
+https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html
+[[https://invisible-island.net/ncurses/ncurses-license.html][the evolution of the ncurses license]]
+https://s.ai/ppa/ privacy protection act warnings

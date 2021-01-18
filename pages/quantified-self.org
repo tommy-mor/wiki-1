@@ -94,3 +94,6 @@ this is just one study but nature is huge.
 https://github.com/seanbreckenridge/HPI
 
 [[https://ouraring.com/][Oura Ring: the most accurate sleep and activity tracker]]
+
+
+https://wakatime.com/ tracking time spent in various editors to get programming metrics!

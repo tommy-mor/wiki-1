@@ -177,3 +177,10 @@ https://www.madewithtea.com/
 [[https://collectednotes.com/][Collected Notes.]]
 https://bismuth.garden/now another[[file:personal-website.org][Personal Website]]  and wiki
 https://libarynth.org/start
+
+
+https://beepb00p.xyz/exobrain/#table-of-contents very cool, simple wiki with an indexable menu
+
+https://marcus-obst.de/wiki/Notetaking opinionated wiki advice
+
+https://news.ycombinator.com/item?id=24108466 iterative approach to notes

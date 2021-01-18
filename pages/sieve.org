@@ -157,3 +157,8 @@ a comonad.
 
 someone tweeted about rss rewind, where you're able to replay feeds day by day to trace the news, articles, etc chronologically
 what's in your rss feed interviews!
+
+https://github.com/seenaburns/isolate/blob/master/README.md lighteeight tool for viewing art inspiration
+
+
+https://memory-metadata.livia-foldes.com/  navigating the metadata of memories we save and share

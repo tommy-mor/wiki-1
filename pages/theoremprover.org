@@ -25,3 +25,10 @@ https://hol-theorem-prover.org/
 http://acl2s.ccs.neu.edu/acl2s/doc/
 [[https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html][homotopy type theory in agda]] [[file:math.org][Math]]
 [[https://www.youtube.com/watch?app=desktop&v=VxINoKFm-S4][a little taste of dependent types]]
+ [[https://leanprover.github.io/logic_and_proof/propositional_logic_in_lean.html#exercises][4. Propositional Logic in Lean — Logic and Proof 0.1 documentation]]
+
+ https://itp19.cecs.pdx.edu/ conference on interactive theorem proving : )
+
+
+ https://plv.csail.mit.edu/blog/ blog from adam chlipapa's lab!
+http://www.cse.chalmers.se/research/group/logic/publications.html

@@ -13,3 +13,18 @@ http://www.simonweckert.com/googlemapshacks.html google maps hacks
 https://www.realworldtech.com/
 [[https://beaglev.seeed.cc/][risc-v microcomputer that runs linux!]]
 [[https://github.com/icebreaker-fpga/icebreaker][low cost, free software fpga]]
+
+https://www.anfractuosity.com/projects/rainbow/ displaying color on a black and white monitor!
+
+https://nexdock.com/[[file:mobile.org][Mobile]]  turn your smartphone into a laptop - only have to carry around the bigger screen and keyboard! comes with a charger!
+https://news.ycombinator.com/item?id=24252737 build your own fpga
+https://alternativebit.fr/posts/ultimate-writer/#what-s-next digital typewriter
+
+http://prajtm.scripts.mit.edu/projects/portfolio/portable-synth-concept-design/ [[file:music.org][Music]]  making an op-1!
+https://github.com/a1exdandy/ipwndfu-haywire
+https://panic.com/blog/the-lightning-digital-av-adapter-surprise/
+https://github.com/joeycastillo/The-Open-Book the open source ebook
+ [[https://arxiv.org/abs/2009.06789][[2009.06789] The Cost of Software-Based Memory Management Without Virtual Memory]]
+ [[https://www.ccs.neu.edu/home/gene/][Gene Cooperman's Home Page]]
+[[http://www.cs.cmu.edu/~418/][computer architecture in parallel class]]
+https://kevinlynagh.com/phonetron/ making a cell phone!

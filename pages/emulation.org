@@ -45,3 +45,4 @@ https://jakekinsella.com/projects/intel8080/
 [[file:lisp.org][Lisp]] machines
 - https://frank-buss.de/lispcpu/
 - https://stevelosh.com/blog/2016/12/chip8-cpu/
+https://stackoverflow.com/questions/448673/how-do-emulators-work-and-how-are-they-written#448689

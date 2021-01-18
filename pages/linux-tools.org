@@ -10,3 +10,6 @@ http://matt.might.net/articles/ssh-hacks/
 https://github.com/ashlinchak/mdanki
 https://www.gwern.net/Spaced-repetition
 https://wiki.osdev.org/Expanded_Main_Page
+
+
+https://hackaday.com/2020/06/16/disable-intels-backdoor-on-modern-hardware/?mc_cid=18b37867b9&amp;mc_eid=c9ac6b96e3

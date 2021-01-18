@@ -20,3 +20,6 @@ https://marc.info/?l=openbsd-tech&m=158965652915344&w=2
 [[https://www.geeksforgeeks.org/persistent-segment-tree-set-1-introduction/][persistent segment tree]]
 https://www.metalevel.at/sgp/
 https://github.com/The-Tree/LangtonsAnt langston's ant?
+[[http://read.seas.harvard.edu/~kohler/notes/llrb.html][left leaning red black trees considered harmful]]
+[[https://library.oapen.org/handle/20.500.12657/39371][ algorithmic techniques for information retrieval]]
+[[https://www.geeksforgeeks.org/persistent-segment-tree-set-1-introduction/][persistent segment tree]]

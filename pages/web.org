@@ -162,3 +162,32 @@ https://blog.mainframe.dev/?m=1 mainframes!
 https://codepen.io/DonKarlssonSan/pen/abNjZaQ
 
 https://gtmetrix.com/leverage-browser-caching.html
+ [[https://codepen.io/pfndesign/pen/RwrOyrw][js lock picking game]]
+ [[https://codepen.io/vineethtrv/pen/NWxZqMM][CSS3 Loader & Spinners]]
+  [[https://codepen.io/alvaromontoro/pen/YzwbgwE][CSS Mastermind]]
+
+
+** TODO [[https://codepen.io/jkantner/pen/mdVGoyW][Ball in Window (1 Div, Gradients)]]
+
+neat artwork!
+Captured On: [2020-07-29 Wed 23:06]
+
+** TODO p5 crystals [[https://codepen.io/MananTank/pen/VweNZZm][Crystal Mountains]]
+
+Captured On: [2020-07-29 Wed 23:07]
+
+** TODO fire animation [[https://codepen.io/creativeocean/pen/gOPZLoN][3D Xylophone]]
+
+Captured On: [2020-07-29 Wed 23:07]
+
+** TODO  [[https://codepen.io/cobra_winfrey/full/xxVJZwo][3D CSS Letter Transition]]
+Captured On: [2020-10-24 Sat 01:22]
+** TODO  [[https://codepen.io/cobra_winfrey/full/OJXJeod][Pure CSS Product Card]]
+Captured On: [2020-10-24 Sat 01:22]
+* serve
+static file listing and directories
+
+
+http://shithouse.tv/ fire
+http://photorequestsfromsolitary.org/ photo requests out of teh blue from random people. you can submit answers to these requests! [[file:camera.org][Camera]]
+https://well-versed.gilgamesh.cc/ poetry fridge on the internet!

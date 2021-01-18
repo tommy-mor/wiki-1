@@ -1,0 +1,4 @@
+#+TITLE: Principle_component_analysis
+
+
+https://news.ycombinator.com/item?id=24257468 pca might be more

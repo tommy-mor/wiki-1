@@ -76,3 +76,16 @@ http://c9x.me/articles/gthreads/intro.html
 [[https://people.kernel.org/metan/how-to-trigger-races-reliably][trigger kernel races reliably]]
 
 [[https://github.com/kabbi/wonderland][kabbi/wonderland: Inferno clone to conquer the world]]
+
+http://intermezzos.github.io/ a demo operatin system for learning
+https://littleosbook.github.io/ the little book of of development
+
+https://en.m.wikipedia.org/wiki/Genode
+
+http://wintermute.org/brendan/ the screenless office and other artistic efforts
+
+https://github.com/mkilgore/protura toy os kernel and utilities
+https://makelinux.github.io/kernel/map/ map of the linux kernel
+
+
+https://www.mercuryos.com/ reengineering of the operating system as a ux project, fluid experience driven by human intent

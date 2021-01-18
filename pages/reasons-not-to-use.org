@@ -73,3 +73,6 @@ https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon
 https://sites.google.com/site/steveyegge2/blog-rants
 https://gist.github.com/bricker/cb811b3b86d767124801
 [[https://news.ycombinator.com/item?id=23262763][YCombinator thread]]
+https://www.freedomfromfacebookandgoogle.com/
+https://rudism.com/quit-whining-about-apple-and-just-stop-using-them/
+https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/

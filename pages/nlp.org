@@ -1,0 +1,7 @@
+#+TITLE: Nlp
+
+a lot of things should be moved from[[file:machine-learning.org][Machine Learning]]  here.
+
+https://www.enandini.com/projects/LDA_Topic_Modeling.html
+https://arxiv.org/abs/2004.14257 politeness transfer, converting non polite to polite sentences while preserving the meaning
+https://keras.io/examples/audio/speaker_recognition_using_cnn/ speaker recognition models in keras

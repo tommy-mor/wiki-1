@@ -1,0 +1,19 @@
+#+TITLE: Messaging
+
+ [[https://becca.ooo/slack/][rebecca™ → Slack’s threads are terrible for accessibility]]
+https://tox.chat/
+delta chat
+matrix
+https://signalboost.info/ messaging from grassroots organizations
+
+* TODO distributed comments
+comment in a different platform, link, they can be aggregated
+in this way comments are distributed
+they are no different from allowing users to delete comments
+
+* TODO accessible web
+menu or dictionary to help people understand definitions in a comprehensible but noninvasive way
+
+* TODO house as a game
+house as art
+the house on bluefin, or redfin, road

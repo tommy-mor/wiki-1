@@ -65,3 +65,21 @@ https://mobile.twitter.com/tobydoyhowell/status/1272674455681024000
 [[https://www.nospec.com/][spec work is unethical]]
 [[https://li.substack.com/p/unbundling-work-from-employment][unbundling work from employment]]
 https://airtable.com/shrzJxrXCaJwwJO2T/tblMZ48gq36WojgtE
+[[http://www.paulgraham.com/sfp.html][first run of y combinator and an evaluation of the program]]
+[[https://waypointnda.com/][standard nda]]
+
+
+https://gracedobush.com/2014/05/09/a-magazine-pitch-that-totally-worked/ quick notes on pitching to a magazine!
+https://hyperallergic.com/530196/a-viral-list-of-hundreds-of-opportunities-for-artists-compiled-by-one-person-to-encourage-community/ good opportunities for artists!
+
+[[https://www.artima.com/intv/simplest.html][finding the simplest path that could possibly work]]  [[file:metaprogramming.org][Metaprogramming]]
+
+
+[[https://news.ycombinator.com/item?id=23427689][how to i reach making money in several months?]]
+ [[https://www.prodmgmt.world/][prodmgmt.world | Success tools for young product teams]]
+
+ https://hellohello.is/OpenDesignCritiques free design critiques [[file:web_design.org][Web Design]]
+https://news.ycombinator.com/item?id=24259201 build products well
+
+
+https://news.ycombinator.com/item?id=24109636 if it's a nice problem to have, don't solve it now

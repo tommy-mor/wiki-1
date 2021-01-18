@@ -64,3 +64,91 @@ https://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part1.html
 https://samzdat.com/2017/06/28/without-belief-in-a-god-but-never-without-belief-in-a-devil/
 
 https://samzdat.com/the-uruk-series/
+
+
+https://www.lrb.co.uk/the-paper/v42/n13/katherine-rundell/consider-the-hare
+https://www.laphamsquarterly.org/roundtable/urban-gilgamesh
+[[https://moultano.wordpress.com/2020/06/21/the-defaults-dont-work/}[the defaults dont work]
+https://mailchi.mp/f78bc13cbb84/food-for-thought-58 good things to read : )
+https://hypercritical.co/2020/06/20/the-art-of-the-possible
+https://spectator.us/topic/new-york-times-private-slate-star-codex-blog/
+[[https://adityamukerjee.net/2013/08/22/dont-fly-during-ramadan/][don't fly during ramadan]]
+https://www.nytimes.com/2007/09/09/magazine/09wwln-lede-t.html
+
+[[https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm][how to build a universe that doesn't fall apart two days later]]
+
+https://taylorpearson.me/interesting/ optimizing for interesting
+https://www.theredhandfiles.com/do-u-have-any-spare-lyrics/ songwriting well.
+
+
+https://news.ycombinator.com/item?id=24097945 malcolm gladwell on discovering religion
+https://www.thecrimson.com/article/2018/11/20/to-bed-to-wed-to-talk-to/?fbclid=IwAR0YB-x7e0dbc1Ehet11Yh9rW_hNTT_mF52VykNMPkqrWQcuqspPrHW-Utg
+https://kk.org/thetechnium/1000-true-fans/
+
+
+http://shape-of-code.coding-guidelines.com/2020/07/05/algorithms-are-now-commodities/ [[file:algorithms.org][Algorithms]]  are commodities
+
+[[https://nplusonemag.com/issue-37/essays/the-bad-feature/][the bad feature]]
+https://archive.nytimes.com/www.nytimes.com/books/first/k/kranz-failure.html
+
+https://andymatuschak.org/books/ why books don't really work as a medium
+https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning measuring arbitrarily is measuring nothing
+
+[[https://news.ycombinator.com/item?id=23515504][boredom and creativity, privilege and success]]
+
+https://www.gatesnotes.com/2020-Annual-Letter why gates swings for the fences to accomplish things
+
+
+[[http://www.catb.org/~esr/faqs/hacker-howto.html][how to become a hacker - eric s. raymond]]
+
+
+https://ava.substack.com/p/on-maintaining-attention [[https://mobile.twitter.com/noampomsky/status/1314751746103635968][and the follow up tweets]]: significant decrease in thoughts and non localized sense of self after a 'peak experience'
+https://ava.substack.com/p/desire-optimism
+
+
+https://www.brainpickings.org/2012/09/12/ted-hughes-inner-child-letter/ on the inner child:
+"Everybody tries to protect this vulnerable two three four five six seven eight year old inside, and to acquire skills and aptitudes for dealing with the situations that threaten to overwhelm it."
+"That’s the paradox: the only time most people feel alive is when they’re suffering, when something overwhelms their ordinary, careful armour, and the naked child is flung out onto the world."
+https://mobile.twitter.com/noampomsky/status/1315436452830826496 various notes? very cool
+
+https://maxdeviant.com/posts/2017/default-dead-or-alive/ kind of simple but aggressive: default dead or default alive? how do you feel?
+
+https://smidgeo.com/bots/ fun bots and art
+https://jimkang.com/weblog/articles/miscellaneous-findings-002/ cool tricks!
+
+
+http://instrumentslab.org/research/craft craft and digital lutherie, designing instruments for  [[file:music.org][Music]]
+
+
+https://www.lowtechmagazine.com/ how and why i stopped buying new laptops!
+https://web.archive.org/web/20080125030037/http://deoxy.org/pkd_how2build.htm
+https://www.theguardian.com/books/2016/mar/04/six-four-hideo-yokoyama-review-crime-thriller-phenomenon-japan
+https://blog.jse.li/posts/software/
+
+http://www.paulgraham.com/vb.html life is so short
+https://publishsomething.online/ why you should publish something online! [[file:blogs.org][Blogs]]
+http://eudaimonium.net/ love the animated connections being made
+
+
+http://eudaimonium.net/posts/children_of_men.html so pretty, looks super professional too.
+https://technicshistory.com/2020/06/25/the-era-of-fragmentation-part-4-the-anarchists/ computer anarchists
+
+[[https://snufk.in/blog/temporality.html][the temporality of media]]
+
+[[https://notebook.drmaciver.com/posts/2020-02-29-10:30.html][the social obligation to do bad things]]
+
+** TODO [[https://fee.org/resources/i-pencil/][I, Pencil by Leonard E. Read - Foundation for Economic Education]]
+
+Captured On: [2020-10-08 Thu 00:23]
+
+** TODO [[https://www.youtube.com/watch?v=a1zDuOPkMSw][Hamming, "You and Your Research" (June 6, 1995) - YouTube]]
+
+Captured On: [2020-10-08 Thu 00:23]
+https://ava.substack.com/p/whats-become-of-americas-space-dream?token=eyJ1c2VyX2lkIjoxMDY5MzAyMSwicG9zdF9pZCI6NTE0MjIxNiwiXyI6IlZEQ2RqIiwiaWF0IjoxNjAyMjY4MzU1LCJleHAiOjE2MDIyNzE5NTUsImlzcyI6InB1Yi0yMzQxNyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.xlajzm4gAM0qnZtekkxNwmqEDWQphtjPVjrFdKfYP_0
+https://aarontag.dev/2020/06/14/the-urge.html the urge to create
+
+https://www.hillelwayne.com/post/j-notation/?utm_source=hillelwayne&utm_medium=email
+https://news.ycombinator.com/item?id=24257458 chaos engineering
+
+https://news.ycombinator.com/item?id=24107598 why software should be free.
+https://news.ycombinator.com/item?id=24097348 training programmers

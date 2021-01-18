@@ -43,3 +43,13 @@ https://marian42.itch.io/wfc
 
 
 [[https://github.com/Cardshifter/Cardshifter][framework for making trading card games]]
+
+
+http://www.starseedpilgrim.com/, a game about tending to a garden : ' )
+https://nathanwentworth.co/projects/writers-flock/, a game in which all players try to write the best story based on other sentences. all these games are cute!
+ [[https://sr.ht/~rabbits/famicom-cookbook/][famicom-cookbook: A collection of tools and examples for nesdev]]
+
+* TODO go game that hides all the messy software
+you play go like normal and the software adds additional effects in the background
+this is the perfect divide: not at all obtrusive, and removing the clunky bits
+a perfect separation for 'makers'

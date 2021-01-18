@@ -5,3 +5,4 @@
 [[https://www.algebraicjulia.org/blog/][AlgebraicJulia blog]]
 [[https://news.ycombinator.com/item?id=23489743][Implement your own source transformation AD with Julia | Hacker News]]
 [[https://turing.ml/dev/][Turing.jl - Turing.jl]]
+https://turing.ml/dev/posts/2020-09-11-gsoc

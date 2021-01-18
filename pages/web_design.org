@@ -78,3 +78,33 @@ https://github.com/mit-pdos/noria
 [[https://www.blobmaker.app/][Blobmaker - Make organic SVG shapes for your next design]]
 [[https://vanschneider.com/finding-consistency-in-your-ux-copy?mc_cid=2a96675e6c&mc_eid=654729b272][consistent microcopy makes for good product ux]]
 [[https://thedesignsquiggle.com/][the design squiggle, emblematic of the design process]]
+
+
+https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html love love love this website and the readme,[[file:cybersecurity.org][Cybersecurity]]
+
+
+[[https://shoelace.style/][shoelace]]: a forward thinking library of web components
+
+
+https://kristopolous.github.io/BOOTSTRA.386/ beautiful framework like bootstrap, but for DOS
+
+https://linus.zone/dev good web design resources!
+https://gerireid.com/forms.html good form design principles [[file:ethical-web.org][Ethical Web]]
+https://gerireid.com/forms.html incredible architecture navigation demo:  [[file:three.org][Three]]
+
+
+https://pavellaptev.github.io/web-dark-ages/ web design trends over the last 20 years. the site map and guest book pages are really cool and seem fun to add : )
+
+https://derolez.dev/ i actually love this guys work - even if i dont like how animated the front page is
+http://brandoncjohnson.com/ someone likes space - and threejs!!! [[file:three.org][Three]]
+https://blog.hubspot.com/marketing/best-personal-websites
+
+https://ertdfgcvb.xyz/ incredible piece of animation using characters
+https://www.r2design.pt/
+
+https://tonsky.me/blog/monitors/ you need a better display to make sure that things are rendering correctly in 1080p.
+
+https://www.figma.com/community/file/822953707012850361 very nice design system. wish the company were better
+https://sean.fish/ its like an old computer!
+
+https://github.com/foundation/foundation-sites the most advanced front end in the world, or something

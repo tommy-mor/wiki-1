@@ -16,3 +16,19 @@ https://constraint.systems/ [[file:text-editors.org][Text Editors]]
 [[https://constraint.systems/mobile/][Constraint Systems]]
 [[https://github.com/cloudhead/rx][pixel editor]]
 https://en.m.wikipedia.org/wiki/Gray_code
+
+
+http://subject.space/  lots of cool  projects motivated by space, maps, and tracking data around the world
+https://blog.raeez.com/genesis/
+https://iko.soy/dotrix drawing with vectors by touching!
+
+https://drawabox.com/ learn to draw by starting a box!
+ [[https://github.com/itsrainingmani/lsys][itsrainingmani/lsys: L-Systems: Interactive Fractal Generator]]
+ [[https://github.com/urbit/sigil-js][urbit/sigil-js: ~4.2 billion default profile pics]]
+https://nelari.us/ generate 3d buildings using node graphs,
+also has generative art [[file:raytracing.org][Raytracing]] and is a[[file:blogs.org][Blogs]]
+
+https://news.ycombinator.com/item?id=24111248
+
+https://news.ycombinator.com/item?id=24091297 3d out of paper
+https://eyeburfi-blog.tumblr.com/

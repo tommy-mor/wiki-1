@@ -53,3 +53,19 @@ http://arith2020.arithsymposium.org/programme.html computer arithmetic paper
 https://en.wikipedia.org/wiki/Bfloat16_floating-point_format
 https://capnproto.org/cxx.html
 https://docs.racket-lang.org/manual-flomat/index.html
+https://gist.github.com/iitalics/83ad70b5d4bdba428145f20bf8bcdc2b
+
+[[https://en.m.wikibooks.org/wiki/C_Programming/Networking_in_UNIX][networking in unics]]
+
+https://mobile.twitter.com/thingskatedid/status/1316074032379248640 displaying stuff in a terminal [[file:posix.org][Posix]]
+
+https://github.com/pitr/jj j in nim, rust, c whatever
+
+
+** TODO [[https://aiju.de/misc/c-style][Notes On Programming In C]]
+
+Captured On: [2020-10-13 Tue 22:33]
+
+** TODO [[https://ftrv.se/3][C code | The only good system is a sound system]]
+
+Captured On: [2020-10-13 Tue 22:34]

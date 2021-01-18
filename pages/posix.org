@@ -19,3 +19,14 @@ https://github.com/gigamonkey/monorepoize
 https://ban.ai/multics/
 http://shell.cs.pomona.edu/shtepper
 http://wiki.c2.com/?GreenspunsTenthRuleOfProgramming
+https://christine.website/blog/why-i-use-suckless-tools-2020-06-05
+[[http://werc.cat-v.org/][posix 'anti-web' framework]]
+[[https://mkaz.blog/code/unix-is-my-ide/][Unix is my IDE]]
+
+
+[[https://github.com/acmesh-official/acme.sh][a full ACME protocol implemented in shell]] [[file:web.org][Web]]
+
+https://gist.github.com/katef/59450aa622315bd35fc27bd383c2dbe6#file-life-utf8-c [[file:cpp.org][C, C++]]
+[[https://github.com/zeroby0/pranks#7-change-editors][fun ideas for pranks at the shell]], and https://github.com/mathiasbynens/evil.sh
+
+https://news.ycombinator.com/item?id=24256883 portable executables!

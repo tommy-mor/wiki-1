@@ -34,3 +34,7 @@ https://www.reddit.com/r/FirefoxCSS/comments/hf97kk/my_take_on_hiding_as_much_as
 * other browsers
 [[https://github.com/atlas-engineer/nyxt][atlas-engineer/nyxt: Nyxt - Be productive.]]
 [[https://www.ekioh.com/acid.html][Flow browser passes the Acid tests - Ekioh]]
+ [[https://stackoverflow.com/questions/3527800/how-do-browsers-read-and-interpret-css][How do browsers read and interpret CSS? - Stack Overflow]]
+
+
+ r/startpages: customized firefox start pages

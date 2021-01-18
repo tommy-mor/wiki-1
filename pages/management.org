@@ -12,3 +12,5 @@ https://overreacted.io/goodbye-clean-code/
 [[https://google.github.io/eng-practices/review/reviewer/][How to write a good code review]]
 https://restyled.io/
 [[https://en.m.wikipedia.org/wiki/OODA_loop][ooda loop]]: observe, orient, decide, impact. a framework
+https://ferrucc.io/posts/company-size/
+[[https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54][knowing that the team is working on something that no customer wants]]

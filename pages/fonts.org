@@ -269,5 +269,9 @@ http://typography.philipyoungg.com/
 
 [[https://github.com/be5invis/Iosevka][be5invis/Iosevka: Slender typeface for code, from code.]]
 [[https://int10h.org/blog/2020/07/oldschool-pc-font-pack-v2][Ultimate Oldschool PC Font Pack v2.0 Released]]
-[[https://int10h.org/blog/2020/07/oldschool-pc-font-pack-v2/][Ultimate Oldschool PC Font Pack v2.0 Released]]
 [[https://github.com/aftertheflood/sparks][sparks]]: a typeface for creating spark lines in text without any code
+[[https://www.typeroom.eu/][Glorifying Eclectic Typography | TypeRoom]]
+ [[https://blazetype.eu/typecatalogue/][Blaze Type | Type catalogue]]
+
+ https://fonts.google.com/specimen/Rubik
+ https://fonts.google.com/specimen/Roboto+Mono

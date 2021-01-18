@@ -19,3 +19,14 @@ https://github.com/bjascob/LemmInflect [[file:python.org][Python]]
 
 [[https://www.reddit.com/r/neography/][Neography: constructed writing systems]]
 [[https://proycon.anaproy.nl/post/colibri/][Context as Linguistic Bridges [PhD thesis] | Proycon&#39;s Website]]
+
+** TODO [[https://www.thelocal.se/20180522/is-anglicization-a-threat-to-the-swedish-language][Analysis: Is Swenglish a threat to the Swedish language? - The Local]]
+
+Captured On: [2020-09-01 Tue 14:18]
+
+
+https://bellard.org/textsynth/sms.html lossless compression of english
+https://proycon.anaproy.nl/posts/colibri/
+
+* TODO emulating how language is learned naturally?
+virtual assistant that progressively increasaes vocab

@@ -14,3 +14,5 @@ https://github.com/littlefs-project/littlefs
 [[https://news.ycombinator.com/item?id=23180572][p2p filesystem]]
 
 [[https://news.ycombinator.com/item?id=23515997][I built an IPFS crawler with libp2p | Hacker News]]
+https://users.cs.northwestern.edu/~jesse/
+https://software.intel.com/content/www/us/en/develop/articles/pin-a-dynamic-binary-instrumentation-tool.html

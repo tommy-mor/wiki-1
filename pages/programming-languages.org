@@ -636,3 +636,41 @@ https://github.com/Ahnfelt/funk a fun minimal scripting language
 [[https://arxiv.org/abs/1605.06640][programming with a differentiable forth interpreter]]
 
 [[https://www.reddit.com/r/ProgrammingLanguages/comments/i3eyg5/effekt_a_language_with_effect_handlers_and_a/][Effekt: A language with effect handlers and a lightweight effect system - P]]
+https://shriram.github.io/pl-hci-school-2020/
+* meta
+[[https://blog.sigplan.org/2020/07/29/increasing-the-impact-of-pl-research/][increasing the impact of pl research, connecting it to reality!]]
+
+
+http://www.alexwong.tech/projects/ [[file:hardware.org][Hardware]]  dsls
+https://www.williamjbowman.com/#depmacros dependent type systems aas macros paper : )
+https://koronkevi.ch/ cool phd student of will bowman!
+
+
+https://vale.dev/blog/zero-cost-refs-regions work on the Vale language
+
+
+https://sites.google.com/site/steveyegge2/tour-de-babel whirlwind tour of lagnauges with some opinions
+https://technomancy.us/185 [[file:racket.org][Racket]]  cool ideas, reducing the cost of structured data, etc.
+https://legacy.cs.indiana.edu/~dfried/mex.pdf
+https://chrisdone.com/posts/z/
+
+
+** TODO [[https://news.ycombinator.com/item?id=875688][Factor vs. Forth (from a Forth programmer) | Hacker News]]
+
+Captured On: [2020-10-13 Tue 16:45]
+
+** TODO [[https://en.wikipedia.org/wiki/Joy_(programming_language)][Joy (programming language) - Wikipedia]]
+
+Captured On: [2020-10-13 Tue 16:45]
+
+** TODO [[https://en.wikipedia.org/wiki/Self_(programming_language)][Self (programming language) - Wikipedia]]
+
+Captured On: [2020-10-13 Tue 16:45]
+https://news.ycombinator.com/item?id=24481883
+https://news.ycombinator.com/item?id=24480504
+https://news.ycombinator.com/item?id=24354559
+https://news.ycombinator.com/item?id=24353079
+
+https://news.ycombinator.com/item?id=24263117
+
+https://chrisdone.com/posts/z/ simple and clever programming language

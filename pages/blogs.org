@@ -117,3 +117,19 @@ https://blainsmith.com/
 https://monadplus.pro/ [[file:haskell.org][Haskell]] blogger with lots of cool ideas
 
 [[http://debarghyadas.com/][very cool person, debarghya das]], knows a lot of things and seems smart
+
+https://buzzert.net/posts/
+
+
+https://benjamincongdon.me/blogroll
+https://futureofcoding.org/journal
+
+https://chad.is/writing/
+http://bildwissenschaft.vortok.info/loops/
+http://blog.ielliott.io/ on pl and various similar things
+https://0xff.nu/
+https://leonardschuetz.ch/blog/ [[file:compilers.org][Compilers]] [[file:programming-languages.org][Programming Languages]]
+https://www.edwinwenink.xyz/
+https://www.itsrainingmani.dev/projects/
+
+https://steveklabnik.com/writing/today-is-my-first-day-at-oxide-computer-company they give yo a computer and money.

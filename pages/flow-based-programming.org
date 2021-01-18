@@ -9,3 +9,4 @@ of separate services.
 
 The best source for this is probably [[https://groups.google.com/g/flow-based-programming/?utm_source=hillelwayne&utm_medium=email&pli=1][the google group]] where the founder of this idea discusses
 the paradigm.
+https://en.wikipedia.org/wiki/Flow-based_programming

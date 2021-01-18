@@ -1,0 +1,18 @@
+#+TITLE: Academia
+
+Writing and advice on academia.
+https://medium.com/@jamesheathers/i-quit-be062295f638
+[[https://lindseykuper.livejournal.com/383642.html][what the first half of grad school was like]]
+
+* Labs
+UMich
+UChicago
+http://uwplse.org/
+https://schasins.com/ berkeley phd student
+* apps
+https://koronkevi.ch/posts/applying-to-grad-school.html#weeds
+https://www.cs.cornell.edu/~asampson/blog/gradschool.html sampson seems like a really cool profrssor to work with!
+http://matt.might.net/articles/tenure/
+* Research opportunities
+https://capra.cs.cornell.edu/ugresearch.html
+ [[http://michaelnielsen.org/blog/principles-of-effective-research/][Principles of Effective Research | Michael Nielsen]]

@@ -15,3 +15,4 @@ mimic much of this design in an android launcher! i love how minimal it is and t
 * iOS
 [[https://github.com/a1exdandy/ipwndfu-haywire][Open-source jailbreaking tool for many iOS devices]]
 
+[[https://goodereader.com/blog/reviews/hisense-a5-e-ink-smartphone-review][e-ik smartphones!]]

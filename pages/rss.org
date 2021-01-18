@@ -27,3 +27,5 @@ https://freshrss.org/ self hosted rss
 [[https://about.flipboard.com/inside-flipboard/rss-feed-on-flipboard/][How and Why You Should Add Your RSS Feed to Flipboard]]
 [[https://addons.mozilla.org/en-US/firefox/addon/awesome-rss/][Awesome RSS – Get this Extension for ? Firefox (en-US)]]
 [[https://www.petefreitag.com/item/384.cfm][How to add RSS Autodiscovery to your site]]
+
+https://kill-the-newsletter.com/ convert newsletters into atom feeds

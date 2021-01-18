@@ -104,3 +104,11 @@ http://worrydream.com/#!/LearnableProgramming designing a programming system for
 [[https://www.youtube.com/watch?v=WBWRkUuyuE0&app=desktop][an incremental approach to compiler construction]]
 https://www.youtube.com/watch?v=I5UjfaDRFq0&app=desktop intro to ecstacy programming language
 https://blog.trailofbits.com/2020/05/22/emerging-talent-winternship-2020-highlights/
+ [[https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/][Implementing functional languages: a tutorial - Microsoft Research]]
+  [[https://crypto.stanford.edu/~blynn/compiler/][Compilers - Compilers for contrarians]]
+https://nicoleorchard.com/blog/compilers
+https://en.wikipedia.org/wiki/Uniform_Function_Call_Syntax any function can be called using method calls as well
+https://mobile.twitter.com/johnregehr/status/1290337031411777537 fun ideas for compiler optimization
+
+
+https://cs.au.dk/~amoeller/spa/ static program analysis course!

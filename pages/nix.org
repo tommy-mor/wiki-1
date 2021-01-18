@@ -167,3 +167,22 @@ https://github.com/NixOS/nixpkgs/issues/26067 making a nix service abstraction l
 https://grahamc.com/blog/erase-your-darlings
 https://gitlab.com/vdemeester/home this seems like a config worth looking through!
 [[https://www.johnbcoughlin.com/posts/nix-dynamic-linking/index.html][debugging a dynamic linking bug in a nix project]]
+
+
+https://github.com/haskell-nix/hnix a nix reimplementation in [[file:haskell.org][Haskell]]
+
+ [[https://github.com/danielfullmer/robotnix][danielfullmer/robotnix: Build Android (AOSP) using Nix]]  [[file:mobile.org][Mobile]]
+
+** TODO  [[https://gist.github.com/owenleonard11/18acac79e3ccee1adbfd4a38f2730885][Haskell Minimax with Alpha-Beta Pruning]]
+Captured On: [2020-10-18 Sun 14:28]
+** TODO  [[https://www.reddit.com/r/haskell/comments/1ha5dd/rss_reader_written_in_haskell_and_urweb/][RSS reader written in Haskell and Ur/Web : haskell]]
+Captured On: [2020-10-18 Sun 15:12]
+** TODO  [[https://github.com/lehins/hip][lehins/hip: Haskell Image Processing Library]]
+Captured On: [2020-10-18 Sun 15:14]
+** TODO  [[https://stackoverflow.com/questions/7147799/displaying-dynamically-generated-images-in-yesod][haskell - Displaying dynamically generated images in Yesod - Stack Overflow]]
+Captured On: [2020-10-18 Sun 15:15]
+** TODO  [[https://serokell.io/blog/dimensions-haskell-singletons][Dimensions and Haskell: Singletons in Action]]
+Captured On: [2020-10-18 Sun 16:36]
+
+** TODO [[https://haskell-miso.org/examples][Miso: A tasty Haskell front-end framework]]
+Captured On: [2020-10-18 Sun 14:16]

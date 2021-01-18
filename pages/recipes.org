@@ -241,3 +241,4 @@ https://github.com/schollz/extract_recipe
 https://www.youtube.com/watch?app=desktop&feature=youtu.be&v=uxi7BP9ppoQ
 [[https://github.com/schollz/ingredients][Extract recipe ingredients from any recipe website on the internet.]]
 [[https://www.theguardian.com/culture/2020/apr/29/nats-what-i-reckon-the-sweary-ranty-youtuber-whos-become-an-isolation-cooking-sensation][watch this guy for recipes!]]
+https://en.wikipedia.org/wiki/Couscous

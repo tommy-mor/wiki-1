@@ -162,3 +162,24 @@ https://codeplay.com/
 https://remis.io/
 https://keras.io/examples/audio/speaker_recognition_using_cnn/
 https://twitter.com/fchollet/status/1280733141980680193
+ [[https://github.com/theriley106/isMask.py][theriley106/isMask.py: Realtime Face Mask Detection in ~10 lines of Python Code]]
+
+ https://tech.slashuot.org/story/20/06/21/1858251/facebook-research-releases-tech-to-create-3d-models-of-people-from-photographs
+
+
+ https://github.com/worldmodels/worldmodels.github.io models of the world?
+
+ [[https://github.com/alimir1/ml/blob/master/index.md][self taught machine learning study group and cirriculum]]
+
+ https://www.nature.com/articles/nature14539 deep learning retro paper
+https://jkjung-avt.github.io/tensorrt-yolov4/
+https://openai.com/blog/image-gpt/
+
+
+https://oops.cs.columbia.edu/ predicting unintentional action in video
+
+https://yunzhuli.github.io/V-CDN/ causal discovery in systems from videos
+https://www.apaperaday.com/ a deep learning paper eery day
+https://news.ycombinator.com/item?id=24096154
+
+https://news.ycombinator.com/item?id=24042150 idk what this is but it s

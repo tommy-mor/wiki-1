@@ -107,3 +107,7 @@ https://leosaenger.com/
 https://github.com/xiaohanyu/understanding-modern-frontend
 https://www.linkedin.com/in/leosaenger/
 https://aaronweiss.us/posts/2014-06-04-write-up-l1.html
+ [[https://codepen.io/kdbkapsere/pen/PoZVMjj][Floating island /w Threejs & GSAP]]
+ [[https://www.cypress.io/][JavaScript End to End Testing Framework | cypress.io]]
+
+ https://news.ycombinator.com/item?id=24259688 using xpath for js

@@ -51,3 +51,14 @@ https://en.m.wikipedia.org/wiki/Monster_group
 http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/
 https://en.m.wikipedia.org/wiki/Hamming_weight
 [[https://www.youtube.com/watch?app=desktop&v=gui_SE8rJUM][categories for the working hacker]]
+https://arxiv.org/abs/1908.10528
+http://yanlaichen.reawritingmath.com/
+https://en.m.wiktionary.org/wiki/Shannon_entropy
+
+
+https://oxford.universitypressscholarship.com/mobile/view/10.1093/oso/9780198853404.001.0001/oso-9780198853404-chapter-1 [[file:programming-languages.org][Programming Languages]]
+
+
+https://en.wikipedia.org/wiki/Univalent_foundations [[file:dependent_types.org][Dependent Types]] research in which math structures are built out of objects called types
+https://ma.tt/2019/12/comments-and-collatz-conundrum/
+http://homepages.inf.ed.ac.uk/libkin/fmt/fmt.pdf

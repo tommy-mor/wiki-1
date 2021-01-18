@@ -14,3 +14,7 @@ https://github.com/dbp/funtal mix functional programming with assembly language
 [[https://git.cutebunni.es/matthilde/bootbf][brainfuck in the boot sector]]
 [[https://git.cutebunni.es/matthilde/zala][student monolithic kernel]]
 [[https://www.cs.cornell.edu/courses/cs7491/2020sp/][the great instruction set architectures]]
+http://stoke.stanford.edu/ stochastic optimizer for x86 instruction set to explore all possible program optimizations
+https://www.xorpd.net/ various fun tutorials for assembly
+
+https://blog.trailofbits.com/2020/05/22/emerging-talent-winternship-2020-highlights/ cool llvm optimization things to read about

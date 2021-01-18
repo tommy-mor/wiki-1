@@ -166,3 +166,16 @@ language they are compiling!
 [[https://4042302.org/][don't break the web; just make 404s into 302s!]] you can do this in nginx : )
 [[https://macwright.com/2020/05/10/spa-fatigue.html][second-guessing the modern web]]
 [[https://news.ycombinator.com/item?id=23191493][in defense of the modern web]]
+[[https://accessibility.umn.edu/][accessibility at the university level]]
+https://html.energy/
+https://github.com/arismelachroinos/lscript lazy scripts for kali linux to enhance penetration testing things
+
+
+[[https://archive.softwareheritage.org/save/][the software heritage archive, for backing up code]]
+[[https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/][ethical performance on the web]]
+[[https://gomakethings.com/always-bet-on-html/][always bet on html]]
+
+[[https://sourcehut.org/blog/2020-05-27-accessibility-through-simplicity/][accessibility through simplicity]]
+[[https://gtmetrix.com/leverage-browser-caching.html][taking advantage of browser cacheing]]
+[[https://www.cnil.fr/en/cnil-publishes-gdpr-guide-developers][gdpr compliance guide for best practices]]
+https://news.ycombinator.com/item?id=24258855 efficiency after throwing away react

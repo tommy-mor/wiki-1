@@ -134,3 +134,7 @@ The stack component, similar to other spacer components,
 is useful for adding arbitrary spaces internal to and external from different components. THese help define discrete units for space as well which can be standardized across the application.
 * vulnerabilities
 [[https://github.com/saizai/cssfingerprint][saizai/cssfingerprint: a research project to see how well the CSS history hack can fingerprint a user]]
+
+https://codepen.io/MrBlank/pen/JjXxovL cool css animation with envelope opening
+https://tympanus.net/codrops/2020/10/05/recreating-the-100-days-of-poetry-effect-with-shader-scrolltriger-and-css-grid/
+https://polypane.app/css-3d-transform-examples/

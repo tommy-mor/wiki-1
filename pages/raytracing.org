@@ -17,3 +17,5 @@ http://steveharoz.com/research/biomotion/
 [[https://marctenbosch.com/news/2020/05/siggraph-2020-technical-paper-n-dimensional-rigid-body-dynamics/][n dimensional rigid body dynamics]]
 https://github.com/browserdotsys/vecchio
 [[https://www.youtube.com/watch?v=kEB11PQ9Eo8&app=desktop][non-euclidean worlds engine]]
+ [[https://nelari.us/post/raytracer_with_rust_and_zig/][Writing a small ray tracer in Rust and Zig // My thought repository]] [[file:rust.org][Rust]]
+https://ambrevar.xyz/homogeneous/index.html [[file:math.org][Math]]

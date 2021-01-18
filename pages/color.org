@@ -11,3 +11,6 @@ https://github.com/robinovitch61/color-controversy
 [[http://clrs.cc/][default web colors for sites optimized for the browser]]
 
 https://www.happyhues.co/ helps pick and curate colors
+[[https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=00c185][Color Tool - Material Design]]
+
+https://ciechanow.ski/lights-and-shadows/

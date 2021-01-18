@@ -53,3 +53,15 @@ https://varkor.github.io/blog/2018/11/10/monadic-do-notation-in-rust-part-i.html
 https://gitlab.com/antonok/enum_dispatch#technical-details
 [[https://www.youtube.com/watch?app=desktop&v=4t1K66dMhWk][jon blow against rust]]
 [[https://www.youtube.com/watch?app=desktop&v=TH9VCN6UkyQ][jon blow new game programming languages]]
+ [[https://thefuntastic.com/blog/fighting-rusts-type-system][Fighting Rust's Expressive Type System - TheFuntastic]]
+ [[https://blog.aloni.org/posts/a-stack-less-rust-coroutine-100-loc/][- A stack-less Rust coroutine library under 100 LoC]]
+ [[https://tavianator.com/2020/one_plus_one.html][Proving that 1 + 1 = 10 in Rust - tavianator.com]]
+ [[https://maud.lambda.xyz/web-frameworks.html][Web framework integration – Maud, a macro for writing HTML]]
+ [[https://lib.rs/crates/handlebars][Handlebars — Rust utility // Lib.rs]]
+ [[https://gankra.github.io/blah/linear-rust/][The Pain Of Real Linear Types in Rust]]
+
+
+ [[https://fasterthanli.me/articles/image-decay-as-a-service][image decay as a service, in rust]]
+[[https://osa1.net/posts/2020-12-24-crate-type-conditional.html][conditional compilation based on crate type]]
+
+https://news.ycombinator.com/item?id=24024876

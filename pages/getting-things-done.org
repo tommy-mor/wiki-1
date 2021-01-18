@@ -31,3 +31,32 @@ https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feel
 https://jamiehoward.co/
 * zotero
 http://zotfile.com/ plugin for zotero to manage attachments
+ [[https://en.wikipedia.org/wiki/Five_whys][Five whys - Wikipedia]]
+ [[http://tynan.com/prioritize][A Step by Step Guide to Life Prioritization - Tynan]]
+https://explog.in/notes/writingsetup.html opinionated structure for writing setup
+
+* how to do hard things
+https://www.drmaciver.com/2019/05/how-to-do-hard-things/
+- find something similar to the hard thing but easy
+- modify the easy thing to have exacly one thing that is hard
+- do modified thing until it is no longer hard
+
+   https://news.ycombinator.com/item?id=22325975 learning complex, dense information.
+https://fortelabs.co/blog/para/ method for organizing digital information
+https://fs.blog/2013/12/circle-of-competence/ understanding your circle of competence
+http://www.howardism.org/Technical/Emacs/getting-boxes-done.html [[file:org_mode.org][Org Mode]] getting boxes done
+https://www.reddit.com/r/orgmode/comments/hfmgdw/greenspuns_eleventh_rule_any_sufficiently/
+https://orgmode.org/list/87zha5qrds.fsf@nicolasgoaziou.fr/ org mode mailing list
+
+http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/
+
+http://www.paulgraham.com/head.html if you can hold the whole program in your head, you're finishing things effectively.
+http://www.paulgraham.com/newthings.html making new things
+
+https://news.ycombinator.com/item?id=23550758 developing internal motivation
+
+https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125 being freakishly productive with the zettelkasten method
+https://blog.jethro.dev/posts/self_tracking_in_plain_text/
+ [[https://www.nytimes.com/2019/02/03/smarter-living/failure-resume.html][Do You Keep a Failure Résumé? Here’s Why You Should Start. - The New York Times]]
+
+ https://news.ycombinator.com/item?id=24265491

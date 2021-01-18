@@ -9,3 +9,16 @@
 
 [[https://en.m.wikipedia.org/wiki/Zooko's_triangle][Zooko&#39;s triangle - Wikipedia]]
 [[https://www.youtube.com/watch?v=3oHldF35FgA&amp%3Bt=23][breaking the 100 bits per second barrier with matrix messages]]
+https://gpsd.gitlab.io/gpsd/gpsd-time-service-howto.html#_ntp_with_gpsd working with gps!
+https://en.m.wikipedia.org/wiki/GNUnet
+https://portswigger.net/daily-swig/behave-browser-extension-alerts-users-to-website-port-scanning-dns-rebinding
+[[https://he.net/][hurricaine electric networking services]]
+
+https://github.com/fastogt/fastocloud/ self hosted video services
+http://cnrg.mit.edu/AoI communications and networking research group
+
+https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/ creating a video chat application with webRTC
+https://dat.foundation/ distributed community for the next generation web
+https://xuset.github.io/planktos/ [[file:web.org][Web]]
+https://lod-cloud.net/ the open data cloud
+https://hackaday.com/2020/08/25/linux-fu-your-own-dynamic-dns/

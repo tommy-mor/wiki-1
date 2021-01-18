@@ -5,3 +5,5 @@
 100 Rabbits are a creative technologist duo living on a sailboat.
 
 [[https://crlf.site/log/articles/190712-software-ecosystems/][Software ecosystems: XXIIVV - Cr;Lf;]]
+[[https://futureofcoding.org/episodes/044][44 • Devine Lu Linvega • Making Your Own Tools | Future of Coding]]
+https://usesthis.com/interviews/devine.lu.linvega/

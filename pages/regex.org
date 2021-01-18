@@ -2,3 +2,6 @@
 [[https://github.com/katef/libfsm][katef/libfsm: DFA regular expression library &amp; friends]]
 [[https://swtch.com/~rsc/regexp/][Implementing Regular Expressions]]
 https://github.com/aepsilon/turing-machine-viz visualize turing machines and dfas
+
+http://phylactery.org/antimirov/
+https://github.com/552-19sp/Mencius
