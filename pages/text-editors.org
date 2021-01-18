@@ -62,3 +62,7 @@ sriram krishnamurthi's work on developing editors for education to help students
 [[https://glitch.com/edit/#!/multiuser-sketchpad?path=README.md%3A1%3A0][multi user sketchpad]]
 [[https://blog.metaobject.com/2020/04/maybe-visual-programming-is-answer.html?m=1][visual programming might not be the answer]]
 [[https://research.swtch.com/acme][a tour of the acme text editor]]
+
+
+indent on the z axis : ' ) increase font size as you continue!
+[[https://www.notion.so/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1][future of programming lab]]: type theory to human studies. TODO come back to this - this is what you ewant to do!!!!

@@ -11,5 +11,7 @@ mimic much of this design in an android launcher! i love how minimal it is and t
 [[https://www.androidauthority.com/lets-build-custom-keyboard-android-832362/][Let&#039;s build a custom keyboard for Android - Android Authority]]
 [[https://m.youtube.com/watch?v=Y3O6m3otNO0][Tensegrity Lamp Running ColorChord on Android with USB in C - YouTube]]
 [[https://www.amazon.com/BOOX-Nova2-ePaper-Android-Reader/dp/B085NQV3NF/ref=sr_1_3?dchild=1&amp;keywords=eink+tablet&amp;qid=1594099132&amp;sr=8-3][Amazon.com: BOOX Nova2 7.8 ePaper Eink Tablet, 300 DPI Android 9.0 Front Li]]
+[[https://opengapps.org/][The Open GApps Project]]
 * iOS
 [[https://github.com/a1exdandy/ipwndfu-haywire][Open-source jailbreaking tool for many iOS devices]]
+

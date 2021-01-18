@@ -11,3 +11,5 @@ https://www.tomshardware.com/news/amd-radeon-gpu-steal-data-radio-transmission-c
 https://www.stephanboyer.com/post/17/my-electric-unicycle building an electric unicycle
 http://www.simonweckert.com/googlemapshacks.html google maps hacks
 https://www.realworldtech.com/
+[[https://beaglev.seeed.cc/][risc-v microcomputer that runs linux!]]
+[[https://github.com/icebreaker-fpga/icebreaker][low cost, free software fpga]]

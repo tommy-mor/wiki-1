@@ -71,6 +71,8 @@ This did change the commit time for my latest commit, which is something to watc
 [[https://github.com/git-series/git-series][track changes to a patch over time]]
 [[https://github.com/nvie/gitflow][git flow]]: git extensions for high level repository operations
 [[https://github.com/itsrainingmani/gitexplore][explore git cli with natural language search]]
+** github readmes
+https://github.com/pifafu/pifafu/blob/main/readME.md i love the font choice and the gif here!
 * Git alternatives
 https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki
 https://blog.nil.im/?78 ??

@@ -37,3 +37,11 @@ https://www.multicians.org/simulator.html
 [[https://www.youtube.com/watch?app=desktop&v=HyzD8pNlpwI][emulation]]
 https://github.com/TheLocust3/full-stack-vm
 https://jakekinsella.com/projects/intel8080/
+[[https://cutebunni.es/b/vicera_part1.html][8 bit fantasy console like the game boy!]]
+
+
+* CPUs
+[[https://www.excamera.com/sphinx/fpga-j1.html][forth fpga cpu]] [[file:forth.org][Forth]]
+[[file:lisp.org][Lisp]] machines
+- https://frank-buss.de/lispcpu/
+- https://stevelosh.com/blog/2016/12/chip8-cpu/

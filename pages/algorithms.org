@@ -19,3 +19,4 @@ https://marc.info/?l=openbsd-tech&m=158965652915344&w=2
 [[https://www.youtube.com/watch?app=desktop&v=DpXy041BIlA&feature=youtu.be][30 weird chess algorithms]]
 [[https://www.geeksforgeeks.org/persistent-segment-tree-set-1-introduction/][persistent segment tree]]
 https://www.metalevel.at/sgp/
+https://github.com/The-Tree/LangtonsAnt langston's ant?

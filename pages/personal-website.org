@@ -134,6 +134,8 @@ https://mitpress.mit.edu/sites/default/files/sicp/index.html
 http://ccs.neu.edu/home/types/extras/extras.html -- been greenman, cool guy!
 https://felleisen.org/matthias/4620-s18/index.html
 https://felleisen.org/matthias/7480-s17/lectures.html -- talks from a lot of PL
+
+* others!
 people
 https://willcrichton.net/ very very cool website
 
@@ -255,3 +257,12 @@ https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHv
 https://azlen.me/projects/micro_learning_futures/ future of learning
 https://azlen.me/projects/
 https://azlen.me/blog/writing_as_distilled_thought/
+
+
+https://andrewblinn.com/ really cool guy, works on [[file:text-editors.org][Text Editors]]
+ and other cool structured programming ideas. check out his phd lab!
+
+
+https://ifreund.xyz/ simple site, check out how the pgp key is hosted
+
+[[https://s.ai/iaq][Sai - Infrequently Asked Questions]] very wild character

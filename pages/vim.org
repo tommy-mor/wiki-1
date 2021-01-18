@@ -80,3 +80,4 @@ manually override
 https://vimways.org/2018/death-by-a-thousand-files/
 https://www.reddit.com/r/vim/comments/hzcmcd/personalize_you_dotfiles_with_signit/ create custom header or footer for your dotfiles
 https://news.ycombinator.com/item?id=23091136
+https://github.com/nimboids/vim-config

@@ -233,3 +233,4 @@ https://github.com/s-ol/themer themer
  [[https://www.youtube.com/watch?v=FYTZkE5BZ-0&app=desktop][making music with haskell from scratch]] [[file:haskell.org][Haskell]]
 https://fsynth.com/
 https://www.youtube.com/watch?v=hUzri2ybm_Y umm
+[[https://www.youtube.com/watch?app=desktop&v=nQ5He4gkCzc][better spotify playlists through optimization]]

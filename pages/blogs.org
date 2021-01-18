@@ -113,3 +113,7 @@ https://write.as/ personal blogging software
 https://macwright.com/
 [[https://limpet.net/mbrubeck/][matt brubeck blog]]: has cool things about building a browser engine![[file:firefox.org][Firefox]]
 https://blainsmith.com/
+
+https://monadplus.pro/ [[file:haskell.org][Haskell]] blogger with lots of cool ideas
+
+[[http://debarghyadas.com/][very cool person, debarghya das]], knows a lot of things and seems smart

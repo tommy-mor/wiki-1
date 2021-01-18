@@ -634,3 +634,5 @@ https://www.p-ai.org/ interdisciplinary applications of artificial intelligence
 https://www.reddit.com/r/ProgrammingLanguages/comments/hz2mcw/a_few_questions_about_parser_design/
 https://github.com/Ahnfelt/funk a fun minimal scripting language
 [[https://arxiv.org/abs/1605.06640][programming with a differentiable forth interpreter]]
+
+[[https://www.reddit.com/r/ProgrammingLanguages/comments/i3eyg5/effekt_a_language_with_effect_handlers_and_a/][Effekt: A language with effect handlers and a lightweight effect system - P]]

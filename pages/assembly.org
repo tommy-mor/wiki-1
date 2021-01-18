@@ -11,3 +11,6 @@ https://github.com/dbp/funtal mix functional programming with assembly language
 
 [[https://github.com/quantumlib/Cirq][python framework for editing noisy intermediate scale quantum circuits]]
 [[https://github.com/myusuf3/delorean][cleaning up inconvenient truths of python]]
+[[https://git.cutebunni.es/matthilde/bootbf][brainfuck in the boot sector]]
+[[https://git.cutebunni.es/matthilde/zala][student monolithic kernel]]
+[[https://www.cs.cornell.edu/courses/cs7491/2020sp/][the great instruction set architectures]]

@@ -29,3 +29,5 @@ https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feel
 [[https://news.ycombinator.com/item?id=23088219][having 'grit']]
 [[https://www.reddit.com/r/productivity/comments/hv5343/how_to_better_remember_what_you_read/][how to remember what you read]]: implement some of these strategies !!
 https://jamiehoward.co/
+* zotero
+http://zotfile.com/ plugin for zotero to manage attachments

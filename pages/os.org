@@ -74,3 +74,5 @@ https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-lin
 [[https://github.com/NatTuck/pancake][just in time specialization for opencl kernels]]
 http://c9x.me/articles/gthreads/intro.html
 [[https://people.kernel.org/metan/how-to-trigger-races-reliably][trigger kernel races reliably]]
+
+[[https://github.com/kabbi/wonderland][kabbi/wonderland: Inferno clone to conquer the world]]

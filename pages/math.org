@@ -50,3 +50,4 @@ https://blog.kaufer.org/ [[file:blogs.org][Blogs]]
 https://en.m.wikipedia.org/wiki/Monster_group
 http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/
 https://en.m.wikipedia.org/wiki/Hamming_weight
+[[https://www.youtube.com/watch?app=desktop&v=gui_SE8rJUM][categories for the working hacker]]

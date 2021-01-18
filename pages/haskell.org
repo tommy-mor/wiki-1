@@ -204,3 +204,5 @@ https://ncatlab.org/nlab/show/comonad#definition [[file:math.org][Math]]
 
 [[https://github.com/sleexyz/hylogen][hylogen]]: glsl shaders embedded in haskell
 https://github.com/atharvashukla/koans
+
+[[https://github.com/mikeizbicki/subhask][mikeizbicki/subhask: Type safe interface for working in subcategories of Ha]]

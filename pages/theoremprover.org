@@ -23,3 +23,5 @@ https://github.com/vasilisp/inez constraint solver
 [[https://github.com/tevador/RandomX][tevador/RandomX: Proof of work algorithm based on random code execution]]
 https://hol-theorem-prover.org/
 http://acl2s.ccs.neu.edu/acl2s/doc/
+[[https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html][homotopy type theory in agda]] [[file:math.org][Math]]
+[[https://www.youtube.com/watch?app=desktop&v=VxINoKFm-S4][a little taste of dependent types]]

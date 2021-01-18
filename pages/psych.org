@@ -7,3 +7,5 @@ https://en.m.wikipedia.org/wiki/Conway%27s_law design systems tend to mirror the
 https://www.partow.net/programming/hashfunctions/idx.html general purpose hash functions
 https://mondaynote.com/old-square-discovers-psychedelic-valley-e38d1ef5bc0f [[file:researx.org][Research]]
 [[https://psyarxiv.com/29ryz][hypercognitive mind]]
+[[https://en.m.wikipedia.org/wiki/Attention_restoration_theory][attention restoration theory: that we restore our energy by experiencing nature]]
+[[https://en.wikipedia.org/wiki/Biofeedback][biofeedback research start]] [[file:health.org][Health]]

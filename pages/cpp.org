@@ -52,3 +52,4 @@ https://www.researchgate.net/publication/265339509_On_the_Systematic_Creation_of
 http://arith2020.arithsymposium.org/programme.html computer arithmetic paper
 https://en.wikipedia.org/wiki/Bfloat16_floating-point_format
 https://capnproto.org/cxx.html
+https://docs.racket-lang.org/manual-flomat/index.html

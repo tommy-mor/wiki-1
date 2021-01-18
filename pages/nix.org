@@ -165,3 +165,5 @@ https://lemire.me/blog/2020/05/22/programming-inside-a-container/ programming in
 https://unix.stackexchange.com/questions/522822/different-methods-to-run-a-non-nixos-executable-on-nixos
 https://github.com/NixOS/nixpkgs/issues/26067 making a nix service abstraction layer, abstracting over systemd to produce a more generic solution
 https://grahamc.com/blog/erase-your-darlings
+https://gitlab.com/vdemeester/home this seems like a config worth looking through!
+[[https://www.johnbcoughlin.com/posts/nix-dynamic-linking/index.html][debugging a dynamic linking bug in a nix project]]
