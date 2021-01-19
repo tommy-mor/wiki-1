@@ -186,3 +186,8 @@ Captured On: [2020-10-18 Sun 16:36]
 
 ** TODO [[https://haskell-miso.org/examples][Miso: A tasty Haskell front-end framework]]
 Captured On: [2020-10-18 Sun 14:16]
+
+https://github.com/Trundle/NixOS-WSL nixos on wsl
+https://github.com/telent/nixwrt build images for MIPS using nixpkgs
+
+https://github.com/serokell/deploy-rs nix flake deploy tool

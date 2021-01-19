@@ -21,3 +21,5 @@ https://redex.racket-lang.org/
 [[https://github.com/charlescearl/DeepRacket][ simple starting point for doing deep learning in Racket]]
 [[https://github.com/dys-bigwig/Bidirectional-Lambda-Calculus][bidirectional lambda calculus in racket]]
 https://blog.brownplt.org/2020/06/27/data-org.html
+
+https://github.com/videolang/interactive-syntax tools for building interactive direct manipulation tools in racket

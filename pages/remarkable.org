@@ -12,3 +12,4 @@ You can just SSH into the thing.
 [[https://github.com/reHackable/awesome-reMarkable][awesome remarkable]]
 
 https://remarkable.com/store/remarkable-2?utm_source=facebook-ads-network&utm_medium=paid-social&utm_campaign=2001+-+RT+-+Introducing+reMarkable+2+-+0-7+days&utm_content=Image+-+USD&utm_term=0-7+days+US
+https://github.com/ddvk/remarkable-hacks

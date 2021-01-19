@@ -43,3 +43,5 @@ Program as functionally as possible!
 [[https://joshwcomeau.com/performance/embracing-modern-image-formats/][Using WebP images with React · Josh W Comeau]]
 
 https://overreacted.io/goodbye-clean-code/
+https://github.com/SSENSE/flip react to vue component transpiler
+https://github.com/SSENSE/vue-carousel vue carousel

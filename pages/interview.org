@@ -15,3 +15,5 @@ https://github.com/harshibar/common-intern
 [[https://usesthis.com/interviews/rachel.demy/][great interviews and website]]
 https://www.maa.org/news/interview-tony-derose  -- from computer graphics pioneer
 https://aphyr.com/posts/342-typing-the-technical-interview excellent article
+
+https://github.com/QasimWani/LeetHub automatically sync leetcode solutions to github account

@@ -213,6 +213,7 @@ https://www.reddit.com/r/emacs/comments/hywxef/visually_differentiate_between_li
 
 ** TODO  [[https://github.com/sunnyhasija/Academic-Doom-Emacs-Config][sunnyhasija/Academic-Doom-Emacs-Config: My doom emacs configuration files]]
 Captured On: [2020-10-29 Thu 14:21]
+https://github.com/thi-ng/org-spec org skeleton for tech specs
  [[https://bzg.fr/en/emacs-org-babel-overtone-intro.html/][Emacs Org and Overtone quick intro · Bastien Guerry - Liberté, informatique, choucroute.]]
  [[https://lucidmanager.org/productivity/configure-emms/][Configure EMMS --- Emacs Multi-Media System on GNU/Linux]]
  [[https://jingsi.space/post/2017/04/05/organizing-a-complex-directory-for-emacs-org-mode-and-deft/#options-for-deft-mode][Organizing a Complex Directory for Emacs Org Mode and Deft]]

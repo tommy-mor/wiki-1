@@ -248,3 +248,5 @@ https://808303.studio/ imitations of the tr808 and tr303 synthesizers
 https://pressurecookerreliefvalve.bandcamp.com/album/towards-a-new-architecture
 https://www.youtube.com/watch?v=WY5o2plCfKk&app=desktop
 https://soundcloud.com/2xln/fausto-mercier-glutrmx
+
+https://github.com/thi-ng/synstack forth vm for audio dsl experiments

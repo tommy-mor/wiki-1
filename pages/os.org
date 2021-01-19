@@ -89,3 +89,8 @@ https://makelinux.github.io/kernel/map/ map of the linux kernel
 
 
 https://www.mercuryos.com/ reengineering of the operating system as a ux project, fluid experience driven by human intent
+
+https://github.com/ssrg-vt/hermitux binary compatible unikernel
+
+https://github.com/oasislinux/oasis statically linked linux system
+https://github.com/dlannan/ljos luajit command line os

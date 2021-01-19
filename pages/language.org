@@ -30,3 +30,4 @@ https://proycon.anaproy.nl/posts/colibri/
 
 * TODO emulating how language is learned naturally?
 virtual assistant that progressively increasaes vocab
+https://github.com/kantord/LibreLingo good language learning platform

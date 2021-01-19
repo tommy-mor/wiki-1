@@ -22,3 +22,6 @@ https://dat.foundation/ distributed community for the next generation web
 https://xuset.github.io/planktos/ [[file:web.org][Web]]
 https://lod-cloud.net/ the open data cloud
 https://hackaday.com/2020/08/25/linux-fu-your-own-dynamic-dns/
+
+https://github.com/beakerbrowser/beaker p2p browser
+https://github.com/KasperskyLab/TinyCheck capture network comms from any device at an access point!

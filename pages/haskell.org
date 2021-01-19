@@ -238,3 +238,7 @@ https://sanderv1992.github.io/fp/monad/
 https://ocharles.org.uk/blog/posts/2019-08-09-who-authorized-these-ghosts.html incredible article on authorization a clever way
 https://www.youtube.com/watch?v=GQi-6-d5ooQ&app=desktop
 https://www.reddit.com/r/haskell/comments/i6c0dy/how_to_interpret_recursive_combinators_mean_over/
+
+
+[[https://github.com/clash-lang/clash-compiler][compile haskell to verilog]]
+https://github.com/TOTBWF/refinery refinement proofs in haskell

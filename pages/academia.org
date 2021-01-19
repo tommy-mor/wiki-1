@@ -16,3 +16,7 @@ http://matt.might.net/articles/tenure/
 * Research opportunities
 https://capra.cs.cornell.edu/ugresearch.html
  [[http://michaelnielsen.org/blog/principles-of-effective-research/][Principles of Effective Research | Michael Nielsen]]
+https://github.com/LeifAndersen/PLGradSchools
+
+https://github.com/AZHenley/hcse-dissertations human centered swe dissertations
+https://github.com/TyGuS/hoogle_plus [[file:haskell.org][Haskell]]

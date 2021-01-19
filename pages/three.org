@@ -51,3 +51,6 @@ Captured On: [2020-10-01 Thu 20:42]
 Captured On: [2020-10-04 Sun 21:02]
 https://morphing.encharm.studio/
 https://pislices.ca/archive
+https://github.com/RenaudRohlinger/r3f-next-starter good start for threejs
+
+https://github.com/AndrewPrifer/react-three-editable etitable interface for react three fiber

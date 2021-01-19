@@ -674,3 +674,6 @@ https://news.ycombinator.com/item?id=24353079
 https://news.ycombinator.com/item?id=24263117
 
 https://chrisdone.com/posts/z/ simple and clever programming language
+https://github.com/pikelet-lang/pikelet
+https://github.com/hazelgrove/hazel live functional programming environment
+https://github.com/LeifAndersen/interactive-syntax-clojure
