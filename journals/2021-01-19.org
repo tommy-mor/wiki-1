@@ -1,0 +1,14 @@
+#+TITLE: Tuesday, 01/19/2021
+** 00:16 Let's assume
+that you have already found and read all of the content you're interested in learning or doing.
+This means that you shouldn't expose yourself to new ideas or information.
+
+Focus on learning and doing what you've thought about in the past!
+
+Tomorrow I want to:
+- Fix keyboard
+- start FOSS android launcher (it shouldn't be too hard to clone the one I'm using now)
+- send some emails and get to an inbox of 0
+- make sure i can have my things picked up from the storage people
+- think about my backup system and network; it doesn't feel very seamless...
+Open this up tomorrow and get to work!
