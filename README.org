@@ -3,6 +3,10 @@
 This is my personal wiki, sometimes served at [[https://wiki.chvatal.com]].
 Daily thoughts are stored in journals/, while pages/ holds long-term notes.
 
+Note that hosting the wiki is a work in progress. I've decided to abandon
+using Hugo's static site generator for my own system, but the system hasn't been 
+finished yet. I'll get there someday : ' )
+
 This website has been inspired by the following:
 - [[https://wiki.xxiivv.com/site/home.html][Devine Lu Linvega's Blog]]
 - [[https://notes.andymatuschak.org/About_these_notes][Andy Matuschak's Notes]]
