@@ -1,22 +1,23 @@
 #+TITLE: Hardware
 
+* GPU
 [[https://egpu.io/][eGPU.io - Your Go-to Destination for All Things eGPU]]
-
 [[https://dominicm.com/gpu-passthrough-qemu-arch-linux/][GPU Passthrough with QEMU on Arch Linux | DominicM]]
 https://www.tomshardware.com/news/amd-radeon-gpu-steal-data-radio-transmission-cybersecurity
 [[https://www.reddit.com/r/VFIO/comments/hyerum/problem_with_pci_passthrough_in_kvmqemu/][Problem with PCI Passthrough in KVM/QEMU - VFIO]]
-[[https://www.kernel.org/doc/html/latest/driver-api/fpga/index.html][linux fpga subsystem]]
 [[https://caseymuratori.com/blog_0038][printing presses are giant gpus]]
+* FPGA
+[[https://www.kernel.org/doc/html/latest/driver-api/fpga/index.html][linux fpga subsystem]]
+[[https://github.com/icebreaker-fpga/icebreaker][low cost, free software fpga]]
+* Monitors
+https://www.anfractuosity.com/projects/rainbow/ displaying color on a black and white monitor!
 
+* Etc
 https://www.stephanboyer.com/post/17/my-electric-unicycle building an electric unicycle
 http://www.simonweckert.com/googlemapshacks.html google maps hacks
 https://www.realworldtech.com/
 [[https://beaglev.seeed.cc/][risc-v microcomputer that runs linux!]]
-[[https://github.com/icebreaker-fpga/icebreaker][low cost, free software fpga]]
 
-https://www.anfractuosity.com/projects/rainbow/ displaying color on a black and white monitor!
-
-https://nexdock.com/[[file:mobile.org][Mobile]]  turn your smartphone into a laptop - only have to carry around the bigger screen and keyboard! comes with a charger!
 https://news.ycombinator.com/item?id=24252737 build your own fpga
 https://alternativebit.fr/posts/ultimate-writer/#what-s-next digital typewriter
 

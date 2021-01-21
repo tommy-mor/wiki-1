@@ -1,5 +1,3 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: formal-spec-languages
 #+TITLE: Formal Spec Langauges
 
 * From Hillel Wayne's writing
@@ -26,6 +24,5 @@ https://github.com/wimmers/munta
 https://melcer.dev/projects.html
 
 [[https://mobile.twitter.com/EremondiJoey/status/1314319848592216064][Joey Eremondi on Twitter: &quot;Has anyone seen a &quot;reference&quot; implementation of an SMT solver? Not one that is fast like Z3 or CVC4, but one that implements the algorithm in a fairly straightforward way that&#39;s slow but grokkable. I&#39;m particularly interested in how it handles uninterpreted functions (UF).&quot; / Twitter]]
-
 [[https://www.hillelwayne.com/post/alloydocs/][alloy: the neat formal method]]
 http://www.ccs.neu.edu/home/pete/courses/Computer-Aided-Reasoning/2018-Fall/

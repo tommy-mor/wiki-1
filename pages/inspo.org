@@ -1,16 +1,7 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: inspirational-sites
 #+title: inspirational websites
 [[https://amorphous.itch.io/][strange narrative games, good mono font]]
-[[https://scuttlebutt.nz][scuttlebutt : the decentralized, social web.
-localized but distribued.]]
-
-* setting up weechat as frontend for everything
 [[https://cineshader.com/][cellular noise]]
 [[https://www.olivevideoeditor.org/][free video edition]]
-also look into editing with blender
-tildegit :: git for the tildeverse!
-[[https://dev.upvote.blog/][upvote.blog]], a
 
 * blogging for free
 [[https://bearblog.dev/][bear blog]]
@@ -20,8 +11,7 @@ tildegit :: git for the tildeverse!
 [[https://telegra.ph/why-am-i-here-05-29][express yourself quickly]]
 [[https://txt.fyi/+/22b9f246/][raw expression]]
 [[https://txt.fyi/+/6ce898cf/][the cask ]]
-[[https://txt.fyi/+/57688c94]][real shit]]
-[[/#/][another one of these]]
+[[https://txt.fyi/+/57688c94]]
 [[http://ix.io/][kinda fire. more minimal and more obscure]]
 [[https://commentpara.de/][anon we comments on any site]]
 [[https://rwtxt.com/public][reading and text editor]]
@@ -119,20 +109,6 @@ opinion at the time
 mimetic teory of desire: rather than having our own desires, we imitate the
 desires of others and pursue their ideas
 mimetic theory of conflict :: similar = fight
-
 left off on 10!
-
-* cool cs
-https://github.com/browserdotsys/vecchio ray tracing in one weekend :: looks
-fun to do
-http://gokcehan.github.io/ has some idea what he is doing; wrote lf, which
- seems to be a better ranger
- 
-* idea
-[[https://derivationmap.net/][deriation graph of all of math physics!]] 
-
-* Personal Websites
-https://rezmason.net/
-
 * Experience Websites
 https://berghaintrainer.com/

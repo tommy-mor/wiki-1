@@ -1,5 +1,3 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: diy
 #+TITLE: Diy
 
 It's important to make as many of the things you consume and use by yourself, or to at least know and understand what's in them.

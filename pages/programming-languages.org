@@ -1,11 +1,8 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: programming-languages
 #+TITLE: Programming Languages
 
 * Languages
-
 - [[https://www.jsoftware.com/#/][J]] :: A high-performance language for data processing and parallel computing.
-    [[https://github.com/pitr/jj][J implementation in Nim]]
+  [[https://github.com/pitr/jj][J implementation in Nim]]
 - [[https://github.com/zetzit/zz][Z]] :: A dialect for C that's immutable by default, resolves undefined behavior and uses an SMT solver to guarantee reference stability 
 - [[https://chapel-lang.org][Chapel]] :: A parallel programming language that claims to have some novel ideas.
 - [[https://github.com/CatalaLang/catala][Catala]] :: A DSL for representing laws by construction, designed to enable lawyers to certify laws. Interested in formal verification of legal documents, potentially.
@@ -503,18 +500,8 @@ https://matklad.github.io/2020/04/15/from-pratt-to-dijkstra.html
 https://www.reddit.com/r/ProgrammingLanguages/comments/e1vv55/c3_a_clike_language_now_has_a_domain/
 https://www.reddit.com/r/ProgrammingLanguages/comments/a0yyfc/plam_for_anyone_exploring_%CE%BBcalculus/
 
-** static analysis
-https://www.reddit.com/r/Coq/comments/tzpb9/webbased_proofbypointing_frontend_to_coq/
-https://hal.inria.fr/hal-01093327
-https://hal.inria.fr/tel-01102401
-https://sed-bso.gitlabpages.inria.fr/sonarqube/
-https://hal.inria.fr/hal-01588422
-https://en.wikipedia.org/wiki/Loop-invariant_code_motion
 https://www.reddit.com/r/ProgrammingLanguages/comments/g1wd0v/but_what_if_we_put_modifiers_after_the_keyword/
 
-** tss something
-https://bellard.org/otcc/
-https://bellard.org/tcc/
 https://blog.sigplan.org/2020/07/29/increasing-the-impact-of-pl-research/
 a meta article on impactful pl research
 http://craftinginterpreters.com/
@@ -541,8 +528,7 @@ https://github.com/lasp-lang/lasp
 https://github.com/NicklasBoto/BruSKI debrujin to ski unlambda compiler
 https://github.com/Storyyeller/IntercalScript intercalscript programming language
 https://github.com/taichi-dev/taichi differentiable programming languages
-https://github.com/jasonhemann/microKanren microkanren programming languages
-
+https://github.com/jasonhemann/microKanren
 https://github.com/mame/quine-relay
 https://github.com/lasp-lang/partisan distributed computing with [[file:elixir.org][Elixir]]
 
@@ -644,36 +630,16 @@ https://shriram.github.io/pl-hci-school-2020/
 http://www.alexwong.tech/projects/ [[file:hardware.org][Hardware]]  dsls
 https://www.williamjbowman.com/#depmacros dependent type systems aas macros paper : )
 https://koronkevi.ch/ cool phd student of will bowman!
-
-
 https://vale.dev/blog/zero-cost-refs-regions work on the Vale language
-
-
 https://sites.google.com/site/steveyegge2/tour-de-babel whirlwind tour of lagnauges with some opinions
 https://technomancy.us/185 [[file:racket.org][Racket]]  cool ideas, reducing the cost of structured data, etc.
 https://legacy.cs.indiana.edu/~dfried/mex.pdf
-https://chrisdone.com/posts/z/
-
-
-** TODO [[https://news.ycombinator.com/item?id=875688][Factor vs. Forth (from a Forth programmer) | Hacker News]]
-
-Captured On: [2020-10-13 Tue 16:45]
-
-** TODO [[https://en.wikipedia.org/wiki/Joy_(programming_language)][Joy (programming language) - Wikipedia]]
-
-Captured On: [2020-10-13 Tue 16:45]
-
-** TODO [[https://en.wikipedia.org/wiki/Self_(programming_language)][Self (programming language) - Wikipedia]]
-
-Captured On: [2020-10-13 Tue 16:45]
-https://news.ycombinator.com/item?id=24481883
-https://news.ycombinator.com/item?id=24480504
-https://news.ycombinator.com/item?id=24354559
-https://news.ycombinator.com/item?id=24353079
-
-https://news.ycombinator.com/item?id=24263117
-
+[[https://news.ycombinator.com/item?id=875688][Factor vs. Forth (from a Forth programmer) | Hacker News]]
+[[https://en.wikipedia.org/wiki/Joy_(programming_language)][Joy (programming language) - Wikipedia]]
+[[https://en.wikipedia.org/wiki/Self_(programming_language)][Self (programming language) - Wikipedia]]
 https://chrisdone.com/posts/z/ simple and clever programming language
 https://github.com/pikelet-lang/pikelet
-https://github.com/hazelgrove/hazel live functional programming environment
+[[https://github.com/hazelgrove/hazel][Hazel]]: A live functional programming environment
 https://github.com/LeifAndersen/interactive-syntax-clojure
+[[https://www.hillelwayne.com/post/influential-dead-languages/][history of dead langauges pl]]
+[[http://www.zifyoip.com/wysiscript/sigbovik.html][programming with syntax highlighting]]

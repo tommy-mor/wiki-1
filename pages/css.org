@@ -1,5 +1,3 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: css
 #+TITLE: CSS
 
 Cool tricks with CSS.
@@ -45,8 +43,6 @@ https://codepen.io/cybercountess/pen/gOaoWmX isabelle's day off
 [[http://math.ucr.edu/home/baez/twf.html][this week's finds ! cool content!]]
 [[https://johncarlosbaez.wordpress.com/][wp blog for above]]
 
-[[https://urbit.org/understanding-urbit/urbit-os/][urbit os]]
-[[https://www.hillelwayne.com/post/influential-dead-languages/][history of dead langauges pl]]
 [[https://archillect.com/about][figure out archillect]]
 
 https://codepen.io/toshiya-marukubo/pen/oNbgPRX neat orbit thing

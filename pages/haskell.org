@@ -1,5 +1,3 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: haskell
 #+title: Haskell
 
 - tags :: [[file:programming-languages.org][Programming Languages]] 
@@ -55,7 +53,6 @@ https://www.reddit.com/r/haskell/comments/5erk9u/levity_polymorphism_new_paper_f
 https://www.reddit.com/r/haskell/comments/5yxbh7/what_bcbreaking_changes_would_you_make_to/
 https://www.reddit.com/r/adventofcode/comments/ek4652/2019_day_all_haskell_my_first_journey_through/
 https://www.reddit.com/r/compsci/comments/g1rtjo/xpost_rhaskell_i_wrote_an_introduction_to_lambda/
-https://www.simplehaskell.org/
 https://alpacaaa.net/thoughts-on-haskell-2020/
 https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
 https://www.tweag.io/posts/2019-02-13-types-got-you.html
@@ -210,27 +207,16 @@ https://github.com/atharvashukla/koans
  [[https://haskell.programmingpedia.net/en/tutorial/2261/category-theory][Category Theory | Haskell Language Tutorial]]
  [[https://github.com/roger-uw/haskell-snippets/blob/master/LambdaToSKI.hs][haskell-snippets/LambdaToSKI.hs at master · roger-uw/haskell-snippets]]
  [[https://github.com/leonidas/codeblog/blob/master/2011/2011-12-27-template-haskell.md][codeblog/2011-12-27-template-haskell.md at master · leonidas/codeblog]]
- [[https://www.reddit.com/r/haskell/comments/iflrw9/observations_after_the_first_time_writing_simple/][Observations after the first time writing (simple) Haskell : haskell]]
+
+https://gist.github.com/MaiaVictor/350cd2e318ad884c7c491c3dad7e3b1d
 
 
- https://gist.github.com/MaiaVictor/350cd2e318ad884c7c491c3dad7e3b1d
-https://www.reddit.com/r/haskell/comments/hjtnxx/light_weight_haskell/
-
-
-https://www.simplehaskell.org/ simple haskell is easier for everyone to use
-
-** TODO  [[https://stackoverflow.com/questions/3071136/what-does-the-forall-keyword-in-haskell-ghc-do][syntax - What does the `forall` keyword in Haskell/GHC do? - Stack Overflow]]
-Captured On: [2020-10-22 Thu 00:09]
+[[https://stackoverflow.com/questions/3071136/what-does-the-forall-keyword-in-haskell-ghc-do][syntax - What does the `forall` keyword in Haskell/GHC do? - Stack Overflow]]
 
 https://typeclasses.com/: a haskell guide, or something
-
-
 https://boarders.github.io/posts/locally-nameless/ cool pl writing based on various papers : )
-
 http://www.newartisans.com/ haskell blogs and ideas
 https://banana.dog/@yaaps/105019052210553569
-
-
 https://aaronguo1996.github.io/project/hoogleplus/ this is the coolest shit
 https://news.ycombinator.com/item?id=13781467 algebraic subtyping [[file:math.org][Math]]
  [[http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125][CiteSeerX — Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire]]
@@ -238,7 +224,10 @@ https://sanderv1992.github.io/fp/monad/
 https://ocharles.org.uk/blog/posts/2019-08-09-who-authorized-these-ghosts.html incredible article on authorization a clever way
 https://www.youtube.com/watch?v=GQi-6-d5ooQ&app=desktop
 https://www.reddit.com/r/haskell/comments/i6c0dy/how_to_interpret_recursive_combinators_mean_over/
-
-
 [[https://github.com/clash-lang/clash-compiler][compile haskell to verilog]]
-https://github.com/TOTBWF/refinery refinement proofs in haskell
+https://github.com/TOTBWF/refinery: refinement proofs in haskell
+
+* Simple Haskell
+https://www.simplehaskell.org/ simple haskell is easier for everyone to use
+https://www.reddit.com/r/haskell/comments/hjtnxx/light_weight_haskell
+[[https://www.reddit.com/r/haskell/comments/iflrw9/observations_after_the_first_time_writing_simple/][Observations after the first time writing (simple) Haskell : haskell]]

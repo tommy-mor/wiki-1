@@ -37,7 +37,7 @@ https://marian42.itch.io/wfc
 
 [[https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html][A sort-middle architecture for 2D graphics | Raph Levien’s blog]]
 [[https://macabeus.medium.com/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02][reverse engineering a gpa game]]
-[[https://lazyfoo.net/tutorials/SDL/index.php][beginning game programming]] [[file:cpp.org][C, C++]]
+[[https://lazyfoo.net/tutorials/SDL/index.php][beginning game programming]] [[file:cpp.org][C and C++]]
 
 [[https://github.com/chrismaltby/gb-studio][make a game for game boy ez!]]
 

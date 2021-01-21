@@ -1,9 +1,6 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: music
 #+TITLE: Music
 
 Programming and music.
-
 * Synthesizers
 ** Online
 https://synth.playtronica.com/
@@ -18,45 +15,14 @@ https://midi.city/
 [[https://github.com/santiagomarcano/PO-33][learn to use the PO-33]]
 
 * Tools
-- MPD
-  https://github.com/drewt/scmus
+https://github.com/drewt/scmus
 [[https://m.youtube.com/watch?v=3jxcKPoi5Kc][use game boy as midi synthesizer]]
 http://nanoloop.com/mono/index.html nanoloop synth
 * Notes
-ncmpcpp is an mpt client, the frontend for mpd
-
-** Installation
-can configure thing !
-
-install: ncmpcpp, mopidy, mopidy-mpd, mopidy-spotify
-
-configuration:
-the mopidy service by default reads its configuration from
-/etc/mopidy/mopidy.conf, not from ~/.config;
-
-trying a symlink
-symlink didn't work out
-just going to start it in userspace
-
-*** mopidy-spotify
-
-goto https://mopidy.com/ext/spotify/#authentication and authenticate
-its unclear how i can even search with this interface!!
-
-** idea: dishwasher with auto soap dispenser. duh
 [[https://github.com/ngynLk/dotfiles/tree/master/.ncmpcpp][Displaying art with ncmcpp]]
-
 [[https://wiki.znc.in/ZNC][configure irc bouncer so that irc clients can stay in session]]
 
-* setting up mutt for gmail
-
-[[https://news.ycombinator.com/item?id=14567074][on using mutt]]
-make sure to generate an additional password for two factor auth
-other than that everything is fine
-mutt is not a fun user experience ....
-
 * other configuration (TODO)
-
 set up server
 host music on this server
 
@@ -69,40 +35,25 @@ goal configuration::
 - reproducible system configuration
 [[https://www.reddit.com/r/selfhosted/][selfhosted community]]
 
-- a place to view social media easily and centralized:
-- twitter/mastodon/instagram (??)
-
-[[https://hobo.house/2017/07/17/using-offlineimap-with-the-gmail-imap-api/][offlineimap]]
 [[https://bedrocklinux.org/][bedrock linux: mix and match components from different linux distributions]]
-
 https://metasyn.github.io/learn-orca/#percussion
-
-https://timput.com/posts/mailserver.html self hosting email with nixos and
-vultr !
 https://thedorkweb.substack.com/p/tales-from-the-dork-web-10 making a cool
 thing
-
 https://www-cs-faculty.stanford.edu/~knuth/taocp.html classic. may be a good
 read, sounds like a waste of time right now . probably a cool gift or
 something to purchase though !
-
 https://geekflare.com/multiple-domains-on-one-server-with-apache-nginx/
 pertinent for the server configuration
-
 https://beta.openai.com/ openai analysis through an api!
-
 https://github.com/musikinformatik/Steno music for live coding .
-https://supercollider.github.io/ the classic live coding librar
 https://github.com/toplap/awesome-livecoding/blob/master/README.md great
 livecoding resources
 * resources
 [[https://www.spitfireaudio.com/labs/][free software instruments]]
-
 [[https://supercollider.github.io/][music engine]]
 [[https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html][reinventing the wheel with pytorch]]
 [[https://metasyn.github.io/learn-orca/#percussion][percussion machine]]
 [[https://audiomass.co/][neat audio file editor]]
-
 https://www.youtube.com/watch?v=x0BpPa72qCE&app=desktop
 http://www.pd-tutorial.com/english/index.html
 https://vcvrack.com/
@@ -110,7 +61,6 @@ https://forum.bela.io/d/1277-c-real-time-audio-programming-with-bela-a-free-onli
 https://www.syntorial.com/
 https://ccrma.stanford.edu/~jos/
 
-https://www.purrdata.net/
 https://teddykoker.com/2020/05/deep-learning-for-guitar-effect-emulation/
 https://arxiv.org/html/1202.4212
 https://git.sr.ht/~rabbits/orca
@@ -146,7 +96,6 @@ https://www.youtube.com/watch?v=SqayDnQ2wmw
 [[https://www.youtube.com/watch?v=ONloOhDLrFU&app=desktop][inspiration: turning ideas into tracks]]
 [[https://keithclark.github.io/ZzFXM/tracker/?url=https://raw.githubusercontent.com/keithclark/ZzFXM/master/examples/songs/sanxion.js][ZzFXM Tracker synthesizer]]
 https://codepen.io/kucerajacob/pen/GRqBQNV drum sequencer with sample pad
-[[https://m.youtube.com/watch?feature=youtu.be&v=OP8bsXbJlpw][devine using orca well]]
 https://www.instagram.com/p/CD17bImnUp7/ incredible devices making incredible music
 
 https://m.youtube.com/watch?v=tLFOt7BbYJc ambient music and randomness
@@ -177,9 +126,9 @@ https://gist.github.com/kindohm/9388957
 [[https://news.ycombinator.com/item?id=13947537][TidalCycles – live music coding : Hacker News]]
 ** Overtone
 [[https://github.com/overtone/overtone/][overtone/overtone: Collaborative Programmable Music]]
-
 [[https://github.com/overtone/overtone][Collaborative Programmable Music ]]
 ** Orca
+[[https://m.youtube.com/watch?feature=youtu.be&v=OP8bsXbJlpw][devine using orca well]]
 [[https://llllllll.co/t/orca/22492][Orca - Library - lines]]
 [[https://metasyn.github.io/learn-orca/#percussion][LEARN ORCΛ~]]
 [[https://github.com/hundredrabbits/Pilot][hundredrabbits/Pilot: Orca&#039;s best friend.]]
@@ -229,12 +178,10 @@ https://github.com/s-ol/themer themer
 [[https://daily.bandcamp.com/features/motohiko-hamase-interview][]“Technodrome” Is Motohiko Hamase’s Post-Apocalyptic Soundtrack | Bandcamp Daily]]
 [[https://slab.org/][algoithmic music resources!]]
 
-
- [[https://www.youtube.com/watch?v=FYTZkE5BZ-0&app=desktop][making music with haskell from scratch]] [[file:haskell.org][Haskell]]
+[[https://www.youtube.com/watch?v=FYTZkE5BZ-0&app=desktop][making music with haskell from scratch]] [[file:haskell.org][Haskell]]
 https://fsynth.com/
 https://www.youtube.com/watch?v=hUzri2ybm_Y umm
 [[https://www.youtube.com/watch?app=desktop&v=nQ5He4gkCzc][better spotify playlists through optimization]]
-
 
 [[https://opengoldbergvariations.org/][bach's the open goldberg variations]]
 https://extemporelang.github.io/ audiovisual live programming environment
@@ -243,10 +190,9 @@ http://www.sci.utah.edu/~nmccurdy/Poemage/ sonic topology of poems
 https://brentwestbrook.com/
 http://npisanti.com/pages/np-samples.html fun list of wild audio sample recordings
 
-
 https://808303.studio/ imitations of the tr808 and tr303 synthesizers
 https://pressurecookerreliefvalve.bandcamp.com/album/towards-a-new-architecture
 https://www.youtube.com/watch?v=WY5o2plCfKk&app=desktop
 https://soundcloud.com/2xln/fausto-mercier-glutrmx
-
 https://github.com/thi-ng/synstack forth vm for audio dsl experiments
+[[https://www.reddit.com/r/haskell/comments/gtq3yk/making_music_with_haskell_from_scratch/][making music in haskell!]]

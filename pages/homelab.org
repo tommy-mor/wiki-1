@@ -1,5 +1,3 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: homelab
 #+TITLE: Homelab
 
 Information about self-hosting.
@@ -17,9 +15,8 @@ Information about self-hosting.
 - [[https://github.com/awesome-selfhosted/awesome-selfhosted][Awesome Self-Hosted Projects]]
 
 * Good server hosting
-
 - [[https://www.gandi.net/en-US][gandi.net]] :: good web hosting
-- [[https://njal.la/][njal.la]] :: completely anon dns hosting server, comes with secure vps in sweden
+- [[https://njal.la/][njal.la]] :: completely anon dns hosting server, comes with secure vps in sweden. run by some of the former creators of pirate bay
 - [[vultr.com][vultr]] :: the one i'm currently using, best specs for a $10 vps I could find
 - digitalocean :: also a great cloud service
 [[https://github.com/johackim/docker-hacklab][personally hosted hacklab]]

@@ -1,8 +1,5 @@
-#+SETUPFILE: ./hugo_setup.org
-#+hugo_slug: choosing_college
 #+TITLE: Choosing A College
-#+HUGO_TAGS: college admissions
-#+DATE: <2020-07-31>
+
 Here is some advice I've compiled regarding selecting and attending a university in the US.
 
 * Finding Colleges

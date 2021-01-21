@@ -1,6 +1,3 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: math
-
 #+TITLE: Math
 Notes and resources for mathematics.
 
@@ -41,11 +38,6 @@ https://en.m.wikipedia.org/wiki/Representation_theory
 [[https://derivationmap.net/][derivation graph of all of mathematical physics]]
 [[https://en.m.wikipedia.org/wiki/Horn_clause][horn clause, math]]
 
-** category theory
-https://en.wikipedia.org/wiki/Monad_(category_theory)#Algebras_for_a_monad
-https://en.wikipedia.org/wiki/Kleisli_category -- category for monads
-Does every monad arise from an adjunction?
- http://comonad.com/reader/ -- curry howard lambek currespondence guides researchers into computation. rea    ding a logic like type theory is a definitional trick as it is just reinterpretation of syntax. syntactic     categories are difficult to connect to categorical semantics
 https://blog.kaufer.org/ [[file:blogs.org][Blogs]]
 https://en.m.wikipedia.org/wiki/Monster_group
 http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/
@@ -58,7 +50,7 @@ https://en.m.wiktionary.org/wiki/Shannon_entropy
 
 https://oxford.universitypressscholarship.com/mobile/view/10.1093/oso/9780198853404.001.0001/oso-9780198853404-chapter-1 [[file:programming-languages.org][Programming Languages]]
 
-
-https://en.wikipedia.org/wiki/Univalent_foundations [[file:dependent_types.org][Dependent Types]] research in which math structures are built out of objects called types
 https://ma.tt/2019/12/comments-and-collatz-conundrum/
 http://homepages.inf.ed.ac.uk/libkin/fmt/fmt.pdf
+
+[[https://en.m.wikipedia.org/wiki/Rubik's_Cube_group][Rubik&#39;s Cube group - Wikipedia]]

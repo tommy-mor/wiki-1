@@ -1,8 +1,6 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: interview
 #+TITLE: Interview
 
-Advice and content for programming interviews and interview prep.
+Advice and content for programming interviews and interview prep. [[file:employment.org][Employment]]
 
 * Resources
 - [[https://github.com/yangshun/front-end-interview-handbook][Front-end Interview Handbook]] :: Great resources for front-end developer interview questions.

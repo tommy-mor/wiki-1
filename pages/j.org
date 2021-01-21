@@ -8,3 +8,5 @@ can create a unique sieve as a value and make assignmetns!
 can transform the object directly after it has been created!
 j provides mechanism to fuse mapping and filtering,
 can study properties of the sieve
+
+https://github.com/pitr/jj: J implementations in [[file:cpp.org][C and C++]], [[file:rust.org][Rust]]

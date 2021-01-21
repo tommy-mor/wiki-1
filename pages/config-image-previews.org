@@ -1,5 +1,7 @@
 #+TITLE: Config Image Previews
 
+[[file:web.org][Web]]
+
 Configuring image previews for different websites.
 - [[https://opengraphprotocol.org/][Open Graph Protocol]]
 - [[https://marketing.twitter.com/na/en/solutions/ad-format-specs/website-card][Twitter Image Preview]]

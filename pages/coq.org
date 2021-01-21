@@ -1,8 +1,6 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: coq
 #+TITLE: Coq
 
-Coq is a theorem prover that uses principles from type theory to provide formalizations of programs.
+Coq is a [[file:theoremprover.org][theorem prover]] that uses principles from type theory to provide formalizations of programs.
 
 * Libraries
 https://github.com/DeepSpec/InteractionTrees a neat representation of recursive and impure Coq programs
@@ -27,3 +25,5 @@ https://github.com/achlipala/frapapp formal reasoning about programs website
 [[https://github.com/bendy/DenotationalSemantics][denotational semantics of imperative language]] in the style of software foundations
 https://github.com/uwplse/pumpkin-pi something to do with a coq plugin suite?
 [[https://verifcomp.dbp.io/][verifcomp]]
+
+https://www.reddit.com/r/Coq/comments/tzpb9/webbased_proofbypointing_frontend_to_coq/

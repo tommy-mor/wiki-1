@@ -116,7 +116,7 @@ https://dreamwiki.sixey.es/welcome.dream/
 http://mindforger.com/: markdown-powered wiki software
 * concrete plan
 learn to build small software! a wiki is the best way to do this.
-- write a basic org-mode parser in ANSI [[file:cpp.org][C, C++]]
+- write a basic org-mode parser in ANSI [[file:cpp.org][C and C++]]
   supports links, `#+title`, nested bullets, etc. fairly simple to start.
 - with inspiration from devine's wiki, integrate this parser into a service
   that parses things out to html, also written in ANSI C

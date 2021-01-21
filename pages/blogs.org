@@ -50,7 +50,6 @@ https://teetotality.blog/posts/how-this-blog-was-made/ this works off of IPFS
 [[https://txt.fyi/+/6ce898cf/][the cask ]]
 [[https://txt.fyi/about/][quick publishing on the web.]]
 [[https://txt.fyi/+/57688c94]]
-[[/#/][another one of these]]
 [[http://ix.io/][kinda fire. more minimal and more obscure]]
 [[https://commentpara.de/][anon we comments on any site]]
 [[https://rwtxt.com/public][reading and text editor]]

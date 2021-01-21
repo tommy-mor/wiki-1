@@ -1,8 +1,6 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: acl2
 #+title: acl2
 
-ACL2 is a theorem prover based on Common Lisp commonly used for the verification of hardware.
+ACL2 is a [[file:theoremprover.org][theorem prover]] based on Common Lisp commonly used for the verification of hardware.
 
 [[https://www.cs.utexas.edu/users/moore/acl2/manuals/current/manual/index-seo.php/ACL2____TOP?path=3486][The wiki]] is an excellent source of information on the language.
 [[https://www.researchgate.net/publication/236578406_Verified_AIG_Algorithms_in_ACL2][This work]] discusses the verification of AIG graph representations of boolean functions.

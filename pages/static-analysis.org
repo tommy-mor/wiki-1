@@ -115,3 +115,9 @@ SCHEDULED: <2020-05-01 Fri>
 
 A Mathematical Theory of Communication (1948) [pdf] - https://news.ycombinator.com/item?id=23035107
 
+
+https://hal.inria.fr/hal-01093327
+https://hal.inria.fr/tel-01102401
+https://sed-bso.gitlabpages.inria.fr/sonarqube/
+https://hal.inria.fr/hal-01588422
+https://en.wikipedia.org/wiki/Loop-invariant_code_motion

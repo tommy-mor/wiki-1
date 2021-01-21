@@ -1,5 +1,3 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: emulation
 #+TITLE: Emulation
 
 Emulation is the process of simulating a computer with an interpreter that runs the bytecode of compiled programs for that machine.
@@ -39,8 +37,7 @@ https://github.com/TheLocust3/full-stack-vm
 https://jakekinsella.com/projects/intel8080/
 [[https://cutebunni.es/b/vicera_part1.html][8 bit fantasy console like the game boy!]]
 
-
-* CPUs
+* CPU Emulation
 [[https://www.excamera.com/sphinx/fpga-j1.html][forth fpga cpu]] [[file:forth.org][Forth]]
 [[file:lisp.org][Lisp]] machines
 - https://frank-buss.de/lispcpu/
