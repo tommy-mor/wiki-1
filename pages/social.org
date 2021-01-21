@@ -1,10 +1,9 @@
 #+TITLE: Social
 small scale social media
-[[file:activitypub.org][ActivityPub]]
 
+[[file:activitypub.org][ActivityPub]]
 https://runyourown.social/#places-where-we-need-better-tech
 [[https://lwn.net/Articles/741218/][federation in social networks: linux kernel blog]]
-
 https://spiegelmock.com/2020/05/28/decentralizing-social-media/
 [[https://github.com/rogeriochaves/feedless][a feedless social network]]
 
@@ -16,8 +15,6 @@ https://spiegelmock.com/2020/05/28/decentralizing-social-media/
 https://joinwalrus.tv/
 
 https://bp.io/avatar/ update twitter avatar on a site!
-
 https://www.reddit.com/r/socialskills/comments/hyl9oh/200_interesting_questions_to_get_to_know_anyone/ questions to get to know anyone on a deeper level
-
 
 https://gather.town/ 2d office spaces : )

@@ -1,5 +1,8 @@
 #+TITLE: Messaging
 
+https://a9.io/glue-comic/
+https://gist.github.com/MaiaVictor/350cd2e318ad884c7c491c3dad7e3b1d
+https://knowingless.com/2017/05/02/internet-communities-otters-vs-possums/ otters vs possums in internet communities [[file:messaging.org][Messaging]]
  [[https://becca.ooo/slack/][rebecca™ → Slack’s threads are terrible for accessibility]]
 https://tox.chat/
 delta chat
