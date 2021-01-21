@@ -11,7 +11,7 @@ However, emacslisp is structured not to be used as an editor configuration
 with some additional logic capabilities, but rather as a fully-featured
 programming language with proper language facilities.
 
-Emacs is my desktop environment. [[file:./exwm.org][EXWM]] is my window manaager,
+Emacs is my desktop environment. [[file:./exwm.org][EXWM]] was my window manaager,
 elfeed is my RSS reader, mu4e is my email client and so forth.
 The one program that does not have a proper Emacs interface
 is the web browser, so I use Firefox (and web apps) for most other tools.
@@ -28,7 +28,6 @@ https://www.youtube.com/watch?app=desktop&v=Ho6nMWGtepY writing a powerpoint wit
 https://jonathanabennett.github.io/blog/2019/05/28/emacs.org-~-may-2019/ coding your comments with emacs
 * Configurations
 https://www.reddit.com/r/emacs/comments/4srze9/watching_youtube_inside_emacs_25/ watching youtube in emacs
-https://github.com/forrestchang/.doom.d
 https://github.com/howardabrams/dot-files
 https://github.com/jethrokuan/dots
 https://github.com/codygman/hci human programming interface in emacs
@@ -54,6 +53,16 @@ https://github.com/cpitclaudel/quick-peek peek at a window inline!
 https://github.com/legalnonsense/elgantt gantt chart (??) in org
 https://github.com/progfolio/doct declarative format for org capture templates
 https://github.com/jeremy-compostella/org-msg minor mode for replying to outlook in nice outlook html
+
+https://www.reddit.com/r/emacs/comments/i0qf5i/just_having_fun_playing_with_emacs/
+https://github.com/purcell/windswap
+[[https://www.reddit.com/r/emacs/comments/74hetz/emacs_everywhere/][emacs everywhere]]
+[[https://www.reddit.com/r/emacs/comments/aqs7jb/open_a_orgcapture_window_outside_emacs/][org-capture outside of emacs]]
+https://github.com/ibizaman/emacs-conflict emacs conflict
+https://git.carcosa.net/jmcbray/gemini.el gemini server for emacs
+https://www.emacswiki.org/emacs/TrampMode#toc1 tramp-mode for editing files on servers
+[[https://github.com/purcell/windswap][swap emacs windows]]
+https://github.com/Bad-ptr/persp-mode.el
 - [[https://github.com/NicolasPetton/Indium][Indium]] ::[[file:javascript.org][JavaScript]] development library
 https://github.com/davazp/graphql-mode gql mode for emacs
 https://github.com/lassik/emacs-format-all-the-code autoformat source code for many languages
@@ -63,8 +72,6 @@ https://github.com/charignon/github-review github code review in emacs
 * Links
 [[https://www.youtube.com/watch?v=KdcXu_RdKI0&feature=youtu.be][getting more out of org-capture]]
 [[https://www.emacswiki.org/emacs/KeyChord][KeyChord]] :: binding commands to combinations of keystrokes
-https://github.com/NatTuck/doom-config/blob/master/config.el#L12 -- nat tuck's
-configuration
 https://www.wisdomandwonder.com/article/10805/emacsorg-mode-choosing-the-best-writing-and-publishing-software
 -- org mode with latex - how to make things work well!
 
@@ -87,31 +94,13 @@ https://www.reddit.com/r/emacs/comments/74hetz/emacs_everywhere/ emacs everywher
 * docs
 [[https://www.reddit.com/r/emacs/comments/hxu9dx/withemacs_what_you_need_to_know_about_hooks/][emacs hooks]]
 * emacs
-:PROPERTIES:
-:ID:       92c5c049-6516-4427-9693-8d6f96758b12
-:END:
 https://karthinks.com/software/batteries-included-with-emacs/ fun things that come with emacs!
 * Plugins
-https://www.emacswiki.org/emacs/TrampMode#toc1 tramp-mode for editing files on servers
-[[https://github.com/purcell/windswap][swap emacs windows]]
-https://github.com/Bad-ptr/persp-mode.el
-https://www.reddit.com/r/emacs/comments/i0qf5i/just_having_fun_playing_with_emacs/
-https://github.com/purcell/windswap
-[[https://github.com/alphapapa/matrix-client.el][emacs matrix client]]
-[[https://www.reddit.com/r/emacs/comments/74hetz/emacs_everywhere/][emacs everywhere]]
-[[https://www.reddit.com/r/emacs/comments/aqs7jb/open_a_orgcapture_window_outside_emacs/][org-capture outside of emacs]]
-https://github.com/ibizaman/emacs-conflict emacs conflict
-https://git.carcosa.net/jmcbray/gemini.el gemini server for emacs
-
 https://cestlaz.github.io/post/using-emacs-70-org-protocol/
-https://github.com/alphapapa/yequake drop down emacs frames, like terminal windows
 https://github.com/abo-abo/avy jump to visible text with a character based decision tree
-
 http://www.howardism.org/Technical/Emacs/templates-tutorial.html configure snippets in emacs
 https://www.youtube.com/watch?app=desktop&v=gfZDwYeBlO4&amp%3Bt=2785s 'play emacs like an instrument'
 https://www.youtube.com/watch?app=desktop&v=4-ubCJF9htw emacs macros and hacks
-https://www.youtube.com/watch?app=desktop&v=PKaJoqQQoIA configuring emacs configuration
-https://github.com/shrysr/.emacs.d
 ** Weight tracking and fitness
 [[file:exercise.org][Exercise]]
 https://www.reddit.com/r/emacs/comments/a4zipp/fitnessorg_an_emacs_foodweightworkout_tracker/
@@ -122,6 +111,12 @@ https://github.com/JNRowe/org-diet
 https://github.com/nobiot/Zero-to-Emacs-and-Org-roam getting emacs up on windows 10 (ugh)
 https://git.sr.ht/~technomancy/better-defaults
 ** Doom configuration
+https://github.com/forrestchang/.doom.d
+
+[[https://github.com/sunnyhasija/Academic-Doom-Emacs-Config][sunnyhasija/Academic-Doom-Emacs-Config: My doom emacs configuration files]]
+
+https://github.com/NatTuck/doom-config/blob/master/config.el#L12 -- nat tuck's
+configuration
 https://github.com/christabella/doom-emacs-config
 https://tecosaur.github.io/emacs-config/config.html
 https://dotdoom.rgoswami.me/config.html
@@ -129,6 +124,8 @@ https://github.com/christabella/doom-emacs-config
 [[https://www.ethanaa.com/blog/switching-to-doom-emacs/#doom-emacs][comprehensive instrs]]
 https://github.com/alphapapa/unpackaged.el#smerge-mode
 ** Emacs configuration
+https://www.youtube.com/watch?app=desktop&v=PKaJoqQQoIA configuring emacs configuration
+https://github.com/shrysr/.emacs.d
 https://github.com/purcell/emacs.d
 https://github.com/zaeph/.emacs.d
 https://github.com/munen/emacs.d
@@ -184,7 +181,6 @@ https://github.com/manateelazycat/emacs-application-framework
 https://emacs.stackexchange.com/questions/12927/reading-and-writing-email-with-emacs
 [[https://reddit.com/r/emacs/comments/hurwwg/mu4e_dealing_with_sending_html][Mu4e - dealing with sending html]]
 https://ryanwhittingham.com/using-multiple-email-accounts-with-mu4e/
-https://ryanwhittingham.com/using-multiple-email-accounts-with-mu4e/
 https://www.emacswiki.org/emacs/mu4e
 https://www.reddit.com/r/emacs/comments/6wqfp3/notmuch_delete_mail/
 [[https://www.youtube.com/watch?app=desktop&v=dljNabciEGg][literate devops with emacs]]
@@ -193,17 +189,16 @@ https://www.reddit.com/r/emacs/comments/6wqfp3/notmuch_delete_mail/
 [[https://www.reddit.com/r/emacs/comments/hv5m0z/muwizard_easily_setup_mu4e_accounts_on_emacs/][mu wizard for easily setting up mu4e]]
 ** music
 [[file:music.org][Music]]
+[[https://bzg.fr/en/emacs-org-babel-overtone-intro.html/][Emacs Org and Overtone quick intro · Bastien Guerry - Liberté, informatique, choucroute.]]
 https://www.reddit.com/r/emacs/comments/7yz1k2/using_emacs_43_music_with_mpd/
 https://github.com/jorenvo/simple-mpc
+[[https://lucidmanager.org/productivity/configure-emms/][Configure EMMS --- Emacs Multi-Media System on GNU/Linux]]
 https://gitea.petton.fr/mpdel/mpdel
-** android
-[[file:mobile.org][Mobile]]
-https://leeadams.dev/blog/i-use-emacs-for-android-development-ama
 * nix and emacs configs
 https://github.com/kinnala/nixemacs
 https://github.com/benley/dotfiles/blob/master/overlays/emacs.nix
 https://blog.jethro.dev/posts/nix_buffer_emacs/
-https://github.com/purcell/nix-emacs-ci nix emacs ci
+https://github.com/purcell/nix-emacs-ci: test your emacs code against a wide variety of upstream configurations
 https://www.reddit.com/r/emacs/comments/ekr5ek/experimenting%5Fwith%5Fremembrance%5Fagents/
 https://github.com/zachcurry/emacs-anywhere use emacs anywhere
 [[https://blog.akinori.org/][m g vs goto line in emacs]]
@@ -211,9 +206,5 @@ https://github.com/zachcurry/emacs-anywhere use emacs anywhere
 https://www.reddit.com/r/emacs/comments/hywxef/visually_differentiate_between_links_to_files_and/ differentiate between links to files and links to websites in org
 [[http://bling.github.io/blog/2016/01/18/why-are-you-changing-gc-cons-threshold/][don't change gc-cons-threshold]]: fix constant garbage collection by setting it very high when something happens, and changing afterwards to prevent constant garbage collection and freezing when the heap gets too big
 
-** TODO  [[https://github.com/sunnyhasija/Academic-Doom-Emacs-Config][sunnyhasija/Academic-Doom-Emacs-Config: My doom emacs configuration files]]
-Captured On: [2020-10-29 Thu 14:21]
 https://github.com/thi-ng/org-spec org skeleton for tech specs
- [[https://bzg.fr/en/emacs-org-babel-overtone-intro.html/][Emacs Org and Overtone quick intro · Bastien Guerry - Liberté, informatique, choucroute.]]
- [[https://lucidmanager.org/productivity/configure-emms/][Configure EMMS --- Emacs Multi-Media System on GNU/Linux]]
- [[https://jingsi.space/post/2017/04/05/organizing-a-complex-directory-for-emacs-org-mode-and-deft/#options-for-deft-mode][Organizing a Complex Directory for Emacs Org Mode and Deft]]
+[[https://jingsi.space/post/2017/04/05/organizing-a-complex-directory-for-emacs-org-mode-and-deft/#options-for-deft-mode][Organizing a Complex Directory for Emacs Org Mode and Deft]]

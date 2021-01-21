@@ -116,7 +116,7 @@ https://www.emacswiki.org/emacs/SuperCollider
 [[https://m.youtube.com/watch?v=YUIPcXduR8E][Jessica Garson - Making Music with Python, SuperCollider and FoxDot - PyCon]]
 [[https://github.com/lvm/build-supercollider][build-supercollider]]
 [[https://github.com/theseanco/howto_co34pt_liveCode]["A repository of readmes, techniques, notes and other materials about how i live code in SuperCollider. A (sorta) companion repository to co34pt_livecode "]]
-[[https://www.reddit.com/r/vim/comments/hwdehp/vim_osc_livecoding/][Vim   OSC = Livecoding - vim]]
+[[https://www.reddit.com/r/vim/comments/hwdehp/vim_osc_livecoding/][Vim   OSC = Livecoding - vim]] [[file:vim.org][Vim]]
 ** TidalCycles
 https://gist.github.com/kindohm/9388957
 [[http://pages.tidalcycles.org/getting_started.html#linux][Tidal - Getting Started]]
@@ -135,7 +135,6 @@ https://gist.github.com/kindohm/9388957
 [[https://futureofcoding.org/episodes/045][45 • Devine Lu Linvega • Orca | Future of Coding]]
 * Physical generative devices
 [[https://wiki.xxiivv.com/site/telekinesis.html][telekinetic music from devine]]
-
 [[https://m.youtube.com/watch?v=TK1mBqKvIyU][Programming as Performance | Sam Aaron | TEDxNewcastle]]
 [[https://algorave.com][Algorave]]
 [[https://m.youtube.com/watch?v=VW_SFmS17ao][Yann Tomita and the Doopees - How Does It Feel - YouTube]]

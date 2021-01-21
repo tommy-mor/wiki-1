@@ -641,5 +641,7 @@ https://chrisdone.com/posts/z/ simple and clever programming language
 https://github.com/pikelet-lang/pikelet
 [[https://github.com/hazelgrove/hazel][Hazel]]: A live functional programming environment
 https://github.com/LeifAndersen/interactive-syntax-clojure
-[[https://www.hillelwayne.com/post/influential-dead-languages/][history of dead langauges pl]]
+[[https://www.hillelwayne.com/post/influential-dead-languages/][history of dead languages pl]]
 [[http://www.zifyoip.com/wysiscript/sigbovik.html][programming with syntax highlighting]]
+https://news.ycombinator.com/item?id=24480504 parsing strategies
+https://news.ycombinator.com/item?id=24263117 test case generation
