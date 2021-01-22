@@ -19,3 +19,6 @@ https://fotodioxpro.com/products/lm-fxrf-prn
 [[https://www.35mmc.com/24/12/2018/panomicron-oxygen-review/#Discovering_and_buying_my_Panomicron_Oxygen][3d printed camera]]
 
 [[https://stevehuffphoto.com/2013/05/28/fuji-x-pro-1-and-the-voigtlander-nokton-50mm-f1-5-by-jim-gamblin][Fuji X-Pro 1 and the Voigtlander Nokton 50mm f/1.5 by Jim Gamblin]]
+https://www.crackedthecode.co/how-to-use-your-dslr-as-a-webcam-in-linux/: use dslr as a webcam on linux.
+i made some progress on this; added the kernel module and got that working, but it's not clear whether i was using gphoto2 properly.
+revisite this!
