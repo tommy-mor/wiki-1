@@ -38,3 +38,10 @@ https://www.reddit.com/r/FirefoxCSS/comments/hf97kk/my_take_on_hiding_as_much_as
 
 
  r/startpages: customized firefox start pages
+* Navigation Extensions
+** Vimium
+Solid with basic Vim commands. I've used it for a long time.
+** Tridactyl
+Command palette and more! Trying this one out. Looks super configurable but I have yet to do so.
+** Surfingkeys
+Vimium + more shortcuts and built in editor. Hate the history navigation though.
