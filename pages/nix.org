@@ -76,6 +76,10 @@ Nix is a functional package manager that isolates and sandboxes dependencies.
 - I haven't fully examined this one.
 [[https://github.com/colemickens/nixcfg][colemickens]]:
 - I haven't fully examined this one either. Looks thorough, uses flakes and is constantly updated.
+[[https://git.sr.ht/~aasg/nixexprs/tree][nixexprs]]:
+- Sourcehut-based CI configuration. Tons of good networking
+  to inspire, plus a decent organization system. The system has
+  IPFS, MacOS configuration, tons of default packages, and more. Could be used as a flake to install some of their packages; looks like it's compatible with NUR.
 * Installation
 ** Good practices
 - Create a separate partition for all of your nix derivations, /nix
