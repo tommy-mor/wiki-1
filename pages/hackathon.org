@@ -101,8 +101,16 @@ Look into dynamically configuring and formatting text via a specific web query. 
 
 I'll also need a tool for converting such a file into a URL-compatible version, see https://stackoverflow.com/questions/1547899/which-characters-make-a-url-invalid#1547940.
 
-* ETC
+* Obscure programming languages web app
+- build it in cljs (clojurescript)
+- provide interpreters for all of the silly obscure programming languages i can
+- make it super easy for people new to the project to add and contribute more languages
+  + support parsing BNF grammars and converting them into interpreters in the code
+    as a sort of codegen, as a lot of the languages are specified using BNF
+- reference: that one wiki. idea is to provide reference implementations for the reasonable ones
+  to try out!
 
+* ETC
 configure keybindings for multiple programs at once
 'compile' to assign comprehensive keybindings to all utilities
 single point of control
@@ -173,7 +181,6 @@ by always working on the most interesting problem available, you have endless mo
 thomas huxkey -- a good liberal education is to know something about everything and everything about something. go deep on what you want to work in but become broad in skills with everything else.
 
 * couchsurfing
-
 stay at strangers place entirely for free
 anything you ant it t be -- fill out profile with detail and you can pick out whoever you want to host
 get ot meet incredible people and bring incredible people into ur home as both a host and proprietor!
@@ -181,8 +188,8 @@ try this when u move off campus to see who u can meet . if its still around
 
 crossing the red line :: going from a basic feeling to a constant frustration, beyond such a frustration to this feeling that you can do much more than you thought you could do. the mind accepts even as the body tires, and that the mind has no use -- you are now mind over matter, and can keep going if you need to because you've triumphed!
 
-* webrtc signal strategies
 
+* webrtc signal strategies
 websockets
 xhr and complete options
 sip over websockets
@@ -194,7 +201,6 @@ sitting alone ate the crack of dawn makes me feel like my day has purpose
 leaders must own everything in their world. there is no one else to blame
 
 * finding time wfh
-
 find alone time while off work
 go for a drive at least once a day
 make sure to have a sit down meal with family
@@ -262,10 +268,6 @@ social network features really interest me though, like how we interact with thi
 4. social network features
 5. federation? 
    use react-leaflet on desktop (!!)
-* better android launcher
--[[file:os.org][Operating Systems]] 
-i like the one im using now but wish it were FOSS
-https://parallelcodes.com/create-android-launcher-program/ intro tutorial for doingthis
 * canary
 simple app:
 asks once per week if you're alive or have any problems
