@@ -152,8 +152,7 @@ https://github.com/miniflux/miniflux feed reader with Go
 https://github.com/zserge/headline ascetic RSS reader without server. 4kb and beautiful, works offline
 
 * Search
-Sieve's search shouldn't help users find whatever they'd like; rather, it should fuel and filter the existing results, similar to wrapping
-a comonad.
+Sieve's search shouldn't help users find whatever they'd like; rather, it should fuel and filter the existing results, similar to wrapping a comonad.  - what does this mean
 
 someone tweeted about rss rewind, where you're able to replay feeds day by day to trace the news, articles, etc chronologically
 what's in your rss feed interviews!
@@ -162,3 +161,7 @@ https://github.com/seenaburns/isolate/blob/master/README.md lighteeight tool for
 
 
 https://memory-metadata.livia-foldes.com/  navigating the metadata of memories we save and share
+* Scattered recommendation engine ideas
+- Add inputs you like to different 'channels'
+- Submit collections of data and get to see the generated channels from that data
+- good design aesthetic

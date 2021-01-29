@@ -231,3 +231,8 @@ https://github.com/TOTBWF/refinery: refinement proofs in haskell
 https://www.simplehaskell.org/ simple haskell is easier for everyone to use
 https://www.reddit.com/r/haskell/comments/hjtnxx/light_weight_haskell
 [[https://www.reddit.com/r/haskell/comments/iflrw9/observations_after_the_first_time_writing_simple/][Observations after the first time writing (simple) Haskell : haskell]]
+https://www.haskellforall.com/2014/03/introductions-to-advanced-haskell-topics.html?m=1
+http://blog.sigfpe.com/2006/08/algebraic-topology-in-haskell.html?m=1
+
+* important
+https://artyom.me/aeson#fromjson-instances-for-other-types the best aeson tutorial

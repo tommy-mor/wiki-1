@@ -1,0 +1,14 @@
+#+TITLE: Clojure
+
+Clojure is a fascinating Java-based lisp ecosystem. It's well supported on several platforms thanks to Clojurescript and is probably the best Lisp for production today!
+
+* Libraries
+[[https://github.com/davidsantiago/hickory][hickory]]: parse html into clojure data structures
+[[https://github.com/tonsky/tongue][tongue]]: i18n
+[[https://github.com/borkdude/sci][sci]]: builtin clojure interpreter for scripting and DSLs
+[[https://github.com/plumatic/dommy][dommy]]: clojurescript DOM manipulation library
+[[https://github.com/weavejester/medley][medley]]: useful, pure functions missing from clojure.core
+[[https://github.com/tonsky/datascript][datascript]]: an immutable in-memory database and datalog query engine running in the browser
+[[https://github.com/tonsky/rum][rum]]: client server library for html ui in clojurescript. works as a React wrapper
+[[https://github.com/dakrone/cheshire][cheshire]]: fast JSON encoding in clojure.
+https://github.com/onetom/clj-figwheel-main-devcards setting up nix with clojure, figwheel and devcards ui

@@ -31,7 +31,6 @@ https://codepen.io/cybercountess/pen/gOaoWmX isabelle's day off
 [[https://github.com/ESWAT/john-carmack-plan-archive][john carmack's archive]]
 [[http://dmitrysoshnikov.com/courses/essentials-of-garbage-collectors/][essentials of gc]]
 [[https://dickrnn.github.io/][dick rnn]]
-[[https://github.com/kylesferrazza/windows/blob/master/install.ps1][setup windows install script]]
 [[https://leimao.github.io/blog/Group-Lasso/][lasso reg]]
 [[https://www.youtube.com/watch?v=smlQbh6jQvg&app=desktop][amenity detection]]
 [[https://news.ycombinator.com/item?id=23165157][containers in linux]]
@@ -42,9 +41,6 @@ https://codepen.io/cybercountess/pen/gOaoWmX isabelle's day off
 
 [[http://math.ucr.edu/home/baez/twf.html][this week's finds ! cool content!]]
 [[https://johncarlosbaez.wordpress.com/][wp blog for above]]
-
-[[https://archillect.com/about][figure out archillect]]
-
 https://codepen.io/toshiya-marukubo/pen/oNbgPRX neat orbit thing
 https://codepen.io/oliviale/pen/BaoXOOP fake newspaper !
 https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/ mad
@@ -112,12 +108,7 @@ https://getpocket.com/redirect?url=https%3A%2F%2Fgithub.com%2Fhundredrabbits%2FT
 [[https://codepen.io/chrisgannon/pen/oNjqpLy][inherit!]]
 [[https://codepen.io/chrisgannon/pen/oNjqpLy][wow animation!]]
 [[https://github.com/lionheart/pinboard.py][pinboard]]
-
-[[https://github.com/brainrape/win95.css][Win95.CSS]]
-[[https://github.com/brainrape/windows-95-ui-kit][Windows 95 UI Kit]]
-[[https://themesberg.com/product/ui-kit/windows-95-ui-kit][Windows 95 UI Kit]]
-[[https://www.reddit.com/r/opensource/comments/hvabir/til_you_can_style_your_github_readme_with_css/][TIL: You can style your GitHub readme with CSS - opensource]]
-[[https://github.com/sindresorhus/css-in-readme-like-wat][sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this ]]
+[[https://github.com/brainrape/windows-95-ui-kit][Windows 95 UI Kit]], and [[https://themesberg.com/product/ui-kit/windows-95-ui-kit][Windows 95 UI Kit]]
 [[https://github.com/brainrape/win95.css][brainrape/win95.css: Responsive Bootstrap 4 windows 95/98 theme &amp; landing t]]
 [[https://web.dev/one-line-layouts/][Ten modern layouts in one line of CSS]]
 [[https://www.tailwindtoolbox.com/][Tailwind Toolbox - Free Starter Templates and Components for Tailwind CSS]]
@@ -134,3 +125,5 @@ is useful for adding arbitrary spaces internal to and external from different co
 https://codepen.io/MrBlank/pen/JjXxovL cool css animation with envelope opening
 https://tympanus.net/codrops/2020/10/05/recreating-the-100-days-of-poetry-effect-with-shader-scrolltriger-and-css-grid/
 https://polypane.app/css-3d-transform-examples/
+
+[[https://developer.mozilla.org/en-US/docs/Web/CSS/@counter-style][count in CSS]]

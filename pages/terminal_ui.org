@@ -1,5 +1,3 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: terminal_ui
 #+title: Terminal UI
 
 A Terminal UI, or TUI, is a user interface
@@ -15,3 +13,7 @@ Some choose to use their system in an entirely
 TUI-based fashion with programs such as vim, mutt and tmux.
 Unfortunately, many websites and web-based programs
 are not usable without a graphical user interface,
+
+
+* Terminal improvements
+[[https://github.com/unconed/TermKit][TermKit]]: an interactive terminal command application. helps users understand the terminal with lots of visualizations!

@@ -1,7 +1,6 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: web
 #+title: Web
 Things about the web.
+https://www.w3.org/TR/webmention/ webmentions!
 
 [[https://www.youtube.com/watch?v=5CYeZ2kEiOI&app=desktop][from rails to elm and haskell: functional web programming]]
 

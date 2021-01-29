@@ -1,0 +1,5 @@
+#+TITLE: Comments
+
+Collections of comment systems, particularly the distributed ones.
+
+https://quotebacks.net/: reply to data across the open web, and you can see everyone else's contributions to blogs! agnostic to whether the site has provided its own commend system.

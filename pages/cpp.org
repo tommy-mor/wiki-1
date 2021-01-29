@@ -16,6 +16,7 @@ https://aiju.de/misc/c-style
 https://ftrv.se/3
 [[https://stackoverflow.com/questions/17014835/where-can-one-find-the-c89-c90-standards-in-pdf-format#17015061][links to the C standards]]; inb4 undefined behavior
 * Tiny compilers
+https://c9x.me/qscm/: a simple scheme interpreter [[file:lisp.org][Lisp]] written in scheme and bootstrapped with C!
 https://bellard.org/otcc/
 [[https://bellard.org/tcc/ ][tiny c compiler]]
 http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html

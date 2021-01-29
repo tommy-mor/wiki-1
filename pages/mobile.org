@@ -8,6 +8,7 @@ Resources for mobile devices.
 * Android
 ** App development
 [[https://www.androidauthority.com/make-a-custom-android-launcher-837342-837342/][building a custom launcher in android studio]]
+[[https://parallelcodes.com/create-android-launcher-program/][another guide for a custom launcher]]
 [[https://www.androidauthority.com/lets-build-custom-keyboard-android-832362/][Let&#039;s build a custom keyboard for Android - Android Authority]]
 [[https://code.tutsplus.com/tutorials/create-a-custom-keyboard-on-android--cms-22615][Create a Custom Keyboard on Android]]
 [[https://opengapps.org/][The Open GApps Project]]
