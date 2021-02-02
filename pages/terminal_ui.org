@@ -17,3 +17,6 @@ are not usable without a graphical user interface,
 
 * Terminal improvements
 [[https://github.com/unconed/TermKit][TermKit]]: an interactive terminal command application. helps users understand the terminal with lots of visualizations!
+
+* Other solutions
+https://osxdaily.com/2017/05/27/run-hypercard-macos-web-browser-emu/ hypercard: a minimal, no-code UI toolkit

@@ -31,3 +31,13 @@ https://proycon.anaproy.nl/posts/colibri/
 * TODO emulating how language is learned naturally?
 virtual assistant that progressively increasaes vocab
 https://github.com/kantord/LibreLingo good language learning platform
+
+* ConLangs
+Definition is subject to discussion - an initial conlang that is later developed by a native population may or may not be one. Simplified Chinese is not one.
+** Lojban
+A logical language with no grammatical ambiguity.
+[[https://blog.bgcarlisle.com/2014/09/24/heres-some-materials-for-learning-lojban/][Materials for learning lojban]]
+[[https://www.quora.com/Lojban-is-a-language-that-nearly-eliminates-ambiguity-in-words-Why-do-so-few-people-speak-it?top_ans=17108936][Why do so few people speak lojban?]] Seems to have a lot of overlap with those interested in type theory, but in general the context is valuable to many languages, and by speaking lojban you are empowering yourself to communicate with others who also chose to learn Lojban.
+[[https://wiki.c2.com/?LojbanicJars]]: A good read on lojban, English and communicative precision.
+* Dialects
+[[https://en.m.wikipedia.org/wiki/Singlish][Singlish]]: Singaporean english, complimented by slang from a wide variety of language deriving from the British occupation of the country.

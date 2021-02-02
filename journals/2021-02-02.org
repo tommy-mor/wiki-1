@@ -1,0 +1,22 @@
+#+TITLE: Tuesday, 02/02/2021
+** 10:35 Some more thoughts and cleaning up links
+*** Standup
+Yesterday I:
+- Coordinated with Contra people
+- Figured out rental agreement
+- Wrote some code in IHP
+- Learned about Rust, Lua, Moonscript game dev
+- Set up some basic time and code tracking facilities
+- Set up Anki for learning a few interesting languages
+- Wasted a /ton/ of time
+
+Today I will:
+- Look into career fair
+- Fix up resume and apply to jobs in inbox
+- Perform Contra tasks for Monday and today
+- Submit rent application
+- Work on clojure programming language website
+- Finish story for Sandbox a-eye
+- Pair program IHP a bit
+***  Links, etc.
+[[https://nakedlemon.home.blog/2021/01/31/taking-amtrak-across-america/][Isabelle's journey on a train across America]] was intruiging - definitely something to learn about and try!

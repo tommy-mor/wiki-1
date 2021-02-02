@@ -97,3 +97,6 @@ https://github.com/seanbreckenridge/HPI
 
 
 https://wakatime.com/ tracking time spent in various editors to get programming metrics!
+
+https://kern.io/dashboard brilliant idea: personal tracking of tons of different metrics publicly available!
+okrs for personal use are great too. [[file:hackathon.org][Hackathon]]

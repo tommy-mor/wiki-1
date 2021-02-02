@@ -1,0 +1,11 @@
+#+TITLE: Monday, 02/01/2021
+** 16:37 Thoughts on articles and the day
+*** IDEA: API for browsing websites as semantic URLs
+Why do websites have 
+Api that presents the valid subdomains
+Able to select them in tree and view previews to browse the site without needing a navigation provided by it! 
+
+*** Some dream
+received lots of extra items via enfin leve
+leather tome full of the recipts, all compressed into leather suitcase
+neu friends and many people i didnt know living in small city eastern oregon

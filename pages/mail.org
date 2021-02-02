@@ -37,3 +37,8 @@ As part of the instructions, you'll have to set up a reverse DNS record. [[https
 On Namecheap, the DNS records took several hours to propagate. The LetsEncrypt certificates in this mail server cannot be issued until your DNS records go into effect, so be patient until this happens.
 
 [[http://www.asciiribbon.org/][use plain html email]]
+
+* Thunderbird configuration
+- Add new calendar with the specific calendar link off Radicale
+  (Counted as calendar /account/ on android but just one calendar on thunderbird)
+- CardBook extension to synchronize contacts over CardDAV

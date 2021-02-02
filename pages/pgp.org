@@ -3,3 +3,5 @@
 https://rzetterberg.github.io/yubikey-gpg-nixos.html
 PGP, or Pretty Good Privacy, is a popular encryption protocol.
 I use my PGP key to manage secrets via git-crypt and to sign emails
+https://wiki.debian.org/Subkeys?action=show&redirect=subkeys the best guide to key management that i've found: reference this when creating more subkeys
+https://security.stackexchange.com/questions/29851/how-many-openpgp-keys-should-i-make brief guide that had a link to the thread
