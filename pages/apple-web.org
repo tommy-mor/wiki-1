@@ -1,0 +1,6 @@
+#+TITLE: Apple Design
+
+Apple design inspiration
+[[https://www.instagram.com/p/CK6Cu8Rs0gg/?igshid=f779hh7bgkfa][Instagram post showcasing the Apple II and a variety of screens]]
+[[http://apple2.callapple.org/software/tribby/apascal.html][Notes on Apple Pascal]]: Design != UI
+Check out the apple design manual [downloaded, should host pdf somewhere] and take notes on it.
