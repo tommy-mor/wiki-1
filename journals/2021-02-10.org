@@ -1,0 +1,62 @@
+#+TITLE: Wednesday, 02/10/2021
+** 21:09 today and some more articles
+i found my groove and started being productive today. it's funny how much a small thing - the throbbing pain from my jaw -- can cause such a serious collapse of effort.
+*** stop consuming and startp roducing.
+don't read everything about what you want to know; read just a bit, then try something yourself. find a good book. read the book. read about open problems. design and finish a project. retrospective on the project!
+
+limit the amount of time you spend entertaining ne ideas; it's distracting. just evaluate how much you're learning!!!
+level it up with a learning buddy - someone to hold you accountable for your work.
+
+*** role models
+https://thesephist.com/posts/life-models/
+time estimates in articles: good!
+good to find out what's possible to do in a lifetime that we don't necc. see
+
+brett victor
+- thing to change the world: thing don't change the world. the focus is on the /use/ of the thing; invent better human computer interaces and continue to do so. follow him!
+- omar rizwan: more interesting computing interfaces!
+hundred rabbits:
+- XOXO fest!
+- writing software for small systems - outside of the envelope of the obvious life.
+neri oxman: designer and researcher at mit media lab
+- projects around nature inspired architecture and design
+- air force -> architecture -> mit -> media lab!
+- change core assumptions about the reality of how we make things essential
+bryan cantrill
+- solaris -> sun -> joyent to oxide!
+- both eloquent and skilled at developing good technology.
+- follows his principles. software engineers are balances:
+  "Software engineering is an almost paradoxical juxtaposition of collaboration and isolation: successful software engineers are able to work well with (and understand the needs of!) others, but are also able to focus intensely on their own… They must be able to build castles of imagination, and yet still understand the constraints of a grimy reality: they must be arrogant enough to see the world as it isn’t, but humble enough to accept the world as it is."
+- "I like thinking of planning life as a game of exploration. What kinds of lives are possible outside of the ones you’ve grown up knowing? If any of them appeal to you, how can you venture off trail safely without making a dumb mistake?"
+
+  
+https://www-users.cs.york.ac.uk/susan/bib/ss/nonstd/ecal11-17.htm: OO architecture for open ended innovation.
+http://liza.io/roee-self-modifying-go-simulation-experiment-part-1/ what is this? this is fascinating!
+*** the importance of sleep
+i always have to remind myself about this
+http://liza.io/sleep/
+- do not read too late - sleep!
+- sleep helps move memories to long term memory stores. commit to no longer than 7, and give a sleep opportunity of /at least/ eight. do not forget this.
+- screens off by 9pm
+- must sleep by 11pm. turn things off too. turn off, not just put them away.
+- fin some way to track sleep.
+  
+*** twitter advice
+**** vc
+- venture capital and pr are drugs
+- it's okay for your startup to be copied; beat them with product market fit
+- entreprenuership is a marathon and not a sprint.
+- online courses are valuable - find them!
+- learn anything and connect with anyone - obvious
+- get used to rejection; have conviction
+- ask questions. most importance
+- always be recruiting - find the best people for the best team.
+- keep not to do list to drop things and focus on what's important.
+- personalize!
+- what can i do to be better tomorrow? how can i better appreciate today?
+**** negotiation
+- reservation value :: set to best alternative to negotiated agreement. what do you get if it doesn't happen? allows you to define what you need from the negotiation and indicates when you should walk away. this ensures you find balance and get what you want.
+- aspiration value :: most you can ask for. set this to research. you want to be as ambitious as possible. 
+- your counterpart has these values too. you must balance these with theirs, and that determines the zone of possible agreement. honing your best option decreases the zone and makes the possible deal better.
+- make the first offer if you have a lot of information. its risky otherwise. if you don't have another offer, you can be honest and continue to work or allude to it somehow.
+- focal points :: justifications you provide regarding why you should be paid more or deserve the raise. discuss resources, benefits, etc. approach the discussion as a joint fact finding mission where you reveal more information that brings each party closer to what they want. this also lets you be more concrete, and allows both parties to come to the conclusion with good faith.
