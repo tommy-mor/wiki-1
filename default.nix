@@ -10,11 +10,19 @@ let
       hlint
       haskell-language-server
       time
-      brittany
       turtle
+      attoparsec
+      brittany
+      orgmode-parse
+      universum
     ];
   ghc = pkgs.haskellPackages.ghcWithPackages haskellDeps;
-  nixPackages = [ ghc pkgs.gdb pkgs.haskellPackages.cabal-install ];
+  nixPackages = with pkgs; [
+    ghc
+    pkgs.gdb
+    pkgs.haskellPackages.cabal-install
+    haskell-language-server
+  ];
 in pkgs.stdenv.mkDerivation {
   name = "Wiki";
   src = pkgs.lib.cleanSource ./.;
