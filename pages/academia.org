@@ -9,6 +9,7 @@ UMich
 UChicago
 http://uwplse.org/
 https://schasins.com/ berkeley phd student
+https://web.eecs.umich.edu/~comar/
 * apps
 https://koronkevi.ch/posts/applying-to-grad-school.html#weeds
 https://www.cs.cornell.edu/~asampson/blog/gradschool.html sampson seems like a really cool profrssor to work with!

@@ -60,3 +60,16 @@ http://liza.io/sleep/
 - your counterpart has these values too. you must balance these with theirs, and that determines the zone of possible agreement. honing your best option decreases the zone and makes the possible deal better.
 - make the first offer if you have a lot of information. its risky otherwise. if you don't have another offer, you can be honest and continue to work or allude to it somehow.
 - focal points :: justifications you provide regarding why you should be paid more or deserve the raise. discuss resources, benefits, etc. approach the discussion as a joint fact finding mission where you reveal more information that brings each party closer to what they want. this also lets you be more concrete, and allows both parties to come to the conclusion with good faith.
+**** some other articles
+https://danluu.com/tech-discrimination/ excellent article and writing.
+https://danluu.com/programmer-moneyball/ ' we only hire the trendiest '
+https://danluu.com/p95-skill/ basically focus on getting rid of bad things
+also choose the right problems: this will substantially dominate execution speed
+though we care too much about productivity, we can convert time into anything else we enjoy or value
+always get feedback
+guided exercises or exercises with solutions
+this is one of my favorite essays
+make sure to get constant feedback on your work and how you can improve
+seek to build a network of people who can give you feedback and shoot ideas off to them! it is so valuable! taking feedback and asking questions is /the/ most important thing you can do. just ask people who are better than you at things to evaluate you adn help you out.
+
+make sure to spend time doing these two things: working on things or looking for feedback on others on them. use the work of others asking for feedback from you for reference on how to iterate on your own projects. do not ask for feedback after fully developing the idea. this is a trap that could lead to many bad distractions

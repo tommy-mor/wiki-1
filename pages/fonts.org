@@ -1,5 +1,3 @@
-#+setupfile:./hugo_setup.org
-#+hugo_slug: fonts
 #+title: Fonts
 
 - tags :: [[file:typesetting.org][Typesetting]], [[file:language.org][Language]], [[file:web_design.org][Web Design]]
@@ -276,3 +274,5 @@ http://typography.philipyoungg.com/
  https://fonts.google.com/specimen/Rubik
  https://fonts.google.com/specimen/Roboto+Mono
 https://github.com/deuveir/design.typography
+
+https://practicaltypography.com/font-recommendations.html font advice from amtthew butterick
