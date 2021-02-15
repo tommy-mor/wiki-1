@@ -89,5 +89,5 @@ genPage ast =
               fromMaybe l d
         OrgFileLink {filepath = fp, description = d} ->
           -- TODO: without a name this looks weird
-          -- TODO: distinguish internal links from external links
+          -- TODO: distinguish internal links from external links with styling
           a_ [href_ $ T.pack $ "./" ++ fp -<.> ".html"] (toHtml $ fromMaybe (T.pack $ takeBaseName fp) d)
