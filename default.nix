@@ -1,7 +1,6 @@
 { pkgs ? import <nixpkgs> { } }:
 
 let
-  orgmode-parse-library = import ./orgmode-parse/default.nix;
   haskellDeps = ps:
     with ps; [
       base
@@ -14,8 +13,7 @@ let
       turtle
       attoparsec
       brittany
-      # orgmode-parse
-      orgmode-parse-library
+      orgmode-parse
       universum
       clay
       lucid

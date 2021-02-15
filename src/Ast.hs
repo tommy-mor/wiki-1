@@ -11,6 +11,7 @@
 module Ast
   ( Clock (..),
     Org (..),
+    OrgSection (..),
     orgTitle,
     orgTags,
     orgClocks,
@@ -64,7 +65,7 @@ data Link = Link
   }
   deriving (Show, Eq)
 
-data Section = Text
+data OrgSection = OrgLink Link | OrgText Text deriving (Show, Eq)
 
 -- | Main datatype of org AST. It may contain some metadata if needed
 -- (e.g. current node depth, children number etc). Content of headers
@@ -72,6 +73,7 @@ data Section = Text
 data Org = Org
   { _orgTitle :: Text,
     _orgText :: Text,
+    -- _orgStructuredText :: OrgSection,
     _orgTags :: [Text],
     _orgClocks :: [Clock],
     _orgSubtrees :: [Org]

@@ -12,6 +12,7 @@ where
 import Ast
   ( Clock (..),
     Org (..),
+    OrgSection (..),
     orgTags,
     traverseTree,
   )
@@ -54,10 +55,12 @@ parseOrg curTime todoKeywords =
       let fileLvlTags = extractFileTags textBefore
           addTags t = ordNub $ fileLvlTags <> t
           (title, initialText) = fromMaybe ("", textBefore) $ extractTitle textBefore
+          -- section = convertSection $ O.parseSection initialText
           o =
             Org
               { _orgTitle = title,
                 _orgText = initialText,
+                -- _orgStructuredText = section,
                 _orgTags = [],
                 _orgClocks = [],
                 _orgSubtrees = map convertHeading headings
@@ -69,10 +72,14 @@ parseOrg curTime todoKeywords =
       Org
         { _orgTitle = O.title headline,
           _orgText = O.sectionParagraph $ O.section headline,
+          -- _orgStructuredText = convertSection $ O.section headline,
           _orgTags = O.tags headline,
           _orgClocks = getClocks $ O.section headline,
           _orgSubtrees = map convertHeading $ O.subHeadlines headline
         }
+
+    -- convertSection :: O.Section -> OrgSection
+    -- convertSection section = OrgText ""
 
     mapEither :: (a -> Either e b) -> ([a] -> [b])
     mapEither f xs = rights $ map f xs
