@@ -1,24 +1,23 @@
-{-#LANGUAGE NoImplicitPrelude #-}
-module Section
-       (
-       ) where
+{-# LANGUAGE NoImplicitPrelude #-}
 
-import Universum
+module Section
+  ( parseSection,
+  )
+where
 
 import qualified Data.Attoparsec.Text as Attoparsec.Text
-import ParseTypes
-import Markup
-
-import ParseTypes (MarkupText(..), Section(..))
-import ParseLinesTill
-
 import List (parseList)
+import Markup
+import ParseLinesTill
+import ParseTypes (Content (..), MarkupText (..), Section (..))
+import Universum
 
 parseSection :: Attoparsec.Text.Parser Section
 parseSection = skipEmptyLines *> parseSection' <* skipEmptyLines
-  -- orgmode-parse supports lots of things,
-  -- but the only important one is parsing the contents of the org file
-  where parseSection' = Section <$> parseContents
+  where
+    -- orgmode-parse supports lots of things,
+    -- but the only important one is parsing the contents of the org file
+    parseSection' = Section <$> parseContents
 
 -- https://github.com/ixmatus/orgmode-parse/blob/master/src/Data/OrgMode/Parse/Attoparsec/Content.hs
 parseContents :: Attoparsec.Text.Parser [Content]
@@ -32,4 +31,3 @@ parseContents = concat <$> Attoparsec.Text.many' p
 -- https://github.com/ixmatus/orgmode-parse/blob/master/src/Data/OrgMode/Parse/Attoparsec/Content/Paragraph.hs
 parseParagraph :: Attoparsec.Text.Parser Content
 parseParagraph = Paragraph <$> parseMarkupContent
-

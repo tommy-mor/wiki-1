@@ -9,13 +9,15 @@ module Parser
   )
 where
 
+-- ( Clock (..),
+--   Org (..),
+--   OrgSection (..),
+--   orgTags,
+--   traverseTree,
+--   OrgContent(..)
+-- )
+
 import Ast
-  ( Clock (..),
-    Org (..),
-    OrgSection (..),
-    orgTags,
-    traverseTree,
-  )
 import qualified Data.Attoparsec.Text as A
 import Data.Char (isSpace)
 import qualified Data.OrgMode.Parse as O
@@ -29,6 +31,8 @@ import Data.Time
     zonedTimeToLocalTime,
   )
 import Data.Time.Calendar ()
+import ParseTypes
+import Section (parseSection)
 import Universum
 
 -- https://github.com/volhovm/orgstat/blob/master/src/OrgStat/Parser.hs
@@ -45,6 +49,13 @@ instance Exception ParsingException
 -- Parsing
 ----------------------------------------------------------------------------
 
+parseOrgSection :: Text -> Section
+parseOrgSection initialText =
+  case A.parseOnly parseSection initialText of
+    -- if parsing fails, fall back to storing as plain text
+    Left message -> Section [Paragraph [Plain $ T.pack message]]
+    Right sec -> sec
+
 parseOrg :: LocalTime -> [Text] -> A.Parser Org
 parseOrg curTime todoKeywords =
   convertDocument
@@ -55,12 +66,13 @@ parseOrg curTime todoKeywords =
       let fileLvlTags = extractFileTags textBefore
           addTags t = ordNub $ fileLvlTags <> t
           (title, initialText) = fromMaybe ("", textBefore) $ extractTitle textBefore
-          -- section = convertSection $ O.parseSection initialText
+          section = parseOrgSection initialText
+
           o =
             Org
               { _orgTitle = title,
                 _orgText = initialText,
-                -- _orgStructuredText = section,
+                _orgStructuredText = convertSection section,
                 _orgTags = [],
                 _orgClocks = [],
                 _orgSubtrees = map convertHeading headings
@@ -69,17 +81,36 @@ parseOrg curTime todoKeywords =
 
     convertHeading :: O.Headline -> Org
     convertHeading headline =
-      Org
-        { _orgTitle = O.title headline,
-          _orgText = O.sectionParagraph $ O.section headline,
-          -- _orgStructuredText = convertSection $ O.section headline,
-          _orgTags = O.tags headline,
-          _orgClocks = getClocks $ O.section headline,
-          _orgSubtrees = map convertHeading $ O.subHeadlines headline
-        }
+      let section = parseOrgSection $ O.sectionParagraph $ O.section headline
+       in Org
+            { _orgTitle = O.title headline,
+              _orgText = O.sectionParagraph $ O.section headline,
+              _orgStructuredText = convertSection section,
+              _orgTags = O.tags headline,
+              _orgClocks = getClocks $ O.section headline,
+              _orgSubtrees = map convertHeading $ O.subHeadlines headline
+            }
 
-    -- convertSection :: O.Section -> OrgSection
-    -- convertSection section = OrgText ""
+    convertSection :: Section -> OrgSection
+    convertSection (Section section) = OrgSection $ map getOrgContent section
+      where
+        getOrgContent :: Content -> OrgContent
+        getOrgContent content = case content of
+          OrderedList items -> OrgOrderedList $ map (\(Item contents) -> OrgItem $ map getOrgContent contents) items
+          UnorderedList items -> OrgUnorderedList $ map (\(Item contents) -> OrgItem $ map getOrgContent contents) items
+          Paragraph markup -> OrgParagraph $ map getOrgMarkup markup
+
+        getOrgMarkup :: MarkupText -> Markup
+        getOrgMarkup markup = case markup of
+          Plain t -> OrgPlain t
+          LaTeX t -> OrgLaTeX t
+          Verbatim t -> OrgVerbatim t
+          Code t -> OrgCode (Language "TODO") t
+          Bold markup -> OrgBold $ map getOrgMarkup markup
+          Italic markup -> OrgItalic $ map getOrgMarkup markup
+          UnderLine markup -> OrgUnderLine $ map getOrgMarkup markup
+          Strikethrough markup -> OrgStrikethrough $ map getOrgMarkup markup
+          HyperLink {ParseTypes.link = l, ParseTypes.description = d} -> OrgHyperLink {Ast.link = l, Ast.description = d}
 
     mapEither :: (a -> Either e b) -> ([a] -> [b])
     mapEither f xs = rights $ map f xs

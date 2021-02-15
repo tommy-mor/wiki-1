@@ -12,6 +12,10 @@ module Ast
   ( Clock (..),
     Org (..),
     OrgSection (..),
+    OrgContent (..),
+    OrgItem (..),
+    Markup (..),
+    Language (..),
     orgTitle,
     orgTags,
     orgClocks,
@@ -59,7 +63,7 @@ data Clock = Clock
   }
   deriving (Show, Eq, Ord)
 
-newtype Item = Item [OrgSection]
+newtype OrgItem = OrgItem [OrgContent]
   deriving (Show, Eq)
 
 -- a programming language
@@ -67,26 +71,28 @@ newtype Language = Language Text deriving (Show, Eq)
 
 -- flavored markup text
 data Markup
-  = Plain Text
-  | LaTeX Text
-  | Verbatim Text
-  | Code Language Text -- language
-  | Bold [Markup]
-  | Italic [Markup]
-  | UnderLine [Markup]
-  | Strikethrough [Markup]
-  | HyperLink
+  = OrgPlain Text
+  | OrgLaTeX Text
+  | OrgVerbatim Text
+  | OrgCode Language Text -- language
+  | OrgBold [Markup]
+  | OrgItalic [Markup]
+  | OrgUnderLine [Markup]
+  | OrgStrikethrough [Markup]
+  | OrgHyperLink
       { link :: Text,
         description :: Maybe Text
       }
   deriving (Show, Eq)
 
 -- a segment of text
-data OrgSection
-  = OrderedList [Item]
-  | UnorderedList [Item]
-  | Paragraph [Markup]
+data OrgContent
+  = OrgOrderedList [OrgItem]
+  | OrgUnorderedList [OrgItem]
+  | OrgParagraph [Markup]
   deriving (Show, Eq)
+
+newtype OrgSection = OrgSection [OrgContent] deriving (Show, Eq)
 
 -- | Main datatype of org AST. It may contain some metadata if needed
 -- (e.g. current node depth, children number etc). Content of headers
