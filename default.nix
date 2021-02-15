@@ -15,7 +15,6 @@ let
       brittany
       orgmode-parse
       universum
-      blaze-html
       clay
       lucid
     ];
