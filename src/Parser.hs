@@ -105,7 +105,7 @@ parseOrg curTime todoKeywords =
           Plain t -> OrgPlain t
           LaTeX t -> OrgLaTeX t
           Verbatim t -> OrgVerbatim t
-          Code t -> OrgCode (Language "TODO") t
+          Code t -> OrgCode (Language "TODO") (Output False) t
           Bold markup -> OrgBold $ map getOrgMarkup markup
           Italic markup -> OrgItalic $ map getOrgMarkup markup
           UnderLine markup -> OrgUnderLine $ map getOrgMarkup markup

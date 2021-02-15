@@ -16,6 +16,7 @@ module Ast
     OrgItem (..),
     Markup (..),
     Language (..),
+    Output (..),
     orgTitle,
     orgTags,
     orgClocks,
@@ -69,12 +70,15 @@ newtype OrgItem = OrgItem [OrgContent]
 -- a programming language
 newtype Language = Language Text deriving (Show, Eq)
 
+-- whether the language should output code
+newtype Output = Output Bool deriving (Show, Eq)
+
 -- flavored markup text
 data Markup
   = OrgPlain Text
   | OrgLaTeX Text
   | OrgVerbatim Text
-  | OrgCode Language Text -- language
+  | OrgCode Language Output Text -- language
   | OrgBold [Markup]
   | OrgItalic [Markup]
   | OrgUnderLine [Markup]

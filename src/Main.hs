@@ -11,7 +11,7 @@ import qualified Text.Show as S
 import Universum
 
 main :: IO ()
-main = parseFile "./file.org"
+main = parseFile "../pages/nix.org"
 
 parseFile :: String -> IO ()
 parseFile filePath = do
@@ -47,13 +47,38 @@ genPage ast =
     genBody' :: Natural -> Org -> Html ()
     genBody' depth ast =
       let title = toHtml $ _orgTitle ast
-          subheader = toHtml $ _orgText ast
+          -- subheader = toHtml $ _orgText ast
+          semanticSubheader = genSemanticSection $ _orgStructuredText ast
           body = mapM_ (genBody' (depth + 1)) $ _orgSubtrees ast
           headerElement = getDepthTitle depth
        in div_
             ( do
                 headerElement title
-                p_ subheader
+                -- p_ subheader
+                p_ semanticSubheader
                 div_ body
             )
+
     genBody = genBody' 0
+
+    genSemanticSection :: OrgSection -> Html ()
+    genSemanticSection (OrgSection contents) = mapM_ genSemanticContent contents
+
+    genSemanticContent :: OrgContent -> Html ()
+    genSemanticContent section = case section of
+      OrgUnorderedList ols -> ul_ $ mapM_ (\(OrgItem c) -> li_ $ mapM_ genSemanticContent c) ols
+      OrgOrderedList ols -> ul_ $ mapM_ (\(OrgItem c) -> li_ $ mapM_ genSemanticContent c) ols
+      OrgParagraph lm -> mapM_ genSemanticMarkup lm
+
+    genSemanticMarkup :: Markup -> Html ()
+    genSemanticMarkup m =
+      case m of
+        OrgPlain t -> p_ $ toHtml t
+        OrgLaTeX t -> p_ $ toHtml t
+        OrgVerbatim t -> p_ $ toHtml t
+        OrgCode (Language l) (Output o) t -> p_ $ toHtml t
+        OrgBold ms -> mapM_ genSemanticMarkup ms
+        OrgItalic ms -> mapM_ genSemanticMarkup ms
+        OrgUnderLine ms -> mapM_ genSemanticMarkup ms
+        OrgStrikethrough ms -> mapM_ genSemanticMarkup ms
+        OrgHyperLink {link = l, description = d} -> a_ "asdf"
