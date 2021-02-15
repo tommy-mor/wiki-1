@@ -81,4 +81,8 @@ genPage ast =
         OrgItalic ms -> mapM_ genSemanticMarkup ms
         OrgUnderLine ms -> mapM_ genSemanticMarkup ms
         OrgStrikethrough ms -> mapM_ genSemanticMarkup ms
-        OrgHyperLink {link = l, description = d} -> a_ "asdf"
+        OrgHyperLink {link = l, description = d} ->
+          a_ [href_ l] $
+            toHtml $
+              -- default to link if the description isn't available
+              fromMaybe l d
