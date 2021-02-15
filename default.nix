@@ -17,6 +17,8 @@ let
       universum
       clay
       lucid
+      attoparsec
+      aeson
     ];
   ghc = pkgs.haskellPackages.ghcWithPackages haskellDeps;
   nixPackages = with pkgs; [

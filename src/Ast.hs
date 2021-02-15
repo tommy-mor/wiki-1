@@ -59,13 +59,34 @@ data Clock = Clock
   }
   deriving (Show, Eq, Ord)
 
-data Link = Link
-  { title :: Text,
-    url :: Text
-  }
+newtype Item = Item [OrgSection]
   deriving (Show, Eq)
 
-data OrgSection = OrgLink Link | OrgText Text deriving (Show, Eq)
+-- a programming language
+newtype Language = Language Text deriving (Show, Eq)
+
+-- flavored markup text
+data Markup
+  = Plain Text
+  | LaTeX Text
+  | Verbatim Text
+  | Code Language Text -- language
+  | Bold [Markup]
+  | Italic [Markup]
+  | UnderLine [Markup]
+  | Strikethrough [Markup]
+  | HyperLink
+      { link :: Text,
+        description :: Maybe Text
+      }
+  deriving (Show, Eq)
+
+-- a segment of text
+data OrgSection
+  = OrderedList [Item]
+  | UnorderedList [Item]
+  | Paragraph [Markup]
+  deriving (Show, Eq)
 
 -- | Main datatype of org AST. It may contain some metadata if needed
 -- (e.g. current node depth, children number etc). Content of headers
@@ -73,7 +94,7 @@ data OrgSection = OrgLink Link | OrgText Text deriving (Show, Eq)
 data Org = Org
   { _orgTitle :: Text,
     _orgText :: Text,
-    -- _orgStructuredText :: OrgSection,
+    _orgStructuredText :: OrgSection,
     _orgTags :: [Text],
     _orgClocks :: [Clock],
     _orgSubtrees :: [Org]
