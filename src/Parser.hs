@@ -53,11 +53,11 @@ parseOrg curTime todoKeywords =
     convertDocument (O.Document textBefore headings) =
       let fileLvlTags = extractFileTags textBefore
           addTags t = ordNub $ fileLvlTags <> t
-          title = fromMaybe "" $ extractTitle textBefore
+          (title, initialText) = fromMaybe ("", textBefore) $ extractTitle textBefore
           o =
             Org
               { _orgTitle = title,
-                _orgText = textBefore,
+                _orgText = initialText,
                 _orgTags = [],
                 _orgClocks = [],
                 _orgSubtrees = map convertHeading headings
@@ -111,7 +111,7 @@ parseOrg curTime todoKeywords =
     extractFileTags (T.lines -> inputLines) =
       let prfx = "#+FILETAGS: "
           matching =
-            map (T.drop (length prfx)) $ filter (prfx `T.isPrefixOf`) inputLines
+            map (T.drop (length prfx)) $ filter (T.isPrefixOf prfx) inputLines
           toTags (T.strip -> line) =
             let parts = filter (not . T.null) $ T.splitOn ":" line
                 -- Correct tag shouldn't contain spaces inside
@@ -121,11 +121,12 @@ parseOrg curTime todoKeywords =
 
     extractTitle (T.lines -> inputLines) =
       let prfx = "#+TITLE: "
-          matching = map (T.drop (length prfx)) $ filter (prfx `T.isPrefixOf`) inputLines
+          matching = map (T.drop (length prfx)) $ filter (T.isPrefixOf prfx) inputLines
+          leftover = T.concat $ filter (not . T.isPrefixOf prfx) inputLines
           toTags (T.strip -> line) = filter (not . T.null) $ T.splitOn ":" line
-          result = nonEmpty $ concatMap toTags matching
+          result = nonEmpty matching
        in case result of
-            Just title -> Just $ head title
+            Just title -> Just (head title, leftover)
             Nothing -> Nothing
 
 -- Throw parsing exception if it can't be parsed (use Control.Monad.Catch#throwM)
