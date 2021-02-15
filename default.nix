@@ -1,6 +1,10 @@
 { pkgs ? import <nixpkgs> { } }:
 
 let
+  # https://stackoverflow.com/questions/54810851/how-can-i-build-a-haskell-dependency-from-a-github-source-nix-file-using-nix
+  hs = pkgs.haskellPackages.extend (self: super: { # (1) extend the package set
+    orgmode-parse = self.callPackage ./orgmode-parse.nix { }; # (2) update clay
+  });
   haskellDeps = ps:
     with ps; [
       base
@@ -19,8 +23,10 @@ let
       lucid
       attoparsec
       aeson
+      hoogle
     ];
   ghc = pkgs.haskellPackages.ghcWithPackages haskellDeps;
+
   nixPackages = with pkgs; [
     ghc
     pkgs.gdb
