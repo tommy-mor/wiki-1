@@ -34,14 +34,26 @@ genPage ast =
               div_ body
           )
   where
-    genBody :: Org -> Html ()
-    genBody ast =
+    depthTitles = [h1_, h2_, h3_, h4_, h5_]
+    getDepthTitle' :: Term a b => [a -> b] -> Natural -> (a -> b)
+    getDepthTitle' depthList depth =
+      let neList = nonEmpty depthList
+       in case (depth, neList) of
+            (_, Nothing) -> h5_
+            (0, Just ls) -> head ls
+            (_, Just ls) -> getDepthTitle' (tail ls) (depth - 1)
+    getDepthTitle = getDepthTitle' depthTitles
+
+    genBody' :: Natural -> Org -> Html ()
+    genBody' depth ast =
       let title = toHtml $ _orgTitle ast
           subheader = toHtml $ _orgText ast
-          body = mapM_ genBody $ _orgSubtrees ast
+          body = mapM_ (genBody' (depth + 1)) $ _orgSubtrees ast
+          headerElement = getDepthTitle depth
        in div_
             ( do
-                h2_ title
+                headerElement title
                 p_ subheader
                 div_ body
             )
+    genBody = genBody' 0
