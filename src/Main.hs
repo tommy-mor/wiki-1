@@ -4,21 +4,22 @@
 module Main where
 
 import Ast
+import qualified Data.Text as T
 import IO
 import Lucid
-import System.FilePath (takeBaseName)
+import System.FilePath (takeBaseName, (-<.>))
 import qualified Text.Show as S
 import Universum
 
 main :: IO ()
-main = parseFile "../pages/nix.org"
+main = parseFile "./file.org"
 
 parseFile :: String -> IO ()
 parseFile filePath = do
   (_, ast) <- readOrgFile filePath
   -- print $ S.show ast
   print $ renderText $ genPage ast
-  renderToFile (takeBaseName filePath ++ ".html") (genPage ast)
+  renderToFile (filePath -<.> ".html") (genPage ast)
 
 genPage :: Org -> Html ()
 genPage ast =
@@ -86,3 +87,7 @@ genPage ast =
             toHtml $
               -- default to link if the description isn't available
               fromMaybe l d
+        OrgFileLink {filepath = fp, description = d} ->
+          -- TODO: without a name this looks weird
+          -- TODO: distinguish internal links from external links
+          a_ [href_ $ T.pack $ "./" ++ fp -<.> ".html"] (toHtml $ fromMaybe (T.pack $ takeBaseName fp) d)

@@ -87,6 +87,10 @@ data Markup
       { link :: Text,
         description :: Maybe Text
       }
+  | OrgFileLink
+      { filepath :: FilePath,
+        description :: Maybe Text
+      }
   deriving (Show, Eq)
 
 -- a segment of text

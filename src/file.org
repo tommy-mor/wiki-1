@@ -1,11 +1,20 @@
 #+TITLE: This is a file with a title
+* TODO do this thing
+this is some text that is left for the reader
+** make sure it can parse nested headings
 that should
 
 mean something
 these should show up in the field
 
-testing thsi text
-* TODO do this thing
-this is some text that is left for the reader
-** make sure it can parse nested headings
+[[file:file.org][tests linking to a local file]]
+this test [[https://google.com][ensures that a link can be parsed out of line]]
+
+
+
+[[https://duckduckgo.com/?t=ffab&q=asdf&ia=web][this is a test of a multiline l                                                                                    ink]]
+https://github.com to make sure a link works inline
+testing this text
 ** can it parse this too?
+** [[https://github.com][tests link in title]]
+** TODO: file links

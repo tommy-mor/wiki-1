@@ -33,6 +33,7 @@ import Data.Time
 import Data.Time.Calendar ()
 import ParseTypes
 import Section (parseSection)
+import System.FilePath
 import Universum
 
 -- https://github.com/volhovm/orgstat/blob/master/src/OrgStat/Parser.hs
@@ -65,6 +66,7 @@ parseOrg curTime todoKeywords =
     convertDocument (O.Document textBefore headings) =
       let fileLvlTags = extractFileTags textBefore
           addTags t = ordNub $ fileLvlTags <> t
+          -- TODO the header information is weirdly parsed here
           (title, initialText) = fromMaybe ("", textBefore) $ extractTitle textBefore
           section = parseOrgSection initialText
 
@@ -110,7 +112,15 @@ parseOrg curTime todoKeywords =
           Italic markup -> OrgItalic $ map getOrgMarkup markup
           UnderLine markup -> OrgUnderLine $ map getOrgMarkup markup
           Strikethrough markup -> OrgStrikethrough $ map getOrgMarkup markup
-          HyperLink {ParseTypes.link = l, ParseTypes.description = d} -> OrgHyperLink {Ast.link = l, Ast.description = d}
+          HyperLink {ParseTypes.link = l, ParseTypes.description = d} ->
+            case takeWhile (/= ']') $ T.unpack l of
+              "file:" ->
+                -- 5: length of 'file:'
+                OrgHyperLink {Ast.link = l, Ast.description = d}
+              _ ->
+                let path = T.unpack $ T.drop 5 l
+                 in OrgFileLink {Ast.filepath = path, Ast.description = d}
+    -- TODO: catch insecure links here!
 
     mapEither :: (a -> Either e b) -> ([a] -> [b])
     mapEither f xs = rights $ map f xs
