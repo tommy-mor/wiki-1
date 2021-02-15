@@ -15,6 +15,9 @@ let
       brittany
       orgmode-parse
       universum
+      blaze-html
+      clay
+      lucid
     ];
   ghc = pkgs.haskellPackages.ghcWithPackages haskellDeps;
   nixPackages = with pkgs; [
