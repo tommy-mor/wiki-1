@@ -23,8 +23,6 @@ import Data.Time
     zonedTimeToLocalTime,
   )
 import Data.Time.Calendar ()
--- import ParseTypes
-import Section (parseSection)
 import System.FilePath
 import Universum
 
