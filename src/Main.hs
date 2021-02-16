@@ -68,20 +68,20 @@ genPage ast =
     genSemanticContent :: OrgContent -> Html ()
     genSemanticContent section = case section of
       OrgUnorderedList ols -> ul_ $ mapM_ (\(OrgItem c) -> li_ $ mapM_ genSemanticContent c) ols
-      OrgOrderedList ols -> ul_ $ mapM_ (\(OrgItem c) -> li_ $ mapM_ genSemanticContent c) ols
+      OrgOrderedList ols -> ol_ $ mapM_ (\(OrgItem c) -> li_ $ mapM_ genSemanticContent c) ols
       OrgParagraph lm -> mapM_ genSemanticMarkup lm
 
     genSemanticMarkup :: Markup -> Html ()
     genSemanticMarkup m =
       case m of
-        OrgPlain t -> div_ [] $ toHtml t
-        OrgLaTeX t -> div_ $ toHtml t
-        OrgVerbatim t -> div_ $ toHtml t
+        OrgPlain t -> span_ [] $ toHtml t
+        OrgLaTeX t -> span_ $ toHtml t
+        OrgVerbatim t -> span_ $ toHtml t
         OrgCode (Language l) (Output o) t -> code_ $ toHtml t
-        OrgBold ms -> div_ [class_ "bold"] $ mapM_ genSemanticMarkup ms
-        OrgItalic ms -> div_ [class_ "italic"] $ mapM_ genSemanticMarkup ms
-        OrgUnderLine ms -> div_ [class_ "underline"] $ mapM_ genSemanticMarkup ms
-        OrgStrikethrough ms -> div_ [class_ "strikethrough"] $ mapM_ genSemanticMarkup ms
+        OrgBold ms -> span_ [class_ "bold"] $ mapM_ genSemanticMarkup ms
+        OrgItalic ms -> span_ [class_ "italic"] $ mapM_ genSemanticMarkup ms
+        OrgUnderLine ms -> span_ [class_ "underline"] $ mapM_ genSemanticMarkup ms
+        OrgStrikethrough ms -> span_ [class_ "strikethrough"] $ mapM_ genSemanticMarkup ms
         OrgHyperLink {link = l, description = d} ->
           a_ [href_ l] $
             toHtml $
