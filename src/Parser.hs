@@ -31,7 +31,7 @@ import Data.Time
     zonedTimeToLocalTime,
   )
 import Data.Time.Calendar ()
-import ParseTypes
+-- import ParseTypes
 import Section (parseSection)
 import System.FilePath
 import Universum
@@ -50,7 +50,7 @@ instance Exception ParsingException
 -- Parsing
 ----------------------------------------------------------------------------
 
-parseOrgSection :: Text -> Section
+parseOrgSection :: Text -> O.Section
 parseOrgSection initialText =
   case A.parseOnly parseSection initialText of
     -- if parsing fails, fall back to storing as plain text
@@ -93,13 +93,13 @@ parseOrg curTime todoKeywords =
               _orgSubtrees = map convertHeading $ O.subHeadlines headline
             }
 
-    convertSection :: Section -> OrgSection
-    convertSection (Section section) = OrgSection $ map getOrgContent section
+    convertSection :: O.Section -> OrgSection
+    convertSection (O.Section section) = OrgSection $ map getOrgContent section
       where
-        getOrgContent :: Content -> OrgContent
+        getOrgContent :: O.Content -> OrgContent
         getOrgContent content = case content of
-          OrderedList items -> OrgOrderedList $ map (\(Item contents) -> OrgItem $ map getOrgContent contents) items
-          UnorderedList items -> OrgUnorderedList $ map (\(Item contents) -> OrgItem $ map getOrgContent contents) items
+          O.OrderedList items -> OrgOrderedList $ map (\(Item contents) -> OrgItem $ map getOrgContent contents) items
+          O.UnorderedList items -> OrgUnorderedList $ map (\(Item contents) -> OrgItem $ map getOrgContent contents) items
           Paragraph markup -> OrgParagraph $ map getOrgMarkup markup
 
         getOrgMarkup :: MarkupText -> Markup

@@ -1,17 +1,17 @@
 {
   description = "personal wiki!";
 
-  inputs = { nixpkgs = { url = "nixpkgs/nixos-unstable"; }; };
-  outputs = { self, nixpkgs }:
+  inputs = {
+    nixpkgs.url = "nixpkgs/nixos-unstable";
+    orgmode-parse.url = "github:jakeisnt/orgmode-parse/master";
+  };
+
+  outputs = { self, nixpkgs, orgmode-parse }:
     let
-      systems = [ "x86_64-linux" "i686-linux" "x86_64-darwin" "aarch64-linux" ];
-      forAllSystems = f: nixpkgs.lib.genAttrs systems (system: f system);
-      mkPackage = path: system:
-        let pkgs = import nixpkgs { inherit system; };
-        in import path { inherit pkgs; };
-      packages = system: { frontend = mkPackage ./. system; };
+      system = "x86_64-linux";
+      pkgs = import nixpkgs { inherit system; };
     in {
-      defaultPackage = forAllSystems (mkPackage ./.);
-      packages = forAllSystems packages;
+      defaultPackage.${system} =
+        pkgs.callPackage ./default.nix { inherit orgmode-parse; };
     };
 }

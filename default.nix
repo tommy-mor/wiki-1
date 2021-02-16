@@ -1,10 +1,12 @@
-{ pkgs ? import <nixpkgs> { } }:
+{ pkgs ? import <nixpkgs> { }, orgmode-parse, ... }:
 
 let
   # https://stackoverflow.com/questions/54810851/how-can-i-build-a-haskell-dependency-from-a-github-source-nix-file-using-nix
   hs = pkgs.haskellPackages.extend (self: super: { # (1) extend the package set
-    orgmode-parse = self.callPackage ./orgmode-parse.nix { }; # (2) update clay
+    my-orgmode-parse =
+      orgmode-parse.defaultPackage."x86_64-linux".lib; # pkgs.haskell.lib.dontCheck (self.callPackage .orgmode-parse { }); # use my local orgmode-parse
   });
+
   haskellDeps = ps:
     with ps; [
       base
@@ -17,7 +19,7 @@ let
       turtle
       attoparsec
       brittany
-      orgmode-parse
+      hs.my-orgmode-parse
       universum
       clay
       lucid
