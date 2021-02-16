@@ -104,10 +104,9 @@ parseOrg curTime todoKeywords =
             case takeWhile (/= ']') $ T.unpack l of
               "file:" ->
                 -- 5: length of 'file:'
-                OrgHyperLink {Ast.link = l, Ast.description = d}
-              _ ->
                 let path = T.unpack $ T.drop 5 l
                  in OrgFileLink {Ast.filepath = path, Ast.description = d}
+              _ -> OrgHyperLink {Ast.link = l, Ast.description = d}
     -- TODO: catch insecure links here!
 
     mapEither :: (a -> Either e b) -> ([a] -> [b])

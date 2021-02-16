@@ -27,7 +27,9 @@ genPage ast =
       contents = toHtml $ genSemanticSection $ _orgStructuredText ast
       body = mapM_ genBody $ _orgSubtrees ast
    in html_ $ do
-        head_ $ title_ title
+        head_ $ do
+          title_ title
+          link_ [rel_ "stylesheet", type_ "text/css", href_ "main.css"]
         body_
           ( do
               h1_ title
@@ -48,16 +50,14 @@ genPage ast =
     genBody' :: Natural -> Org -> Html ()
     genBody' depth ast =
       let title = toHtml $ _orgTitle ast
-          -- subheader = toHtml $ _orgText ast
           semanticSubheader = genSemanticSection $ _orgStructuredText ast
           body = mapM_ (genBody' (depth + 1)) $ _orgSubtrees ast
           headerElement = getDepthTitle depth
        in div_
             ( do
                 headerElement title
-                -- p_ subheader
                 p_ semanticSubheader
-                div_ body
+                body
             )
 
     genBody = genBody' 0
@@ -74,14 +74,14 @@ genPage ast =
     genSemanticMarkup :: Markup -> Html ()
     genSemanticMarkup m =
       case m of
-        OrgPlain t -> p_ $ toHtml t
-        OrgLaTeX t -> p_ $ toHtml t
-        OrgVerbatim t -> p_ $ toHtml t
-        OrgCode (Language l) (Output o) t -> p_ $ toHtml t
-        OrgBold ms -> mapM_ genSemanticMarkup ms
-        OrgItalic ms -> mapM_ genSemanticMarkup ms
-        OrgUnderLine ms -> mapM_ genSemanticMarkup ms
-        OrgStrikethrough ms -> mapM_ genSemanticMarkup ms
+        OrgPlain t -> div_ [] $ toHtml t
+        OrgLaTeX t -> div_ $ toHtml t
+        OrgVerbatim t -> div_ $ toHtml t
+        OrgCode (Language l) (Output o) t -> code_ $ toHtml t
+        OrgBold ms -> div_ [class_ "bold"] $ mapM_ genSemanticMarkup ms
+        OrgItalic ms -> div_ [class_ "italic"] $ mapM_ genSemanticMarkup ms
+        OrgUnderLine ms -> div_ [class_ "underline"] $ mapM_ genSemanticMarkup ms
+        OrgStrikethrough ms -> div_ [class_ "strikethrough"] $ mapM_ genSemanticMarkup ms
         OrgHyperLink {link = l, description = d} ->
           a_ [href_ l] $
             toHtml $

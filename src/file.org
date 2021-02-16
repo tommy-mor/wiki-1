@@ -9,12 +9,35 @@ these should show up in the field
 
 [[file:file.org][tests linking to a local file]]
 this test [[https://google.com][ensures that a link can be parsed out of line]]
+ [[https://google.com][but does]] this work?
 
-
-
-[[https://duckduckgo.com/?t=ffab&q=asdf&ia=web][this is a test of a multiline l                                                                                    ink]]
-https://github.com to make sure a link works inline
+https://github.com makes sure a link works inline without the brackets, though I can just ignore this one if I really need to. it's bad practice
 testing this text
 ** can it parse this too?
-** [[https://github.com][tests link in title]]
-** TODO: file links
+it works well!! let's try some *bold*, /italicised/, +strikethrough+ and _underlined_ text.
+** Lists
+*** Unordered List
+- This is item 1
+- This is item 2
+- This is item 3
+*** Ordered Lists
+1. Item 1
+2. Item 2
+3. Item 3
+*** name -> definition lists
+- name 1 :: Definition 1
+- name 2 ::  def 2
+
+** code in markup
+#+BEGIN_SRC python
+def __main__():
+  print("testing some code!")
+#+END_SRC
+
+* Documenting what I'm not handling
+** [[https://github.com][links in titles]]
+These don't look good in articles and are a pain to deal with.
+I should explicitly blacklist them.
+** Links inline without brackets
+** TODO todo keywords
+I'm not sure how I should handle these. Maybe I should omit everything without a DONE tag from the results? I think they should be used somehow to allow for partial drafts...
