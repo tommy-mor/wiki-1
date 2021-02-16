@@ -1,4 +1,9 @@
 #+TITLE: This is a file with a title
+
+the before title section
+should be able to
+[[https://google.com][handle all of the same things]] /that/ +the+ *body* _does_.
+
 * TODO do this thing
 this is some text that is left for the reader
 ** make sure it can parse nested headings
@@ -41,6 +46,14 @@ def __main__():
   print("testing some code!")
 #+END_SRC
 
+* What I should be handling
+- Proper parsing of lists
+- Fixing inline links
+- Adding support for key :: value lists
+- Image support
+- Code blocks
+- Proper line break support (not sure where this goes???)
+- Displaying some time information
 * What I'm not handling
 ** [[https://github.com][links in titles]]
 These don't look good in articles and are a pain to deal with.
