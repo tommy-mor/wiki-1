@@ -13,3 +13,12 @@
 .bold {
     font-weight: bold;
 }
+
+#hidden {
+  display: none;
+  height: 100px;
+  background: red;
+}
+:checked + #hidden {
+  display: block;
+}

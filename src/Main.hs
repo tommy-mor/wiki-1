@@ -4,6 +4,7 @@
 module Main where
 
 import Ast
+import Data.Char (isSpace)
 import qualified Data.Text as T
 import IO
 import Lucid
@@ -17,8 +18,6 @@ main = parseFile "./file.org"
 parseFile :: String -> IO ()
 parseFile filePath = do
   (_, ast) <- readOrgFile filePath
-  -- print $ S.show ast
-  print $ renderText $ genPage ast
   renderToFile (filePath -<.> ".html") (genPage ast)
 
 genPage :: Org -> Html ()
@@ -29,12 +28,13 @@ genPage ast =
    in html_ $ do
         head_ $ do
           title_ title
+          meta_ [charset_ "utf-8"]
           link_ [rel_ "stylesheet", type_ "text/css", href_ "main.css"]
         body_
           ( do
               h1_ title
-              p_ contents
-              div_ body
+              toHtml contents
+              toHtml body
           )
   where
     depthTitles = [h1_, h2_, h3_, h4_, h5_]
@@ -47,18 +47,24 @@ genPage ast =
             (_, Just ls) -> getDepthTitle' (tail ls) (depth - 1)
     getDepthTitle = getDepthTitle' depthTitles
 
+    -- clickable header that hides text
+    hideableComponent :: Html () -> Text -> Html () -> Html ()
+    hideableComponent title titleStr body = do
+      input_ [type_ "checkbox", id_ titleStr, style_ "display: none;"]
+      div_ [id_ "hidden"] body
+      label_ [Lucid.for_ titleStr] title
+
     genBody' :: Natural -> Org -> Html ()
     genBody' depth ast =
-      let title = toHtml $ _orgTitle ast
-          semanticSubheader = genSemanticSection $ _orgStructuredText ast
-          body = mapM_ (genBody' (depth + 1)) $ _orgSubtrees ast
+      let title = _orgTitle ast
+          bodyText = genSemanticSection $ _orgStructuredText ast
+          bodyRest = mapM_ (genBody' (depth + 1)) $ _orgSubtrees ast
           headerElement = getDepthTitle depth
-       in div_
-            ( do
-                headerElement title
-                p_ semanticSubheader
-                body
-            )
+          titleNoSpaces = T.pack $ filter isSpace $ T.unpack title
+       in div_ $ do
+            headerElement [id_ titleNoSpaces] $ toHtml title
+            bodyText
+            bodyRest
 
     genBody = genBody' 0
 
@@ -74,20 +80,18 @@ genPage ast =
     genSemanticMarkup :: Markup -> Html ()
     genSemanticMarkup m =
       case m of
-        OrgPlain t -> span_ [] $ toHtml t
-        OrgLaTeX t -> span_ $ toHtml t
-        OrgVerbatim t -> span_ $ toHtml t
+        OrgPlain t -> toHtml t
+        OrgLaTeX t -> toHtml t
+        OrgVerbatim t -> toHtml t
         OrgCode (Language l) (Output o) t -> code_ $ toHtml t
         OrgBold ms -> span_ [class_ "bold"] $ mapM_ genSemanticMarkup ms
         OrgItalic ms -> span_ [class_ "italic"] $ mapM_ genSemanticMarkup ms
         OrgUnderLine ms -> span_ [class_ "underline"] $ mapM_ genSemanticMarkup ms
         OrgStrikethrough ms -> span_ [class_ "strikethrough"] $ mapM_ genSemanticMarkup ms
         OrgHyperLink {link = l, description = d} ->
-          a_ [href_ l] $
-            toHtml $
-              -- default to link if the description isn't available
-              fromMaybe l d
+          -- default to using the link as the title if the description isn't available
+          a_ [href_ l] $ toHtml $ fromMaybe l d
         OrgFileLink {filepath = fp, description = d} ->
           -- TODO: without a name this looks weird
           -- TODO: distinguish internal links from external links with styling
-          a_ [href_ $ T.pack $ "./" ++ fp -<.> ".html"] (toHtml $ fromMaybe (T.pack $ takeBaseName fp) d)
+          a_ [href_ $ T.pack $ "./" ++ fp -<.> ".html"] $ toHtml $ fromMaybe (T.pack $ takeBaseName fp) d
