@@ -9,14 +9,6 @@ module Parser
   )
 where
 
--- ( Clock (..),
---   Org (..),
---   OrgSection (..),
---   orgTags,
---   traverseTree,
---   OrgContent(..)
--- )
-
 import Ast
 import qualified Data.Attoparsec.Text as A
 import Data.Char (isSpace)
@@ -52,15 +44,14 @@ instance Exception ParsingException
 
 parseOrgSection :: Text -> O.Section
 parseOrgSection initialText =
-  case A.parseOnly parseSection initialText of
+  case A.parseOnly O.parseSection initialText of
     -- if parsing fails, fall back to storing as plain text
-    Left message -> Section [Paragraph [Plain $ T.pack message]]
+    Left message -> error "bad parse" -- O.Section [O.Paragraph [O.Plain $ T.pack message]]
     Right sec -> sec
 
 parseOrg :: LocalTime -> [Text] -> A.Parser Org
 parseOrg curTime todoKeywords =
-  convertDocument
-    <$> O.parseDocument todoKeywords
+  convertDocument <$> O.parseDocumentWithKeywords todoKeywords
   where
     convertDocument :: O.Document -> Org
     convertDocument (O.Document textBefore headings) =
@@ -68,13 +59,13 @@ parseOrg curTime todoKeywords =
           addTags t = ordNub $ fileLvlTags <> t
           -- TODO the header information is weirdly parsed here
           (title, initialText) = fromMaybe ("", textBefore) $ extractTitle textBefore
-          section = parseOrgSection initialText
+          section = convertSection $ parseOrgSection initialText
 
           o =
             Org
               { _orgTitle = title,
                 _orgText = initialText,
-                _orgStructuredText = convertSection section,
+                _orgStructuredText = section,
                 _orgTags = [],
                 _orgClocks = [],
                 _orgSubtrees = map convertHeading headings
@@ -83,36 +74,36 @@ parseOrg curTime todoKeywords =
 
     convertHeading :: O.Headline -> Org
     convertHeading headline =
-      let section = parseOrgSection $ O.sectionParagraph $ O.section headline
+      let section = O.section headline
        in Org
             { _orgTitle = O.title headline,
-              _orgText = O.sectionParagraph $ O.section headline,
+              -- _orgText = O.sectionParagraph $ O.section headline,
               _orgStructuredText = convertSection section,
               _orgTags = O.tags headline,
-              _orgClocks = getClocks $ O.section headline,
+              -- _orgClocks = getClocks $ O.section headline,
               _orgSubtrees = map convertHeading $ O.subHeadlines headline
             }
 
     convertSection :: O.Section -> OrgSection
-    convertSection (O.Section section) = OrgSection $ map getOrgContent section
+    convertSection O.Section {O.sectionContents = section} = OrgSection $ map getOrgContent section
       where
         getOrgContent :: O.Content -> OrgContent
         getOrgContent content = case content of
-          O.OrderedList items -> OrgOrderedList $ map (\(Item contents) -> OrgItem $ map getOrgContent contents) items
-          O.UnorderedList items -> OrgUnorderedList $ map (\(Item contents) -> OrgItem $ map getOrgContent contents) items
-          Paragraph markup -> OrgParagraph $ map getOrgMarkup markup
+          O.OrderedList items -> OrgOrderedList $ map (\(O.Item contents) -> OrgItem $ map getOrgContent contents) items
+          O.UnorderedList items -> OrgUnorderedList $ map (\(O.Item contents) -> OrgItem $ map getOrgContent contents) items
+          O.Paragraph markup -> OrgParagraph $ map getOrgMarkup markup
 
-        getOrgMarkup :: MarkupText -> Markup
+        getOrgMarkup :: O.MarkupText -> Markup
         getOrgMarkup markup = case markup of
-          Plain t -> OrgPlain t
-          LaTeX t -> OrgLaTeX t
-          Verbatim t -> OrgVerbatim t
-          Code t -> OrgCode (Language "TODO") (Output False) t
-          Bold markup -> OrgBold $ map getOrgMarkup markup
-          Italic markup -> OrgItalic $ map getOrgMarkup markup
-          UnderLine markup -> OrgUnderLine $ map getOrgMarkup markup
-          Strikethrough markup -> OrgStrikethrough $ map getOrgMarkup markup
-          HyperLink {ParseTypes.link = l, ParseTypes.description = d} ->
+          O.Plain t -> OrgPlain t
+          O.LaTeX t -> OrgLaTeX t
+          O.Verbatim t -> OrgVerbatim t
+          O.Code t -> OrgCode (Language "TODO") (Output False) t
+          O.Bold markup -> OrgBold $ map getOrgMarkup markup
+          O.Italic markup -> OrgItalic $ map getOrgMarkup markup
+          O.UnderLine markup -> OrgUnderLine $ map getOrgMarkup markup
+          O.Strikethrough markup -> OrgStrikethrough $ map getOrgMarkup markup
+          O.HyperLink {O.link = l, O.description = d} ->
             case takeWhile (/= ']') $ T.unpack l of
               "file:" ->
                 -- 5: length of 'file:'
@@ -125,18 +116,18 @@ parseOrg curTime todoKeywords =
     mapEither :: (a -> Either e b) -> ([a] -> [b])
     mapEither f xs = rights $ map f xs
 
-    getClocks :: O.Section -> [Clock]
-    getClocks section =
-      mapMaybe convertClock $
-        concat
-          [ O.sectionClocks section,
-            O.unLogbook (O.sectionLogbook section),
-            mapEither
-              (A.parseOnly O.parseClock)
-              ( concatMap (lines . O.contents) (O.sectionDrawers section)
-                  ++ lines (O.sectionParagraph section)
-              )
-          ]
+    -- getClocks :: O.Section -> [Clock]
+    -- getClocks section =
+    --   mapMaybe convertClock $
+    --     concat
+    --       [ O.sectionClocks section,
+    --         O.unLogbook (O.sectionLogbook section),
+    --         mapEither
+    --           (A.parseOnly O.parseClock)
+    --           ( concatMap (lines . O.contents) (O.sectionContents section)
+    --               ++ lines (O.sectionContents section)
+    --           )
+    --       ]
 
     -- convert clocks from orgmode-parse format, returns Nothing for clocks
     -- without end time or time-of-day
