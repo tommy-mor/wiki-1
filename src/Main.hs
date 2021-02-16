@@ -24,7 +24,7 @@ parseFile filePath = do
 genPage :: Org -> Html ()
 genPage ast =
   let title = toHtml $ _orgTitle ast
-      contents = toHtml $ _orgText ast
+      contents = toHtml $ genSemanticSection $ _orgStructuredText ast
       body = mapM_ genBody $ _orgSubtrees ast
    in html_ $ do
         head_ $ title_ title

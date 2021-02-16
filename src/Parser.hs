@@ -62,7 +62,6 @@ parseOrg curTime todoKeywords =
           o =
             Org
               { _orgTitle = title,
-                _orgText = initialText,
                 _orgStructuredText = section,
                 _orgTags = [],
                 _orgClocks = [],
