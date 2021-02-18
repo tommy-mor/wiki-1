@@ -1,0 +1,27 @@
+#+TITLE: Federated Wiki
+
+* Status Quo
+** Wikipedia
+Pros:
+- Single source of truth: it's a trustworthy source. People know to get their data from here.
+- Tons of information. Crowdsourcing has done the
+Cons:
+- Because it's a single source of truth, there are constant fights over what belongs where that are often fruitless.
+- There are also strong arguments that are made for information being 'out of scope' for wikipedia and belonging to a page or site that is more domain specific.
+- The organization is bloated and inneficient. They really don't need your donations.
+- The servers are centralized and controlled by a single private entity with the potenial to hold data (partially - sans clever parsers) captive.
+* Goals
+- Decentralized: share information from many sources without being controlled by any of them
+** Information Sources
+In order of priority:
+1. Wikia sites (there are tons!)
+2. Wikipedia
+3. wiki.c2.org
+4. Assorted third party wikis.
+5. [perhaps] personal wikis
+6. etc...
+Fusing all of the Wikia sites into a single, cohesive wiki seems incredibly useful.
+** Feature Ideas
+- shared & enhanced pages :: fuse pages that cover similar or related topics together into one view.
+- consensus :: condense and share overlapping information, reducing the amount of duplication.
+- interoperable :: shift from one wiki to another easily.

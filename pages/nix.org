@@ -196,6 +196,7 @@ https://github.com/serokell/deploy-rs nix flake deploy tool
 
 https://bou.ke/blog/nix/ very cool nix configuration and deployment
 get a nix shell for your whole configuration!
+
 # const ua = event.request.headers.get('User-Agent');
 # if (url.pathname === '/' && ua.match(/\bNix\//) != null) {
 #   return new Response('', { status: 302, headers: { location: `https://github.com/bouk/b/archive/master.tar.gz` } });
