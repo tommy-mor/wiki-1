@@ -10,8 +10,30 @@ Cons:
 - There are also strong arguments that are made for information being 'out of scope' for wikipedia and belonging to a page or site that is more domain specific.
 - The organization is bloated and inneficient. They really don't need your donations.
 - The servers are centralized and controlled by a single private entity with the potenial to hold data (partially - sans clever parsers) captive.
+** Wikia
+Pros:
+- Tons of information with moderators who are experts on their domains.
+- Dedicated contributors, existing communities, easy to edit.
+Cons:
+- Divided into lots of different wikis with no interoperability between them.
+- Tons of overlap between wikis (i.e. multiple star wars and minecraft ones, among other franchises and tropes)
+- Typically used for casual and hobby interests rather than professional writing and work - why?
+** Personal wiki implementation
+Pros:
+- Super flexible.
+Cons:
+- Not a consistent or reliable source of information, as it's typically controlled by one person.
+- Can be disorganized and things can easily become unmaintained.
+** Version control managed files
+Pros:
+- Built-in consensus algorithm.
+Cons:
+- Concurrent modification hurts.
+
 * Goals
 - Decentralized: share information from many sources without being controlled by any of them
+- Open: should incorporate as many sources of knowledge as possible, and individual wikis should have tons of agency.
+- Easy to use: it should be incredibly easy to contribute to and communicate with some sort of central wiki.
 ** Information Sources
 In order of priority:
 1. Wikia sites (there are tons!)
