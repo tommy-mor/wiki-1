@@ -14,3 +14,4 @@ org/private/
 /content/posts/**
 org-roam.db
 private/
+.direnv/
