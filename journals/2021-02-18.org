@@ -1,0 +1,13 @@
+#+TITLE: Thursday, 02/18/2021
+** 11:19 Standup!
+finally doing this.
+*** yesterday
+- wrestled with dependencies and got a neat haskell environment working with nix (finally!!)
+- determined that pandoc is probably the best tool to use for the wiki rather than something else
+- explored different options for where to take this wiki project
+*** today
+- get an mvp of the wiki working - including, hopefully, a home page
+- learn how to properly develop haskell!
+- edit some photos
+- keep learning to use social media healthily and more effectively - to be a part of a community.
+  
